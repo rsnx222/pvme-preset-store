@@ -55,7 +55,11 @@
     },
     null,
     null,
-    null,
+    {
+      "label": "abyssalspikes",
+      "image": "https://img.pvme.io/images/0WBnZ62.png",
+      "breakdownNotes": ""
+    },
     null,
     {
       "label": "elvenshard",
