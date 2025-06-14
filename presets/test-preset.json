@@ -157,12 +157,12 @@
   "relics": {
     "primaryRelics": [
       {
-        "name": "Conservation of Energy",
-        "label": "conservationofenergy",
-        "image": "https://i.imgur.com/Gfdc9u6.png",
-        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "name": "Blessing of Het",
+        "label": "blessingofhet",
+        "image": "https://img.pvme.io/images/eDmt2lT.png",
+        "description": "Food and potions heal 10% more lifepoints.",
         "breakdownNotes": "",
-        "energy": 350
+        "energy": 100
       },
       {
         "name": "Font of Life",
