@@ -3,159 +3,215 @@
   "presetNotes": "Gear is not a hard requirement, can downgrade with little change to method.",
   "inventorySlots": [
     {
+      "name": "Elder overload potion (6)",
       "label": "ovl",
       "image": "https://img.pvme.io/images/DGw6F36.png",
-      "breakdownNotes": ""
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)"
     },
     {
+      "name": "Cannonballs",
       "label": "cballs",
       "image": "https://img.pvme.io/images/GrfjyE2.png",
-      "breakdownNotes": ""
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs"
     },
     null,
     null,
     null,
     {
+      "name": "Binding contract (blood reaver)",
       "label": "reaver",
       "image": "https://img.pvme.io/images/BQXFPFu.png",
-      "breakdownNotes": ""
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(blood_reaver)"
     },
     {
+      "name": "Powder of penance",
       "label": "powderofpenance2",
       "image": "https://img.pvme.io/images/w6hThUy.png",
-      "breakdownNotes": ""
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance"
     },
     {
+      "name": "Weapon poison+++ (4)",
       "label": "poison4",
       "image": "https://img.pvme.io/images/CR06fbn.png",
-      "breakdownNotes": ""
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(4)"
     },
     {
+      "name": "Dwarven siege engine",
       "label": "cannon",
       "image": "https://img.pvme.io/images/GTwVqeC.png",
-      "breakdownNotes": ""
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine"
     },
     null,
     {
+      "name": "Abyssal wand",
       "label": "abbywand",
       "image": "https://img.pvme.io/images/kSzcNN5.png",
-      "breakdownNotes": ""
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Abyssal_wand"
     },
     null,
     {
+      "name": "Slayer cape (t)",
       "label": "slayercape",
       "image": "https://img.pvme.io/images/B4vyqxv.png",
-      "breakdownNotes": ""
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Slayer_cape_(t)"
     },
     {
+      "name": "Grasping rune pouch (black)",
       "label": "graspingpouchblack",
       "image": "https://img.pvme.io/images/hvhOeDs.png",
-      "breakdownNotes": "Blood | Astral | Body | Soul"
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)"
     },
     {
+      "name": "Irit incense sticks",
       "label": "iritincensesticks100",
       "image": "https://img.pvme.io/images/WCcKGSB.png",
-      "breakdownNotes": ""
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Irit_incense_sticks"
     },
     null,
     null,
     {
+      "name": "Abyssal armour spikes (alloy)",
       "label": "abyssalspikes",
       "image": "https://img.pvme.io/images/0WBnZ62.png",
-      "breakdownNotes": ""
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Abyssal_armour_spikes_(alloy)"
     },
     null,
     {
+      "name": "Ancient elven ritual shard",
       "label": "elvenshard",
       "image": "https://img.pvme.io/images/UURvGNW.png",
-      "breakdownNotes": ""
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard"
     },
     {
+      "name": "Grasping rune pouch (pink)",
       "label": "graspingpouchpink",
       "image": "https://img.pvme.io/images/yrnlR2T.png",
-      "breakdownNotes": "Death | Earth | Law | Cosmic"
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)"
     },
     {
+      "name": "Kwuarm incense sticks",
       "label": "kwuarmsticks100",
       "image": "https://img.pvme.io/images/ARLol7s.png",
-      "breakdownNotes": ""
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks"
     },
     null,
     null,
     null,
     null,
     {
+      "name": "Enhanced excalibur",
       "label": "excal",
       "image": "https://img.pvme.io/images/nC5xTAR.png",
-      "breakdownNotes": ""
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur"
     },
     {
+      "name": "Spring cleaner 9001",
       "label": "springcleaner",
       "image": "https://img.pvme.io/images/pjHPdhj.png",
-      "breakdownNotes": ""
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001"
     }
   ],
   "equipmentSlots": [
     {
+      "name": "Elite tectonic mask",
       "label": "etectohelm",
       "image": "https://img.pvme.io/images/iPtkkKN.png",
-      "breakdownNotes": ""
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_mask"
     },
     {
+      "name": "Igneous Kal-Mej",
       "label": "kalmej",
       "image": "https://img.pvme.io/images/v4dRHBk.png",
-      "breakdownNotes": ""
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mej"
     },
     {
+      "name": "Essence of Finality amulet",
       "label": "eof",
       "image": "https://img.pvme.io/images/UB0lAK8.png",
-      "breakdownNotes": ""
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet"
     },
     {
+      "name": "Inquisitor staff",
       "label": "inq",
       "image": "https://img.pvme.io/images/My8VkUX.png",
-      "breakdownNotes": ""
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Inquisitor_staff"
     },
     {
+      "name": "Elite tectonic robe top",
       "label": "etectotop",
       "image": "https://img.pvme.io/images/NftWcLQ.png",
-      "breakdownNotes": ""
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_top"
     },
     {
+      "name": "Ancient repriser",
       "label": "repriser",
       "image": "https://img.pvme.io/images/liT4nh4.png",
-      "breakdownNotes": ""
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ancient_repriser"
     },
     {
+      "name": "Elite tectonic robe bottom",
       "label": "etectolegs",
       "image": "https://img.pvme.io/images/0TXtWf2.png",
-      "breakdownNotes": ""
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_bottom"
     },
     {
+      "name": "Cinderbane gloves",
       "label": "cinder",
       "image": "https://img.pvme.io/images/LutTgCH.png",
-      "breakdownNotes": ""
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
     },
     {
+      "name": "Blast diffusion boots",
       "label": "diffusion",
       "image": "https://img.pvme.io/images/2VPk1SN.png",
-      "breakdownNotes": ""
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blast_diffusion_boots"
     },
     {
+      "name": "Ring of death",
       "label": "rod",
       "image": "https://img.pvme.io/images/y5vAY4M.png",
-      "breakdownNotes": ""
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death"
     },
     {
+      "name": "Grasping rune pouch (blue)",
       "label": "graspingpouchblue",
       "image": "https://img.pvme.io/images/gDZtYb4.png",
-      "breakdownNotes": "Chaos | Air | Water | Fire"
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)"
     },
     null,
     {
+      "name": "Scripture of Amascut",
       "label": "scriptureofamascut",
       "image": "https://img.pvme.io/images/4KBTJqYn6o.png",
-      "breakdownNotes": ""
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Amascut"
     }
   ],
   "relics": {
@@ -163,26 +219,26 @@
       {
         "name": "Blessing of Het",
         "label": "blessingofhet",
-        "image": "https://img.pvme.io/images/eDmt2lT.png",
-        "description": "Food and potions heal 10% more lifepoints.",
         "breakdownNotes": "",
-        "energy": 100
+        "image": "https://img.pvme.io/images/eDmt2lT.png",
+        "energy": 100,
+        "description": "Food and potions heal 10% more lifepoints."
       },
       {
         "name": "Font of Life",
         "label": "fontoflife",
-        "image": "https://i.imgur.com/7e6Juey.png",
-        "description": "Increases maximum health by 500.",
         "breakdownNotes": "",
-        "energy": 50
+        "image": "https://i.imgur.com/7e6Juey.png",
+        "energy": 50,
+        "description": "Increases maximum health by 500."
       },
       {
         "name": "Slayer Introspection",
         "label": "slayerintrospection",
-        "image": "https://i.imgur.com/spEwR2q.png",
-        "description": "When requesting a new slayer assignment, you will have a choice between the minimum and maximum assignment amounts.",
         "breakdownNotes": "",
-        "energy": 200
+        "image": "https://i.imgur.com/spEwR2q.png",
+        "energy": 200,
+        "description": "When requesting a new slayer assignment, you will have a choice between the minimum and maximum assignment amounts."
       }
     ],
     "alternativeRelics": []
