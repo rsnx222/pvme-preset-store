@@ -1,0 +1,95 @@
+{
+  "presetName": "just something here",
+  "presetNotes": "",
+  "inventorySlots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Abyssal wand",
+      "label": "abbywand",
+      "image": "https://img.pvme.io/images/kSzcNN5.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Abyssal_wand"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Abyssal scourge",
+      "label": "abyssalscourge",
+      "image": "https://img.pvme.io/images/Moh9yya.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Abyssal_scourge"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "equipmentSlots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "name": "Conservation of Energy",
+        "label": "conservationofenergy",
+        "breakdownNotes": "",
+        "image": "https://img.pvme.io/images/Gfdc9u6.png",
+        "energy": 350,
+        "description": "After using an ultimate ability, you will regain 10% adrenaline."
+      },
+      null,
+      null
+    ],
+    "alternativeRelics": [
+      null,
+      null,
+      null
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "name": "Beaver",
+        "label": "beaver",
+        "image": "https://img.pvme.io/images/n5ZeYNT.png",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      null,
+      null,
+      null
+    ]
+  }
+}
