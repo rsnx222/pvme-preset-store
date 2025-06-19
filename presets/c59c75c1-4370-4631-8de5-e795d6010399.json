@@ -14,7 +14,13 @@
     null,
     null,
     null,
-    null,
+    {
+      "name": "Abyssal armour spikes (alloy)",
+      "label": "abyssalspikes",
+      "image": "https://img.pvme.io/images/0WBnZ62.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Abyssal_armour_spikes_(alloy)"
+    },
     null,
     null,
     null,
@@ -27,13 +33,7 @@
     },
     null,
     null,
-    {
-      "name": "Abyssal armour spikes (alloy)",
-      "label": "abyssalspikes",
-      "image": "https://img.pvme.io/images/0WBnZ62.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Abyssal_armour_spikes_(alloy)"
-    },
+    null,
     null,
     null,
     null,
