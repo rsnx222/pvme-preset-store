@@ -186,7 +186,14 @@
   ],
   "relics": {
     "primaryRelics": [
-      null,
+      {
+        "name": "Blessing of Het",
+        "label": "blessingofhet",
+        "breakdownNotes": "",
+        "image": "https://img.pvme.io/images/eDmt2lT.png",
+        "energy": 100,
+        "description": "Food and potions heal 10% more lifepoints."
+      },
       {
         "name": "Font of Life",
         "label": "fontoflife",
