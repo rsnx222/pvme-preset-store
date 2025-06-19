@@ -11,7 +11,13 @@
     null,
     null,
     null,
-    null,
+    {
+      "name": "Accursed ashes (noted)",
+      "label": "accursedashes1noted",
+      "image": "https://img.pvme.io/images/JiBstmM4RU.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Accursed_ashes"
+    },
     null,
     null,
     {
@@ -86,13 +92,7 @@
       "breakdownNotes": "",
       "wikiLink": "https://runescape.wiki/w/Ancient_repriser"
     },
-    {
-      "name": "Elite tectonic robe bottom",
-      "label": "etectolegs",
-      "image": "https://img.pvme.io/images/0TXtWf2.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_bottom"
-    },
+    null,
     {
       "name": "Cinderbane gloves",
       "label": "cinder",
