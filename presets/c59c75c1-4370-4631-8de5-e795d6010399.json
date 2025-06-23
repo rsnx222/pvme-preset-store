@@ -39,7 +39,13 @@
     },
     null,
     null,
-    null,
+    {
+      "name": "Abyssal scourge",
+      "label": "abyssalscourge",
+      "image": "https://img.pvme.io/images/Moh9yya.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Abyssal_scourge"
+    },
     null,
     null,
     null,
