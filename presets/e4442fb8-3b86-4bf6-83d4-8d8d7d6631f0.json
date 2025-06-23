@@ -1,5 +1,5 @@
 {
-  "presetName": "AFK Nicks",
+  "presetName": "AFK Nicksddd",
   "presetNotes": "blah blah <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1137809209782698024.png?v=1\" />",
   "inventorySlots": [
     null,
@@ -71,11 +71,7 @@
       null,
       null
     ],
-    "alternativeRelics": [
-      null,
-      null,
-      null
-    ]
+    "alternativeRelics": []
   },
   "familiars": {
     "primaryFamiliars": [
@@ -86,10 +82,6 @@
         "breakdownNotes": ""
       }
     ],
-    "alternativeFamiliars": [
-      null,
-      null,
-      null
-    ]
+    "alternativeFamiliars": []
   }
 }
