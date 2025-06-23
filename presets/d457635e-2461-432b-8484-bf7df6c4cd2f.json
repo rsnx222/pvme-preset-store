@@ -1,5 +1,5 @@
 {
-  "presetName": "test",
+  "presetName": "preset here",
   "presetNotes": "",
   "inventorySlots": [
     null,
@@ -16,6 +16,13 @@
     null,
     null,
     null,
+    {
+      "name": "Abyssal scourge",
+      "label": "abyssalscourge",
+      "image": "https://img.pvme.io/images/Moh9yya.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Abyssal_scourge"
+    },
     null,
     null,
     null,
@@ -23,8 +30,13 @@
     null,
     null,
     null,
-    null,
-    null,
+    {
+      "name": "Abyssal scourge",
+      "label": "abyssalscourge",
+      "image": "https://img.pvme.io/images/Moh9yya.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Abyssal_scourge"
+    },
     null,
     null,
     null,
@@ -58,20 +70,12 @@
       null,
       null
     ],
-    "alternativeRelics": [
-      null,
-      null,
-      null
-    ]
+    "alternativeRelics": []
   },
   "familiars": {
     "primaryFamiliars": [
       null
     ],
-    "alternativeFamiliars": [
-      null,
-      null,
-      null
-    ]
+    "alternativeFamiliars": []
   }
 }
