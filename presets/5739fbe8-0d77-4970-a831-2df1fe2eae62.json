@@ -1,0 +1,83 @@
+{
+  "presetName": "testy",
+  "presetNotes": "",
+  "inventorySlots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Abyssal wand",
+      "label": "abbywand",
+      "image": "https://img.pvme.io/images/kSzcNN5.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Abyssal_wand"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Abyssal wand",
+      "label": "abbywand",
+      "image": "https://img.pvme.io/images/kSzcNN5.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Abyssal_wand"
+    }
+  ],
+  "equipmentSlots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "relics": {
+    "primaryRelics": [
+      null,
+      null,
+      null
+    ],
+    "alternativeRelics": [
+      null,
+      null,
+      null
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      null
+    ],
+    "alternativeFamiliars": [
+      null,
+      null,
+      null
+    ]
+  }
+}
