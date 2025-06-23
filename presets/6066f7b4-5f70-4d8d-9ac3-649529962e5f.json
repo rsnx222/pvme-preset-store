@@ -1,0 +1,77 @@
+{
+  "presetName": "test456",
+  "presetNotes": "",
+  "inventorySlots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Accursed ashes (noted)",
+      "label": "accursedashes1noted",
+      "image": "https://img.pvme.io/images/JiBstmM4RU.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Accursed_ashes"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "equipmentSlots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "relics": {
+    "primaryRelics": [
+      null,
+      null,
+      null
+    ],
+    "alternativeRelics": [
+      null,
+      null,
+      null
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      null
+    ],
+    "alternativeFamiliars": [
+      null,
+      null,
+      null
+    ]
+  }
+}
