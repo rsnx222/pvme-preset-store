@@ -1,6 +1,6 @@
 {
   "presetName": "abs",
-  "presetNotes": "",
+  "presetNotes": "asdasdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
   "inventorySlots": [
     {
       "name": "Armadyl battlestaff",
@@ -58,20 +58,12 @@
       null,
       null
     ],
-    "alternativeRelics": [
-      null,
-      null,
-      null
-    ]
+    "alternativeRelics": []
   },
   "familiars": {
     "primaryFamiliars": [
       null
     ],
-    "alternativeFamiliars": [
-      null,
-      null,
-      null
-    ]
+    "alternativeFamiliars": []
   }
 }
