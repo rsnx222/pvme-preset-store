@@ -17,7 +17,13 @@
       "wikiLink": "https://runescape.wiki/w/Cannonballs"
     },
     null,
-    null,
+    {
+      "name": "2h equipment slot (halberd)",
+      "label": "2hslotscythe",
+      "image": "https://img.pvme.io/images/a1shlqL.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Halberd"
+    },
     null,
     null,
     {
@@ -224,14 +230,7 @@
       }
     ],
     "alternativeRelics": [
-      {
-        "name": "Blessing of Het",
-        "label": "blessingofhet",
-        "breakdownNotes": "",
-        "image": "https://img.pvme.io/images/eDmt2lT.png",
-        "energy": 100,
-        "description": "Food and potions heal 10% more lifepoints."
-      }
+      null
     ]
   },
   "familiars": {
