@@ -105,7 +105,13 @@
     null,
     null,
     null,
-    null,
+    {
+      "name": "Achto Primeval boots",
+      "label": "achtoprimboots",
+      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots"
+    },
     {
       "name": "Enhanced excalibur",
       "label": "excal",
