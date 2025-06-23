@@ -1,0 +1,95 @@
+{
+  "presetName": "AFK Nicks",
+  "presetNotes": "blah blah <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1137809209782698024.png?v=1\" />",
+  "inventorySlots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Abyssal wand",
+      "label": "abbywand",
+      "image": "https://img.pvme.io/images/kSzcNN5.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Abyssal_wand"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "equipmentSlots": [
+    {
+      "name": "Achto Teralith helmet",
+      "label": "achtoteralithhelmet",
+      "image": "https://img.pvme.io/images/u5jFH7R.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Achto_Teralith_helmet"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "name": "Blessing of Het",
+        "label": "blessingofhet",
+        "breakdownNotes": "",
+        "image": "https://img.pvme.io/images/eDmt2lT.png",
+        "energy": 100,
+        "description": "Food and potions heal 10% more lifepoints."
+      },
+      null,
+      null
+    ],
+    "alternativeRelics": [
+      null,
+      null,
+      null
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "name": "Bunyip",
+        "label": "bunyip",
+        "image": "https://img.pvme.io/images/hpjldw8.png",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      null,
+      null,
+      null
+    ]
+  }
+}
