@@ -8,7 +8,7 @@
       "name": "Abyssal scourge",
       "label": "abyssalscourge",
       "image": "https://img.pvme.io/images/Moh9yya.png",
-      "breakdownNotes": "",
+      "breakdownNotes": "testing desc",
       "wikiLink": "https://runescape.wiki/w/Abyssal_scourge"
     },
     null,
@@ -58,20 +58,12 @@
       null,
       null
     ],
-    "alternativeRelics": [
-      null,
-      null,
-      null
-    ]
+    "alternativeRelics": []
   },
   "familiars": {
     "primaryFamiliars": [
       null
     ],
-    "alternativeFamiliars": [
-      null,
-      null,
-      null
-    ]
+    "alternativeFamiliars": []
   }
 }
