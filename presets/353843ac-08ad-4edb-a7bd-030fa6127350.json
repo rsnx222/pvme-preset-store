@@ -1,0 +1,77 @@
+{
+  "presetName": "abs",
+  "presetNotes": "",
+  "inventorySlots": [
+    {
+      "name": "Armadyl battlestaff",
+      "label": "abs",
+      "image": "https://img.pvme.io/images/alFbdln.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Armadyl_battlestaff"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "equipmentSlots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "relics": {
+    "primaryRelics": [
+      null,
+      null,
+      null
+    ],
+    "alternativeRelics": [
+      null,
+      null,
+      null
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      null
+    ],
+    "alternativeFamiliars": [
+      null,
+      null,
+      null
+    ]
+  }
+}
