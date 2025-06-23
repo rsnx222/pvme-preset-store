@@ -1,6 +1,6 @@
 {
-  "presetName": "Just another preset eh?",
-  "presetNotes": "blah blah <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1137809209782698024.png?v=1\" /> blah<div><br /></div><div>hrthrt</div>",
+  "presetName": "Insert name of preset here",
+  "presetNotes": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/544195488447201300.png?v=1\" /> is a cool prayer",
   "inventorySlots": [
     {
       "name": "Elder overload potion (6)",
@@ -132,7 +132,7 @@
       "name": "Elite tectonic mask",
       "label": "etectohelm",
       "image": "https://img.pvme.io/images/iPtkkKN.png",
-      "breakdownNotes": "",
+      "breakdownNotes": "this is a mask",
       "wikiLink": "https://runescape.wiki/w/Elite_tectonic_mask"
     },
     {
@@ -156,13 +156,7 @@
       "breakdownNotes": "",
       "wikiLink": "https://runescape.wiki/w/Inquisitor_staff"
     },
-    {
-      "name": "Elite tectonic robe top",
-      "label": "etectotop",
-      "image": "https://img.pvme.io/images/NftWcLQ.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_top"
-    },
+    null,
     {
       "name": "Ancient repriser",
       "label": "repriser",
@@ -170,13 +164,7 @@
       "breakdownNotes": "",
       "wikiLink": "https://runescape.wiki/w/Ancient_repriser"
     },
-    {
-      "name": "Elite tectonic robe bottom",
-      "label": "etectolegs",
-      "image": "https://img.pvme.io/images/0TXtWf2.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_bottom"
-    },
+    null,
     {
       "name": "Cinderbane gloves",
       "label": "cinder",
@@ -191,13 +179,7 @@
       "breakdownNotes": "",
       "wikiLink": "https://runescape.wiki/w/Blast_diffusion_boots"
     },
-    {
-      "name": "Ring of death",
-      "label": "rod",
-      "image": "https://img.pvme.io/images/y5vAY4M.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Ring_of_death"
-    },
+    null,
     {
       "name": "Grasping rune pouch (blue)",
       "label": "graspingpouchblue",
@@ -241,7 +223,16 @@
         "description": "When requesting a new slayer assignment, you will have a choice between the minimum and maximum assignment amounts."
       }
     ],
-    "alternativeRelics": []
+    "alternativeRelics": [
+      {
+        "name": "Blessing of Het",
+        "label": "blessingofhet",
+        "breakdownNotes": "",
+        "image": "https://img.pvme.io/images/eDmt2lT.png",
+        "energy": 100,
+        "description": "Food and potions heal 10% more lifepoints."
+      }
+    ]
   },
   "familiars": {
     "primaryFamiliars": [
