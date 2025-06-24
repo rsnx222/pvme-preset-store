@@ -36,7 +36,13 @@
     null,
     null,
     null,
-    null,
+    {
+      "name": "Achto Teralith cuirass",
+      "label": "achtoteralithcuirass",
+      "image": "https://img.pvme.io/images/Bt2I4Se.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Achto_Teralith_cuirass"
+    },
     null,
     null,
     null,
@@ -52,20 +58,12 @@
       null,
       null
     ],
-    "alternativeRelics": [
-      null,
-      null,
-      null
-    ]
+    "alternativeRelics": []
   },
   "familiars": {
     "primaryFamiliars": [
       null
     ],
-    "alternativeFamiliars": [
-      null,
-      null,
-      null
-    ]
+    "alternativeFamiliars": []
   }
 }
