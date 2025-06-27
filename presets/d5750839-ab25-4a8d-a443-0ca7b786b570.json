@@ -1,0 +1,294 @@
+{
+  "presetName": "Venomous Dinosauruses (AFK)",
+  "presetNotes": "Protect from Melee<br />Penance Aura OR Powder",
+  "inventorySlots": [
+    {
+      "name": "Elder overload salve (6)",
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)"
+    },
+    {
+      "name": "Aggression flask (6)",
+      "label": "aggro6",
+      "image": "https://img.pvme.io/images/nTRsMW1.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)"
+    },
+    {
+      "name": "Weapon poison+++ flask (6)",
+      "label": "poison6",
+      "image": "https://img.pvme.io/images/KyZkJoc.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)"
+    },
+    {
+      "name": "Blessed flask",
+      "label": "blessed",
+      "image": "https://img.pvme.io/images/FVmxMkH.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blessed_flask"
+    },
+    {
+      "name": "Powder of penance",
+      "label": "powderofpenance2",
+      "image": "https://img.pvme.io/images/w6hThUy.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance"
+    },
+    {
+      "name": "Kwuarm incense sticks",
+      "label": "kwuarmsticks",
+      "image": "https://img.pvme.io/images/Ba7yju8.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks"
+    },
+    {
+      "name": "Lantadyme incense sticks",
+      "label": "lantasticks",
+      "image": "https://img.pvme.io/images/LfpiRjg.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks"
+    },
+    {
+      "name": "Ancient elven ritual shard",
+      "label": "elvenshard",
+      "image": "https://img.pvme.io/images/UURvGNW.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard"
+    },
+    {
+      "name": "Enhanced excalibur",
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur"
+    },
+    {
+      "name": "Holy wrench",
+      "label": "wrench",
+      "image": "https://img.pvme.io/images/UVffd75.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench"
+    },
+    null,
+    null,
+    null,
+    {
+      "name": "Binding contract (blood reaver)",
+      "label": "reaver",
+      "image": "https://img.pvme.io/images/BQXFPFu.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(blood_reaver)"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Spring cleaner 9001",
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001"
+    },
+    {
+      "name": "Dwarven siege engine",
+      "label": "cannon",
+      "image": "https://img.pvme.io/images/GTwVqeC.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine"
+    },
+    {
+      "name": "Cannonballs",
+      "label": "cballs",
+      "image": "https://img.pvme.io/images/GrfjyE2.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs"
+    },
+    {
+      "name": "Magic notepaper",
+      "label": "1knote",
+      "image": "https://img.pvme.io/images/8r07LbS.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_notepaper"
+    },
+    null,
+    {
+      "name": "Gem bag (upgraded)",
+      "label": "gembag",
+      "image": "https://img.pvme.io/images/ODNlwIc.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Gem_bag_(upgraded)"
+    },
+    {
+      "name": "Seed bag",
+      "label": "seedbag",
+      "image": "https://img.pvme.io/images/JujxNhC.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Seed_bag"
+    },
+    {
+      "name": "Herb bag",
+      "label": "herbbag",
+      "image": "https://img.pvme.io/images/egmZjv0.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Herb_bag"
+    }
+  ],
+  "equipmentSlots": [
+    {
+      "name": "Masterwork helm",
+      "label": "mwhelm",
+      "image": "https://img.pvme.io/images/9gAdl6f.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_helm"
+    },
+    {
+      "name": "Igneous Kal-Zuk",
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "name": "Necklace of Salamancy",
+      "label": "salamancy",
+      "image": "https://img.pvme.io/images/tsyhx6q.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Necklace_of_Salamancy"
+    },
+    {
+      "name": "Noxious scythe (shadow)",
+      "label": "scytheshadow",
+      "image": "https://img.pvme.io/images/5gLKqIh.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Noxious_scythe_(shadow)"
+    },
+    {
+      "name": "Masterwork platebody",
+      "label": "mwtop",
+      "image": "https://img.pvme.io/images/ALe1PIE.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_platebody"
+    },
+    null,
+    {
+      "name": "Masterwork platelegs",
+      "label": "mwlegs",
+      "image": "https://img.pvme.io/images/Ev1KbDF.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_platelegs"
+    },
+    {
+      "name": "Cinderbane gloves",
+      "label": "cinder",
+      "image": "https://img.pvme.io/images/LutTgCH.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+    },
+    {
+      "name": "Masterwork boots",
+      "label": "mwboots",
+      "image": "https://img.pvme.io/images/GsZmtrn.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_boots"
+    },
+    {
+      "name": "Reaver's ring",
+      "label": "reaverring",
+      "image": "https://img.pvme.io/images/cnIOClx.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring"
+    },
+    {
+      "name": "Zemouregal's Nexus",
+      "label": "zemouregalsnexus",
+      "image": "https://img.pvme.io/images/3pFXvMR.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus"
+    },
+    {
+      "name": "Vampyrism aura",
+      "label": "vampaura",
+      "image": "https://img.pvme.io/images/JigaLBL.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vampyrism_aura"
+    },
+    {
+      "name": "Scrimshaw of Vampyrism",
+      "label": "vamp",
+      "image": "https://img.pvme.io/images/bMTAHDe.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scrimshaw_of_Vampyrism"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "name": "Luck of the Dwarves",
+        "label": "luckofthedwarves",
+        "breakdownNotes": "",
+        "image": "https://i.imgur.com/Ivcgjer.png",
+        "energy": 200,
+        "description": "You will always gain the effect of tier 4 luck."
+      },
+      {
+        "name": "Death Note",
+        "label": "deathnote",
+        "breakdownNotes": "",
+        "image": "https://i.imgur.com/2KToagJ.png",
+        "energy": 150,
+        "description": "All guaranteed bone and ash drops are noted."
+      },
+      {
+        "name": "Slayer Introspection",
+        "label": "slayerintrospection",
+        "breakdownNotes": "",
+        "image": "https://i.imgur.com/spEwR2q.png",
+        "energy": 200,
+        "description": "When requesting a new slayer assignment, you will have a choice between the minimum and maximum assignment amounts."
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "Fury of the Small",
+        "label": "furyofthesmall",
+        "breakdownNotes": "",
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "energy": 150,
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline."
+      },
+      {
+        "name": "Death Note",
+        "label": "deathnote",
+        "breakdownNotes": "",
+        "image": "https://i.imgur.com/2KToagJ.png",
+        "energy": 150,
+        "description": "All guaranteed bone and ash drops are noted."
+      },
+      {
+        "name": "Berserkers Fury",
+        "label": "berserkersfury",
+        "breakdownNotes": "",
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "energy": 250,
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)"
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "name": "Blood Reaver",
+        "label": "bloodreaver",
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": []
+  }
+}
