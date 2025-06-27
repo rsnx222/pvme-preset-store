@@ -10,18 +10,18 @@
       "wikiLink": "https://runescape.wiki/w/Masterwork_helm"
     },
     {
-      "label": "mwtop",
-      "image": "https://i.imgur.com/ALe1PIE.png",
-      "name": "Masterwork platebody",
+      "label": "kalzuk",
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
       "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Masterwork_platebody"
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
     },
     {
-      "label": "mwlegs",
-      "image": "https://i.imgur.com/Ev1KbDF.png",
-      "name": "Masterwork platelegs",
+      "label": "salamancy",
+      "image": "https://i.imgur.com/tsyhx6q.png",
+      "name": "Necklace of Salamancy",
       "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Masterwork_platelegs"
+      "wikiLink": "https://runescape.wiki/w/Necklace_of_Salamancy"
     },
     {
       "label": "scytheshadow",
@@ -30,7 +30,21 @@
       "breakdownNotes": "",
       "wikiLink": "https://runescape.wiki/w/Noxious_scythe_(shadow)"
     },
+    {
+      "label": "mwtop",
+      "image": "https://i.imgur.com/ALe1PIE.png",
+      "name": "Masterwork platebody",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_platebody"
+    },
     null,
+    {
+      "label": "mwlegs",
+      "image": "https://i.imgur.com/Ev1KbDF.png",
+      "name": "Masterwork platelegs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_platelegs"
+    },
     {
       "label": "cinder",
       "image": "https://i.imgur.com/LutTgCH.png",
@@ -46,11 +60,11 @@
       "wikiLink": "https://runescape.wiki/w/Masterwork_boots"
     },
     {
-      "label": "vampaura",
-      "image": "https://i.imgur.com/JigaLBL.png",
-      "name": "Vampyrism aura",
+      "label": "reaverring",
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "name": "Reaver's ring",
       "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vampyrism_aura"
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring"
     },
     {
       "label": "zemoregalsnexus",
@@ -60,25 +74,11 @@
       "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus"
     },
     {
-      "label": "salamancy",
-      "image": "https://i.imgur.com/tsyhx6q.png",
-      "name": "Necklace of Salamancy",
+      "label": "vampaura",
+      "image": "https://i.imgur.com/JigaLBL.png",
+      "name": "Vampyrism aura",
       "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Necklace_of_Salamancy"
-    },
-    {
-      "label": "reaverring",
-      "image": "https://i.imgur.com/cnIOClx.png",
-      "name": "Reaver's ring",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Reaver's_ring"
-    },
-    {
-      "label": "kalzuk",
-      "image": "https://i.imgur.com/jcfkzGn.png",
-      "name": "Igneous Kal-Zuk",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+      "wikiLink": "https://runescape.wiki/w/Vampyrism_aura"
     },
     {
       "label": "vamp",
@@ -118,13 +118,6 @@
       "wikiLink": "https://runescape.wiki/w/Blessed_flask"
     },
     {
-      "label": "excal",
-      "image": "https://i.imgur.com/nC5xTAR.png",
-      "name": "Enhanced excalibur",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur"
-    },
-    {
       "label": "powderofpenance2",
       "image": "https://i.imgur.com/w6hThUy.png",
       "name": "Powder of penance",
@@ -153,12 +146,35 @@
       "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard"
     },
     {
+      "label": "excal",
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur"
+    },
+    {
+      "label": "wrench",
+      "image": "https://i.imgur.com/UVffd75.png",
+      "name": "Holy wrench",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench"
+    },
+    null,
+    null,
+    null,
+    {
       "label": "reaver",
       "image": "https://i.imgur.com/BQXFPFu.png",
       "name": "Binding contract (blood reaver)",
       "breakdownNotes": "",
       "wikiLink": "https://runescape.wiki/w/Binding_contract_(blood_reaver)"
     },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     {
       "label": "springcleaner",
       "image": "https://i.imgur.com/pjHPdhj.png",
@@ -174,13 +190,6 @@
       "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine"
     },
     {
-      "label": "wrench",
-      "image": "https://i.imgur.com/UVffd75.png",
-      "name": "Holy wrench",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Holy_wrench"
-    },
-    {
       "label": "cballs",
       "image": "https://i.imgur.com/GrfjyE2.png",
       "name": "Cannonballs",
@@ -194,6 +203,7 @@
       "breakdownNotes": "",
       "wikiLink": "https://runescape.wiki/w/Magic_notepaper"
     },
+    null,
     {
       "label": "gembag",
       "image": "https://i.imgur.com/ODNlwIc.png",
@@ -214,17 +224,7 @@
       "name": "Herb bag",
       "breakdownNotes": "",
       "wikiLink": "https://runescape.wiki/w/Herb_bag"
-    },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    }
   ],
   "relics": {
     "primaryRelics": [
