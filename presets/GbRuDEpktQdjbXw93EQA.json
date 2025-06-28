@@ -1,0 +1,402 @@
+{
+  "presetName": "rec ranged",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/lhfAbhp.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_mask",
+      "name": "Sirenic mask",
+      "breakdownNotes": "",
+      "label": "sirenichelm"
+    },
+    {
+      "image": "https://i.imgur.com/TNKAuKX.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Xil",
+      "name": "Igneous Kal-Xil",
+      "breakdownNotes": "",
+      "label": "kalxil"
+    },
+    {
+      "image": "https://i.imgur.com/LhMlWmw.png",
+      "wikiLink": "https://runescape.wiki/w/Dark_bow",
+      "name": "EoF - Dark bow",
+      "breakdownNotes": "",
+      "label": "eofgreen"
+    },
+    {
+      "image": "https://i.imgur.com/iiBXivW.png",
+      "wikiLink": "https://runescape.wiki/w/Noxious_longbow",
+      "name": "Noxious longbow",
+      "breakdownNotes": "",
+      "label": "noxbow"
+    },
+    {
+      "image": "https://i.imgur.com/lYDKMiu.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_hauberk",
+      "name": "Sirenic hauberk",
+      "breakdownNotes": "",
+      "label": "sirenictop"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/gBPOqaV.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_chaps",
+      "name": "Sirenic chaps",
+      "breakdownNotes": "",
+      "label": "sireniclegs"
+    },
+    {
+      "image": "https://i.imgur.com/goMzH9N.png",
+      "wikiLink": "https://runescape.wiki/w/Nightmare_gauntlets",
+      "name": "Nightmare gauntlets",
+      "breakdownNotes": "",
+      "label": "nightmare"
+    },
+    {
+      "image": "https://i.imgur.com/R5kSCvF.png",
+      "wikiLink": "https://runescape.wiki/w/Fleeting_boots",
+      "name": "Fleeting boots",
+      "breakdownNotes": "",
+      "label": "fleet"
+    },
+    {
+      "image": "https://i.imgur.com/y5vAY4M.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death",
+      "name": "Ring of death",
+      "breakdownNotes": "",
+      "label": "rod"
+    },
+    {
+      "image": "https://i.imgur.com/yxmdGCZ.png",
+      "wikiLink": "https://runescape.wiki/w/Tirannwn_quiver_4",
+      "name": "Tirannwn quiver 4",
+      "breakdownNotes": "Wen arrows suggested (blackstone also useful) ",
+      "label": "quiver4"
+    },
+    {
+      "image": "https://i.imgur.com/3G8n8xa.png",
+      "wikiLink": "https://runescape.wiki/w/Supreme_sharpshooter_aura",
+      "name": "Supreme sharpshooter aura",
+      "breakdownNotes": "",
+      "label": "sharpshooter"
+    },
+    {
+      "image": "https://i.imgur.com/lPppoD4.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful",
+      "name": "Scripture of Ful",
+      "breakdownNotes": "",
+      "label": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/DGw6F36.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "<span>Use your highest level overload </span>",
+      "label": "ovl",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/LWm3PJt.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_replenishment_potion#(6)",
+      "name": "Enhanced replenishment potion (6)",
+      "breakdownNotes": "",
+      "label": "replen",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/vSUpqbs.png",
+      "wikiLink": "https://runescape.wiki/w/Super_prayer_renewal_potion#(6)",
+      "name": "Super prayer renewal potion (6)",
+      "breakdownNotes": "",
+      "label": "prayrenewal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "Extra health",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KkJxTbf.png",
+      "wikiLink": "https://runescape.wiki/w/Dark_bow",
+      "name": "Dark bow",
+      "breakdownNotes": "Shield swap",
+      "label": "dbow",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3cSIbWx.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_vigour",
+      "name": "Ring of vigour",
+      "breakdownNotes": "",
+      "label": "vigour",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/lKCXPDn.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon/Melee_weapons#Types",
+      "name": "Melee Mainhand",
+      "breakdownNotes": "<span>Barge is very helpful for specific roles</span>",
+      "label": "mhbd",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/vMb1oi9.png",
+      "wikiLink": "https://runescape.wiki/w/Shadow_glaive",
+      "name": "Shadow glaive",
+      "breakdownNotes": "",
+      "label": "glaivemh",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/0d9nkK4.png",
+      "wikiLink": "https://runescape.wiki/w/Planted_feet_perk",
+      "name": "Planted feet perk",
+      "breakdownNotes": "",
+      "label": "pf",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/e79LetS.png",
+      "wikiLink": "https://runescape.wiki/w/Flanking_perk",
+      "name": "Flanking perk",
+      "breakdownNotes": "",
+      "label": "flank",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "label": "vuln",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/TMWKAqQ.png",
+      "wikiLink": "https://runescape.wiki/w/Mechanised_chinchompa",
+      "name": "Mechanised chinchompa",
+      "breakdownNotes": "",
+      "label": "chins",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "label": "graspingpouchpink",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "label": "graspingpouchblue",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "https://i.imgur.com/eDmt2lT.png",
+        "name": "Blessing of Het",
+        "breakdownNotes": "",
+        "description": "Food and potions heal 10% more lifepoints.",
+        "label": "blessingofhet",
+        "energy": 100
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "https://i.imgur.com/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": "",
+        "label": "ripperdemon"
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/pIteWAi.png",
+        "name": "Pack Yak",
+        "breakdownNotes": "",
+        "label": "packyak"
+      }
+    ]
+  }
+}

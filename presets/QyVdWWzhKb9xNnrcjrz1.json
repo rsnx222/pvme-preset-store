@@ -1,0 +1,357 @@
+{
+  "presetName": "Solo HM - BSA",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/xNXHeIN.png",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_helm",
+      "name": "Cryptbloom helm",
+      "label": "cryptbloomhelm"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/nu7QSbh.png",
+      "wikiLink": "https://runescape.wiki/w/EoF_-_Guthix_staff",
+      "name": "EoF - Guthix staff",
+      "label": "eofpurple"
+    },
+    {
+      "image": "https://i.imgur.com/6Zear8O.png",
+      "wikiLink": "https://runescape.wiki/w/Cywir_wand",
+      "name": "Cywir wand",
+      "label": "cywirwand"
+    },
+    {
+      "image": "https://i.imgur.com/G07AY4A.png",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_top",
+      "name": "Cryptbloom top",
+      "label": "cryptbloomtop"
+    },
+    {
+      "image": "https://i.imgur.com/klfBwI5.png",
+      "wikiLink": "https://runescape.wiki/w/Arcane_spirit_shield",
+      "name": "Arcane spirit shield",
+      "label": "arcane"
+    },
+    {
+      "image": "https://i.imgur.com/h07wgr8.png",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_legs",
+      "name": "Cryptbloom legs",
+      "label": "cryptbloomlegs"
+    },
+    {
+      "image": "https://i.imgur.com/CEn20Sk.png",
+      "wikiLink": "https://runescape.wiki/w/Kerapac's_wrist_wraps",
+      "name": "Kerapac's wrist wraps",
+      "label": "wristwraps"
+    },
+    {
+      "image": "https://i.imgur.com/KUGqEdN.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_blast_diffusion_boots",
+      "name": "Enhanced blast diffusion boots",
+      "label": "enhancedblastdiff"
+    },
+    {
+      "image": "https://i.imgur.com/Zs7j4JG.png",
+      "wikiLink": "https://runescape.wiki/w/Channeller's_ring",
+      "name": "Channeller's ring",
+      "label": "channellerring"
+    },
+    {
+      "image": "https://i.imgur.com/6nJNred.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(red)",
+      "name": "Grasping rune pouch (red)",
+      "label": "graspingpouchred"
+    },
+    {
+      "image": "https://i.imgur.com/Zevs8R8.png",
+      "wikiLink": "https://runescape.wiki/w/Maniacal_aura",
+      "name": "Maniacal aura",
+      "label": "mani"
+    },
+    {
+      "image": "https://i.imgur.com/FAPSk6p.png",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire",
+      "name": "Erethdor's grimoire",
+      "label": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/hiC7f5F.png",
+      "wikiLink": "https://runescape.wiki/w/EoF_-__Armadyl_Battlestaff",
+      "name": "EoF -  Armadyl Battlestaff",
+      "label": "eofyellow",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/iZw3Uee.png",
+      "wikiLink": "https://runescape.wiki/w/EoF_-_Statius_warhammer",
+      "name": "EoF - Statius warhammer",
+      "label": "eofblack",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/AI12yBk.png",
+      "wikiLink": "https://runescape.wiki/w/Fractured_Staff_of_Armadyl",
+      "name": "Fractured Staff of Armadyl",
+      "label": "fsoa",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/WHurFLm.png",
+      "wikiLink": "https://runescape.wiki/w/Imperium_core",
+      "name": "Imperium core",
+      "label": "core",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/DmUfsSM.png",
+      "wikiLink": "https://runescape.wiki/w/Wand_of_the_praesul",
+      "name": "Wand of the praesul",
+      "label": "pwand",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/wFdHN9C.png",
+      "wikiLink": "https://runescape.wiki/w/Dark_Shard_of_Leng",
+      "name": "Dark Shard of Leng",
+      "label": "lengmh",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KFZJLhU.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9wds5Ez.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_flask",
+      "name": "Adrenaline renewal flask",
+      "label": "renewal6",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/oOITsKV.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality",
+      "name": "Powerburst of vitality",
+      "label": "vitality4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qJwQe9I.png",
+      "wikiLink": "https://runescape.wiki/w/Great_gunkan",
+      "name": "Great gunkan",
+      "label": "gunkan",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ZI7v9Mn.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
+      "name": "Sailfish soup",
+      "label": "soup",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ZI7v9Mn.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
+      "name": "Sailfish soup",
+      "label": "soup",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ZI7v9Mn.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
+      "name": "Sailfish soup",
+      "label": "soup",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/306PXtG.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "label": "vuln",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/q7228b9.png",
+      "wikiLink": "https://runescape.wiki/w/Blessed_flask",
+      "name": "Blessed flask",
+      "label": "blessed",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/E03cGER.png",
+      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
+      "name": "Combat dummy MKII",
+      "label": "dummy",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/JkrhqUi.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_mask",
+      "name": "Elite tectonic mask",
+      "label": "etectohelm",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/seS3Yh2.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_top",
+      "name": "Elite tectonic robe top",
+      "label": "etectotop",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ZI7v9Mn.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
+      "name": "Sailfish soup",
+      "label": "soup",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ZI7v9Mn.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
+      "name": "Sailfish soup",
+      "label": "soup",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gCf8SPg.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(purple)",
+      "name": "Grasping rune pouch (purple)",
+      "label": "graspingpouchpurple",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SsNRoVE.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve",
+      "name": "Elder overload salve",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/E03cGER.png",
+      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
+      "name": "Combat dummy MKII",
+      "label": "dummy",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/t6HbIdO.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_bottom",
+      "name": "Elite tectonic robe bottom",
+      "label": "etectolegs",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/rqIBPF1.png",
+      "wikiLink": "https://runescape.wiki/w/Super_saradomin_brew",
+      "name": "Super saradomin brew",
+      "label": "sbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/kJ17hH6.png",
+      "wikiLink": "https://runescape.wiki/w/Smoke_nihil_pouch",
+      "name": "Smoke nihil pouch",
+      "breakdownNotes": "",
+      "label": "smokenihil",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/H74WgP2.png",
+      "wikiLink": "https://runescape.wiki/w/Noxious_scythe",
+      "name": "Noxious scythe",
+      "breakdownNotes": "",
+      "label": "scythe",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "label": "graspingpouchblack",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": "",
+        "label": "bloodreaver"
+      }
+    ]
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "presetName": "",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/cqg3cXV.png",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_helm_of_seren",
+      "name": "Anima core helm of seren",
+      "breakdownNotes": "",
+      "label": "serenhelm"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/qbsFxuG.png",
+      "wikiLink": "https://runescape.wiki/w/Salve_amulet_(e)",
+      "name": "Salve amulet (e)",
+      "breakdownNotes": "",
+      "label": "salvee"
+    },
+    {
+      "image": "https://i.imgur.com/vPnAjqC.png",
+      "wikiLink": "https://runescape.wiki/w/Staff_of_limitless_air",
+      "name": "Staff of limitless air",
+      "breakdownNotes": "",
+      "label": "staffoflimitlessair"
+    },
+    {
+      "image": "https://i.imgur.com/84rL2dv.png",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_body_of_seren",
+      "name": "Anima core body of seren",
+      "breakdownNotes": "",
+      "label": "serenbody"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/I5QHqtm.png",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_legs_of_seren",
+      "name": "Anima core legs of seren",
+      "breakdownNotes": "",
+      "label": "serenlegs"
+    },
+    {
+      "image": "https://i.imgur.com/dzW7KB4.png",
+      "wikiLink": "https://runescape.wiki/w/Gloves_of_subjugation",
+      "name": "Gloves of subjugation",
+      "breakdownNotes": "",
+      "label": "subjgloves"
+    },
+    {
+      "image": "https://i.imgur.com/7XWA1eE.png",
+      "wikiLink": "https://runescape.wiki/w/Boots_of_subjugation",
+      "name": "Boots of subjugation",
+      "breakdownNotes": "",
+      "label": "subjboots"
+    },
+    {
+      "image": "https://i.imgur.com/xmcbfhs.png",
+      "wikiLink": "https://runescape.wiki/w/Hazelmere's_signet",
+      "name": "Hazelmere's signet",
+      "breakdownNotes": "",
+      "label": "hsr"
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "label": "graspingpouchblack"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/lPppoD4.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful",
+      "name": "Scripture of Ful",
+      "breakdownNotes": "",
+      "label": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/uIF03Iz.png",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir",
+      "name": "Potion reservoir",
+      "breakdownNotes": "",
+      "label": "potionreservoir",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload_(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload_(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload_(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload_(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload_(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload_(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/rA5LGMj.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask",
+      "name": "Spirit attraction flask",
+      "breakdownNotes": "",
+      "label": "spiritattractionflask",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload_(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload_(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload_(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload_(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload_(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload_(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/rA5LGMj.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask",
+      "name": "Spirit attraction flask",
+      "breakdownNotes": "",
+      "label": "spiritattractionflask",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/rA5LGMj.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask",
+      "name": "Spirit attraction flask",
+      "breakdownNotes": "",
+      "label": "spiritattractionflask",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FmyhIY5.png",
+      "wikiLink": "https://runescape.wiki/w/Smoke_devil_pouch",
+      "name": "Smoke devil pouch",
+      "breakdownNotes": "",
+      "label": "smokedevilpouch",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/uIF03Iz.png",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir",
+      "name": "Potion reservoir",
+      "breakdownNotes": "Bring 1 for each aggroverload",
+      "label": "potionreservoir",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pulVXx3.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore",
+      "name": "Super restore",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/h7hCOfy.png",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "label": "cluebag",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/cevmcA1.png",
+      "wikiLink": "https://runescape.wiki/w/Abyssal_armour_spikes_(alloy)",
+      "name": "Abyssal armour spikes (alloy)",
+      "breakdownNotes": "",
+      "label": "abyssalspikes",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FmyhIY5.png",
+      "wikiLink": "https://runescape.wiki/w/Smoke_devil_pouch",
+      "name": "Smoke devil pouch",
+      "breakdownNotes": "",
+      "label": "smokedevilpouch",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FmyhIY5.png",
+      "wikiLink": "https://runescape.wiki/w/Smoke_devil_pouch",
+      "name": "Smoke devil pouch",
+      "breakdownNotes": "",
+      "label": "smokedevilpouch",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FmyhIY5.png",
+      "wikiLink": "https://runescape.wiki/w/Smoke_devil_pouch",
+      "name": "Smoke devil pouch",
+      "breakdownNotes": "",
+      "label": "smokedevilpouch",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FmyhIY5.png",
+      "wikiLink": "https://runescape.wiki/w/Smoke_devil_pouch",
+      "name": "Smoke devil pouch",
+      "breakdownNotes": "",
+      "label": "smokedevilpouch",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/4n0C5gK.png",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "name": "Lantadyme incense sticks (100)",
+      "breakdownNotes": "",
+      "label": "lantadymeincensesticks100",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/m40Cqfq.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_weed_incense_sticks",
+      "name": "Spirit weed incense sticks",
+      "breakdownNotes": "",
+      "label": "spiritsticks",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/6WSkKO7.png",
+      "wikiLink": "https://runescape.wiki/w/Smoke_Devil_scroll_(Dust_Cloud)",
+      "name": "Smoke Devil scroll (Dust Cloud) (5k)",
+      "breakdownNotes": "",
+      "label": "smokedevilscroll5000",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/v6Q4ZEl.png",
+        "name": "Smoke Devil",
+        "breakdownNotes": "",
+        "label": "smokedevil"
+      }
+    ]
+  }
+}

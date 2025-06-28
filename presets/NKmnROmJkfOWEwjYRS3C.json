@@ -1,0 +1,290 @@
+{
+  "presetName": "Revenants",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/iyXqN3S.png",
+      "name": "Ghost hunter goggles",
+      "breakdownNotes": "",
+      "label": "ghostgoggles"
+    },
+    {
+      "image": "https://i.imgur.com/zNu0qYb.png",
+      "name": "Ghost hunter backpack",
+      "breakdownNotes": "",
+      "label": "ghostbackpack"
+    },
+    {
+      "image": "https://i.imgur.com/qbsFxuG.png",
+      "name": "Salve amulet (e)",
+      "breakdownNotes": "",
+      "label": "salvee"
+    },
+    {
+      "image": "https://i.imgur.com/xBT2XFf.png",
+      "name": "Inquisitor staff",
+      "breakdownNotes": "With Enchantment of Affliction",
+      "label": "inq"
+    },
+    {
+      "image": "https://i.imgur.com/cau9oLa.png",
+      "name": "Virtus robe top",
+      "breakdownNotes": "",
+      "label": "virtustop"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/VLeD3Vy.png",
+      "name": "Ghost hunter legs",
+      "breakdownNotes": "",
+      "label": "ghostlegs"
+    },
+    {
+      "image": "https://i.imgur.com/AeQr9sy.png",
+      "name": "Forinthry bracelet",
+      "breakdownNotes": "",
+      "label": "forinthrybracelet"
+    },
+    {
+      "image": "https://i.imgur.com/KUGqEdN.png",
+      "name": "Enhanced blast diffusion boots",
+      "breakdownNotes": "",
+      "label": "enhancedblastdiff"
+    },
+    {
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "name": "Reaver's ring",
+      "breakdownNotes": "Can be replaced with Ring of Death if uncomfortable/cutting corners",
+      "label": "reaverring"
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul, Runes for Blood Blitz",
+      "label": "graspingpouchblack"
+    },
+    {
+      "image": "https://i.imgur.com/HwmLz6n.png",
+      "name": "Supreme runic accuracy aura",
+      "breakdownNotes": "",
+      "label": "runic"
+    },
+    {
+      "image": "https://i.imgur.com/lPppoD4.png",
+      "name": "Scripture of Ful",
+      "breakdownNotes": "",
+      "label": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/SsNRoVE.png",
+      "name": "Elder overload salve",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/cIHG8g8.png",
+      "name": "Wilderness sword 4",
+      "breakdownNotes": "",
+      "label": "wildernesssword",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/39OlNWt.png",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "label": "cballs",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/zWMNrib.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SsNRoVE.png",
+      "name": "Elder overload salve",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KFZJLhU.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "Can be used with Wildy sword 4 for BD if dive is not owned",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/eXAbFdM.png",
+      "name": "Dwarven siege engine",
+      "breakdownNotes": "Upgraded",
+      "label": "cannon",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/zWMNrib.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SsNRoVE.png",
+      "name": "Elder overload salve",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UURvGNW.png",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "label": "elvenshard",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/5dumsv0.png",
+      "name": "Binding contract (kal'gerion demon)",
+      "breakdownNotes": "",
+      "label": "kalg",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/zWMNrib.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/q7228b9.png",
+      "name": "Blessed flask",
+      "breakdownNotes": "For prayer upkeep, can fill inventory with Super Restore Flasks if not owned",
+      "label": "blessed",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xE7wk4H.png",
+      "name": "Revenant drop enhancer",
+      "breakdownNotes": "",
+      "label": "revenantdropenhancer",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/COanosD.png",
+      "name": "Crit-i-kal scrolls",
+      "breakdownNotes": "",
+      "label": "kalgscrolls",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "<div>Chaos | Air | Water | Fire, Runes for Blood Blitz</div>",
+      "label": "graspingpouchblue",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [],
+    "alternativeFamiliars": []
+  }
+}

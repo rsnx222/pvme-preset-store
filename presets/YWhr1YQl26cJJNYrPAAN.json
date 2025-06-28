@@ -1,0 +1,339 @@
+{
+  "presetName": "Abyssal beast AFK necro training wildy",
+  "presetNotes": "pray mage",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/mOp3i6V.png",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_hood_(tier_90)",
+      "name": "Deathdealer hood (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathdealerhoodt90"
+    },
+    {
+      "image": "https://i.imgur.com/yUZKgcy.png",
+      "wikiLink": "https://runescape.wiki/w/TokHaar-Kal-Mor",
+      "name": "TokHaar-Kal-Mor",
+      "breakdownNotes": "",
+      "label": "kilnnecro"
+    },
+    {
+      "image": "https://i.imgur.com/UB0lAK8.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet",
+      "name": "Essence of Finality amulet",
+      "breakdownNotes": "",
+      "label": "eof"
+    },
+    {
+      "image": "https://i.imgur.com/tosZimW.png",
+      "wikiLink": "https://runescape.wiki/w/Death_guard_(tier_90)",
+      "name": "Death guard (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathguardt90"
+    },
+    {
+      "image": "https://i.imgur.com/iKWW3ZF.png",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_robe_top_(tier_90)",
+      "name": "Deathdealer robe top (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathdealerrobetopt90"
+    },
+    {
+      "image": "https://i.imgur.com/nEI3w2n.png",
+      "wikiLink": "https://runescape.wiki/w/Skull_lantern_(tier_90)",
+      "name": "Skull lantern (tier 90)",
+      "breakdownNotes": "",
+      "label": "skulllanternt90"
+    },
+    {
+      "image": "https://i.imgur.com/AjOaaB7.png",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_robe_bottom_(tier_90)",
+      "name": "Deathdealer robe bottom (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathdealerrobebottomt90"
+    },
+    {
+      "image": "https://i.imgur.com/olAlTZ8.png",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_gloves_(tier_90)",
+      "name": "Deathdealer gloves (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathdealerglovest90"
+    },
+    {
+      "image": "https://i.imgur.com/ixeiTn3.png",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_boots_(tier_90)",
+      "name": "Deathdealer boots (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathdealerbootst90"
+    },
+    {
+      "image": "https://i.imgur.com/y5vAY4M.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death",
+      "name": "Ring of death",
+      "breakdownNotes": "",
+      "label": "rod"
+    },
+    {
+      "image": "https://i.imgur.com/hd7YvA4.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
+      "name": "Deathwarden Nexus",
+      "breakdownNotes": "all necro runes and ectoplasm",
+      "label": "deathwardennexus"
+    },
+    {
+      "image": "https://i.imgur.com/yLeE8ie.png",
+      "wikiLink": "https://runescape.wiki/w/Inspiration_aura",
+      "name": "Inspiration aura",
+      "breakdownNotes": "",
+      "label": "inspiration"
+    },
+    {
+      "image": "https://i.imgur.com/zd3mKfH.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "",
+      "label": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/uIF03Iz.png",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#active",
+      "name": "Potion reservoir",
+      "breakdownNotes": "",
+      "label": "potionreservoir",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/af9O4EM.png",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#inactive",
+      "name": "Potion reservoir (inactive)",
+      "breakdownNotes": "",
+      "label": "potionreservoir2",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gKUbd5X.png",
+      "wikiLink": "https://runescape.wiki/w/Portable_Obelisk",
+      "name": "Portable Obelisk",
+      "breakdownNotes": "",
+      "label": "portableobelisk",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/w6hThUy.png",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "name": "Powder of penance",
+      "breakdownNotes": "",
+      "label": "powderofpenance2",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ODNlwIc.png",
+      "wikiLink": "https://runescape.wiki/w/Gem_bag_(upgraded)",
+      "name": "Gem bag (upgraded)",
+      "breakdownNotes": "",
+      "label": "gembag",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PpYdCr1.png",
+      "wikiLink": "https://runescape.wiki/w/Torstol_incense_sticks",
+      "name": "Torstol incense sticks",
+      "breakdownNotes": "yes this boosts necro xp, also use Inspire Awe relic.",
+      "label": "torstolincensesticks100",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8r07LbS.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_notepaper",
+      "name": "Magic notepaper",
+      "breakdownNotes": "",
+      "label": "1knote",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NkIcFSt.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_ectoplasmator",
+      "name": "Attuned ectoplasmator",
+      "breakdownNotes": "",
+      "label": "ecto",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "https://i.imgur.com/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": "",
+        "label": "ripperdemon"
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/PXt50t7.png",
+        "name": "Ice Nihil",
+        "breakdownNotes": "",
+        "label": "icenihil"
+      }
+    ]
+  }
+}

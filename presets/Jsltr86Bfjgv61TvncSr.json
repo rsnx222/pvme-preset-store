@@ -1,0 +1,390 @@
+{
+  "presetName": "Entry AOD range preset",
+  "presetNotes": "Ring of death or similar dps ring<br />",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/DpKvhTI.png",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_helm_of_zamorak",
+      "name": "Anima core helm of zamorak",
+      "breakdownNotes": "minimum",
+      "label": "zamhelm"
+    },
+    {
+      "image": "https://i.imgur.com/NhX2RVu.png",
+      "wikiLink": "https://runescape.wiki/w/Combatant's_cape",
+      "name": "Combatant's cape",
+      "breakdownNotes": "",
+      "label": "combatantscape"
+    },
+    {
+      "image": "https://i.imgur.com/cUaU7mB.png",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_souls",
+      "name": "Amulet of souls",
+      "breakdownNotes": "",
+      "label": "aos"
+    },
+    {
+      "image": "https://i.imgur.com/VZnA3ZS.png",
+      "wikiLink": "https://runescape.wiki/w/Ascension_crossbow",
+      "name": "Ascension crossbow",
+      "breakdownNotes": "",
+      "label": "asc"
+    },
+    {
+      "image": "https://i.imgur.com/2S7BJBW.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix_body",
+      "name": "Pernix body",
+      "breakdownNotes": "",
+      "label": "pernixtop"
+    },
+    {
+      "image": "https://i.imgur.com/tSwe20M.png",
+      "wikiLink": "https://runescape.wiki/w/Off-hand_ascension_crossbow",
+      "name": "Off-hand ascension crossbow",
+      "breakdownNotes": "",
+      "label": "ohasc"
+    },
+    {
+      "image": "https://i.imgur.com/5EkevSX.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix_chaps",
+      "name": "Pernix chaps",
+      "breakdownNotes": "",
+      "label": "pernixlegs"
+    },
+    {
+      "image": "https://i.imgur.com/goMzH9N.png",
+      "wikiLink": "https://runescape.wiki/w/Nightmare_gauntlets",
+      "name": "Nightmare gauntlets",
+      "breakdownNotes": "",
+      "label": "nightmare"
+    },
+    {
+      "image": "https://i.imgur.com/R5kSCvF.png",
+      "wikiLink": "https://runescape.wiki/w/Fleeting_boots",
+      "name": "Fleeting boots",
+      "breakdownNotes": "",
+      "label": "fleet"
+    },
+    {
+      "image": "https://i.imgur.com/y5vAY4M.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death",
+      "name": "Ring of death",
+      "breakdownNotes": "",
+      "label": "rod"
+    },
+    {
+      "image": "https://i.imgur.com/ipGtNvB.png",
+      "wikiLink": "https://runescape.wiki/w/Ruby_bakriminel_bolts_(e)",
+      "name": "Ruby bakriminel bolts (e)",
+      "breakdownNotes": "",
+      "label": "ruby"
+    },
+    {
+      "image": "https://i.imgur.com/oPYJmML.png",
+      "wikiLink": "https://runescape.wiki/w/Reckless_aura",
+      "name": "Reckless aura",
+      "breakdownNotes": "",
+      "label": "reckless"
+    },
+    {
+      "image": "https://i.imgur.com/we1VPRx.png",
+      "wikiLink": "https://runescape.wiki/w/Scrimshaw_of_Cruelty",
+      "name": "Scrimshaw of Cruelty",
+      "breakdownNotes": "",
+      "label": "cruelty"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/0d9nkK4.png",
+      "wikiLink": "https://runescape.wiki/w/Planted_feet_perk",
+      "name": "Planted feet perk",
+      "breakdownNotes": "planted feet swap (sunspear, etc)<br />",
+      "label": "pf",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/upbhHnL.png",
+      "wikiLink": "https://runescape.wiki/w/Vengful_kiteshield",
+      "name": "Vengful kiteshield",
+      "breakdownNotes": "",
+      "label": "rangeshield",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/IqAjWRF.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "",
+      "label": "renewal4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gKnqcZ0.png",
+      "wikiLink": "https://runescape.wiki/w/Overload_flask#(6)",
+      "name": "Overload flask (6)",
+      "breakdownNotes": "",
+      "label": "overload",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xbNBoDV.png",
+      "wikiLink": "https://runescape.wiki/w/Hydrix_bakriminel_bolts_(e)",
+      "name": "Hydrix bakriminel bolts (e)",
+      "breakdownNotes": "",
+      "label": "hydrix",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "label": "deathward",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "label": "persistentrage",
+        "energy": 150
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "https://i.imgur.com/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": "",
+        "label": "kalgdemon"
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": "",
+        "label": "ripperdemon"
+      }
+    ]
+  }
+}

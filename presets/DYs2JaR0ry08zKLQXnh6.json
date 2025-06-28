@@ -1,0 +1,401 @@
+{
+  "presetName": "Solak Magic / Melee Hybrid Solo",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/iPtkkKN.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_mask",
+      "name": "Elite tectonic mask",
+      "breakdownNotes": "",
+      "label": "etectohelm"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/YR6pLdv.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet_(yellow)",
+      "name": "Essence of Finality amulet (yellow)",
+      "breakdownNotes": "Armadyl Battlestaff special attack.",
+      "label": "eofyellowunorn"
+    },
+    {
+      "image": "https://i.imgur.com/kyKIKBC.png",
+      "wikiLink": "https://runescape.wiki/w/Wand_of_the_praesul",
+      "name": "Wand of the praesul",
+      "breakdownNotes": "",
+      "label": "pwand"
+    },
+    {
+      "image": "https://i.imgur.com/NftWcLQ.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_top",
+      "name": "Elite tectonic robe top",
+      "breakdownNotes": "",
+      "label": "etectotop"
+    },
+    {
+      "image": "https://i.imgur.com/PNWPCPA.png",
+      "wikiLink": "https://runescape.wiki/w/Kalphite_rebounder",
+      "name": "Kalphite rebounder",
+      "breakdownNotes": "",
+      "label": "rebounder"
+    },
+    {
+      "image": "https://i.imgur.com/0TXtWf2.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_bottom",
+      "name": "Elite tectonic robe bottom",
+      "breakdownNotes": "",
+      "label": "etectolegs"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/2VPk1SN.png",
+      "wikiLink": "https://runescape.wiki/w/Blast_diffusion_boots",
+      "name": "Blast diffusion boots",
+      "breakdownNotes": "",
+      "label": "diffusion"
+    },
+    {
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "label": "reaverring"
+    },
+    {
+      "image": "https://i.imgur.com/b3geFp8.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver",
+      "breakdownNotes": "Hydrix bakriminel bolts (e)",
+      "label": "pernixquiver"
+    },
+    {
+      "image": "https://i.imgur.com/atGzdo2.png",
+      "wikiLink": "https://runescape.wiki/w/Mahjarrat_aura",
+      "name": "Mahjarrat aura",
+      "breakdownNotes": "",
+      "label": "mahj"
+    },
+    {
+      "image": "https://i.imgur.com/eAO0PdY.png",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire",
+      "name": "Erethdor's grimoire",
+      "breakdownNotes": "",
+      "label": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/YGlkhDV.png",
+      "wikiLink": "https://runescape.wiki/w/Wyvern_crossbow",
+      "name": "Wyvern crossbow",
+      "breakdownNotes": "",
+      "label": "wyverncbow",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/rvFepeU.png",
+      "wikiLink": "https://runescape.wiki/w/Imperium_core",
+      "name": "Imperium core",
+      "breakdownNotes": "",
+      "label": "core",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/MRHUme8.png",
+      "wikiLink": "https://runescape.wiki/w/Dominion_mines",
+      "name": "Dominion mines",
+      "breakdownNotes": "",
+      "label": "2mines",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/My8VkUX.png",
+      "wikiLink": "https://runescape.wiki/w/Inquisitor_staff",
+      "name": "Inquisitor staff",
+      "breakdownNotes": "Precise 6 Caroming 1",
+      "label": "inq",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/5NxOiAg.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet_(purple)",
+      "name": "Essence of Finality amulet (purple)",
+      "breakdownNotes": "<span>Guthix Staff special attack.</span>",
+      "label": "eofpurpleunorn",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UB0lAK8.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet",
+      "name": "Essence of Finality amulet",
+      "breakdownNotes": "<span> Ek-ZekKil</span><span> special attack.</span>",
+      "label": "eof",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/wFdHN9C.png",
+      "wikiLink": "https://runescape.wiki/w/Dark_Shard_of_Leng",
+      "name": "Dark Shard of Leng",
+      "breakdownNotes": "",
+      "label": "lengmh",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/LAVYvrE.png",
+      "wikiLink": "https://runescape.wiki/w/Dark_Sliver_of_Leng",
+      "name": "Dark Sliver of Leng",
+      "breakdownNotes": "",
+      "label": "lengoh",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/AI12yBk.png",
+      "wikiLink": "https://runescape.wiki/w/Fractured_Staff_of_Armadyl",
+      "name": "Fractured Staff of Armadyl",
+      "breakdownNotes": "",
+      "label": "fsoa",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Dgtgp4n.png",
+      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
+      "name": "Combat dummy MKII",
+      "breakdownNotes": "",
+      "label": "dummy",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Dgtgp4n.png",
+      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
+      "name": "Combat dummy MKII",
+      "breakdownNotes": "",
+      "label": "dummy",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/IqAjWRF.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "",
+      "label": "renewal4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/EVh5SwD.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_hood",
+      "name": "Vestments of havoc hood",
+      "breakdownNotes": "",
+      "label": "vestmenthood",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/E5ptfu6.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_top",
+      "name": "Vestments of havoc robe top",
+      "breakdownNotes": "",
+      "label": "vestmentbody",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/uLkJkio.png",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_spear_of_annihilation",
+      "name": "Masterwork spear of annihilation",
+      "breakdownNotes": "",
+      "label": "spear",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/n9C7iSA.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "",
+      "label": "vitality4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PFLToHh.png",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)",
+      "name": "Spiritual prayer (6)",
+      "breakdownNotes": "",
+      "label": "spiritual",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "label": "vuln",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FarIA5V.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_boots",
+      "name": "Vestments of havoc boots",
+      "breakdownNotes": "",
+      "label": "vestmentboots",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/mz7GwWF.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_bottom",
+      "name": "Vestments of havoc robe bottom",
+      "breakdownNotes": "",
+      "label": "vestmentlegs",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Moh9yya.png",
+      "wikiLink": "https://runescape.wiki/w/Abyssal_scourge",
+      "name": "Abyssal scourge",
+      "breakdownNotes": "",
+      "label": "abyssalscourge",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "label": "graspingpouchpink",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "label": "graspingpouchblue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "label": "graspingpouchblack",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "https://i.imgur.com/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "description": "Increases maximum health by 500.",
+        "label": "fontoflife",
+        "energy": 50
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": "",
+        "label": "kalgdemon"
+      }
+    ]
+  }
+}

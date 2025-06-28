@@ -1,0 +1,365 @@
+{
+  "presetName": "",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/cqg3cXV.png",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_helm_of_seren",
+      "name": "Anima core helm of seren",
+      "breakdownNotes": "",
+      "label": "serenhelm"
+    },
+    {
+      "image": "https://i.imgur.com/6EvPhe6.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mej",
+      "name": "Igneous Kal-Mej",
+      "breakdownNotes": "",
+      "label": "kalmej"
+    },
+    {
+      "image": "https://i.imgur.com/nu7QSbh.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_staff",
+      "name": "EoF - Guthix staff",
+      "breakdownNotes": "",
+      "label": "eofpurple"
+    },
+    {
+      "image": "https://i.imgur.com/6Zear8O.png",
+      "wikiLink": "https://runescape.wiki/w/Cywir_wand",
+      "name": "Cywir wand",
+      "breakdownNotes": "",
+      "label": "cywirwand"
+    },
+    {
+      "image": "https://i.imgur.com/84rL2dv.png",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_body_of_seren",
+      "name": "Anima core body of seren",
+      "breakdownNotes": "",
+      "label": "serenbody"
+    },
+    {
+      "image": "https://i.imgur.com/Fi9V1qB.png",
+      "wikiLink": "https://runescape.wiki/w/Virtus_book",
+      "name": "Virtus book",
+      "breakdownNotes": "",
+      "label": "vbook"
+    },
+    {
+      "image": "https://i.imgur.com/I5QHqtm.png",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_legs_of_seren",
+      "name": "Anima core legs of seren",
+      "breakdownNotes": "",
+      "label": "serenlegs"
+    },
+    {
+      "image": "https://i.imgur.com/CEn20Sk.png",
+      "wikiLink": "https://runescape.wiki/w/Kerapac's_wrist_wraps",
+      "name": "Kerapac's wrist wraps",
+      "breakdownNotes": "",
+      "label": "wristwraps"
+    },
+    {
+      "image": "https://i.imgur.com/2VPk1SN.png",
+      "wikiLink": "https://runescape.wiki/w/Blast_diffusion_boots",
+      "name": "Blast diffusion boots",
+      "breakdownNotes": "",
+      "label": "diffusion"
+    },
+    {
+      "image": "https://i.imgur.com/sRmyeJv.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death",
+      "name": "Ring of death",
+      "breakdownNotes": "",
+      "label": "rod"
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire, <span>runes for</span><span> Smoke Cloud,</span><span> Exsanguinate, Incite Fear, Spellbook swap (Lunars), Disruption Shield, and Vengeance.</span>",
+      "label": "graspingpouchblue"
+    },
+    {
+      "image": "https://i.imgur.com/Zevs8R8.png",
+      "wikiLink": "https://runescape.wiki/w/Maniacal_aura",
+      "name": "Maniacal aura",
+      "breakdownNotes": "Required for 100% accuracy",
+      "label": "mani"
+    },
+    {
+      "image": "https://i.imgur.com/jTJxwFt.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Jas",
+      "name": "Scripture of Jas",
+      "breakdownNotes": "",
+      "label": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/pzEjejy.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload",
+      "name": "Elder overload",
+      "breakdownNotes": "",
+      "label": "ovl"
+    },
+    {
+      "image": "https://i.imgur.com/b7OFnll.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal",
+      "name": "Adrenaline renewal",
+      "breakdownNotes": "",
+      "label": "renewal4"
+    },
+    {
+      "image": "https://i.imgur.com/oOITsKV.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality",
+      "name": "Powerburst of vitality",
+      "breakdownNotes": "Used during rockfall",
+      "label": "vitality4"
+    },
+    {
+      "image": "https://i.imgur.com/306PXtG.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "label": "vuln"
+    },
+    {
+      "image": "https://i.imgur.com/ysTivBO.png",
+      "wikiLink": "https://runescape.wiki/w/Noxious_staff",
+      "name": "Noxious staff",
+      "breakdownNotes": "Bring only if you know how to 4TAA",
+      "label": "noxstaff"
+    },
+    {
+      "image": "https://i.imgur.com/KFZJLhU.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "Use during P2 pools or start of P3",
+      "label": "excal"
+    },
+    {
+      "image": "https://i.imgur.com/I6vORmU.png",
+      "wikiLink": "https://runescape.wiki/w/Ancient_lantern",
+      "name": "Ancient lantern",
+      "breakdownNotes": "Pf (if gsun unowned) and reso switch",
+      "label": "lantern"
+    },
+    {
+      "image": "https://i.imgur.com/5PPmPXC.png",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer",
+      "name": "Spiritual prayer",
+      "breakdownNotes": "Can substitute with super restores if not using Ripper demon",
+      "label": "spiritual"
+    },
+    {
+      "image": "https://i.imgur.com/5PPmPXC.png",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer",
+      "name": "Spiritual prayer",
+      "breakdownNotes": "Can substitute with super restores if not using Ripper demon",
+      "label": "spiritual"
+    },
+    {
+      "image": "https://i.imgur.com/5PPmPXC.png",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer",
+      "name": "Spiritual prayer",
+      "breakdownNotes": "Can substitute with super restores if not using Ripper demon",
+      "label": "spiritual"
+    },
+    {
+      "image": "https://i.imgur.com/GNzR4sU.png",
+      "wikiLink": "https://runescape.wiki/w/Expensive_spices",
+      "name": "Expensive spices",
+      "breakdownNotes": "",
+      "label": "spices"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/BGhsSXy.png",
+      "wikiLink": "https://runescape.wiki/w/Laniakea's_spear",
+      "name": "Laniakea's spear",
+      "breakdownNotes": "P6E4 for pools",
+      "label": "lanispear"
+    },
+    {
+      "image": "https://i.imgur.com/EiQNqj9.png",
+      "wikiLink": "https://runescape.wiki/w/Laceration_boots",
+      "name": "Laceration boots",
+      "breakdownNotes": "",
+      "label": "laceration"
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/zWMNrib.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "label": "sailfish"
+    },
+    {
+      "image": "https://i.imgur.com/zWMNrib.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "label": "sailfish"
+    },
+    {
+      "image": "https://i.imgur.com/zWMNrib.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "label": "sailfish"
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic, runes for Smoke Cloud, Exsanguinate, Incite Fear, Spellbook swap (Lunars), Disruption Shield, and Vengeance.",
+      "label": "graspingpouchpink"
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/3ETfbUf.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew",
+      "name": "Saradomin brew",
+      "breakdownNotes": "",
+      "label": "sara"
+    },
+    {
+      "image": "https://i.imgur.com/3ETfbUf.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew",
+      "name": "Saradomin brew",
+      "breakdownNotes": "",
+      "label": "sara"
+    },
+    {
+      "image": "https://i.imgur.com/3ETfbUf.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew",
+      "name": "Saradomin brew",
+      "breakdownNotes": "",
+      "label": "sara"
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul, <span>runes for</span><span> Smoke Cloud,</span><span> Exsanguinate, Incite Fear, Spellbook swap (Lunars), Disruption Shield, and Vengeance.</span>",
+      "label": "graspingpouchblack"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/eDmt2lT.png",
+        "name": "Blessing of Het",
+        "breakdownNotes": "",
+        "label": "blessingofhet",
+        "energy": 100
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "label": "furyofthesmall",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "https://i.imgur.com/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": "",
+        "label": "kalgdemon"
+      },
+      {
+        "image": "https://i.imgur.com/A1BvfVb.png",
+        "name": "Hellhound",
+        "breakdownNotes": "",
+        "label": "hellhound"
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": "",
+        "label": "ripperdemon"
+      }
+    ]
+  }
+}

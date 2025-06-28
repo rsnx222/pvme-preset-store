@@ -1,0 +1,318 @@
+{
+  "presetName": "Unspeakable Horrors - Low lvl Magic",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "subjhood",
+      "image": "https://img.pvme.io/images/gfBW8r7.png",
+      "name": "Hood of subjugation",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Hood_of_subjugation"
+    },
+    {
+      "label": "defencecape",
+      "image": "https://img.pvme.io/images/QbbeF9W.png",
+      "name": "Defence cape (t)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Defence_cape_(t)"
+    },
+    {
+      "label": "witchwoodicon",
+      "image": "https://img.pvme.io/images/e7mEkYmC46.png",
+      "name": "Witchwood icon",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Witchwood_icon"
+    },
+    {
+      "label": "obliteration",
+      "image": "https://img.pvme.io/images/Mjyhuk5.png",
+      "name": "Obliteration",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Obliteration"
+    },
+    {
+      "label": "subjgarb",
+      "image": "https://img.pvme.io/images/xaiyx7X.png",
+      "name": "Garb of subjugation",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Garb_of_subjugation"
+    },
+    null,
+    {
+      "label": "subjgown",
+      "image": "https://img.pvme.io/images/OprqhH8.png",
+      "name": "Gown of subjugation",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Gown_of_subjugation"
+    },
+    {
+      "label": "subjgloves",
+      "image": "https://img.pvme.io/images/dzW7KB4.png",
+      "name": "Gloves of subjugation",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Gloves_of_subjugation"
+    },
+    {
+      "label": "diffusion",
+      "image": "https://img.pvme.io/images/2VPk1SN.png",
+      "name": "Blast diffusion boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blast_diffusion_boots"
+    },
+    {
+      "label": "asr",
+      "image": "https://img.pvme.io/images/RZg5LNG.png",
+      "name": "Asylum surgeon's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Asylum_surgeon's_ring"
+    },
+    {
+      "label": "deathwardennexus",
+      "image": "https://img.pvme.io/images/hd7YvA4.png",
+      "name": "Deathwarden Nexus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus"
+    },
+    {
+      "label": "penance",
+      "image": "https://img.pvme.io/images/dMPY1FJ.png",
+      "name": "Penance aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Penance_aura"
+    },
+    {
+      "label": "scriptureofamascut",
+      "image": "https://img.pvme.io/images/4KBTJqYn6o.png",
+      "name": "Scripture of Amascut",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Amascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "fellstalkincensesticks100",
+      "image": "https://img.pvme.io/images/nK9EU1V.png",
+      "name": "Fellstalk incense sticks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fellstalk_incense_sticks",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "bullseyelantern",
+      "image": "https://img.pvme.io/images/CZaNoVfVAh.png",
+      "name": "Bullseye lantern",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bullseye_lantern_(lit)",
+      "selected": false
+    },
+    {
+      "label": "bigbookopiracy",
+      "image": "https://img.pvme.io/images/Ho60PPT.png",
+      "name": "Big Book o'Piracy",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Big_Book_o'Piracy",
+      "selected": false
+    },
+    {
+      "label": "wrench",
+      "image": "https://img.pvme.io/images/UVffd75.png",
+      "name": "Holy wrench",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false
+    },
+    {
+      "label": "cballs",
+      "image": "https://img.pvme.io/images/GrfjyE2.png",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "selected": false
+    },
+    {
+      "label": "cannon",
+      "image": "https://img.pvme.io/images/GTwVqeC.png",
+      "name": "Dwarven siege engine",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchpink",
+      "image": "https://img.pvme.io/images/yrnlR2T.png",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "conservationofenergy",
+        "image": "https://img.pvme.io/images/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "energy": 350,
+        "description": "After using an ultimate ability, you will regain 10% adrenaline."
+      },
+      {
+        "label": "furyofthesmall",
+        "image": "https://img.pvme.io/images/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline."
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "ripperdemon",
+        "image": "https://img.pvme.io/images/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

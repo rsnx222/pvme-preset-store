@@ -1,0 +1,363 @@
+{
+  "presetName": "Abyssal Demons - Ranged",
+  "presetNotes": "Pray Desolation and Soul Split",
+  "equipmentSlots": [
+    {
+      "label": "sirenichelm",
+      "image": "https://i.imgur.com/lhfAbhp.png",
+      "name": "Sirenic mask",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_mask"
+    },
+    {
+      "label": "kalxil",
+      "image": "https://i.imgur.com/TNKAuKX.png",
+      "name": "Igneous Kal-Xil",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Xil"
+    },
+    {
+      "label": "demonhorn",
+      "image": "https://i.imgur.com/gA1MFTE.png",
+      "name": "Demon horn necklace",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Demon_horn_necklace"
+    },
+    {
+      "label": "chins",
+      "image": "https://i.imgur.com/TMWKAqQ.png",
+      "name": "Mechanised chinchompa",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Mechanised_chinchompa"
+    },
+    {
+      "label": "sirenictop",
+      "image": "https://i.imgur.com/lYDKMiu.png",
+      "name": "Sirenic hauberk",
+      "breakdownNotes": "Scavenging 4 + Demon Slayer",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_hauberk"
+    },
+    {
+      "label": "ohbbc",
+      "image": "https://i.imgur.com/bDDDK9h.png",
+      "name": "Off-hand blightbound crossbow",
+      "breakdownNotes": "Caroming 4",
+      "wikiLink": "https://runescape.wiki/w/Off-hand_blightbound_crossbow"
+    },
+    {
+      "label": "sireniclegs",
+      "image": "https://i.imgur.com/gBPOqaV.png",
+      "name": "Sirenic chaps",
+      "breakdownNotes": "Biting 4 (or best spare you have)",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_chaps"
+    },
+    {
+      "label": "cinder",
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+    },
+    {
+      "label": "fleet",
+      "image": "https://i.imgur.com/R5kSCvF.png",
+      "name": "Fleeting boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fleeting_boots"
+    },
+    {
+      "label": "lotd",
+      "image": "https://i.imgur.com/nXXZxpH.png",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves"
+    },
+    {
+      "label": "pernixquiver",
+      "image": "https://i.imgur.com/b3geFp8.png",
+      "name": "Pernix's Quiver",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver"
+    },
+    {
+      "label": "reckless",
+      "image": "https://i.imgur.com/FZ59xZK.png",
+      "name": "Reckless aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Reckless_aura"
+    },
+    {
+      "label": "scriptureofful",
+      "image": "https://i.imgur.com/lPppoD4.png",
+      "name": "Scripture of Ful",
+      "breakdownNotes": "Ensure book is active",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "holyovl",
+      "image": "https://i.imgur.com/TixXgDh.png",
+      "name": "Holy overload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_overload#(6)",
+      "selected": false
+    },
+    {
+      "label": "holyovl",
+      "image": "https://i.imgur.com/TixXgDh.png",
+      "name": "Holy overload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_overload#(6)",
+      "selected": false
+    },
+    {
+      "label": "holyovl",
+      "image": "https://i.imgur.com/TixXgDh.png",
+      "name": "Holy overload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_overload#(6)",
+      "selected": false
+    },
+    {
+      "label": "holyovl",
+      "image": "https://i.imgur.com/TixXgDh.png",
+      "name": "Holy overload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_overload#(6)",
+      "selected": false
+    },
+    {
+      "label": "holyovl",
+      "image": "https://i.imgur.com/TixXgDh.png",
+      "name": "Holy overload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_overload#(6)",
+      "selected": false
+    },
+    {
+      "label": "holyovl",
+      "image": "https://i.imgur.com/TixXgDh.png",
+      "name": "Holy overload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_overload#(6)",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "label": "fireorb1noted",
+      "image": "https://i.imgur.com/A6r373m.png",
+      "name": "Fire orb",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fire_orb",
+      "selected": false
+    },
+    {
+      "label": "magiclogs1noted",
+      "image": "https://i.imgur.com/fEa8Qx8.png",
+      "name": "Magic logs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_logs",
+      "selected": false
+    },
+    {
+      "label": "pureessence1noted",
+      "image": "https://i.imgur.com/jfijgZN.png",
+      "name": "Pure essence",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Pure_essence",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "label": "cannon",
+      "image": "https://i.imgur.com/GTwVqeC.png",
+      "name": "Dwarven siege engine",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine",
+      "selected": false
+    },
+    {
+      "label": "cballs",
+      "image": "https://i.imgur.com/GrfjyE2.png",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "label": "ecto",
+      "image": "https://i.imgur.com/NkIcFSt.png",
+      "name": "Attuned ectoplasmator",
+      "breakdownNotes": "Bring 500-1000 ghostly essence for recharge",
+      "wikiLink": "https://runescape.wiki/w/Attuned_ectoplasmator",
+      "selected": false
+    },
+    {
+      "label": "springcleaner",
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false
+    },
+    {
+      "label": "cluebag",
+      "image": "https://i.imgur.com/KPREDHT.png",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "selected": false
+    },
+    {
+      "label": "herbbag",
+      "image": "https://i.imgur.com/egmZjv0.png",
+      "name": "Herb bag",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Herb_bag",
+      "selected": false
+    },
+    {
+      "label": "artificer",
+      "image": "https://i.imgur.com/gMZLjIv.png",
+      "name": "Artificer's measure",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Artificer's_measure",
+      "selected": false
+    },
+    {
+      "label": "pouch",
+      "image": "https://i.imgur.com/lBTTP01.png",
+      "name": "Large rune pouch",
+      "breakdownNotes": "Used to store high alchemy runes for whips and dragon items",
+      "wikiLink": "https://runescape.wiki/w/Large_rune_pouch",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "label": "persistentrage",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "shadownihil",
+        "image": "https://i.imgur.com/evmMlFz.png",
+        "name": "Shadow Nihil",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "label": "bunyip",
+        "image": "https://i.imgur.com/hpjldw8.png",
+        "name": "Bunyip",
+        "breakdownNotes": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

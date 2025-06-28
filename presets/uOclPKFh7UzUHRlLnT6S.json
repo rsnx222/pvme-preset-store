@@ -1,0 +1,353 @@
+{
+  "presetName": "Necro 1 Ticks",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/YlR8MWC.png",
+      "wikiLink": "https://runescape.wiki/w/Crown_of_the_First_Necromancer",
+      "name": "Crown of the First Necromancer",
+      "breakdownNotes": "",
+      "label": "t95necrohelm"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/UB0lAK8.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet",
+      "name": "Essence of Finality amulet",
+      "breakdownNotes": "Deathguard EoF",
+      "label": "eof"
+    },
+    {
+      "image": "https://i.imgur.com/SzFvoQB.png",
+      "wikiLink": "https://runescape.wiki/w/Omni_guard",
+      "name": "Omni guard",
+      "breakdownNotes": "",
+      "label": "omniguard"
+    },
+    {
+      "image": "https://i.imgur.com/ju4qvbN.png",
+      "wikiLink": "https://runescape.wiki/w/Robe_top_of_the_First_Necromancer",
+      "name": "Robe top of the First Necromancer",
+      "breakdownNotes": "Biting 4",
+      "label": "t95necrotop"
+    },
+    {
+      "image": "https://i.imgur.com/VJsZ4HL.png",
+      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern",
+      "name": "Soulbound lantern",
+      "breakdownNotes": "This can be downgraded and work the same.<br />Perk: Equilibrium 4.",
+      "label": "soulboundlantern"
+    },
+    {
+      "image": "https://i.imgur.com/9B2Bf7D.png",
+      "wikiLink": "https://runescape.wiki/w/Robe_bottom_of_the_First_Necromancer",
+      "name": "Robe bottom of the First Necromancer",
+      "breakdownNotes": "Demon Slayer + Dragon Slayer",
+      "label": "t95necrolegs"
+    },
+    {
+      "image": "https://i.imgur.com/8zjLczG.png",
+      "wikiLink": "https://runescape.wiki/w/Hand_wrap_of_the_First_Necromancer",
+      "name": "Hand wrap of the First Necromancer",
+      "breakdownNotes": "",
+      "label": "t95necrogloves"
+    },
+    {
+      "image": "https://i.imgur.com/FawdniP.png",
+      "wikiLink": "https://runescape.wiki/w/Foot_wraps_of_the_First_Necromancer",
+      "name": "Foot wraps of the First Necromancer",
+      "breakdownNotes": "",
+      "label": "t95necroboots"
+    },
+    {
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "label": "reaverring"
+    },
+    {
+      "image": "https://i.imgur.com/b3geFp8.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver",
+      "breakdownNotes": "",
+      "label": "pernixquiver"
+    },
+    {
+      "image": "https://i.imgur.com/atGzdo2.png",
+      "wikiLink": "https://runescape.wiki/w/Mahjarrat_aura",
+      "name": "Mahjarrat aura",
+      "breakdownNotes": "Mahjarrat",
+      "label": "mahj"
+    },
+    {
+      "image": "https://i.imgur.com/9IyFKle.png",
+      "wikiLink": "https://runescape.wiki/w/Shard_of_Zaros",
+      "name": "Shard of Zaros",
+      "breakdownNotes": "",
+      "label": "shardofzaros"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "Overload is an absolute must.",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yUkClNY.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet_(red)",
+      "name": "Essence of Finality amulet (red)",
+      "breakdownNotes": "Granite Maul EoF",
+      "label": "eofredunorn",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/aKEG5mi.png",
+      "wikiLink": "https://runescape.wiki/w/Ek-ZekKil",
+      "name": "Ek-ZekKil",
+      "breakdownNotes": "For Granite Maul",
+      "label": "zekkil",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/WibUB0k.png",
+      "wikiLink": "https://runescape.wiki/w/Zamorak_brew_(4)",
+      "name": "Zamorak brew (4)",
+      "breakdownNotes": "",
+      "label": "zambrew4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/WibUB0k.png",
+      "wikiLink": "https://runescape.wiki/w/Zamorak_brew_(4)",
+      "name": "Zamorak brew (4)",
+      "breakdownNotes": "",
+      "label": "zambrew4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/WibUB0k.png",
+      "wikiLink": "https://runescape.wiki/w/Zamorak_brew_(4)",
+      "name": "Zamorak brew (4)",
+      "breakdownNotes": "",
+      "label": "zambrew4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/LIuAXT2.png",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_rock_cake_(cooled)",
+      "name": "Dwarven rock cake (cooled)",
+      "breakdownNotes": "",
+      "label": "rockcake",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "Needed for stall",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/eAO0PdY.png",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire",
+      "name": "Erethdor's grimoire",
+      "breakdownNotes": "",
+      "label": "grim",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "label": "graspingpouchblue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "label": "graspingpouchpink",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "label": "graspingpouchblack",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/5dumsv0.png",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(kal'gerion_demon)",
+      "name": "Binding contract (kal'gerion demon)",
+      "breakdownNotes": "",
+      "label": "kalg",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hjoH9xr.png",
+      "wikiLink": "https://runescape.wiki/w/Kal%27gerion_Demon_scroll_(Crit-i-Kal)",
+      "name": "Kal'gerion Demon scroll (Crit-i-Kal)",
+      "breakdownNotes": "",
+      "label": "kalgscrolls500",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/4pGOeox.png",
+      "wikiLink": "https://runescape.wiki/w/Miasma_rune",
+      "name": "Miasma rune",
+      "breakdownNotes": "",
+      "label": "miasmarune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/cgW4gGD.png",
+      "wikiLink": "https://runescape.wiki/w/Flesh_rune",
+      "name": "Flesh rune",
+      "breakdownNotes": "",
+      "label": "fleshrune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/N0YCWbP.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_rune",
+      "name": "Spirit rune",
+      "breakdownNotes": "",
+      "label": "spiritrune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/oYa48lq.png",
+      "wikiLink": "https://runescape.wiki/w/Bone_rune",
+      "name": "Bone rune",
+      "breakdownNotes": "",
+      "label": "bonerune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "label": "vuln",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "label": "persistentrage",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": "",
+        "label": "kalgdemon"
+      }
+    ]
+  }
+}

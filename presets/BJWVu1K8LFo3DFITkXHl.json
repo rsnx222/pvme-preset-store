@@ -1,0 +1,311 @@
+{
+  "presetName": "MoW Farming",
+  "presetNotes": "It is important to <strong>NOT </strong><span>have Relentless </span><img title=\"relentless5\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800920748092.png?v=1\" /><span> and Impatient </span><img title=\"imp4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088204013640.png?v=1\" />",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/lhfAbhp.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_mask",
+      "name": "Sirenic mask",
+      "breakdownNotes": "",
+      "label": "sirenichelm"
+    },
+    {
+      "image": "https://i.imgur.com/TNKAuKX.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Xil",
+      "name": "Igneous Kal-Xil",
+      "breakdownNotes": "",
+      "label": "kalxil"
+    },
+    {
+      "image": "https://i.imgur.com/YQRScqK.png",
+      "wikiLink": "https://runescape.wiki/w/Farsight_blood_necklace",
+      "name": "Farsight blood necklace",
+      "breakdownNotes": "",
+      "label": "rangeblood"
+    },
+    {
+      "image": "https://i.imgur.com/GkhQHSj.png",
+      "wikiLink": "https://runescape.wiki/w/Bow_of_the_Last_Guardian",
+      "name": "Bow of the Last Guardian",
+      "breakdownNotes": "Precise 6 Aftershock 1 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088769982475.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502339891331093.png?v=1\" /> + Caroming 4 Equilibrium 2 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/791281588792590336.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502258424971564.png?v=1\" />",
+      "label": "bolg"
+    },
+    {
+      "image": "https://i.imgur.com/lYDKMiu.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_hauberk",
+      "name": "Sirenic hauberk",
+      "breakdownNotes": "Crackling 4 <img title=\"crack4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087662686249.png?v=1\" /> + Lucky 6 <img title=\"lucky6\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/890542428287795221.png?v=1\" />",
+      "label": "sirenictop"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/gBPOqaV.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_chaps",
+      "name": "Sirenic chaps",
+      "breakdownNotes": "Absorbative 4 <img title=\"absorbative4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/890542428556230666.png?v=1\" /> + Crystal Shield 4 <img title=\"crystalshield4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/921410343606034443.png?v=1\" />",
+      "label": "sireniclegs"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/1MkR1qn.png",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_boots",
+      "name": "Cryptbloom boots",
+      "breakdownNotes": "Can replace with Achto Tempest boots <img title=\"achtotempestboots\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/583428621692305429.png?v=1\" />",
+      "label": "cryptbloomboots"
+    },
+    {
+      "image": "https://i.imgur.com/xRj7mKb.png",
+      "wikiLink": "https://runescape.wiki/w/Stalker's_ring",
+      "name": "Stalker's ring",
+      "breakdownNotes": "",
+      "label": "stalkerring"
+    },
+    {
+      "image": "https://i.imgur.com/MG25Uow.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver (Green)",
+      "breakdownNotes": "Emerald bakriminel bolts (e) | Bik arrow",
+      "label": "pernixquivergreen"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/zd3mKfH.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "",
+      "label": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/XjIho2f.png",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "name": "Powder of penance",
+      "breakdownNotes": "If not using, bring more <img title=\"restore\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/642708657825644554.png?v=1\" />",
+      "label": "powderofpenance",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UURvGNW.png",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "label": "elvenshard",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/BQXFPFu.png",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(blood_reaver)",
+      "name": "Binding contract (blood reaver)",
+      "breakdownNotes": "",
+      "label": "reaver",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "label": "poison6",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/LfpiRjg.png",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "",
+      "label": "lantasticks",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic<br /><br />Runes for <img title=\"animatedead\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090453135382.png?v=1\" />",
+      "label": "graspingpouchpink",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul<br /><br /><span>Runes for </span><img title=\"animatedead\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090453135382.png?v=1\" /><br />",
+      "label": "graspingpouchblack",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "label": "persistentrage",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": "",
+        "label": "bloodreaver"
+      }
+    ]
+  }
+}

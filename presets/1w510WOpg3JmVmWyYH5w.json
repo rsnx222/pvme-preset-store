@@ -1,0 +1,352 @@
+{
+  "presetName": "High-level Melee AFK Corp",
+  "presetNotes": "Use <img title=\"Darkness\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1137809209782698024.png?v=1\" /> but will cause issues with prayer restoration. <br />",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/EVh5SwD.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_hood",
+      "name": "Vestments of havoc hood",
+      "breakdownNotes": "<br />",
+      "label": "vestmenthood"
+    },
+    {
+      "image": "https://i.imgur.com/bfzX8Up.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Ket",
+      "name": "Igneous Kal-Ket",
+      "breakdownNotes": "For igneous overpower.<br />",
+      "label": "kalket"
+    },
+    {
+      "image": "https://i.imgur.com/UB0lAK8.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet",
+      "name": "Essence of Finality amulet",
+      "breakdownNotes": "Spec doesn't matter.<br />",
+      "label": "eof"
+    },
+    {
+      "image": "https://i.imgur.com/uLkJkio.png",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_spear_of_annihilation",
+      "name": "Masterwork spear of annihilation",
+      "breakdownNotes": "Needed for passive.<br />",
+      "label": "spear"
+    },
+    {
+      "image": "https://i.imgur.com/E5ptfu6.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_top",
+      "name": "Vestments of havoc robe top",
+      "breakdownNotes": "",
+      "label": "vestmentbody"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/mz7GwWF.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_bottom",
+      "name": "Vestments of havoc robe bottom",
+      "breakdownNotes": "",
+      "label": "vestmentlegs"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "Poison damage.<br />",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/FarIA5V.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_boots",
+      "name": "Vestments of havoc boots",
+      "breakdownNotes": "<br />",
+      "label": "vestmentboots"
+    },
+    {
+      "image": "https://i.imgur.com/cc9GxHt.png",
+      "wikiLink": "https://runescape.wiki/w/Champion's_ring",
+      "name": "Champion's ring",
+      "breakdownNotes": "Preferably enchanted.<br />",
+      "label": "championring"
+    },
+    {
+      "image": "https://i.imgur.com/Mk7jbjC.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch",
+      "name": "Grasping rune pouch",
+      "breakdownNotes": "Prayer bonus.<br />",
+      "label": "graspingpouch"
+    },
+    {
+      "image": "https://i.imgur.com/G4FM1Cz.png",
+      "wikiLink": "https://runescape.wiki/w/Penance_aura",
+      "name": "Penance aura",
+      "breakdownNotes": "Use with <img title=\"penancepowder\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/928221126360969226.png?v=1\" /> as <img title=\"darkness\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1137809209782698024.png?v=1\" /> may cause issues with prayer restoration.<br />",
+      "label": "penance"
+    },
+    {
+      "image": "https://i.imgur.com/bMTAHDe.png",
+      "wikiLink": "https://runescape.wiki/w/Scrimshaw_of_Vampyrism",
+      "name": "Scrimshaw of Vampyrism",
+      "breakdownNotes": "Required.",
+      "label": "vamp"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "Required.<br />",
+      "label": "poison6",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/N0YCWbP.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_rune",
+      "name": "Spirit rune",
+      "breakdownNotes": "",
+      "label": "spiritrune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/oYa48lq.png",
+      "wikiLink": "https://runescape.wiki/w/Bone_rune",
+      "name": "Bone rune",
+      "breakdownNotes": "",
+      "label": "bonerune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/af9O4EM.png",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#inactive",
+      "name": "Potion reservoir (inactive)",
+      "breakdownNotes": "For <img title=\"elderovlsalve\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/648976643687317532.png?v=1\" /><br />",
+      "label": "potionreservoir2",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/wsYgZsb.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_luck_potion",
+      "name": "Enhanced luck potion",
+      "breakdownNotes": "Optional.",
+      "label": "enhluck",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Ba7yju8.png",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "",
+      "label": "kwuarmsticks",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/cgW4gGD.png",
+      "wikiLink": "https://runescape.wiki/w/Flesh_rune",
+      "name": "Flesh rune",
+      "breakdownNotes": "",
+      "label": "fleshrune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/4pGOeox.png",
+      "wikiLink": "https://runescape.wiki/w/Miasma_rune",
+      "name": "Miasma rune",
+      "breakdownNotes": "",
+      "label": "miasmarune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/0WBnZ62.png",
+      "wikiLink": "https://runescape.wiki/w/Abyssal_armour_spikes_(alloy)",
+      "name": "Abyssal armour spikes (alloy)",
+      "breakdownNotes": "Optional.",
+      "label": "abyssalspikes",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UVffd75.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench",
+      "name": "Holy wrench",
+      "breakdownNotes": "",
+      "label": "wrench",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/w6hThUy.png",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "name": "Powder of penance",
+      "breakdownNotes": "Use with <img title=\"penanceaura\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643505653062565907.png?v=1\" /> as <img title=\"darkness\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1137809209782698024.png?v=1\" /> may cause issues with prayer restoration.<br />",
+      "label": "powderofpenance2",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "Emergency healing.<br />",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UURvGNW.png",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "Prayer upkeep.<br />",
+      "label": "elvenshard",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FVmxMkH.png",
+      "wikiLink": "https://runescape.wiki/w/Blessed_flask",
+      "name": "Blessed flask",
+      "breakdownNotes": "Optional if not using both <img title=\"penanceaura\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643505653062565907.png?v=1\" /> and <img title=\"penancepowder\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/928221126360969226.png?v=1\" /><br /><br />Can be replaced with a few <img title=\"restore\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/642708657825644554.png?v=1\" />",
+      "label": "blessed",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/LOWCNkE.png",
+      "wikiLink": "https://runescape.wiki/w/Kinetic_cyclone",
+      "name": "Kinetic cyclone",
+      "breakdownNotes": "Upgraded, required.<br />",
+      "label": "cyclone",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GrfjyE2.png",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "label": "cballs",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained.",
+        "label": "persistentrage",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/KWIawjY.png",
+        "name": "Legendary Pet (Scavenge)",
+        "breakdownNotes": "",
+        "label": "legendpetscav"
+      }
+    ]
+  }
+}

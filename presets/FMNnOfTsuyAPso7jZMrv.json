@@ -1,0 +1,380 @@
+{
+  "presetName": "basic melee rago",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/RWjMKOw.png",
+      "name": "Malevolent helm",
+      "breakdownNotes": "",
+      "label": "malevhelm"
+    },
+    {
+      "image": "https://i.imgur.com/bfzX8Up.png",
+      "name": "Igneous Kal-Ket",
+      "breakdownNotes": "",
+      "label": "kalket"
+    },
+    {
+      "image": "https://i.imgur.com/JMC7t7Y.png",
+      "name": "EoF - Dragon claws",
+      "breakdownNotes": "",
+      "label": "eofred"
+    },
+    {
+      "image": "https://i.imgur.com/i6WWkrb.png",
+      "name": "Mainhand drygore mace",
+      "breakdownNotes": "",
+      "label": "mace"
+    },
+    {
+      "image": "https://i.imgur.com/MPWh2PL.png",
+      "name": "Malevolent cuirass",
+      "breakdownNotes": "",
+      "label": "malevtop"
+    },
+    {
+      "image": "https://i.imgur.com/6IjpoTc.png",
+      "name": "Ancient defender",
+      "breakdownNotes": "",
+      "label": "nexdefender"
+    },
+    {
+      "image": "https://i.imgur.com/vxMoCyg.png",
+      "name": "Malevolent greaves",
+      "breakdownNotes": "",
+      "label": "malevlegs"
+    },
+    {
+      "image": "https://i.imgur.com/U4Wa7vb.png",
+      "name": "Gloves of passage",
+      "breakdownNotes": "",
+      "label": "glovesofpassage"
+    },
+    {
+      "image": "https://i.imgur.com/EiQNqj9.png",
+      "name": "Laceration boots",
+      "breakdownNotes": "",
+      "label": "laceration"
+    },
+    {
+      "image": "https://i.imgur.com/sRmyeJv.png",
+      "name": "Ring of death",
+      "breakdownNotes": "",
+      "label": "rod"
+    },
+    {
+      "image": "https://i.imgur.com/gCf8SPg.png",
+      "name": "Grasping rune pouch (purple)",
+      "breakdownNotes": "",
+      "label": "graspingpouchpurple"
+    },
+    {
+      "image": "https://i.imgur.com/dNm4A5W.png",
+      "name": "Berserker aura",
+      "breakdownNotes": "",
+      "label": "zerk"
+    },
+    {
+      "image": "https://i.imgur.com/PY2Fx7Z.png",
+      "name": "Book of wisdom (Illuminated)",
+      "breakdownNotes": "",
+      "label": "saragodbook"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/UdwG9Sq.png",
+      "name": "Supreme overload salve (6)",
+      "breakdownNotes": "",
+      "label": "supremesalve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/q7228b9.png",
+      "name": "Blessed flask",
+      "breakdownNotes": "",
+      "label": "blessed",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b7OFnll.png",
+      "name": "Adrenaline renewal",
+      "breakdownNotes": "",
+      "label": "renewal4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/oOITsKV.png",
+      "name": "Powerburst of vitality",
+      "breakdownNotes": "",
+      "label": "vitality4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3ETfbUf.png",
+      "name": "Saradomin brew",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3ETfbUf.png",
+      "name": "Saradomin brew",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3ETfbUf.png",
+      "name": "Saradomin brew",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NBRRXkx.png",
+      "name": "Offhand drygore longsword",
+      "breakdownNotes": "",
+      "label": "ohlong",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/H74WgP2.png",
+      "name": "Noxious scythe",
+      "breakdownNotes": "",
+      "label": "scythe",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GMiwyEA.png",
+      "name": "Dragon scimitar",
+      "breakdownNotes": "",
+      "label": "dragonscimitar",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/E03cGER.png",
+      "name": "Combat dummy MKII",
+      "breakdownNotes": "",
+      "label": "dummy",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/E03cGER.png",
+      "name": "Combat dummy MKII",
+      "breakdownNotes": "",
+      "label": "dummy",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3HSronv.png",
+      "name": "Malevolent kiteshield",
+      "breakdownNotes": "",
+      "label": "meleeshield",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "",
+      "label": "graspingpouchblack",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "",
+      "label": "graspingpouchblue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KFZJLhU.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/306PXtG.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "label": "vuln",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ZI7v9Mn.png",
+      "name": "Sailfish soup",
+      "breakdownNotes": "",
+      "label": "soup",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ZI7v9Mn.png",
+      "name": "Sailfish soup",
+      "breakdownNotes": "",
+      "label": "soup",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ZI7v9Mn.png",
+      "name": "Sailfish soup",
+      "breakdownNotes": "",
+      "label": "soup",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [],
+    "alternativeFamiliars": []
+  }
+}

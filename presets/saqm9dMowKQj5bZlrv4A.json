@@ -1,0 +1,394 @@
+{
+  "presetName": "m/r ham",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "sliskehelm",
+      "image": "https://img.pvme.io/images/jxHhKUO.png",
+      "name": "Anima core helm of sliske",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_helm_of_sliske"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "eofblackunorn",
+      "image": "https://img.pvme.io/images/jRuWtdl.png",
+      "name": "EoF - Statius's warhammer",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Statius%27s_warhammer"
+    },
+    {
+      "label": "roarofawakening",
+      "image": "https://img.pvme.io/images/nCmqhfpcHo.png",
+      "name": "Roar of Awakening",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening"
+    },
+    {
+      "label": "sliskebody",
+      "image": "https://img.pvme.io/images/FMvke44.png",
+      "name": "Anima core body of sliske",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_body_of_sliske"
+    },
+    {
+      "label": "lantern",
+      "image": "https://img.pvme.io/images/v9ceVpM.png",
+      "name": "Ancient lantern",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ancient_lantern"
+    },
+    {
+      "label": "sliskelegs",
+      "image": "https://img.pvme.io/images/0HQcba9.png",
+      "name": "Anima core legs of sliske",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_legs_of_sliske"
+    },
+    {
+      "label": "dtb",
+      "image": "https://img.pvme.io/images/ia3JNEm.png",
+      "name": "Deathtouched bracelet",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathtouched_bracelet"
+    },
+    {
+      "label": "shboots",
+      "image": "https://img.pvme.io/images/TkJs5ST.png",
+      "name": "Silverhawk boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Silverhawk_boots"
+    },
+    {
+      "label": "reaverring",
+      "image": "https://img.pvme.io/images/cnIOClx.png",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring"
+    },
+    {
+      "label": "pernixquiver",
+      "image": "https://img.pvme.io/images/b3geFp8.png",
+      "name": "Pernix's Quiver",
+      "breakdownNotes": "Ful arrow | Deathspore arrow",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver"
+    },
+    {
+      "label": "mani",
+      "image": "https://img.pvme.io/images/5fIllNu.png",
+      "name": "Maniacal aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Maniacal_aura"
+    },
+    {
+      "label": "grim",
+      "image": "https://img.pvme.io/images/eAO0PdY.png",
+      "name": "Erethdor's grimoire",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "replen",
+      "image": "https://img.pvme.io/images/LWm3PJt.png",
+      "name": "Enhanced replenishment potion (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_replenishment_potion#(6)",
+      "selected": false
+    },
+    {
+      "label": "spiritual",
+      "image": "https://img.pvme.io/images/PFLToHh.png",
+      "name": "Spiritual prayer (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)",
+      "selected": false
+    },
+    {
+      "label": "accel4",
+      "image": "https://img.pvme.io/images/I6HFjyN.png",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "selected": false
+    },
+    {
+      "label": "inq",
+      "image": "https://img.pvme.io/images/My8VkUX.png",
+      "name": "Inquisitor staff",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Inquisitor_staff",
+      "selected": false
+    },
+    {
+      "label": "vuln",
+      "image": "https://img.pvme.io/images/2vI8jNm.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "eofpink",
+      "image": "https://img.pvme.io/images/MWLieOn.png",
+      "name": "EoF - Eldritch crossbow",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Eldritch_crossbow",
+      "selected": false
+    },
+    {
+      "label": "eofpurpleunorn",
+      "image": "https://img.pvme.io/images/5NxOiAg.png",
+      "name": "EoF - Decimation",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Decimation",
+      "selected": false
+    },
+    {
+      "label": "eofblue",
+      "image": "https://img.pvme.io/images/zAiXkJn.png",
+      "name": "EoF - Seren godbow",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Seren_godbow",
+      "selected": false
+    },
+    {
+      "label": "edracolichcoif",
+      "image": "https://img.pvme.io/images/S1sjGOu.png",
+      "name": "Elite Dracolich coif",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_coif",
+      "selected": false
+    },
+    {
+      "label": "fsoa",
+      "image": "https://img.pvme.io/images/AI12yBk.png",
+      "name": "Fractured Staff of Armadyl",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fractured_Staff_of_Armadyl",
+      "selected": false
+    },
+    {
+      "label": "odetodeceit",
+      "image": "https://img.pvme.io/images/8WKmBCfI34.png",
+      "name": "Ode to Deceit",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ode_to_Deceit",
+      "selected": false
+    },
+    {
+      "label": "gbrew",
+      "image": "https://img.pvme.io/images/dPf2fLt.png",
+      "name": "Super Guthix brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "eofyellowunorn",
+      "image": "https://img.pvme.io/images/YR6pLdv.png",
+      "name": "EoF - Dark bow",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dark_bow",
+      "selected": false
+    },
+    {
+      "label": "eofpurple",
+      "image": "https://img.pvme.io/images/nu7QSbh.png",
+      "name": "EoF - Guthix staff / Zamorak staff",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Guthix_staff",
+      "selected": false
+    },
+    {
+      "label": "dummy",
+      "image": "https://img.pvme.io/images/Dgtgp4n.png",
+      "name": "Combat dummy MKII",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
+      "selected": false
+    },
+    {
+      "label": "edracolichhauberk",
+      "image": "https://img.pvme.io/images/M5jOHR3.png",
+      "name": "Elite Dracolich hauberk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_hauberk",
+      "selected": false
+    },
+    {
+      "label": "bolg",
+      "image": "https://img.pvme.io/images/GkhQHSj.png",
+      "name": "Bow of the Last Guardian",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bow_of_the_Last_Guardian",
+      "selected": false
+    },
+    {
+      "label": "stalkerring",
+      "image": "https://img.pvme.io/images/xRj7mKb.png",
+      "name": "Stalker's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Stalker's_ring",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchpink",
+      "image": "https://img.pvme.io/images/yrnlR2T.png",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "selected": false
+    },
+    {
+      "label": "edracolichchaps",
+      "image": "https://img.pvme.io/images/VGqlhJd.png",
+      "name": "Elite Dracolich chaps",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_chaps",
+      "selected": false
+    },
+    {
+      "label": "lanispear",
+      "image": "https://img.pvme.io/images/BGhsSXy.png",
+      "name": "Laniakea's spear",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Laniakea's_spear",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "https://i.imgur.com/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "label": "fontoflife",
+        "energy": 50
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "label": "deathward",
+        "energy": 150
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": "",
+        "label": "ripperdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

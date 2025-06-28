@@ -1,0 +1,351 @@
+{
+  "presetName": "Araxxor LSB 300 Nopenopenope",
+  "presetNotes": "Not all items are shown since there are no icons for certain items (especially low tier items and familiars). See preset notes for more information. <br />",
+  "equipmentSlots": [
+    null,
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/8a6M64a.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet_(green)",
+      "name": "Essence of Finality amulet (green)",
+      "breakdownNotes": "",
+      "label": "eofgreenunorn"
+    },
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/tSwe20M.png",
+      "wikiLink": "https://runescape.wiki/w/Off-hand_ascension_crossbow",
+      "name": "Off-hand ascension crossbow",
+      "breakdownNotes": "",
+      "label": "ohasc"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/goMzH9N.png",
+      "wikiLink": "https://runescape.wiki/w/Nightmare_gauntlets",
+      "name": "Nightmare gauntlets",
+      "breakdownNotes": "",
+      "label": "nightmare"
+    },
+    {
+      "image": "https://i.imgur.com/R5kSCvF.png",
+      "wikiLink": "https://runescape.wiki/w/Fleeting_boots",
+      "name": "Fleeting boots",
+      "breakdownNotes": "",
+      "label": "fleet"
+    },
+    {
+      "image": "https://i.imgur.com/y5vAY4M.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death",
+      "name": "Ring of death",
+      "breakdownNotes": "",
+      "label": "rod"
+    },
+    {
+      "image": "https://i.imgur.com/b3geFp8.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver",
+      "breakdownNotes": "",
+      "label": "pernixquiver"
+    },
+    {
+      "image": "https://i.imgur.com/3G8n8xa.png",
+      "wikiLink": "https://runescape.wiki/w/Supreme_sharpshooter_aura",
+      "name": "Supreme sharpshooter aura",
+      "breakdownNotes": "",
+      "label": "sharpshooter"
+    },
+    {
+      "image": "https://i.imgur.com/eAO0PdY.png",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire",
+      "name": "Erethdor's grimoire",
+      "breakdownNotes": "",
+      "label": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/UURvGNW.png",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "label": "elvenshard"
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal"
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew"
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew"
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew"
+    },
+    {
+      "image": "https://i.imgur.com/Swtl8pP.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_flask#(6)",
+      "name": "Adrenaline renewal flask (6)",
+      "breakdownNotes": "",
+      "label": "renewal6"
+    },
+    {
+      "image": "https://i.imgur.com/FVmxMkH.png",
+      "wikiLink": "https://runescape.wiki/w/Blessed_flask",
+      "name": "Blessed flask",
+      "breakdownNotes": "",
+      "label": "blessed"
+    },
+    {
+      "image": "https://i.imgur.com/vG9UXFJ.png",
+      "wikiLink": "https://runescape.wiki/w/Elysian_spirit_shield",
+      "name": "Elysian spirit shield",
+      "breakdownNotes": "",
+      "label": "ely"
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew"
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew"
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew"
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew"
+    },
+    {
+      "image": "https://i.imgur.com/n9C7iSA.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "",
+      "label": "vitality4"
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Blood | Death | Fire | Earth<br />",
+      "label": "graspingpouchblue"
+    },
+    {
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "label": "vuln"
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew"
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew"
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew"
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/fWzGXLF.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(green)",
+      "name": "Grasping rune pouch (green)",
+      "breakdownNotes": "Astral | Cosmic | Law | Body<br />",
+      "label": "graspingpouchgreen"
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve"
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew"
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew"
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew"
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/3pFXvMR.png",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus",
+      "name": "Zemoregal's Nexus",
+      "breakdownNotes": "Spirit | Bone | Flesh | Miasma<br />",
+      "label": "zemouregalsnexus"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "https://i.imgur.com/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "description": "Increases maximum health by 500.",
+        "label": "fontoflife",
+        "energy": 50
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

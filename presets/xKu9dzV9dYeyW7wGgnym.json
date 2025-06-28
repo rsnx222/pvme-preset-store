@@ -1,0 +1,346 @@
+{
+  "presetName": "Scav Skele bik",
+  "presetNotes": "Pray Overcharge<br /><br />Autocast <img title=\"exsang\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" /> or <img title=\"airsurge\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/543465115870035999.png?v=1\" /> if <img title=\"staffoflimitlessair\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/864235608237801473.png?v=1\" />",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/CFMETzl.png",
+      "wikiLink": "https://runescape.wiki/w/Superior_seasinger's_hood",
+      "name": "Superior seasinger's hood",
+      "breakdownNotes": "",
+      "label": "supseasingerhood"
+    },
+    {
+      "image": "https://i.imgur.com/UtXRQ2n.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mej",
+      "name": "Igneous Kal-Mej",
+      "breakdownNotes": "",
+      "label": "kalmej"
+    },
+    {
+      "image": "https://i.imgur.com/qbsFxuG.png",
+      "wikiLink": "https://runescape.wiki/w/Salve_amulet_(e)",
+      "name": "Salve amulet (e)",
+      "breakdownNotes": "",
+      "label": "salvee"
+    },
+    {
+      "image": "https://i.imgur.com/My8VkUX.png",
+      "wikiLink": "https://runescape.wiki/w/Inquisitor_staff",
+      "name": "Inquisitor staff",
+      "breakdownNotes": "Caroming 4 Precise 2 <img title=\"caroming4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/791281588792590336.png?v=1\" /> <img title=\"precise2\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1084799750416637993.png?v=1\" /> + Equilibrium 4 Ruthless 3 <img title=\"eq4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088589627505.png?v=1\" /> <img title=\"ruthless3\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" /><br /><br />Can be substituted with <img title=\"staffoflimitlessair\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/864235608237801473.png?v=1\" />  for free <img title=\"airsurge\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/543465115870035999.png?v=1\" /><br />",
+      "label": "inq"
+    },
+    {
+      "image": "https://i.imgur.com/cau9oLa.png",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_top",
+      "name": "Virtus robe top",
+      "breakdownNotes": "Biting 4 Undead Slayer <img title=\"biting4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087809617931.png?v=1\" /> <img title=\"undeadslayerperk\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502804720615441.png?v=1\" /> + Scavenging 4 <img title=\"scavenging4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1005934140669046824.png?v=1\" />",
+      "label": "virtustop"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/uMH1Cg6.png",
+      "wikiLink": "https://runescape.wiki/w/Superior_seasinger's_robe_bottom",
+      "name": "Superior seasinger's robe bottom",
+      "breakdownNotes": "This can be unaugmented if not charging XP Capacitors.<br />",
+      "label": "supseasingerlegs"
+    },
+    {
+      "image": "https://i.imgur.com/dZg2l83.png",
+      "wikiLink": "https://runescape.wiki/w/Superior_seasinger_aonori",
+      "name": "Superior seasinger aonori",
+      "breakdownNotes": "<span>Immune to poison. </span>",
+      "label": "supseasingergloves"
+    },
+    {
+      "image": "https://i.imgur.com/F7aZ8Cy.png",
+      "wikiLink": "https://runescape.wiki/w/Superior_seasinger_asari",
+      "name": "Superior seasinger asari",
+      "breakdownNotes": "",
+      "label": "supseasingerboots"
+    },
+    {
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
+      "name": "Reaver's ring",
+      "breakdownNotes": "Not important. Can't roll RDT. Any ring with stats is fine.<br />",
+      "label": "reaverring"
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul<br /><br />Runes for <img title=\"exsang\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" /><br />",
+      "label": "graspingpouchblack"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/t1KMJMv.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "Toggle off bonecrusher option to bury bones or Bik won't proc. Can still have bone collector toggled on. <br />",
+      "label": "scriptureofbik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "Can replace with aggroverload if not praying Overcharge.<br />",
+      "label": "holyaggroverload"
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "Can replace with aggroverload if not praying Overcharge.<br />",
+      "label": "holyaggroverload"
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "Can replace with aggroverload if not praying Overcharge.<br />",
+      "label": "holyaggroverload"
+    },
+    {
+      "image": "https://i.imgur.com/FmyhIY5.png",
+      "wikiLink": "https://runescape.wiki/w/Smoke_devil_pouch",
+      "name": "Smoke devil pouch",
+      "breakdownNotes": "",
+      "label": "smokedevilpouch"
+    },
+    {
+      "image": "https://i.imgur.com/FmyhIY5.png",
+      "wikiLink": "https://runescape.wiki/w/Smoke_devil_pouch",
+      "name": "Smoke devil pouch",
+      "breakdownNotes": "",
+      "label": "smokedevilpouch"
+    },
+    {
+      "image": "https://i.imgur.com/FmyhIY5.png",
+      "wikiLink": "https://runescape.wiki/w/Smoke_devil_pouch",
+      "name": "Smoke devil pouch",
+      "breakdownNotes": "",
+      "label": "smokedevilpouch"
+    },
+    {
+      "image": "https://i.imgur.com/uIF03Iz.png",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#active",
+      "name": "Potion reservoir",
+      "breakdownNotes": "Use on Holy aggroverload.<br />",
+      "label": "potionreservoir"
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "Can replace with aggroverload if not praying Overcharge.<br />",
+      "label": "holyaggroverload"
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "Can replace with aggroverload if not praying Overcharge.<br />",
+      "label": "holyaggroverload"
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "Can replace with aggroverload if not praying Overcharge.<br />",
+      "label": "holyaggroverload"
+    },
+    {
+      "image": "https://i.imgur.com/FmyhIY5.png",
+      "wikiLink": "https://runescape.wiki/w/Smoke_devil_pouch",
+      "name": "Smoke devil pouch",
+      "breakdownNotes": "",
+      "label": "smokedevilpouch"
+    },
+    {
+      "image": "https://i.imgur.com/FmyhIY5.png",
+      "wikiLink": "https://runescape.wiki/w/Smoke_devil_pouch",
+      "name": "Smoke devil pouch",
+      "breakdownNotes": "",
+      "label": "smokedevilpouch"
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner"
+    },
+    {
+      "image": "https://i.imgur.com/KPREDHT.png",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "label": "cluebag"
+    },
+    {
+      "image": "https://i.imgur.com/9oDoU6T.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "",
+      "label": "spiritattractionflask"
+    },
+    {
+      "image": "https://i.imgur.com/9oDoU6T.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "",
+      "label": "spiritattractionflask"
+    },
+    {
+      "image": "https://i.imgur.com/9oDoU6T.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "",
+      "label": "spiritattractionflask"
+    },
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/4n0C5gK.png",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "",
+      "label": "lantadymeincensesticks100"
+    },
+    {
+      "image": "https://i.imgur.com/YWaDJIE.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_weed_incense_sticks",
+      "name": "Spirit weed incense sticks",
+      "breakdownNotes": "",
+      "label": "spiritsticks100"
+    },
+    {
+      "image": "https://i.imgur.com/9oDoU6T.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "",
+      "label": "spiritattractionflask"
+    },
+    {
+      "image": "https://i.imgur.com/9oDoU6T.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "",
+      "label": "spiritattractionflask"
+    },
+    {
+      "image": "https://i.imgur.com/9oDoU6T.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "",
+      "label": "spiritattractionflask"
+    },
+    {
+      "image": "https://i.imgur.com/e0vL3ur.png",
+      "wikiLink": "https://runescape.wiki/w/XP_Capacitor_5000#Charging",
+      "name": "XP Capacitor 5000 (Charging)",
+      "breakdownNotes": "Optional, for extra profit.<br />",
+      "label": "xpcapacitor5000charging"
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire<br /><br />Runes for <img title=\"exsang\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" /><br />",
+      "label": "graspingpouchblue"
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore"
+    },
+    {
+      "image": "https://i.imgur.com/6WSkKO7.png",
+      "wikiLink": "https://runescape.wiki/w/Smoke_Devil_scroll_(Dust_Cloud)",
+      "name": "Smoke Devil scroll (Dust Cloud)",
+      "breakdownNotes": "Make sure to refill familiar with scrolls after each potion reservoir depletes. ",
+      "label": "smokedevilscroll5000"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/2KToagJ.png",
+        "name": "Death Note",
+        "breakdownNotes": "",
+        "label": "deathnote",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/v6Q4ZEl.png",
+        "name": "Smoke Devil",
+        "breakdownNotes": "",
+        "label": "smokedevil"
+      }
+    ]
+  }
+}

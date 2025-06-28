@@ -1,0 +1,398 @@
+{
+  "presetName": "Nex",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/S1sjGOu.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_coif",
+      "name": "Elite Dracolich coif",
+      "breakdownNotes": "",
+      "label": "edracolichcoif"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/MWLieOn.png",
+      "wikiLink": "https://runescape.wiki/w/Eldritch_crossbow",
+      "name": "EoF - Eldritch crossbow",
+      "breakdownNotes": "",
+      "label": "eofpink"
+    },
+    {
+      "image": "https://i.imgur.com/GkhQHSj.png",
+      "wikiLink": "https://runescape.wiki/w/Bow_of_the_Last_Guardian",
+      "name": "Bow of the Last Guardian",
+      "breakdownNotes": "",
+      "label": "bolg"
+    },
+    {
+      "image": "https://i.imgur.com/M5jOHR3.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_hauberk",
+      "name": "Elite Dracolich hauberk",
+      "breakdownNotes": "",
+      "label": "edracolichhauberk"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/VGqlhJd.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_chaps",
+      "name": "Elite Dracolich chaps",
+      "breakdownNotes": "",
+      "label": "edracolichchaps"
+    },
+    {
+      "image": "https://i.imgur.com/zJ2WxLa.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_vambraces",
+      "name": "Elite Dracolich vambraces",
+      "breakdownNotes": "",
+      "label": "edracolichvambs"
+    },
+    {
+      "image": "https://i.imgur.com/9j06KPo.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_fleeting_boots",
+      "name": "Enhanced fleeting boots",
+      "breakdownNotes": "",
+      "label": "enhancedfleet"
+    },
+    {
+      "image": "https://i.imgur.com/xRj7mKb.png",
+      "wikiLink": "https://runescape.wiki/w/Stalker's_ring",
+      "name": "Stalker's ring",
+      "breakdownNotes": "",
+      "label": "stalkerring"
+    },
+    {
+      "image": "https://i.imgur.com/asuawfb.png",
+      "wikiLink": "https://runescape.wiki/w/Black_stone_arrows",
+      "name": "Black stone arrows",
+      "breakdownNotes": "",
+      "label": "bsa1k"
+    },
+    {
+      "image": "https://i.imgur.com/FZ59xZK.png",
+      "wikiLink": "https://runescape.wiki/w/Reckless_aura",
+      "name": "Reckless aura",
+      "breakdownNotes": "",
+      "label": "reckless"
+    },
+    {
+      "image": "https://i.imgur.com/lPppoD4.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful",
+      "name": "Scripture of Ful",
+      "breakdownNotes": "",
+      "label": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/LhMlWmw.png",
+      "wikiLink": "https://runescape.wiki/w/Dark_bow",
+      "name": "EoF - Dark bow",
+      "breakdownNotes": "",
+      "label": "eofgreen",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/JqXq1zD.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver (Black)",
+      "breakdownNotes": "Ful arrows | Wen arrows",
+      "label": "pernixquiverblack",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/6nJNred.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(red)",
+      "name": "Grasping rune pouch (red)",
+      "breakdownNotes": "",
+      "label": "graspingpouchred",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/IqAjWRF.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "",
+      "label": "renewal4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/30CSA7N.png",
+      "wikiLink": "https://runescape.wiki/w/Dominion_mines",
+      "name": "Dominion mines",
+      "breakdownNotes": "",
+      "label": "20mines",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "label": "grest",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "label": "grest",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "label": "grest",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/n9C7iSA.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "",
+      "label": "vitality4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "label": "graspingpouchpink",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GNzR4sU.png",
+      "wikiLink": "https://runescape.wiki/w/Expensive_spices",
+      "name": "Expensive spices",
+      "breakdownNotes": "",
+      "label": "spices",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2zNVN6w.png",
+      "wikiLink": "https://runescape.wiki/w/Illuminated_Book_of_Law",
+      "name": "Illuminated Book of Law",
+      "breakdownNotes": "",
+      "label": "armagodbook",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "label": "graspingpouchblue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "label": "vuln",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ILVnJN0.png",
+      "wikiLink": "https://runescape.wiki/w/Ancient_defender",
+      "name": "Ancient defender",
+      "breakdownNotes": "",
+      "label": "nexdefender",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3pFXvMR.png",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus",
+      "name": "Zemoregal's Nexus",
+      "breakdownNotes": "",
+      "label": "zemouregalsnexus",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/DjyfvR1.png",
+        "name": "Heightened Senses",
+        "breakdownNotes": "",
+        "description": "Increases maximum adrenaline by 10%.",
+        "label": "heightenedsenses",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/eDmt2lT.png",
+        "name": "Blessing of Het",
+        "breakdownNotes": "",
+        "description": "Food and potions heal 10% more lifepoints.",
+        "label": "blessingofhet",
+        "energy": 100
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/evmMlFz.png",
+        "name": "Shadow Nihil",
+        "breakdownNotes": "",
+        "label": "shadownihil"
+      }
+    ]
+  }
+}

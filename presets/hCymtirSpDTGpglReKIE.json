@@ -1,0 +1,404 @@
+{
+  "presetName": "Minimum Gear For range",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "pernixhelm",
+      "image": "https://i.imgur.com/ja8fZUV.png",
+      "name": "Pernix cowl",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Pernix_cowl"
+    },
+    {
+      "label": "kilnrange",
+      "image": "https://i.imgur.com/rLbopHv.png",
+      "name": "TokHaar-Kal-Xil",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/TokHaar-Kal-Xil"
+    },
+    {
+      "label": "aos",
+      "image": "https://i.imgur.com/cUaU7mB.png",
+      "name": "Amulet of souls",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_souls"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "pernixtop",
+      "image": "https://i.imgur.com/2S7BJBW.png",
+      "name": "Pernix body",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Pernix_body"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "pernixlegs",
+      "image": "https://i.imgur.com/5EkevSX.png",
+      "name": "Pernix chaps",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Pernix_chaps"
+    },
+    {
+      "label": "pernixgloves",
+      "image": "https://i.imgur.com/AYWIf2p.png",
+      "name": "Pernix gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Pernix_gloves"
+    },
+    {
+      "label": "shboots",
+      "image": "https://i.imgur.com/TkJs5ST.png",
+      "name": "Silverhawk boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Silverhawk_boots"
+    },
+    {
+      "label": "lotd",
+      "image": "https://i.imgur.com/nXXZxpH.png",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves"
+    },
+    {
+      "label": "pernixquiver",
+      "image": "https://i.imgur.com/b3geFp8.png",
+      "name": "Pernix's Quiver",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "scriptureofwen",
+      "image": "https://i.imgur.com/zd3mKfH.png",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "salve",
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "blessed",
+      "image": "https://i.imgur.com/FVmxMkH.png",
+      "name": "Blessed flask",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blessed_flask",
+      "selected": false
+    },
+    {
+      "label": "graspingpouch",
+      "image": "https://i.imgur.com/Mk7jbjC.png",
+      "name": "Grasping rune pouch",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchgreen",
+      "image": "https://i.imgur.com/fWzGXLF.png",
+      "name": "Grasping rune pouch (green)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(green)",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "vitality4",
+      "image": "https://i.imgur.com/n9C7iSA.png",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
+      "selected": false
+    },
+    {
+      "label": "deathwardennexus",
+      "image": "https://i.imgur.com/hd7YvA4.png",
+      "name": "Deathwarden Nexus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "berserkersfury",
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "energy": 250,
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)"
+      },
+      {
+        "label": "persistentrage",
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained."
+      },
+      {
+        "label": "luckofthedwarves",
+        "image": "https://i.imgur.com/Ivcgjer.png",
+        "name": "Luck of the Dwarves",
+        "breakdownNotes": "",
+        "energy": 200,
+        "description": "You will always gain the effect of tier 4 luck."
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "label": "conservationofenergy",
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "energy": 350,
+        "description": "After using an ultimate ability, you will regain 10% adrenaline."
+      },
+      {
+        "label": "deathward",
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%."
+      },
+      {
+        "label": "furyofthesmall",
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline."
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "ripperdemon",
+        "image": "https://i.imgur.com/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "label": "bloodreaver",
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "presetName": "Venom Dinosaur (AFK)",
+  "presetNotes": "[Increased drops rates on task]<br />Protect from Melee<br />",
+  "equipmentSlots": [
+    {
+      "label": "mwhelm",
+      "image": "https://i.imgur.com/9gAdl6f.png",
+      "name": "Masterwork helm",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_helm"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "salamancy",
+      "image": "https://i.imgur.com/tsyhx6q.png",
+      "name": "Necklace of Salamancy",
+      "breakdownNotes": "Extra 15% damage and accuracy",
+      "wikiLink": "https://runescape.wiki/w/Necklace_of_Salamancy"
+    },
+    {
+      "label": "scytheshadow",
+      "image": "https://i.imgur.com/5gLKqIh.png",
+      "name": "Noxious scythe (shadow)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Noxious_scythe_(shadow)"
+    },
+    {
+      "label": "mwtop",
+      "image": "https://i.imgur.com/ALe1PIE.png",
+      "name": "Masterwork platebody",
+      "breakdownNotes": "Any perks will do",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_platebody"
+    },
+    null,
+    {
+      "label": "mwlegs",
+      "image": "https://i.imgur.com/Ev1KbDF.png",
+      "name": "Masterwork platelegs",
+      "breakdownNotes": "Perks: Devoted 4 | Enhanced Devoted | Impatient 4",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_platelegs"
+    },
+    {
+      "label": "cinder",
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "Extra Poison Damage",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+    },
+    {
+      "label": "mwboots",
+      "image": "https://i.imgur.com/GsZmtrn.png",
+      "name": "Masterwork boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_boots"
+    },
+    {
+      "label": "lotd",
+      "image": "https://i.imgur.com/nXXZxpH.png",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves"
+    },
+    {
+      "label": "zemouregalsnexus",
+      "image": "https://i.imgur.com/3pFXvMR.png",
+      "name": "Zemoregal's Nexus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus"
+    },
+    {
+      "label": "vampaura",
+      "image": "https://i.imgur.com/JigaLBL.png",
+      "name": "Vampyrism aura",
+      "breakdownNotes": "Extra HP (Can use other aura)",
+      "wikiLink": "https://runescape.wiki/w/Vampyrism_aura"
+    },
+    {
+      "label": "vamp",
+      "image": "https://i.imgur.com/bMTAHDe.png",
+      "name": "Scrimshaw of Vampyrism",
+      "breakdownNotes": "Extra HP",
+      "wikiLink": "https://runescape.wiki/w/Scrimshaw_of_Vampyrism"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "salve",
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "Overloads, Prayer, Antipoison",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)"
+    },
+    {
+      "label": "aggro6",
+      "image": "https://i.imgur.com/nTRsMW1.png",
+      "name": "Aggression flask (6)",
+      "breakdownNotes": "Keeps Dinos actively on you",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)"
+    },
+    {
+      "label": "poison6",
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "Extra Poison Damage",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)"
+    },
+    null,
+    null,
+    {
+      "label": "kwuarmsticks",
+      "image": "https://i.imgur.com/Ba7yju8.png",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "Extra Poison Damage",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks"
+    },
+    {
+      "label": "lantasticks",
+      "image": "https://i.imgur.com/LfpiRjg.png",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "Extra Overload Timer",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks"
+    },
+    {
+      "label": "elvenshard",
+      "image": "https://i.imgur.com/UURvGNW.png",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "Optional",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard"
+    },
+    {
+      "label": "excal",
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "Optional",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur"
+    },
+    {
+      "label": "wrench",
+      "image": "https://i.imgur.com/UVffd75.png",
+      "name": "Holy wrench",
+      "breakdownNotes": "Optional",
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench"
+    },
+    null,
+    null,
+    {
+      "label": "powderofpenance2",
+      "image": "https://i.imgur.com/w6hThUy.png",
+      "name": "Powder of penance",
+      "breakdownNotes": "Prayer Sustain",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance"
+    },
+    {
+      "label": "protectionpowder",
+      "image": "https://i.imgur.com/3SbxYpW.png",
+      "name": "Powder of protection",
+      "breakdownNotes": "Extra Damage Reduction",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_protection"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "label": "holyscarab",
+      "image": "https://i.imgur.com/7HsbgWH.png",
+      "name": "Holy scarab pouch",
+      "breakdownNotes": "Prayer Sustain",
+      "wikiLink": "https://runescape.wiki/w/Holy_scarab_pouch"
+    },
+    {
+      "label": "cannon",
+      "image": "https://i.imgur.com/GTwVqeC.png",
+      "name": "Dwarven siege engine",
+      "breakdownNotes": "Aggro Dinos",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine"
+    },
+    {
+      "label": "cballs",
+      "image": "https://i.imgur.com/GrfjyE2.png",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs"
+    },
+    null,
+    null,
+    {
+      "label": "springcleaner",
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001"
+    },
+    {
+      "label": "gembag",
+      "image": "https://i.imgur.com/ODNlwIc.png",
+      "name": "Gem bag (upgraded)",
+      "breakdownNotes": "Optional (RDT)",
+      "wikiLink": "https://runescape.wiki/w/Gem_bag_(upgraded)"
+    },
+    {
+      "label": "seedbag",
+      "image": "https://i.imgur.com/JujxNhC.png",
+      "name": "Seed bag",
+      "breakdownNotes": "Stores Seeds",
+      "wikiLink": "https://runescape.wiki/w/Seed_bag"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "furyofthesmall",
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline."
+      },
+      {
+        "label": "deathnote",
+        "image": "https://i.imgur.com/2KToagJ.png",
+        "name": "Death Note",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "All guaranteed bone and ash drops are noted."
+      },
+      {
+        "label": "berserkersfury",
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "energy": 250,
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "holyscarab",
+        "image": "https://i.imgur.com/x5tUpRe.png",
+        "name": "Holy Scarab",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

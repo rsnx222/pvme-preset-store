@@ -1,0 +1,343 @@
+{
+  "presetName": "Melee HM Twin Furies",
+  "presetNotes": "<br />",
+  "equipmentSlots": [
+    {
+      "label": "vestmenthood",
+      "image": "https://img.pvme.io/images/EVh5SwD.png",
+      "name": "Vestments of havoc hood",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_hood"
+    },
+    {
+      "label": "kalket",
+      "image": "https://img.pvme.io/images/bfzX8Up.png",
+      "name": "Igneous Kal-Ket",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Ket"
+    },
+    {
+      "label": "eof",
+      "image": "https://img.pvme.io/images/UB0lAK8.png",
+      "name": "Essence of Finality amulet",
+      "breakdownNotes": "Dragon Claws <img title=\"dclaws\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/779048041088024606.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet"
+    },
+    {
+      "label": "dba",
+      "image": "https://img.pvme.io/images/hZGOmkB.png",
+      "name": "Dragon battleaxe",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dragon_battleaxe"
+    },
+    {
+      "label": "vestmentbody",
+      "image": "https://img.pvme.io/images/E5ptfu6.png",
+      "name": "Vestments of havoc robe top",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_top"
+    },
+    {
+      "label": "lengoh",
+      "image": "https://img.pvme.io/images/LAVYvrE.png",
+      "name": "Dark Sliver of Leng",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dark_Sliver_of_Leng"
+    },
+    {
+      "label": "vestmentlegs",
+      "image": "https://img.pvme.io/images/mz7GwWF.png",
+      "name": "Vestments of havoc robe bottom",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_bottom"
+    },
+    {
+      "label": "glovesofpassage",
+      "image": "https://img.pvme.io/images/U4Wa7vb.png",
+      "name": "Gloves of passage",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Gloves_of_passage"
+    },
+    {
+      "label": "vestmentboots",
+      "image": "https://img.pvme.io/images/FarIA5V.png",
+      "name": "Vestments of havoc boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_boots"
+    },
+    {
+      "label": "reaverring",
+      "image": "https://img.pvme.io/images/cnIOClx.png",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring"
+    },
+    {
+      "label": "zemouregalsnexus",
+      "image": "https://img.pvme.io/images/3pFXvMR.png",
+      "name": "Zemoregal's Nexus",
+      "breakdownNotes": "Optional <img title=\"darkness\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1137809209782698024.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus"
+    },
+    {
+      "label": "zerk",
+      "image": "https://img.pvme.io/images/Fme45Ts.png",
+      "name": "Berserker aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Berserker_aura"
+    },
+    {
+      "label": "grim",
+      "image": "https://img.pvme.io/images/eAO0PdY.png",
+      "name": "Erethdor's grimoire",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "renewal4",
+      "image": "https://img.pvme.io/images/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "selected": false
+    },
+    {
+      "label": "vuln",
+      "image": "https://img.pvme.io/images/2vI8jNm.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "selected": false
+    },
+    {
+      "label": "lengmh",
+      "image": "https://img.pvme.io/images/wFdHN9C.png",
+      "name": "Dark Shard of Leng",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dark_Shard_of_Leng",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "kalg",
+      "image": "https://img.pvme.io/images/5dumsv0.png",
+      "name": "Binding contract (kal'gerion demon)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(kal'gerion_demon)",
+      "selected": false
+    },
+    {
+      "label": "kalgscrolls500",
+      "image": "https://img.pvme.io/images/hjoH9xr.png",
+      "name": "Kal'gerion Demon scroll (Crit-i-Kal)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Kal%27gerion_Demon_scroll_(Crit-i-Kal)",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "grest",
+      "image": "https://img.pvme.io/images/iXpGYQo.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "grest",
+      "image": "https://img.pvme.io/images/iXpGYQo.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "label": "furyofthesmall",
+        "image": "https://img.pvme.io/images/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline."
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": "",
+        "label": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

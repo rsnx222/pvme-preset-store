@@ -1,0 +1,332 @@
+{
+  "presetName": "AFK Moss Golems (Magic)",
+  "presetNotes": "1. This preset assumes that the prayer has their slayer helmet <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/798285340460449792.png?v=1\" /> on the Anachronia helmet stand",
+  "equipmentSlots": [
+    {
+      "label": "cryptbloomhelm",
+      "image": "https://img.pvme.io/images/zqJhRU7E8N.png",
+      "name": "Cryptbloom helm",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_helm"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "eof",
+      "image": "https://img.pvme.io/images/UB0lAK8.png",
+      "name": "Essence of Finality amulet",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet"
+    },
+    {
+      "label": "masterworkstaff",
+      "image": "https://img.pvme.io/images/Mfh8l535Gf.png",
+      "name": "Masterwork staff",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_staff"
+    },
+    {
+      "label": "cryptbloomtop",
+      "image": "https://img.pvme.io/images/SQFVVkgKsw.png",
+      "name": "Cryptbloom top",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_top"
+    },
+    null,
+    {
+      "label": "cryptbloomlegs",
+      "image": "https://img.pvme.io/images/YRNwG9fvN5.png",
+      "name": "Cryptbloom legs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_legs"
+    },
+    {
+      "label": "cinder",
+      "image": "https://img.pvme.io/images/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+    },
+    {
+      "label": "cryptbloomboots",
+      "image": "https://img.pvme.io/images/cXlCjcohsJ.png",
+      "name": "Cryptbloom boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_boots"
+    },
+    {
+      "label": "reaverring",
+      "image": "https://img.pvme.io/images/cnIOClx.png",
+      "name": "Reaver's ring",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring"
+    },
+    {
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)"
+    },
+    {
+      "label": "penance",
+      "image": "https://img.pvme.io/images/dMPY1FJ.png",
+      "name": "Penance aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Penance_aura"
+    },
+    {
+      "label": "scriptureofwen",
+      "image": "https://img.pvme.io/images/zd3mKfH.png",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "ovl",
+      "image": "https://img.pvme.io/images/DGw6F36.png",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
+      "selected": false
+    },
+    {
+      "label": "prayrenewal",
+      "image": "https://img.pvme.io/images/vSUpqbs.png",
+      "name": "Super prayer renewal potion (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_prayer_renewal_potion#(6)",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "wrench",
+      "image": "https://img.pvme.io/images/UVffd75.png",
+      "name": "Holy wrench",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "selected": false
+    },
+    {
+      "label": "poison4",
+      "image": "https://img.pvme.io/images/CR06fbn.png",
+      "name": "Weapon poison+++ (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(4)",
+      "selected": false
+    },
+    {
+      "label": "aggro4",
+      "image": "https://img.pvme.io/images/NdYvdGN.png",
+      "name": "Aggression potion (4)",
+      "breakdownNotes": "Helps greatly with faster aggro",
+      "wikiLink": "https://runescape.wiki/w/Aggression_potion#(4)",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchpink",
+      "image": "https://img.pvme.io/images/yrnlR2T.png",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "portablefairyring(used)",
+      "image": "https://img.pvme.io/images/iwTl6xy.png",
+      "name": "Portable fairy ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Portable_fairy_ring#active",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "label": "cannon",
+      "image": "https://img.pvme.io/images/GTwVqeC.png",
+      "name": "Dwarven siege engine",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false
+    },
+    {
+      "label": "cballs",
+      "image": "https://img.pvme.io/images/GrfjyE2.png",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "conservationofenergy",
+        "image": "https://img.pvme.io/images/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "energy": 350,
+        "description": "After using an ultimate ability, you will regain 10% adrenaline."
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "holyscarab",
+        "image": "https://img.pvme.io/images/x5tUpRe.png",
+        "name": "Holy Scarab",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "presetName": "HM Vorago Vit Week",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/S1sjGOu.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_coif",
+      "name": "Elite Dracolich coif",
+      "breakdownNotes": "",
+      "label": "edracolichcoif"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/zAiXkJn.png",
+      "wikiLink": "https://runescape.wiki/w/Seren_godbow",
+      "name": "EoF - Seren godbow",
+      "breakdownNotes": "",
+      "label": "eofblue"
+    },
+    {
+      "image": "https://i.imgur.com/buKTnb1.png",
+      "wikiLink": "https://runescape.wiki/w/Superior_statius_warhammer",
+      "name": "Superior Statius's warhammer",
+      "breakdownNotes": "",
+      "label": "swh"
+    },
+    {
+      "image": "https://i.imgur.com/M5jOHR3.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_hauberk",
+      "name": "Elite Dracolich hauberk",
+      "breakdownNotes": "",
+      "label": "edracolichhauberk"
+    },
+    {
+      "image": "https://i.imgur.com/LAVYvrE.png",
+      "wikiLink": "https://runescape.wiki/w/Dark_Sliver_of_Leng",
+      "name": "Dark Sliver of Leng",
+      "breakdownNotes": "",
+      "label": "lengoh"
+    },
+    {
+      "image": "https://i.imgur.com/VGqlhJd.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_chaps",
+      "name": "Elite Dracolich chaps",
+      "breakdownNotes": "",
+      "label": "edracolichchaps"
+    },
+    {
+      "image": "https://i.imgur.com/zJ2WxLa.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_vambraces",
+      "name": "Elite Dracolich vambraces",
+      "breakdownNotes": "",
+      "label": "edracolichvambs"
+    },
+    {
+      "image": "https://i.imgur.com/07vxUMy.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_boots",
+      "name": "Elite Dracolich boots",
+      "breakdownNotes": "",
+      "label": "edracolichboots"
+    },
+    {
+      "image": "https://i.imgur.com/xRj7mKb.png",
+      "wikiLink": "https://runescape.wiki/w/Stalker's_ring",
+      "name": "Stalker's ring",
+      "breakdownNotes": "",
+      "label": "stalkerring"
+    },
+    {
+      "image": "https://i.imgur.com/MG25Uow.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver (Green)",
+      "breakdownNotes": "Emerald bakriminel bolts (e) | Bik arrow",
+      "label": "pernixquivergreen"
+    },
+    {
+      "image": "https://i.imgur.com/FZ59xZK.png",
+      "wikiLink": "https://runescape.wiki/w/Reckless_aura",
+      "name": "Reckless aura",
+      "breakdownNotes": "",
+      "label": "reckless"
+    },
+    {
+      "image": "https://i.imgur.com/eAO0PdY.png",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire",
+      "name": "Erethdor's grimoire",
+      "breakdownNotes": "",
+      "label": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Swtl8pP.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_flask#(6)",
+      "name": "Adrenaline renewal flask (6)",
+      "breakdownNotes": "",
+      "label": "renewal6",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/n9C7iSA.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "",
+      "label": "vitality4",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/EVh5SwD.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_hood",
+      "name": "Vestments of havoc hood",
+      "breakdownNotes": "",
+      "label": "vestmenthood",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/E5ptfu6.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_top",
+      "name": "Vestments of havoc robe top",
+      "breakdownNotes": "",
+      "label": "vestmentbody",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/kyKIKBC.png",
+      "wikiLink": "https://runescape.wiki/w/Wand_of_the_praesul",
+      "name": "Wand of the praesul",
+      "breakdownNotes": "",
+      "label": "pwand",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/rvFepeU.png",
+      "wikiLink": "https://runescape.wiki/w/Imperium_core",
+      "name": "Imperium core",
+      "breakdownNotes": "",
+      "label": "core",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Dgtgp4n.png",
+      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
+      "name": "Combat dummy MKII",
+      "breakdownNotes": "",
+      "label": "dummy",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Dgtgp4n.png",
+      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
+      "name": "Combat dummy MKII",
+      "breakdownNotes": "",
+      "label": "dummy",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Dgtgp4n.png",
+      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
+      "name": "Combat dummy MKII",
+      "breakdownNotes": "",
+      "label": "dummy",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FarIA5V.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_boots",
+      "name": "Vestments of havoc boots",
+      "breakdownNotes": "",
+      "label": "vestmentboots",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/mz7GwWF.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_bottom",
+      "name": "Vestments of havoc robe bottom",
+      "breakdownNotes": "",
+      "label": "vestmentlegs",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yUkClNY.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet_(red)",
+      "name": "Essence of Finality amulet (red)",
+      "breakdownNotes": "",
+      "label": "eofredunorn",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UB0lAK8.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet",
+      "name": "Essence of Finality amulet",
+      "breakdownNotes": "",
+      "label": "eof",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Dgtgp4n.png",
+      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
+      "name": "Combat dummy MKII",
+      "breakdownNotes": "",
+      "label": "dummy",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Dgtgp4n.png",
+      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
+      "name": "Combat dummy MKII",
+      "breakdownNotes": "",
+      "label": "dummy",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Dgtgp4n.png",
+      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
+      "name": "Combat dummy MKII",
+      "breakdownNotes": "",
+      "label": "dummy",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/wFdHN9C.png",
+      "wikiLink": "https://runescape.wiki/w/Dark_Shard_of_Leng",
+      "name": "Dark Shard of Leng",
+      "breakdownNotes": "",
+      "label": "lengmh",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/JMC7t7Y.png",
+      "wikiLink": "https://runescape.wiki/w/Dragon_claws",
+      "name": "EoF - Dragon claws",
+      "breakdownNotes": "",
+      "label": "eofred",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/LhMlWmw.png",
+      "wikiLink": "https://runescape.wiki/w/Dark_bow",
+      "name": "EoF - Dark bow",
+      "breakdownNotes": "",
+      "label": "eofgreen",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "label": "vuln",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/uMJW8pU.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver (Red)",
+      "breakdownNotes": "Ruby bakriminel bolts (e) | Hydrix bakriminel bolts (e)",
+      "label": "pernixquiverred",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3pFXvMR.png",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus",
+      "name": "Zemoregal's Nexus",
+      "breakdownNotes": "",
+      "label": "zemouregalsnexus",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Mk7jbjC.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch",
+      "name": "Grasping rune pouch",
+      "breakdownNotes": "",
+      "label": "graspingpouch",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "label": "graspingpouchpink",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

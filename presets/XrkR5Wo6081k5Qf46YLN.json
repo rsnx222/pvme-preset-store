@@ -1,0 +1,386 @@
+{
+  "presetName": "rots",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "ghostgoggles",
+      "image": "https://img.pvme.io/images/iyXqN3S.png",
+      "name": "Ghost hunter goggles",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_goggles"
+    },
+    {
+      "label": "ghostbackpack",
+      "image": "https://img.pvme.io/images/zNu0qYb.png",
+      "name": "Ghost hunter backpack",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_backpack"
+    },
+    {
+      "label": "salvee",
+      "image": "https://img.pvme.io/images/qbsFxuG.png",
+      "name": "Salve amulet (e)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Salve_amulet_(e)"
+    },
+    {
+      "label": "omniguard",
+      "image": "https://img.pvme.io/images/SzFvoQB.png",
+      "name": "Omni guard",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Omni_guard"
+    },
+    {
+      "label": "t95necrotop",
+      "image": "https://img.pvme.io/images/VwEHIYQ.png",
+      "name": "Robe top of the First Necromancer",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Robe_top_of_the_First_Necromancer"
+    },
+    {
+      "label": "soulboundlantern",
+      "image": "https://img.pvme.io/images/VJsZ4HL.png",
+      "name": "Soulbound lantern",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern"
+    },
+    {
+      "label": "ghostlegs",
+      "image": "https://img.pvme.io/images/Cn2x2Mi.png",
+      "name": "Ghost hunter legs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_legs"
+    },
+    {
+      "label": "t95necrogloves",
+      "image": "https://img.pvme.io/images/8zjLczG.png",
+      "name": "Hand wrap of the First Necromancer",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Hand_wrap_of_the_First_Necromancer"
+    },
+    {
+      "label": "t95necroboots",
+      "image": "https://img.pvme.io/images/FawdniP.png",
+      "name": "Foot wraps of the First Necromancer",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Foot_wraps_of_the_First_Necromancer"
+    },
+    {
+      "label": "rod",
+      "image": "https://img.pvme.io/images/y5vAY4M.png",
+      "name": "Ring of death",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death"
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)"
+    },
+    {
+      "label": "mahj",
+      "image": "https://img.pvme.io/images/br11PCq.png",
+      "name": "Mahjarrat aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Mahjarrat_aura"
+    },
+    {
+      "label": "grim",
+      "image": "https://img.pvme.io/images/eAO0PdY.png",
+      "name": "Erethdor's grimoire",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "deathguardt90",
+      "image": "https://img.pvme.io/images/tosZimW.png",
+      "name": "Death guard (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Death_guard_(tier_90)",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "accel4",
+      "image": "https://img.pvme.io/images/I6HFjyN.png",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "selected": false
+    },
+    {
+      "label": "accel4",
+      "image": "https://img.pvme.io/images/I6HFjyN.png",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "selected": false
+    },
+    {
+      "label": "accel4",
+      "image": "https://img.pvme.io/images/I6HFjyN.png",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "accel4",
+      "image": "https://img.pvme.io/images/I6HFjyN.png",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "selected": false
+    },
+    {
+      "label": "accel4",
+      "image": "https://img.pvme.io/images/I6HFjyN.png",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "selected": false
+    },
+    {
+      "label": "accel4",
+      "image": "https://img.pvme.io/images/I6HFjyN.png",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "selected": false
+    },
+    {
+      "label": "accel4",
+      "image": "https://img.pvme.io/images/I6HFjyN.png",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "selected": false
+    },
+    {
+      "label": "elvenshard",
+      "image": "https://img.pvme.io/images/UURvGNW.png",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "barrowstotems",
+      "image": "https://img.pvme.io/images/gIfjnhJ.png",
+      "name": "Barrows totems",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Barrows_totems",
+      "selected": false
+    },
+    {
+      "label": "zemouregalsnexus",
+      "image": "https://img.pvme.io/images/3pFXvMR.png",
+      "name": "Zemoregal's Nexus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "persistentrage",
+        "image": "https://img.pvme.io/images/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained."
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "kalgdemon",
+        "image": "https://img.pvme.io/images/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

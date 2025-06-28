@@ -1,0 +1,394 @@
+{
+  "presetName": "Revenants",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/iyXqN3S.png",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_goggles",
+      "name": "Ghost hunter goggles",
+      "breakdownNotes": "Up to 3 of any kind of ghost hunter.<br />",
+      "label": "ghostgoggles"
+    },
+    {
+      "image": "https://i.imgur.com/bfzX8Up.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Ket",
+      "name": "Igneous Kal-Ket",
+      "breakdownNotes": "Any melee cape, even ghost hunter backpack<br />",
+      "label": "kalket"
+    },
+    {
+      "image": "https://i.imgur.com/qbsFxuG.png",
+      "wikiLink": "https://runescape.wiki/w/Salve_amulet_(e)",
+      "name": "Salve amulet (e)",
+      "breakdownNotes": "<div>+20% Damage and Crit chance to undead</div>",
+      "label": "salvee"
+    },
+    {
+      "image": "https://i.imgur.com/Hv713Z2.png",
+      "wikiLink": "https://runescape.wiki/w/Revenant_bane_2h_sword",
+      "name": "Revenant bane 2h sword",
+      "breakdownNotes": "+25% damage to Revenants<br />",
+      "label": "revbane2h"
+    },
+    {
+      "image": "https://i.imgur.com/aEqw7uJ.png",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_body",
+      "name": "Ghost hunter body",
+      "breakdownNotes": "",
+      "label": "ghostbody"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/Cn2x2Mi.png",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_legs",
+      "name": "Ghost hunter legs",
+      "breakdownNotes": "",
+      "label": "ghostlegs"
+    },
+    {
+      "image": "https://i.imgur.com/U4Wa7vb.png",
+      "wikiLink": "https://runescape.wiki/w/Gloves_of_passage",
+      "name": "Gloves of passage",
+      "breakdownNotes": "Whatever melee gloves you have<br />",
+      "label": "glovesofpassage"
+    },
+    {
+      "image": "https://i.imgur.com/GsZmtrn.png",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_boots",
+      "name": "Masterwork boots",
+      "breakdownNotes": "Whatever melee boots you have<br />",
+      "label": "mwboots"
+    },
+    {
+      "image": "https://i.imgur.com/cc9GxHt.png",
+      "wikiLink": "https://runescape.wiki/w/Champion's_ring",
+      "name": "Champion's ring",
+      "breakdownNotes": "Luck of the Dwarves if you don't have, don't buy for this.<br />",
+      "label": "championring"
+    },
+    {
+      "image": "https://i.imgur.com/yxmdGCZ.png",
+      "wikiLink": "https://runescape.wiki/w/Tirannwn_quiver_4",
+      "name": "Tirannwn quiver 4",
+      "breakdownNotes": "Just for prayer bonus<br />",
+      "label": "quiver4"
+    },
+    {
+      "image": "https://i.imgur.com/bf2xezx.png",
+      "wikiLink": "https://runescape.wiki/w/Supreme_brawler_aura",
+      "name": "Supreme brawler aura",
+      "breakdownNotes": "For accuracy<br />",
+      "label": "brawler"
+    },
+    {
+      "image": "https://i.imgur.com/FLYAOEf.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Jas",
+      "name": "Scripture of Jas",
+      "breakdownNotes": "Just for prayer bonus<br />",
+      "label": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/DGw6F36.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "",
+      "label": "ovl",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/DGw6F36.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "",
+      "label": "ovl",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "For passive health regeneration<br />",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UURvGNW.png",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "For passive prayer regeneration<br />",
+      "label": "elvenshard",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/AeQr9sy.png",
+      "wikiLink": "https://runescape.wiki/w/Forinthry_bracelet",
+      "name": "Forinthry bracelet",
+      "breakdownNotes": "Right click &gt; Repel to make them not aggressive to you once per hour.<br />",
+      "label": "forinthrybracelet",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8r07LbS.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_notepaper",
+      "name": "Magic notepaper",
+      "breakdownNotes": "Can probably go without these really<br />",
+      "label": "1knote",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/cIHG8g8.png",
+      "wikiLink": "https://runescape.wiki/w/Wilderness_sword_4",
+      "name": "Wilderness sword 4",
+      "breakdownNotes": "Just used for the teleport to Forinthry Dungeon, otherwise you can run northwest from the wilderness lodestone<br />",
+      "label": "wildernesssword",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "Whatever food, usually eating to make room in inventory.<br />",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "Whatever food, usually eating to make room in inventory.<br />",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "Whatever food, usually eating to make room in inventory.<br />",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "Whatever food, usually eating to make room in inventory.<br />",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "Whatever food, usually eating to make room in inventory.<br />",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "Whatever food, usually eating to make room in inventory.<br />",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "Whatever food, usually eating to make room in inventory.<br />",
+      "label": "sailfish",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/a2CITlX.png",
+        "name": "Blood Nihil",
+        "breakdownNotes": "",
+        "label": "bloodnihil"
+      }
+    ]
+  }
+}

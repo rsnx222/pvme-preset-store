@@ -1,0 +1,382 @@
+{
+  "presetName": "Kree Necro",
+  "presetNotes": "No Overloads needed<div><br /></div><div>Skulls, Skeleton, Volley, Sap, Touch, Ghost, Finger</div><div><br /></div><div>Stand in north-east</div><div>Kree pushes into corner, dragged out by farthest minion</div><div>Lorehound for longer area loot</div><div>Average 20-30 seconds per kill</div>",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/5vasEy6.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_hood_(tier_90)",
+      "name": "Deathwarden hood (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathwardenhoodt90"
+    },
+    {
+      "image": "https://i.imgur.com/bIV6C4o.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mor",
+      "name": "Igneous Kal-Mor",
+      "breakdownNotes": "",
+      "label": "kalmor"
+    },
+    {
+      "image": "https://i.imgur.com/gA1MFTE.png",
+      "wikiLink": "https://runescape.wiki/w/Demon_horn_necklace",
+      "name": "Demon horn necklace",
+      "breakdownNotes": "",
+      "label": "demonhorn"
+    },
+    {
+      "image": "https://i.imgur.com/tosZimW.png",
+      "wikiLink": "https://runescape.wiki/w/Death_guard_(tier_90)",
+      "name": "Death guard (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathguardt90"
+    },
+    {
+      "image": "https://i.imgur.com/iKWW3ZF.png",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_robe_top_(tier_90)",
+      "name": "Deathdealer robe top (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathdealerrobetopt90"
+    },
+    {
+      "image": "https://i.imgur.com/nEI3w2n.png",
+      "wikiLink": "https://runescape.wiki/w/Skull_lantern_(tier_90)",
+      "name": "Skull lantern (tier 90)",
+      "breakdownNotes": "",
+      "label": "skulllanternt90"
+    },
+    {
+      "image": "https://i.imgur.com/4KirFLg.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_legs_(tier_90)",
+      "name": "Deathwarden robe legs (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathwardenrobelegst90"
+    },
+    {
+      "image": "https://i.imgur.com/3WIoKQI.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_gloves_(tier_90)",
+      "name": "Deathwarden gloves (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathwardenglovest90"
+    },
+    {
+      "image": "https://i.imgur.com/V94Yora.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_boots_(tier_90)",
+      "name": "Deathwarden boots (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathwardenbootst90"
+    },
+    {
+      "image": "https://i.imgur.com/RZg5LNG.png",
+      "wikiLink": "https://runescape.wiki/w/Asylum_surgeon's_ring",
+      "name": "Asylum surgeon's ring",
+      "breakdownNotes": "",
+      "label": "asr"
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "label": "graspingpouchblack"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/zd3mKfH.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "",
+      "label": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "label": "restore4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "label": "restore4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gKnqcZ0.png",
+      "wikiLink": "https://runescape.wiki/w/Overload_flask#(6)",
+      "name": "Overload flask (6)",
+      "breakdownNotes": "",
+      "label": "overload",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/e0vL3ur.png",
+      "wikiLink": "https://runescape.wiki/w/XP_Capacitor_5000#Charging",
+      "name": "XP Capacitor 5000 (Charging)",
+      "breakdownNotes": "",
+      "label": "xpcapacitor5000charging",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "label": "restore4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "label": "restore4",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8r07LbS.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_notepaper",
+      "name": "Magic notepaper",
+      "breakdownNotes": "",
+      "label": "1knote",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Dy2NfTt.png",
+      "wikiLink": "https://runescape.wiki/w/Ectoplasm",
+      "name": "Ectoplasm",
+      "breakdownNotes": "",
+      "label": "ectoplasm",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "label": "restore4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "label": "restore4",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UVffd75.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench",
+      "name": "Holy wrench",
+      "breakdownNotes": "",
+      "label": "wrench",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "label": "restore4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "label": "restore4",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UURvGNW.png",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "label": "elvenshard",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

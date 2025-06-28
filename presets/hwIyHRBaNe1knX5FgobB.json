@@ -1,0 +1,320 @@
+{
+  "presetName": "Camel warriors (Active Magic)",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/iPtkkKN.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_mask",
+      "name": "Elite tectonic mask",
+      "breakdownNotes": "",
+      "label": "etectohelm"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/nu7QSbh.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_staff",
+      "name": "EoF - Guthix staff",
+      "breakdownNotes": "",
+      "label": "eofpurple"
+    },
+    {
+      "image": "https://i.imgur.com/kyKIKBC.png",
+      "wikiLink": "https://runescape.wiki/w/Wand_of_the_praesul",
+      "name": "Wand of the praesul",
+      "breakdownNotes": "Only for building adren",
+      "label": "pwand"
+    },
+    {
+      "image": "https://i.imgur.com/NftWcLQ.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_top",
+      "name": "Elite tectonic robe top",
+      "breakdownNotes": "",
+      "label": "etectotop"
+    },
+    {
+      "image": "https://i.imgur.com/rvFepeU.png",
+      "wikiLink": "https://runescape.wiki/w/Imperium_core",
+      "name": "Imperium core",
+      "breakdownNotes": "Only for building adren",
+      "label": "core"
+    },
+    {
+      "image": "https://i.imgur.com/0TXtWf2.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_bottom",
+      "name": "Elite tectonic robe bottom",
+      "breakdownNotes": "",
+      "label": "etectolegs"
+    },
+    {
+      "image": "https://i.imgur.com/ia3JNEm.png",
+      "wikiLink": "https://runescape.wiki/w/Deathtouched_bracelet",
+      "name": "Deathtouched bracelet",
+      "breakdownNotes": "",
+      "label": "dtb"
+    },
+    {
+      "image": "https://i.imgur.com/KUGqEdN.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_blast_diffusion_boots",
+      "name": "Enhanced blast diffusion boots",
+      "breakdownNotes": "",
+      "label": "enhancedblastdiff"
+    },
+    {
+      "image": "https://i.imgur.com/Zs7j4JG.png",
+      "wikiLink": "https://runescape.wiki/w/Channeller's_ring",
+      "name": "Channeller's ring",
+      "breakdownNotes": "",
+      "label": "channellerring"
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "<span>Blood | Astral | Body | Soul </span><span>- Runes for Smoke Cloud </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090641879050.png?v=1\" /><span> </span><span>and Exsanguinate </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" />",
+      "label": "graspingpouchblack"
+    },
+    {
+      "image": "https://i.imgur.com/WB5GErF.png",
+      "wikiLink": "https://runescape.wiki/w/Maniacal_aura",
+      "name": "Maniacal aura",
+      "breakdownNotes": "",
+      "label": "mani"
+    },
+    {
+      "image": "https://i.imgur.com/o7yhKdD.png",
+      "wikiLink": "https://runescape.wiki/w/Scrimshaw_of_Elements",
+      "name": "Scrimshaw of Elements",
+      "breakdownNotes": "Superior version will be helpful",
+      "label": "elements"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yWv57LC.png",
+      "wikiLink": "https://runescape.wiki/w/Combat_training_dummy",
+      "name": "Combat training dummy",
+      "breakdownNotes": "For building adrenaline and stalling <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513201065513058306.png?v=1\" />",
+      "label": "mtx",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "Can use other melee off-hands for stalling <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513201065513058306.png?v=1\" />",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/E2dLUWN.png",
+      "wikiLink": "https://runescape.wiki/w/Sceptre_of_the_gods",
+      "name": "Sceptre of the gods",
+      "breakdownNotes": "Option (2) teleports near to camels",
+      "label": "sceptreofthegods",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pFRwJyu.png",
+      "wikiLink": "https://runescape.wiki/w/Fremennik_sea_boots_4",
+      "name": "Fremennik sea boots 4",
+      "breakdownNotes": "<span>For teleporting to chest to lower HP</span>",
+      "label": "fremmyboots",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/6teyxne.png",
+      "wikiLink": "https://runescape.wiki/w/Staff_of_sliske",
+      "name": "Staff of Sliske",
+      "breakdownNotes": "With Precise 6 and Ruthless 3 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088769982475.png?v=1\" /><span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" />",
+      "label": "sos",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/LIuAXT2.png",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_rock_cake_(cooled)",
+      "name": "Dwarven rock cake (cooled)",
+      "breakdownNotes": "For lowering HP <span>to below 100</span>",
+      "label": "rockcake",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire <span>- Runes for Smoke Cloud </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090641879050.png?v=1\" /><span> </span><span>and Exsanguinate </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" />",
+      "label": "graspingpouchblue",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/KWIawjY.png",
+        "name": "Legendary Pet (Scavenge)",
+        "breakdownNotes": "",
+        "label": "legendpetscav"
+      }
+    ]
+  }
+}

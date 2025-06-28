@@ -1,0 +1,287 @@
+{
+  "presetName": "Hermod",
+  "presetNotes": "Subject to change with meta changes, nerfs / buffs and such.",
+  "equipmentSlots": [
+    {
+      "label": "deathdealerhoodt90",
+      "image": "https://img.pvme.io/images/mOp3i6V.png",
+      "name": "Deathdealer hood (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_hood_(tier_90)"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "Can be swapped for regular Necromancy equivalent",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "salvee",
+      "image": "https://img.pvme.io/images/qbsFxuG.png",
+      "name": "Salve amulet (e)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Salve_amulet_(e)"
+    },
+    {
+      "label": "deathguardt90",
+      "image": "https://img.pvme.io/images/tosZimW.png",
+      "name": "Death guard (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Death_guard_(tier_90)"
+    },
+    {
+      "label": "deathdealerrobetopt90",
+      "image": "https://img.pvme.io/images/iKWW3ZF.png",
+      "name": "Deathdealer robe top (tier 90)",
+      "breakdownNotes": "Biting 4 Undead Slayer | Crackling 4 Relentless 5",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_robe_top_(tier_90)"
+    },
+    {
+      "label": "skulllanternt90",
+      "image": "https://img.pvme.io/images/nEI3w2n.png",
+      "name": "Skull lantern (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Skull_lantern_(tier_90)"
+    },
+    {
+      "label": "deathdealerrobebottomt90",
+      "image": "https://img.pvme.io/images/AjOaaB7.png",
+      "name": "Deathdealer robe bottom (tier 90)",
+      "breakdownNotes": "Impatient 4 Devoted 4 | Invigorating 4 Mobile",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_robe_bottom_(tier_90)"
+    },
+    {
+      "label": "cinder",
+      "image": "https://img.pvme.io/images/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "Can be swapped with Deathdealer gloves",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+    },
+    {
+      "label": "deathdealerbootst90",
+      "image": "https://img.pvme.io/images/ixeiTn3.png",
+      "name": "Deathdealer boots (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_boots_(tier_90)"
+    },
+    {
+      "label": "occulistsring",
+      "image": "https://img.pvme.io/images/bCYjo7u.png",
+      "name": "Occulist's Ring",
+      "breakdownNotes": "Zorgoth's soul ring if prefered",
+      "wikiLink": "https://runescape.wiki/w/Occultist%27s_ring"
+    },
+    {
+      "label": "deathwardennexus",
+      "image": "https://img.pvme.io/images/hd7YvA4.png",
+      "name": "Deathwarden Nexus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus"
+    },
+    {
+      "label": "equilibriumaura",
+      "image": "https://img.pvme.io/images/a3Up2sd.png",
+      "name": "Equilibrium aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Equilibrium_aura"
+    },
+    {
+      "label": "scriptureofful",
+      "image": "https://img.pvme.io/images/lPppoD4.png",
+      "name": "Scripture of Ful",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)"
+    },
+    {
+      "label": "renewal6",
+      "image": "https://img.pvme.io/images/Swtl8pP.png",
+      "name": "Adrenaline renewal flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_flask#(6)"
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)"
+    },
+    {
+      "label": "poison1",
+      "image": "https://img.pvme.io/images/hw7rKHz.png",
+      "name": "Weapon poison+++ (1)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(1)"
+    },
+    null,
+    {
+      "label": "grest",
+      "image": "https://img.pvme.io/images/iXpGYQo.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest"
+    },
+    {
+      "label": "grest",
+      "image": "https://img.pvme.io/images/iXpGYQo.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish"
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish"
+    },
+    {
+      "label": "lantasticks",
+      "image": "https://img.pvme.io/images/LfpiRjg.png",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "label": "kwuarmsticks",
+      "image": "https://img.pvme.io/images/Ba7yju8.png",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks"
+    },
+    {
+      "label": "kalgscrolls500",
+      "image": "https://img.pvme.io/images/hjoH9xr.png",
+      "name": "Kal'gerion Demon scroll (Crit-i-Kal)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Kal%27gerion_Demon_scroll_(Crit-i-Kal)"
+    },
+    {
+      "label": "kalg",
+      "image": "https://img.pvme.io/images/5dumsv0.png",
+      "name": "Binding contract (kal'gerion demon)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(kal'gerion_demon)"
+    },
+    null,
+    {
+      "label": "vuln",
+      "image": "https://img.pvme.io/images/2vI8jNm.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs"
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur"
+    },
+    {
+      "label": "elvenshard",
+      "image": "https://img.pvme.io/images/UURvGNW.png",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "label": "conservationofenergy",
+        "image": "https://img.pvme.io/images/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "energy": 350,
+        "description": "After using an ultimate ability, you will regain 10% adrenaline."
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "image": "https://i.imgur.com/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "label": "fontoflife",
+        "energy": 50
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": "",
+        "label": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

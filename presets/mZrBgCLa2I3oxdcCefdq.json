@@ -1,0 +1,403 @@
+{
+  "presetName": "Necromancy Poison (generic)",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "t95necrohelm",
+      "image": "https://img.pvme.io/images/2msk92n.png",
+      "name": "Crown of the First Necromancer",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Crown_of_the_First_Necromancer"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "eof",
+      "image": "https://img.pvme.io/images/UB0lAK8.png",
+      "name": "Essence of Finality amulet",
+      "breakdownNotes": "Death Guard spec",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet"
+    },
+    {
+      "label": "omniguard",
+      "image": "https://img.pvme.io/images/SzFvoQB.png",
+      "name": "Omni guard",
+      "breakdownNotes": "Aftershock 4 | Eruptive 2",
+      "wikiLink": "https://runescape.wiki/w/Omni_guard"
+    },
+    {
+      "label": "t95necrotop",
+      "image": "https://img.pvme.io/images/VwEHIYQ.png",
+      "name": "Robe top of the First Necromancer",
+      "breakdownNotes": "Relentless 5 + Crackling 4 | Biting 4 + Mobile",
+      "wikiLink": "https://runescape.wiki/w/Robe_top_of_the_First_Necromancer"
+    },
+    {
+      "label": "soulboundlantern",
+      "image": "https://img.pvme.io/images/VJsZ4HL.png",
+      "name": "Soulbound lantern",
+      "breakdownNotes": "Precise 6 | Aftershock 1 or Flanking 4 | Precise 2 depeding on content.",
+      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern"
+    },
+    {
+      "label": "t95necrolegs",
+      "image": "https://img.pvme.io/images/s0Acz4g.png",
+      "name": "Robe bottom of the First Necromancer",
+      "breakdownNotes": "Devoted 4 + Impatient 4 | Lucky 6 + Absorbative 1",
+      "wikiLink": "https://runescape.wiki/w/Robe_bottom_of_the_First_Necromancer"
+    },
+    {
+      "label": "cinder",
+      "image": "https://img.pvme.io/images/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+    },
+    {
+      "label": "t95necroboots",
+      "image": "https://img.pvme.io/images/FawdniP.png",
+      "name": "Foot wraps of the First Necromancer",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Foot_wraps_of_the_First_Necromancer"
+    },
+    {
+      "label": "zorgothssoulring",
+      "image": "https://img.pvme.io/images/EGVLuFE.png",
+      "name": "Zorgoth's soul ring",
+      "breakdownNotes": "Occultists/Reaver's Optional",
+      "wikiLink": "https://runescape.wiki/w/Zorgoth%27s_soul_ring"
+    },
+    {
+      "label": "zemouregalsnexus",
+      "image": "https://img.pvme.io/images/3pFXvMR.png",
+      "name": "Zemoregal's Nexus",
+      "breakdownNotes": "+15 shield tier",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus"
+    },
+    {
+      "label": "equilibriumaura",
+      "image": "https://img.pvme.io/images/a3Up2sd.png",
+      "name": "Equilibrium aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Equilibrium_aura"
+    },
+    {
+      "label": "scriptureofwen",
+      "image": "https://img.pvme.io/images/zd3mKfH.png",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "Supplemental poison effectiveness",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "elvenshard",
+      "image": "https://img.pvme.io/images/UURvGNW.png",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "optional?",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Soul | Blood | Astral | Body",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchgreen",
+      "image": "https://img.pvme.io/images/fWzGXLF.png",
+      "name": "Grasping rune pouch (green)",
+      "breakdownNotes": "Death | Law | Cosmic | Earth<br />",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(green)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouch",
+      "image": "https://img.pvme.io/images/Mk7jbjC.png",
+      "name": "Grasping rune pouch",
+      "breakdownNotes": "Chaos | Smoke | Water | Time",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch",
+      "selected": false
+    },
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "poison4",
+      "image": "https://img.pvme.io/images/CR06fbn.png",
+      "name": "Weapon poison+++ (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(4)",
+      "selected": false
+    },
+    {
+      "label": "vitality4",
+      "image": "https://img.pvme.io/images/n9C7iSA.png",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
+      "selected": false
+    },
+    {
+      "label": "renewal6",
+      "image": "https://img.pvme.io/images/Swtl8pP.png",
+      "name": "Adrenaline renewal flask (6)",
+      "breakdownNotes": "optional: Super Adrenaline",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "blessed",
+      "image": "https://img.pvme.io/images/FVmxMkH.png",
+      "name": "Blessed flask",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Blessed_flask",
+      "selected": false
+    },
+    {
+      "label": "vuln",
+      "image": "https://img.pvme.io/images/2vI8jNm.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "selected": false
+    },
+    {
+      "label": "hsr",
+      "image": "https://img.pvme.io/images/xmcbfhs.png",
+      "name": "Hazelmere's signet ring",
+      "breakdownNotes": "Optional: Luck of the dwarves or empty",
+      "wikiLink": "https://runescape.wiki/w/Hazelmere's_signet",
+      "selected": false
+    },
+    {
+      "label": "sbrew",
+      "image": "https://img.pvme.io/images/xjiZl4Y.png",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "appx. 1:2 ratio brews to blubbers",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sbrew",
+      "image": "https://img.pvme.io/images/xjiZl4Y.png",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "appx. 1:2 ratio brews to blubbers",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sbrew",
+      "image": "https://img.pvme.io/images/xjiZl4Y.png",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "appx. 1:2 ratio brews to blubbers",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sbrew",
+      "image": "https://img.pvme.io/images/xjiZl4Y.png",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "appx. 1:2 ratio brews to blubbers",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sbrew",
+      "image": "https://img.pvme.io/images/xjiZl4Y.png",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "appx. 1:2 ratio brews to blubbers",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "appx. 1:2 ratio brews to blubbers or fills",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "appx. 1:2 ratio brews to blubbers or fills",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "appx. 1:2 ratio brews to blubbers or fills",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "appx. 1:2 ratio brews to blubbers or fills",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "appx. 1:2 ratio brews to blubbers or fills",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "appx. 1:2 ratio brews to blubbers or fills",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "appx. 1:2 ratio brews to blubbers or fills",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "appx. 1:2 ratio brews to blubbers or fills",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "appx. 1:2 ratio brews to blubbers or fills",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "appx. 1:2 ratio brews to blubbers or fills",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "conservationofenergy",
+        "image": "https://img.pvme.io/images/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "energy": 350,
+        "description": "After using an ultimate ability, you will regain 10% adrenaline."
+      },
+      {
+        "label": "furyofthesmall",
+        "image": "https://img.pvme.io/images/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline."
+      },
+      {
+        "label": "deathward",
+        "image": "https://img.pvme.io/images/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%."
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "label": "persistentrage",
+        "image": "https://img.pvme.io/images/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained."
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "ripperdemon",
+        "image": "https://img.pvme.io/images/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "label": "bloodreaver",
+        "image": "https://img.pvme.io/images/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": ""
+      },
+      {
+        "label": "hellhound",
+        "image": "https://img.pvme.io/images/A1BvfVb.png",
+        "name": "Hellhound",
+        "breakdownNotes": ""
+      },
+      {
+        "label": "kalgdemon",
+        "image": "https://img.pvme.io/images/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

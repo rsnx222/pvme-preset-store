@@ -1,0 +1,357 @@
+{
+  "presetName": "AFK Chaos Elemental Range",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/lhfAbhp.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_mask",
+      "name": "Sirenic mask",
+      "breakdownNotes": "",
+      "label": "sirenichelm"
+    },
+    {
+      "image": "https://i.imgur.com/TOBhmb5.png",
+      "wikiLink": "https://runescape.wiki/w/Dragon_Rider_cape",
+      "name": "Dragon Rider cape",
+      "breakdownNotes": "",
+      "label": "dridercape"
+    },
+    {
+      "image": "https://i.imgur.com/gA1MFTE.png",
+      "wikiLink": "https://runescape.wiki/w/Demon_horn_necklace",
+      "name": "Demon horn necklace",
+      "breakdownNotes": "Will sustain prayer with bonecrusher and enough prayer bonus. If bonecrusher is not on toolbelt, bring it in inventory.",
+      "label": "demonhorn"
+    },
+    {
+      "image": "https://i.imgur.com/GkhQHSj.png",
+      "wikiLink": "https://runescape.wiki/w/Bow_of_the_Last_Guardian",
+      "name": "Bow of the Last Guardian",
+      "breakdownNotes": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/791281588792590336.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502258424971564.png?v=1\" /> | <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088769982475.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502339891331093.png?v=1\" />",
+      "label": "bolg"
+    },
+    {
+      "image": "https://i.imgur.com/lYDKMiu.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_hauberk",
+      "name": "Sirenic hauberk",
+      "breakdownNotes": "",
+      "label": "sirenictop"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/gBPOqaV.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_chaps",
+      "name": "Sirenic chaps",
+      "breakdownNotes": "",
+      "label": "sireniclegs"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/R5kSCvF.png",
+      "wikiLink": "https://runescape.wiki/w/Fleeting_boots",
+      "name": "Fleeting boots",
+      "breakdownNotes": "Dragonrider Boots are better",
+      "label": "fleet"
+    },
+    {
+      "image": "https://i.imgur.com/xRj7mKb.png",
+      "wikiLink": "https://runescape.wiki/w/Stalker's_ring",
+      "name": "Stalker's ring",
+      "breakdownNotes": "",
+      "label": "stalkerring"
+    },
+    {
+      "image": "https://i.imgur.com/b3geFp8.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver",
+      "breakdownNotes": "Ful Arrows",
+      "label": "pernixquiver"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/gNvJT7o.png",
+      "wikiLink": "https://runescape.wiki/w/Illuminated_Book_of_Wisdom",
+      "name": "Illuminated Book of Wisdom",
+      "breakdownNotes": "",
+      "label": "saragodbook"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve"
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve"
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "name": "Green blubber jellyfish",
+      "label": "greenjelly"
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "name": "Green blubber jellyfish",
+      "label": "greenjelly"
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "label": "greenjelly"
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "label": "greenjelly"
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "label": "greenjelly"
+    },
+    {
+      "image": "https://i.imgur.com/CR06fbn.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(4)",
+      "name": "Weapon poison+++ (4)",
+      "breakdownNotes": "",
+      "label": "poison4"
+    },
+    {
+      "image": "https://i.imgur.com/CR06fbn.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(4)",
+      "breakdownNotes": "",
+      "name": "Weapon poison+++ (4)",
+      "label": "poison4"
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "name": "Green blubber jellyfish",
+      "label": "greenjelly"
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "label": "greenjelly"
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "name": "Green blubber jellyfish",
+      "label": "greenjelly"
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "label": "greenjelly"
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "name": "Green blubber jellyfish",
+      "label": "greenjelly"
+    },
+    {
+      "image": "https://i.imgur.com/UVffd75.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench",
+      "name": "Holy wrench",
+      "breakdownNotes": "",
+      "label": "wrench"
+    },
+    {
+      "image": "https://i.imgur.com/gMZLjIv.png",
+      "wikiLink": "https://runescape.wiki/w/Artificier's_measure",
+      "name": "Artificier's measure",
+      "breakdownNotes": "",
+      "label": "artificer"
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "label": "greenjelly"
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "name": "Green blubber jellyfish",
+      "label": "greenjelly"
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "label": "greenjelly"
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "name": "Green blubber jellyfish",
+      "label": "greenjelly"
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "name": "Green blubber jellyfish",
+      "label": "greenjelly"
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner"
+    },
+    {
+      "image": "https://i.imgur.com/GrfjyE2.png",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "breakdownNotes": "",
+      "name": "Cannonballs",
+      "label": "cballs"
+    },
+    {
+      "image": "https://i.imgur.com/gKUbd5X.png",
+      "wikiLink": "https://runescape.wiki/w/Portable_Obelisk",
+      "name": "Portable Obelisk",
+      "breakdownNotes": "Single use obelisk shards can also work, just bring more than one.",
+      "label": "portableobelisk"
+    },
+    {
+      "image": "https://i.imgur.com/R4tRepk.png",
+      "wikiLink": "https://runescape.wiki/w/Oldak_coil",
+      "name": "Oldak coil",
+      "breakdownNotes": "",
+      "label": "oldakcoil"
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "name": "Green blubber jellyfish",
+      "label": "greenjelly"
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "label": "greenjelly"
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "name": "Green blubber jellyfish",
+      "label": "greenjelly"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Ivcgjer.png",
+        "name": "Luck of the Dwarves",
+        "breakdownNotes": "",
+        "label": "luckofthedwarves",
+        "energy": 200
+      },
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "label": "persistentrage",
+        "energy": 150
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/x5tUpRe.png",
+        "name": "Holy Scarab",
+        "breakdownNotes": "",
+        "label": "holyscarab"
+      }
+    ]
+  }
+}

@@ -1,0 +1,399 @@
+{
+  "presetName": "Solak basic ranged",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/lhfAbhp.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_mask",
+      "name": "Sirenic mask",
+      "breakdownNotes": "",
+      "label": "sirenichelm"
+    },
+    {
+      "image": "https://i.imgur.com/TNKAuKX.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Xil",
+      "name": "Igneous Kal-Xil",
+      "breakdownNotes": "<span>Can downgrade to Kiln cape or Defence Skillcape.</span>",
+      "label": "kalxil"
+    },
+    {
+      "image": "https://i.imgur.com/cUaU7mB.png",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_souls",
+      "name": "Amulet of souls",
+      "breakdownNotes": "",
+      "label": "aos"
+    },
+    {
+      "image": "https://i.imgur.com/iiBXivW.png",
+      "wikiLink": "https://runescape.wiki/w/Noxious_longbow",
+      "name": "Noxious longbow",
+      "breakdownNotes": "No need dual-wield crossbows",
+      "label": "noxbow"
+    },
+    {
+      "image": "https://i.imgur.com/lYDKMiu.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_hauberk",
+      "name": "Sirenic hauberk",
+      "breakdownNotes": "",
+      "label": "sirenictop"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/gBPOqaV.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_chaps",
+      "name": "Sirenic chaps",
+      "breakdownNotes": "",
+      "label": "sireniclegs"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/R5kSCvF.png",
+      "wikiLink": "https://runescape.wiki/w/Fleeting_boots",
+      "name": "Fleeting boots",
+      "breakdownNotes": "",
+      "label": "fleet"
+    },
+    {
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
+      "name": "Reaver's ring",
+      "breakdownNotes": "Stalker's Ring &gt; Reaver's Ring &gt; Ring of Death",
+      "label": "reaverring"
+    },
+    {
+      "image": "https://i.imgur.com/b3geFp8.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver",
+      "breakdownNotes": "Bik Arrow/Ful Arrow",
+      "label": "pernixquiver"
+    },
+    {
+      "image": "https://i.imgur.com/KGFnFzQ.png",
+      "wikiLink": "https://runescape.wiki/w/Inspiration_aura",
+      "name": "Inspiration aura",
+      "breakdownNotes": "",
+      "label": "inspiration"
+    },
+    {
+      "image": "https://i.imgur.com/zd3mKfH.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "",
+      "label": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/gKnqcZ0.png",
+      "wikiLink": "https://runescape.wiki/w/Overload_flask#(6)",
+      "name": "Overload flask (6)",
+      "breakdownNotes": "",
+      "label": "overload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/IqAjWRF.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "",
+      "label": "renewal4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/n9C7iSA.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "",
+      "label": "vitality4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "label": "vuln",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "label": "poison6",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hd7YvA4.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
+      "name": "Deathwarden Nexus",
+      "breakdownNotes": "",
+      "label": "deathwardennexus",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PFLToHh.png",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)",
+      "name": "Spiritual prayer (6)",
+      "breakdownNotes": "Can be replaced with super restore flasks or equivalent",
+      "label": "spiritual",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "label": "graspingpouchblack",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PFLToHh.png",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)",
+      "name": "Spiritual prayer (6)",
+      "breakdownNotes": "Can be replaced with super restore flasks or equivalent",
+      "label": "spiritual",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nXXZxpH.png",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "",
+      "label": "lotd",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PFLToHh.png",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)",
+      "name": "Spiritual prayer (6)",
+      "breakdownNotes": "Can be replaced with super restore flasks or equivalent",
+      "label": "spiritual",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "https://i.imgur.com/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": "",
+        "label": "ripperdemon"
+      },
+      {
+        "image": "https://i.imgur.com/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": "",
+        "label": "kalgdemon"
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": "",
+        "label": "bloodreaver"
+      }
+    ]
+  }
+}

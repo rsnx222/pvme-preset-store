@@ -1,0 +1,401 @@
+{
+  "presetName": "Basic Ranged Nex",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "sirenichelm",
+      "image": "https://img.pvme.io/images/lhfAbhp.png",
+      "name": "Sirenic mask",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_mask"
+    },
+    {
+      "label": "kalxil",
+      "image": "https://img.pvme.io/images/TNKAuKX.png",
+      "name": "Igneous Kal-Xil",
+      "breakdownNotes": "Can downgrade to Kiln cape or Defence skillcape.",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Xil"
+    },
+    {
+      "label": "eofyellowunorn",
+      "image": "https://img.pvme.io/images/YR6pLdv.png",
+      "name": "EoF - Dark bow",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dark_bow"
+    },
+    {
+      "label": "asc",
+      "image": "https://img.pvme.io/images/VZnA3ZS.png",
+      "name": "Ascension crossbow",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ascension_crossbow"
+    },
+    {
+      "label": "akrisaetop",
+      "image": "https://img.pvme.io/images/4vpqobx.png",
+      "name": "Akrisae's robe top",
+      "breakdownNotes": "Perked with Clear Headed 4 to avoid getting stunned by Nex during P1 the beginning of P2.<div>Can use any augmentable armour or weapon for this swap.</div>",
+      "wikiLink": "https://runescape.wiki/w/Akrisae's_robe_top"
+    },
+    {
+      "label": "repriser",
+      "image": "https://img.pvme.io/images/liT4nh4.png",
+      "name": "Ancient repriser",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Ancient_repriser"
+    },
+    {
+      "label": "sireniclegs",
+      "image": "https://img.pvme.io/images/gBPOqaV.png",
+      "name": "Sirenic chaps",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_chaps"
+    },
+    {
+      "label": "nightmare",
+      "image": "https://img.pvme.io/images/goMzH9N.png",
+      "name": "Nightmare gauntlets",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nightmare_gauntlets"
+    },
+    {
+      "label": "fleet",
+      "image": "https://img.pvme.io/images/R5kSCvF.png",
+      "name": "Fleeting boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fleeting_boots"
+    },
+    {
+      "label": "reaverring",
+      "image": "https://img.pvme.io/images/cnIOClx.png",
+      "name": "Reaver's ring",
+      "breakdownNotes": "Can downgrade to Ring of Death.",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring"
+    },
+    {
+      "label": "ruby",
+      "image": "https://img.pvme.io/images/ipGtNvB.png",
+      "name": "Ruby bakriminel bolts (e)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ruby_bakriminel_bolts_(e)"
+    },
+    {
+      "label": "reckless",
+      "image": "https://img.pvme.io/images/FZ59xZK.png",
+      "name": "Reckless aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Reckless_aura"
+    },
+    {
+      "label": "scriptureofjas",
+      "image": "https://img.pvme.io/images/FLYAOEf.png",
+      "name": "Scripture of Jas",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Jas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "renewal4",
+      "image": "https://img.pvme.io/images/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "selected": false
+    },
+    {
+      "label": "vitality4",
+      "image": "https://img.pvme.io/images/n9C7iSA.png",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
+      "selected": false
+    },
+    {
+      "label": "grest",
+      "image": "https://img.pvme.io/images/iXpGYQo.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "selected": false
+    },
+    {
+      "label": "grest",
+      "image": "https://img.pvme.io/images/iXpGYQo.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "selected": false
+    },
+    {
+      "label": "grest",
+      "image": "https://img.pvme.io/images/iXpGYQo.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "selected": false
+    },
+    {
+      "label": "grest",
+      "image": "https://img.pvme.io/images/iXpGYQo.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "selected": false
+    },
+    {
+      "label": "vuln",
+      "image": "https://img.pvme.io/images/2vI8jNm.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sirenictop",
+      "image": "https://img.pvme.io/images/lYDKMiu.png",
+      "name": "Sirenic hauberk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_hauberk",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "ohasc",
+      "image": "https://img.pvme.io/images/tSwe20M.png",
+      "name": "Off-hand ascension crossbow",
+      "breakdownNotes": "Equip after Anticipate.",
+      "wikiLink": "https://runescape.wiki/w/Off-hand_ascension_crossbow",
+      "selected": false
+    },
+    {
+      "label": "ohchaoticcbow",
+      "image": "https://img.pvme.io/images/74JuHDf.png",
+      "name": "Off-hand Chaotic crossbow",
+      "breakdownNotes": "Perked with Caroming for use with Greater Ricochet.",
+      "wikiLink": "https://runescape.wiki/w/Off-hand_Chaotic_crossbow",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "hydrix",
+      "image": "https://img.pvme.io/images/xbNBoDV.png",
+      "name": "Hydrix bakriminel bolts (e)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Hydrix_bakriminel_bolts_(e)",
+      "selected": false
+    },
+    {
+      "label": "dstone",
+      "image": "https://img.pvme.io/images/FBCvDLh.png",
+      "name": "Dragonstone bakriminel bolts (e)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dragonstone_bakriminel_bolts_(e)",
+      "selected": false
+    },
+    {
+      "label": "spices",
+      "image": "https://img.pvme.io/images/GNzR4sU.png",
+      "name": "Expensive spices",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Expensive_spices",
+      "selected": false
+    },
+    {
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "selected": false
+    },
+    {
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "selected": false
+    },
+    {
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "selected": false
+    },
+    {
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "conservationofenergy",
+        "image": "https://img.pvme.io/images/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "energy": 350,
+        "description": "After using an ultimate ability, you will regain 10% adrenaline."
+      },
+      {
+        "label": "furyofthesmall",
+        "image": "https://img.pvme.io/images/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline."
+      },
+      {
+        "label": "fontoflife",
+        "image": "https://img.pvme.io/images/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "energy": 50,
+        "description": "Increases maximum health by 500."
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "shadownihil",
+        "image": "https://img.pvme.io/images/evmMlFz.png",
+        "name": "Shadow Nihil",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

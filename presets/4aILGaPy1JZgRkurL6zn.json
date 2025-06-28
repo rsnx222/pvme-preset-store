@@ -1,0 +1,370 @@
+{
+  "presetName": "Comp Master Clue Preset",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/Uxr7Xcm.png",
+      "wikiLink": "https://runescape.wiki/w/Wicked_hood",
+      "name": "Wicked hood",
+      "breakdownNotes": "",
+      "label": "wickedhood"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/4KgPcpm.png",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves",
+      "name": "Grace of the elves",
+      "breakdownNotes": "",
+      "label": "gote"
+    },
+    {
+      "image": "https://i.imgur.com/Moh9yya.png",
+      "wikiLink": "https://runescape.wiki/w/Abyssal_scourge",
+      "name": "Abyssal scourge",
+      "breakdownNotes": "",
+      "label": "abyssalscourge"
+    },
+    {
+      "image": "https://i.imgur.com/E5ptfu6.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_top",
+      "name": "Vestments of havoc robe top",
+      "breakdownNotes": "",
+      "label": "vestmentbody"
+    },
+    {
+      "image": "https://i.imgur.com/LAVYvrE.png",
+      "wikiLink": "https://runescape.wiki/w/Dark_Sliver_of_Leng",
+      "name": "Dark Sliver of Leng",
+      "breakdownNotes": "",
+      "label": "lengoh"
+    },
+    {
+      "image": "https://i.imgur.com/mz7GwWF.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_bottom",
+      "name": "Vestments of havoc robe bottom",
+      "breakdownNotes": "",
+      "label": "vestmentlegs"
+    },
+    {
+      "image": "https://i.imgur.com/U4Wa7vb.png",
+      "wikiLink": "https://runescape.wiki/w/Gloves_of_passage",
+      "name": "Gloves of passage",
+      "breakdownNotes": "",
+      "label": "glovesofpassage"
+    },
+    {
+      "image": "https://i.imgur.com/FarIA5V.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_boots",
+      "name": "Vestments of havoc boots",
+      "breakdownNotes": "",
+      "label": "vestmentboots"
+    },
+    {
+      "image": "https://i.imgur.com/J1iLqln.png",
+      "wikiLink": "https://runescape.wiki/w/Tokkul-zo",
+      "name": "Tokkul-zo",
+      "breakdownNotes": "",
+      "label": "tokkulzo"
+    },
+    {
+      "image": "https://i.imgur.com/yxmdGCZ.png",
+      "wikiLink": "https://runescape.wiki/w/Tirannwn_quiver_4",
+      "name": "Tirannwn quiver 4",
+      "breakdownNotes": "",
+      "label": "quiver4"
+    },
+    {
+      "image": "https://i.imgur.com/Fme45Ts.png",
+      "wikiLink": "https://runescape.wiki/w/Berserker_aura",
+      "name": "Berserker aura",
+      "breakdownNotes": "",
+      "label": "zerk"
+    },
+    {
+      "image": "https://i.imgur.com/KPREDHT.png",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "label": "cluebag"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/beq0RtH.png",
+      "wikiLink": "https://runescape.wiki/w/Clue_scroll",
+      "name": "Active clue",
+      "breakdownNotes": "",
+      "label": "activeclue"
+    },
+    {
+      "image": "https://i.imgur.com/Iyv2fmh.png",
+      "wikiLink": "https://runescape.wiki/w/Tower_skipping_ticket",
+      "name": "Tower skipping ticket",
+      "breakdownNotes": "",
+      "label": "towerskippingticket"
+    },
+    {
+      "image": "https://i.imgur.com/I4qeyjI.png",
+      "wikiLink": "https://runescape.wiki/w/Lockbox_skipping_ticket",
+      "name": "Lockbox skipping ticket",
+      "breakdownNotes": "",
+      "label": "lockboxskippingticket"
+    },
+    {
+      "image": "https://i.imgur.com/SazXdzN.png",
+      "wikiLink": "https://runescape.wiki/w/Costume_skipping_ticket",
+      "name": "Costume skipping ticket",
+      "breakdownNotes": "",
+      "label": "costumeskippingticket"
+    },
+    {
+      "image": "https://i.imgur.com/eirYlnU.png",
+      "wikiLink": "https://runescape.wiki/w/The_Heart_teleport",
+      "name": "The Heart teleport",
+      "breakdownNotes": "",
+      "label": "theheartteleport"
+    },
+    {
+      "image": "https://i.imgur.com/Qp0s9G2.png",
+      "wikiLink": "https://runescape.wiki/w/Passage_of_the_Abyss_(red)",
+      "name": "Passage of the Abyss (red)",
+      "breakdownNotes": "",
+      "label": "passageoftheabyss(red)"
+    },
+    {
+      "image": "https://i.imgur.com/gyyfHQl.png",
+      "wikiLink": "https://runescape.wiki/w/Drakan's_medallion",
+      "name": "Drakan's medallion",
+      "breakdownNotes": "",
+      "label": "drakansmedal"
+    },
+    {
+      "image": "https://i.imgur.com/mqsH3xe.png",
+      "wikiLink": "https://runescape.wiki/w/Ectophial",
+      "name": "Ectophial",
+      "breakdownNotes": "",
+      "label": "ectophial"
+    },
+    {
+      "image": "https://i.imgur.com/sOfnUEX.png",
+      "wikiLink": "https://runescape.wiki/w/Arc_journal",
+      "name": "Arc journal",
+      "breakdownNotes": "",
+      "label": "arcjournal"
+    },
+    {
+      "image": "https://i.imgur.com/EuRZLF2.png",
+      "wikiLink": "https://runescape.wiki/w/Menaphos_journal",
+      "name": "Menaphos journal",
+      "breakdownNotes": "",
+      "label": "menaphosjournal"
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve"
+    },
+    {
+      "image": "https://i.imgur.com/I6HFjyN.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "",
+      "label": "accel4"
+    },
+    {
+      "image": "https://i.imgur.com/qi9TCpL.png",
+      "wikiLink": "https://runescape.wiki/w/Desert_amulet_2",
+      "name": "Desert amulet 2",
+      "breakdownNotes": "",
+      "label": "desertamulet2"
+    },
+    {
+      "image": "https://i.imgur.com/Ho60PPT.png",
+      "wikiLink": "https://runescape.wiki/w/Big_Book_o'Piracy",
+      "name": "Big Book o'Piracy",
+      "breakdownNotes": "",
+      "label": "bigbookopiracy"
+    },
+    {
+      "image": "https://i.imgur.com/WYm7p9h.png",
+      "wikiLink": "https://runescape.wiki/w/Archaeology_teleport",
+      "name": "Archaeology teleport",
+      "breakdownNotes": "",
+      "label": "archaeologyteleport"
+    },
+    {
+      "image": "https://i.imgur.com/qNQ9dCI.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_crystal_teleport_seed",
+      "name": "Attuned crystal teleport seed",
+      "breakdownNotes": "",
+      "label": "attunedcrystalteleportseed"
+    },
+    {
+      "image": "https://i.imgur.com/FN0XHFS.png",
+      "wikiLink": "https://runescape.wiki/w/Curly_root",
+      "name": "Curly root",
+      "breakdownNotes": "",
+      "label": "curlyroot"
+    },
+    {
+      "image": "https://i.imgur.com/oN8HWIo.png",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_fish_extractor",
+      "name": "Dwarven fish extractor",
+      "breakdownNotes": "",
+      "label": "dwarvenfishextractor"
+    },
+    {
+      "image": "https://i.imgur.com/oOIEwH0.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_logs",
+      "name": "Magic logs",
+      "breakdownNotes": "",
+      "label": "magiclogs"
+    },
+    {
+      "image": "https://i.imgur.com/IilVMmp.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_logs",
+      "name": "Elder logs",
+      "breakdownNotes": "",
+      "label": "elderlogs"
+    },
+    {
+      "image": "https://i.imgur.com/cx7cvZh.png",
+      "wikiLink": "https://runescape.wiki/w/Decorated_cooking_urn_(nr)",
+      "name": "Decorated cooking urn (nr)",
+      "breakdownNotes": "",
+      "label": "decoratedcookingurn(nr)"
+    },
+    {
+      "image": "https://i.imgur.com/1aatevD.png",
+      "wikiLink": "https://runescape.wiki/w/Raw_shark",
+      "name": "Raw shark",
+      "breakdownNotes": "",
+      "label": "rawshark"
+    },
+    {
+      "image": "https://i.imgur.com/S0ENqzv.png",
+      "wikiLink": "https://runescape.wiki/w/Toadflax_potion_(unf)",
+      "name": "Toadflax potion (unf)",
+      "breakdownNotes": "",
+      "label": "toadflaxpotionunf"
+    },
+    {
+      "image": "https://i.imgur.com/JzxQM2m.png",
+      "wikiLink": "https://runescape.wiki/w/Crushed_nest",
+      "name": "Crushed nest",
+      "breakdownNotes": "",
+      "label": "crushednest"
+    },
+    {
+      "image": "https://i.imgur.com/fAvXNbz.png",
+      "wikiLink": "https://runescape.wiki/w/Torstol_potion_(unf)",
+      "name": "Torstol potion (unf)",
+      "breakdownNotes": "",
+      "label": "torstolpotionunf"
+    },
+    {
+      "image": "https://i.imgur.com/8ka7wAu.png",
+      "wikiLink": "https://runescape.wiki/w/Jangerberries",
+      "name": "Jangerberries",
+      "breakdownNotes": "",
+      "label": "jangerberries"
+    },
+    {
+      "image": "https://i.imgur.com/jiK1ZtB.png",
+      "wikiLink": "https://runescape.wiki/w/Puzzle_box",
+      "name": "Puzzle box",
+      "breakdownNotes": "",
+      "label": "puzzlebox"
+    },
+    {
+      "image": "https://i.imgur.com/rbZs9di.png",
+      "wikiLink": "https://runescape.wiki/w/Fire_rune",
+      "name": "Fire rune",
+      "breakdownNotes": "",
+      "label": "firerune10k"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/8IMPgCF.png",
+        "name": "Abyssal Link",
+        "breakdownNotes": "",
+        "label": "abyssallink",
+        "energy": 250
+      },
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "label": "persistentrage",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "label": "shadowsgrace",
+        "energy": 50
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/cOwxYnD.png",
+        "name": "Meerkats",
+        "breakdownNotes": "",
+        "label": "meerkats"
+      }
+    ]
+  }
+}

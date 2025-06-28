@@ -1,0 +1,290 @@
+{
+  "presetName": "Advanced kiln",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/jxHhKUO.png",
+      "name": "Anima core helm of sliske",
+      "breakdownNotes": "",
+      "label": "sliskehelm"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/JMC7t7Y.png",
+      "name": "EoF - Dragon claws",
+      "breakdownNotes": "",
+      "label": "eofred"
+    },
+    {
+      "image": "https://i.imgur.com/wFdHN9C.png",
+      "name": "Dark Shard of Leng",
+      "breakdownNotes": "",
+      "label": "lengmh"
+    },
+    {
+      "image": "https://i.imgur.com/E5ptfu6.png",
+      "name": "Vestments of havoc robe top",
+      "breakdownNotes": "",
+      "label": "vestmentbody"
+    },
+    {
+      "image": "https://i.imgur.com/LAVYvrE.png",
+      "name": "Dark Sliver of Leng",
+      "breakdownNotes": "",
+      "label": "lengoh"
+    },
+    {
+      "image": "https://i.imgur.com/0HQcba9.png",
+      "name": "Anima core legs of sliske",
+      "breakdownNotes": "",
+      "label": "sliskelegs"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/TkJs5ST.png",
+      "name": "Silverhawk boots",
+      "breakdownNotes": "",
+      "label": "shboots"
+    },
+    {
+      "image": "https://i.imgur.com/J1iLqln.png",
+      "name": "Tokkul-zo",
+      "breakdownNotes": "",
+      "label": "tokkulzo"
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos/Air/Water/Fire",
+      "label": "graspingpouchblue"
+    },
+    {
+      "image": "https://i.imgur.com/dNm4A5W.png",
+      "name": "Berserker aura",
+      "breakdownNotes": "",
+      "label": "zerk"
+    },
+    {
+      "image": "https://i.imgur.com/PY2Fx7Z.png",
+      "name": "Book of wisdom (Illuminated)",
+      "breakdownNotes": "",
+      "label": "saragodbook"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/SsNRoVE.png",
+      "name": "Elder overload salve",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9wds5Ez.png",
+      "name": "Adrenaline renewal flask",
+      "breakdownNotes": "",
+      "label": "renewal6",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/DmUfsSM.png",
+      "name": "Wand of the praesul",
+      "breakdownNotes": "",
+      "label": "pwand",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/WHurFLm.png",
+      "name": "Imperium core",
+      "breakdownNotes": "",
+      "label": "core",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3ETfbUf.png",
+      "name": "Saradomin brew",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3ETfbUf.png",
+      "name": "Saradomin brew",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/5PPmPXC.png",
+      "name": "Spiritual prayer",
+      "breakdownNotes": "",
+      "label": "spiritual",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/CR06fbn.png",
+      "name": "Weapon poison+++ (4 dose)",
+      "breakdownNotes": "",
+      "label": "poison4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/OPZ0ibN.png",
+      "name": "Dominion mines",
+      "breakdownNotes": "",
+      "label": "20mines",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/AI12yBk.png",
+      "name": "Fractured Staff of Armadyl",
+      "breakdownNotes": "",
+      "label": "fsoa",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FMvke44.png",
+      "name": "Anima core body of sliske",
+      "breakdownNotes": "",
+      "label": "sliskebody",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/5PPmPXC.png",
+      "name": "Spiritual prayer",
+      "breakdownNotes": "",
+      "label": "spiritual",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/5PPmPXC.png",
+      "name": "Spiritual prayer",
+      "breakdownNotes": "",
+      "label": "spiritual",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/5PPmPXC.png",
+      "name": "Spiritual prayer",
+      "breakdownNotes": "",
+      "label": "spiritual",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FAPSk6p.png",
+      "name": "Erethdor's grimoire",
+      "breakdownNotes": "",
+      "label": "grim",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KFZJLhU.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/mz7GwWF.png",
+      "name": "Vestments of havoc robe bottom",
+      "breakdownNotes": "",
+      "label": "vestmentlegs",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/EVh5SwD.png",
+      "name": "Vestments of havoc hood",
+      "breakdownNotes": "",
+      "label": "vestmenthood",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/5PPmPXC.png",
+      "name": "Spiritual prayer",
+      "breakdownNotes": "",
+      "label": "spiritual",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/5PPmPXC.png",
+      "name": "Spiritual prayer",
+      "breakdownNotes": "",
+      "label": "spiritual",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/5PPmPXC.png",
+      "name": "Spiritual prayer",
+      "breakdownNotes": "",
+      "label": "spiritual",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/H74WgP2.png",
+      "name": "Noxious scythe",
+      "breakdownNotes": "",
+      "label": "scythe",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/f8fipOt.png",
+      "name": "Seren godbow",
+      "breakdownNotes": "",
+      "label": "sgb",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FarIA5V.png",
+      "name": "Vestments of havoc boots",
+      "breakdownNotes": "",
+      "label": "vestmentboots",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hOgzyPZ.png",
+      "name": "Steel titan pouch",
+      "breakdownNotes": "",
+      "label": "titanpouch",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/5IKQkH1.png",
+      "name": "Steel of legends scrolls",
+      "breakdownNotes": "",
+      "label": "titanscrolls",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death/Earth/Law/Cosmic",
+      "label": "graspingpouchpink",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood/Astral/Body/Soul",
+      "label": "graspingpouchblack",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [],
+    "alternativeFamiliars": []
+  }
+}

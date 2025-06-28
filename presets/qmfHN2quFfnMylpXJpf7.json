@@ -1,0 +1,407 @@
+{
+  "presetName": "aod solo advanced",
+  "presetNotes": "<br />",
+  "equipmentSlots": [
+    {
+      "label": "t95necrohelm",
+      "image": "https://img.pvme.io/images/2msk92n.png",
+      "name": "Crown of the First Necromancer",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Crown_of_the_First_Necromancer"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "eofblack",
+      "image": "https://img.pvme.io/images/iZw3Uee.png",
+      "name": "EoF - Death guard",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Death_guard"
+    },
+    {
+      "label": "omniguard",
+      "image": "https://img.pvme.io/images/SzFvoQB.png",
+      "name": "Omni guard",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Omni_guard"
+    },
+    {
+      "label": "t95necrotop",
+      "image": "https://img.pvme.io/images/VwEHIYQ.png",
+      "name": "Robe top of the First Necromancer",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Robe_top_of_the_First_Necromancer"
+    },
+    {
+      "label": "soulboundlantern",
+      "image": "https://img.pvme.io/images/VJsZ4HL.png",
+      "name": "Soulbound lantern",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern"
+    },
+    {
+      "label": "t95necrolegs",
+      "image": "https://img.pvme.io/images/s0Acz4g.png",
+      "name": "Robe bottom of the First Necromancer",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Robe_bottom_of_the_First_Necromancer"
+    },
+    {
+      "label": "t95necrogloves",
+      "image": "https://img.pvme.io/images/8zjLczG.png",
+      "name": "Hand wrap of the First Necromancer",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Hand_wrap_of_the_First_Necromancer"
+    },
+    {
+      "label": "t95necroboots",
+      "image": "https://img.pvme.io/images/FawdniP.png",
+      "name": "Foot wraps of the First Necromancer",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Foot_wraps_of_the_First_Necromancer"
+    },
+    {
+      "label": "occulistsring",
+      "image": "https://img.pvme.io/images/bCYjo7u.png",
+      "name": "Occulist's Ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Occultist%27s_ring"
+    },
+    {
+      "label": "zemouregalsnexus",
+      "image": "https://img.pvme.io/images/3pFXvMR.png",
+      "name": "Zemouregal's Nexus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus"
+    },
+    {
+      "label": "equilibriumaura",
+      "image": "https://img.pvme.io/images/a3Up2sd.png",
+      "name": "Equilibrium aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Equilibrium_aura"
+    },
+    {
+      "label": "scriptureofjas",
+      "image": "https://img.pvme.io/images/FLYAOEf.png",
+      "name": "Scripture of Jas",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Jas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "renewal4",
+      "image": "https://img.pvme.io/images/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "selected": false
+    },
+    {
+      "label": "deathwardenhoodt90",
+      "image": "https://img.pvme.io/images/5vasEy6.png",
+      "name": "Deathwarden hood (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_hood_(tier_90)",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "vitality4",
+      "image": "https://img.pvme.io/images/n9C7iSA.png",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
+      "selected": false
+    },
+    {
+      "label": "blessed",
+      "image": "https://img.pvme.io/images/FVmxMkH.png",
+      "name": "Blessed flask",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blessed_flask",
+      "selected": false
+    },
+    {
+      "label": "deathwardenrobetopt90",
+      "image": "https://img.pvme.io/images/JkyJN48.png",
+      "name": "Deathwarden robe top (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_top_(tier_90)",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "spectral",
+      "image": "https://img.pvme.io/images/Z4BttRK.png",
+      "name": "Spectral spirit shield",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spectral_spirit_shield",
+      "selected": false
+    },
+    {
+      "label": "vuln",
+      "image": "https://img.pvme.io/images/2vI8jNm.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "selected": false
+    },
+    {
+      "label": "deathwardenrobelegst90",
+      "image": "https://img.pvme.io/images/4KirFLg.png",
+      "name": "Deathwarden robe bottom (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_legs_(tier_90)",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "sbrew",
+      "image": "https://img.pvme.io/images/xjiZl4Y.png",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sbrew",
+      "image": "https://img.pvme.io/images/xjiZl4Y.png",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sbrew",
+      "image": "https://img.pvme.io/images/xjiZl4Y.png",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "nips",
+      "image": "https://img.pvme.io/images/PzFKnJF.png",
+      "name": "Dreadnip",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dreadnip",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchpink",
+      "image": "https://img.pvme.io/images/yrnlR2T.png",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "selected": false
+    },
+    {
+      "label": "gbrew",
+      "image": "https://img.pvme.io/images/dPf2fLt.png",
+      "name": "Super Guthix brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "gbrew",
+      "image": "https://img.pvme.io/images/dPf2fLt.png",
+      "name": "Super Guthix brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline.",
+        "label": "shadowsgrace",
+        "energy": 50
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "hellhound",
+        "image": "https://img.pvme.io/images/A1BvfVb.png",
+        "name": "Hellhound",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "label": "packmammoth",
+        "image": "https://img.pvme.io/images/z8NpfWG.png",
+        "name": "Pack Mammoth",
+        "breakdownNotes": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

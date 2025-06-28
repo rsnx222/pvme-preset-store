@@ -1,0 +1,323 @@
+{
+  "presetName": "Barb assault solo attacking",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/ahIQK88.png",
+      "wikiLink": "https://runescape.wiki/w/Superior_Death_Lotus_hood",
+      "name": "Superior Death Lotus hood",
+      "breakdownNotes": "",
+      "label": "superiordeathlotushood"
+    },
+    {
+      "image": "https://i.imgur.com/TNKAuKX.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Xil",
+      "name": "Igneous Kal-Xil",
+      "breakdownNotes": "",
+      "label": "kalxil"
+    },
+    {
+      "image": "https://i.imgur.com/YQRScqK.png",
+      "wikiLink": "https://runescape.wiki/w/Farsight_blood_necklace",
+      "name": "Farsight blood necklace",
+      "breakdownNotes": "",
+      "label": "rangeblood"
+    },
+    {
+      "image": "https://i.imgur.com/TMWKAqQ.png",
+      "wikiLink": "https://runescape.wiki/w/Mechanised_chinchompa",
+      "name": "Mechanised chinchompa",
+      "breakdownNotes": "",
+      "label": "chins"
+    },
+    {
+      "image": "https://i.imgur.com/6MIGkP1.png",
+      "wikiLink": "https://runescape.wiki/w/Superior_Death_Lotus_chestplate",
+      "name": "Superior Death Lotus chestplate",
+      "breakdownNotes": "",
+      "label": "superiordeathlotuschestplate"
+    },
+    {
+      "image": "https://i.imgur.com/OX5iUca.png",
+      "wikiLink": "https://runescape.wiki/w/Off-hand_shadow_glaive",
+      "name": "Off-hand shadow glaive",
+      "breakdownNotes": "Perked with Eruptive 4-Ruthless 3",
+      "label": "glaiveoh"
+    },
+    {
+      "image": "https://i.imgur.com/E2kivaa.png",
+      "wikiLink": "https://runescape.wiki/w/Superior_death_lotus_chaps",
+      "name": "Superior death lotus chaps",
+      "breakdownNotes": "",
+      "label": "lotuschaps"
+    },
+    {
+      "image": "https://i.imgur.com/goMzH9N.png",
+      "wikiLink": "https://runescape.wiki/w/Nightmare_gauntlets",
+      "name": "Nightmare gauntlets",
+      "breakdownNotes": "",
+      "label": "nightmare"
+    },
+    {
+      "image": "https://i.imgur.com/9j06KPo.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_fleeting_boots",
+      "name": "Enhanced fleeting boots",
+      "breakdownNotes": "",
+      "label": "enhancedfleet"
+    },
+    {
+      "image": "https://i.imgur.com/y5vAY4M.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death",
+      "name": "Ring of death",
+      "breakdownNotes": "",
+      "label": "rod"
+    },
+    {
+      "image": "https://i.imgur.com/ayjE5KH.png",
+      "wikiLink": "https://runescape.wiki/w/Ful_arrow",
+      "name": "Ful arrow",
+      "breakdownNotes": "",
+      "label": "fularrow"
+    },
+    {
+      "image": "https://i.imgur.com/JigaLBL.png",
+      "wikiLink": "https://runescape.wiki/w/Vampyrism_aura",
+      "name": "Vampyrism aura",
+      "breakdownNotes": "",
+      "label": "vampaura"
+    },
+    null
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/lhfAbhp.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_mask",
+      "name": "Sirenic mask",
+      "breakdownNotes": "",
+      "label": "sirenichelm",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bDDDK9h.png",
+      "wikiLink": "https://runescape.wiki/w/Off-hand_blightbound_crossbow",
+      "name": "Off-hand blightbound crossbow",
+      "breakdownNotes": "Can be used as an caroming switch",
+      "label": "ohbbc",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/liT4nh4.png",
+      "wikiLink": "https://runescape.wiki/w/Ancient_repriser",
+      "name": "Ancient repriser",
+      "breakdownNotes": "",
+      "label": "repriser",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/LhMlWmw.png",
+      "wikiLink": "https://runescape.wiki/w/Dark_bow",
+      "name": "EoF - Dark bow",
+      "breakdownNotes": "",
+      "label": "eofgreen",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/lYDKMiu.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_hauberk",
+      "name": "Sirenic hauberk",
+      "breakdownNotes": "",
+      "label": "sirenictop",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GkhQHSj.png",
+      "wikiLink": "https://runescape.wiki/w/Bow_of_the_Last_Guardian",
+      "name": "Bow of the Last Guardian",
+      "breakdownNotes": "",
+      "label": "bolg",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/IcTDNcT.png",
+      "wikiLink": "https://runescape.wiki/w/Arcane_spirit_shield",
+      "name": "Arcane spirit shield",
+      "breakdownNotes": "Should only be used for soaking",
+      "label": "arcane",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gBPOqaV.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_chaps",
+      "name": "Sirenic chaps",
+      "breakdownNotes": "",
+      "label": "sireniclegs",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "label": "vuln",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/1MkR1qn.png",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_boots",
+      "name": "Cryptbloom boots",
+      "breakdownNotes": "",
+      "label": "cryptbloomboots",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yHxz8PD.png",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_gloves",
+      "name": "Cryptbloom gloves",
+      "breakdownNotes": "",
+      "label": "cryptbloomgloves",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/30CSA7N.png",
+      "wikiLink": "https://runescape.wiki/w/Dominion_mines",
+      "name": "Dominion mines",
+      "breakdownNotes": "",
+      "label": "20mines",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/kLSCUux.png",
+      "wikiLink": "https://runescape.wiki/w/Worn_Equipment#Two-handed_items",
+      "name": "2h equipment slot",
+      "breakdownNotes": "Greater or normal runic staff- Used to store animate dead to survive higher waves",
+      "label": "2hslot",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

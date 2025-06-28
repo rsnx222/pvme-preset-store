@@ -1,0 +1,393 @@
+{
+  "presetName": "Solak Solo Ranged",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "sirenichelm",
+      "image": "https://img.pvme.io/images/lhfAbhp.png",
+      "name": "Sirenic mask",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_mask"
+    },
+    {
+      "label": "kalxil",
+      "image": "https://img.pvme.io/images/TNKAuKX.png",
+      "name": "Igneous Kal-Xil",
+      "breakdownNotes": "Can be downgraded to Kiln cape or Denfence skillcape.",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Xil"
+    },
+    {
+      "label": "eofgreenunorn",
+      "image": "https://img.pvme.io/images/8a6M64a.png",
+      "name": "Essence of Finality amulet (green)",
+      "breakdownNotes": "Dark Bow special attack.",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet_(green)"
+    },
+    {
+      "label": "noxbow",
+      "image": "https://img.pvme.io/images/iiBXivW.png",
+      "name": "Noxious longbow",
+      "breakdownNotes": "Caroming 4 Equilibrium 2 + Precise 6 Aftershock 1.<br />Caroming 4 + Precise 6 minimum.",
+      "wikiLink": "https://runescape.wiki/w/Noxious_longbow"
+    },
+    {
+      "label": "sirenictop",
+      "image": "https://img.pvme.io/images/lYDKMiu.png",
+      "name": "Sirenic hauberk",
+      "breakdownNotes": "Biting 4 + Relentless 5 Crackling 4",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_hauberk"
+    },
+    null,
+    {
+      "label": "sireniclegs",
+      "image": "https://img.pvme.io/images/gBPOqaV.png",
+      "name": "Sirenic chaps",
+      "breakdownNotes": "Impatient 4 + Enhanced Devoted 4",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_chaps"
+    },
+    {
+      "label": "cinder",
+      "image": "https://img.pvme.io/images/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+    },
+    {
+      "label": "fleet",
+      "image": "https://img.pvme.io/images/R5kSCvF.png",
+      "name": "Fleeting boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fleeting_boots"
+    },
+    {
+      "label": "stalkerring",
+      "image": "https://img.pvme.io/images/xRj7mKb.png",
+      "name": "Stalker's ring",
+      "breakdownNotes": "Enchant if possible.",
+      "wikiLink": "https://runescape.wiki/w/Stalker's_ring"
+    },
+    {
+      "label": "pernixquiverblack",
+      "image": "https://img.pvme.io/images/JqXq1zD.png",
+      "name": "Pernix's Quiver (Black)",
+      "breakdownNotes": "Ful arrows | Wen arrows",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver"
+    },
+    {
+      "label": "reckless",
+      "image": "https://img.pvme.io/images/FZ59xZK.png",
+      "name": "Reckless aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Reckless_aura"
+    },
+    {
+      "label": "scriptureofjas",
+      "image": "https://img.pvme.io/images/FLYAOEf.png",
+      "name": "Scripture of Jas",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Jas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "ovl",
+      "image": "https://img.pvme.io/images/DGw6F36.png",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
+      "selected": false
+    },
+    {
+      "label": "renewal4",
+      "image": "https://img.pvme.io/images/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "selected": false
+    },
+    {
+      "label": "poison1",
+      "image": "https://img.pvme.io/images/hw7rKHz.png",
+      "name": "Weapon poison+++ (1)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(1)",
+      "selected": false
+    },
+    {
+      "label": "prayrenewal",
+      "image": "https://img.pvme.io/images/vSUpqbs.png",
+      "name": "Super prayer renewal potion (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_prayer_renewal_potion#(6)",
+      "selected": false
+    },
+    {
+      "label": "vuln",
+      "image": "https://img.pvme.io/images/2vI8jNm.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "selected": false
+    },
+    {
+      "label": "vitality4",
+      "image": "https://img.pvme.io/images/n9C7iSA.png",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "Replace with food if not pad skipping.",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "selected": false
+    },
+    {
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "selected": false
+    },
+    {
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchpink",
+      "image": "https://img.pvme.io/images/yrnlR2T.png",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "selected": false
+    },
+    {
+      "label": "deathwardennexus",
+      "image": "https://img.pvme.io/images/hd7YvA4.png",
+      "name": "Deathwarden Nexus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "ripperdemon",
+        "image": "https://img.pvme.io/images/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

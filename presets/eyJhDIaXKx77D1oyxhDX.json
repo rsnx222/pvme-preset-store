@@ -1,0 +1,335 @@
+{
+  "presetName": "Abyssal Demons AFK Necro",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/iIut3c4.png",
+      "wikiLink": "https://runescape.wiki/w/Demon_slayer_circlet",
+      "name": "Demon slayer circlet",
+      "breakdownNotes": "",
+      "label": "demonslayercirclet"
+    },
+    {
+      "image": "https://i.imgur.com/bIV6C4o.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mor",
+      "name": "Igneous Kal-Mor",
+      "breakdownNotes": "",
+      "label": "kalmor"
+    },
+    {
+      "image": "https://i.imgur.com/UHRGdEk.png",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_zealots",
+      "name": "Amulet of zealots",
+      "breakdownNotes": "Pray leech necromancy if wearing this",
+      "label": "zealots"
+    },
+    {
+      "image": "https://i.imgur.com/SzFvoQB.png",
+      "wikiLink": "https://runescape.wiki/w/Omni_guard",
+      "name": "Omni guard",
+      "breakdownNotes": "Aftershock 4 + Equilibrium 2",
+      "label": "omniguard"
+    },
+    {
+      "image": "https://i.imgur.com/iKWW3ZF.png",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_robe_top_(tier_90)",
+      "name": "Deathdealer robe top (tier 90)",
+      "breakdownNotes": "Biting 4 + x | Relentless 5 + Crackling 4",
+      "label": "deathdealerrobetopt90"
+    },
+    {
+      "image": "https://i.imgur.com/VJsZ4HL.png",
+      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern",
+      "name": "Soulbound lantern",
+      "breakdownNotes": "Precise 6 + Ruthless 1",
+      "label": "soulboundlantern"
+    },
+    {
+      "image": "https://i.imgur.com/AjOaaB7.png",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_robe_bottom_(tier_90)",
+      "name": "Deathdealer robe bottom (tier 90)",
+      "breakdownNotes": "Invigorating 4 + Demon Slayer | Impatient 4 + x",
+      "label": "deathdealerrobebottomt90"
+    },
+    {
+      "image": "https://i.imgur.com/qRiwQic.png",
+      "wikiLink": "https://runescape.wiki/w/Demon_slayer_gloves",
+      "name": "Demon slayer gloves",
+      "breakdownNotes": "",
+      "label": "demonslayergloves"
+    },
+    {
+      "image": "https://i.imgur.com/jdMqrkq.png",
+      "wikiLink": "https://runescape.wiki/w/Demon_slayer_boots",
+      "name": "Demon slayer boots",
+      "breakdownNotes": "",
+      "label": "demonslayerboots"
+    },
+    {
+      "image": "https://i.imgur.com/y5vAY4M.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death",
+      "name": "Ring of death",
+      "breakdownNotes": "",
+      "label": "rod"
+    },
+    {
+      "image": "https://i.imgur.com/6nJNred.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(red)",
+      "name": "Grasping rune pouch (red)",
+      "breakdownNotes": "For prayer bonus",
+      "label": "graspingpouchred"
+    },
+    {
+      "image": "https://i.imgur.com/yLeE8ie.png",
+      "wikiLink": "https://runescape.wiki/w/Inspiration_aura",
+      "name": "Inspiration aura",
+      "breakdownNotes": "",
+      "label": "inspiration"
+    },
+    {
+      "image": "https://i.imgur.com/lPppoD4.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful",
+      "name": "Scripture of Ful",
+      "breakdownNotes": "",
+      "label": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/DGw6F36.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "",
+      "label": "ovl",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/vSUpqbs.png",
+      "wikiLink": "https://runescape.wiki/w/Super_prayer_renewal_potion#(6)",
+      "name": "Super prayer renewal potion (6)",
+      "breakdownNotes": "",
+      "label": "prayrenewal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GTwVqeC.png",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine",
+      "name": "Dwarven siege engine",
+      "breakdownNotes": "",
+      "label": "cannon",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NdYvdGN.png",
+      "wikiLink": "https://runescape.wiki/w/Aggression_potion#(4)",
+      "name": "Aggression potion (4)",
+      "breakdownNotes": "",
+      "label": "aggro4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/CR06fbn.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(4)",
+      "name": "Weapon poison+++ (4)",
+      "breakdownNotes": "",
+      "label": "poison4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GrfjyE2.png",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "label": "cballs",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Dy2NfTt.png",
+      "wikiLink": "https://runescape.wiki/w/Ectoplasm",
+      "name": "Ectoplasm",
+      "breakdownNotes": "",
+      "label": "ectoplasm",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/7HsbgWH.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_scarab_pouch",
+      "name": "Holy scarab pouch",
+      "breakdownNotes": "To help with prayer regen",
+      "label": "holyscarab",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UURvGNW.png",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "Use on CD for prayer regen",
+      "label": "elvenshard",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gKUbd5X.png",
+      "wikiLink": "https://runescape.wiki/w/Portable_Obelisk",
+      "name": "Portable Obelisk",
+      "breakdownNotes": "",
+      "label": "portableobelisk",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NkIcFSt.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_ectoplasmator",
+      "name": "Attuned ectoplasmator",
+      "breakdownNotes": "Optional",
+      "label": "ecto",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/x5tUpRe.png",
+        "name": "Holy Scarab",
+        "breakdownNotes": "",
+        "label": "holyscarab"
+      }
+    ]
+  }
+}

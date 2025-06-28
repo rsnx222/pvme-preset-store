@@ -1,0 +1,400 @@
+{
+  "presetName": "Melee Nakatra",
+  "presetNotes": "- Barrows Khopesh should be a Barrows Dark Sliver of Leng",
+  "equipmentSlots": [
+    {
+      "label": "vestmenthood",
+      "image": "https://img.pvme.io/images/EVh5SwD.png",
+      "name": "Vestments of havoc hood",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_hood"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "desertamulet4",
+      "image": "https://img.pvme.io/images/JInu2Jy.png",
+      "name": "Desert amulet 4",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Desert_amulet_4"
+    },
+    {
+      "label": "dba",
+      "image": "https://img.pvme.io/images/hZGOmkB.png",
+      "name": "Dragon battleaxe",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dragon_battleaxe"
+    },
+    {
+      "label": "vestmentbody",
+      "image": "https://img.pvme.io/images/E5ptfu6.png",
+      "name": "Vestments of havoc robe top",
+      "breakdownNotes": "Biting 4  |  Relentless 5 Crackling 4",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_top"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "vestmentlegs",
+      "image": "https://img.pvme.io/images/mz7GwWF.png",
+      "name": "Vestments of havoc robe bottom",
+      "breakdownNotes": "Impatient 4  |  Enhanced Devoted 4",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_bottom"
+    },
+    {
+      "label": "glovesofpassage",
+      "image": "https://img.pvme.io/images/U4Wa7vb.png",
+      "name": "Gloves of passage",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Gloves_of_passage"
+    },
+    {
+      "label": "vestmentboots",
+      "image": "https://img.pvme.io/images/FarIA5V.png",
+      "name": "Vestments of havoc boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_boots"
+    },
+    {
+      "label": "championring",
+      "image": "https://img.pvme.io/images/cc9GxHt.png",
+      "name": "Champion's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Champion's_ring"
+    },
+    {
+      "label": "pernixquiverblue",
+      "image": "https://img.pvme.io/images/X5AcgQh.png",
+      "name": "Pernix's Quiver (Blue)",
+      "breakdownNotes": "Black stone arrows | Deathspore arrows",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver"
+    },
+    {
+      "label": "zerk",
+      "image": "https://img.pvme.io/images/Fme45Ts.png",
+      "name": "Berserker aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Berserker_aura"
+    },
+    {
+      "label": "scriptureofful",
+      "image": "https://img.pvme.io/images/lPppoD4.png",
+      "name": "Scripture of Ful",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "renewal4",
+      "image": "https://img.pvme.io/images/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "selected": false
+    },
+    {
+      "label": "vitality4",
+      "image": "https://img.pvme.io/images/n9C7iSA.png",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
+      "selected": false
+    },
+    {
+      "label": "jawsoftheabyss",
+      "image": "https://img.pvme.io/images/11pg3gM.png",
+      "name": "Jaws of the Abyss",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Jaws_of_the_Abyss",
+      "selected": false
+    },
+    {
+      "label": "consecratedkeris",
+      "image": "https://img.pvme.io/images/gHB8MrYNn7.png",
+      "name": "Consecrated keris",
+      "breakdownNotes": "Precise 6 Aftershock 1",
+      "wikiLink": "https://runescape.wiki/w/Consecrated_keris",
+      "selected": false
+    },
+    {
+      "label": "lengoh",
+      "image": "https://img.pvme.io/images/LAVYvrE.png",
+      "name": "Dark Sliver of Leng",
+      "breakdownNotes": "Aftershock 4 Eruptive 2",
+      "wikiLink": "https://runescape.wiki/w/Dark_Sliver_of_Leng",
+      "selected": false
+    },
+    {
+      "label": "zemouregalsnexus",
+      "image": "https://img.pvme.io/images/3pFXvMR.png",
+      "name": "Zemoregal's Nexus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "vuln",
+      "image": "https://img.pvme.io/images/2vI8jNm.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "selected": false
+    },
+    {
+      "label": "abyssalspikes",
+      "image": "https://img.pvme.io/images/0WBnZ62.png",
+      "name": "Abyssal armour spikes (alloy)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Abyssal_armour_spikes_(alloy)",
+      "selected": false
+    },
+    {
+      "label": "eofred",
+      "image": "https://img.pvme.io/images/JMC7t7Y.png",
+      "name": "EoF - Dragon claws",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dragon_claws",
+      "selected": false
+    },
+    {
+      "label": "lengmh",
+      "image": "https://img.pvme.io/images/wFdHN9C.png",
+      "name": "Dark Shard of Leng",
+      "breakdownNotes": "Precise 6 Aftershock 1",
+      "wikiLink": "https://runescape.wiki/w/Dark_Shard_of_Leng",
+      "selected": false
+    },
+    {
+      "label": "ohkhopeshbarrows",
+      "image": "https://img.pvme.io/images/dQAITtl.png",
+      "name": "Khopesh of Elidinis (barrows)",
+      "breakdownNotes": "Flanking 4 Eruptive 1",
+      "wikiLink": "https://runescape.wiki/w/Khopesh_of_Elidinis_(barrows)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchpink",
+      "image": "https://img.pvme.io/images/yrnlR2T.png",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "selected": false
+    },
+    {
+      "label": "grest",
+      "image": "https://img.pvme.io/images/iXpGYQo.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "eofor",
+      "image": "https://img.pvme.io/images/xPypDhQ.png",
+      "name": "EoF - Ek-ZekKil",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ek-ZekKil",
+      "selected": false
+    },
+    {
+      "label": "spear",
+      "image": "https://img.pvme.io/images/uLkJkio.png",
+      "name": "Masterwork spear of annihilation",
+      "breakdownNotes": "Eruptive 4 Precise 3  |  Lunging 4 Aftershock 1",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_spear_of_annihilation",
+      "selected": false
+    },
+    {
+      "label": "bolg",
+      "image": "https://img.pvme.io/images/GkhQHSj.png",
+      "name": "Bow of the Last Guardian",
+      "breakdownNotes": "Precise 6 Aftershock 1  |  Caroming 4 Eruptive 2",
+      "wikiLink": "https://runescape.wiki/w/Bow_of_the_Last_Guardian",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "selected": false
+    },
+    {
+      "label": "grest",
+      "image": "https://img.pvme.io/images/iXpGYQo.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "spiritual",
+      "image": "https://img.pvme.io/images/PFLToHh.png",
+      "name": "Spiritual prayer (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)",
+      "selected": false
+    },
+    {
+      "label": "spiritual",
+      "image": "https://img.pvme.io/images/PFLToHh.png",
+      "name": "Spiritual prayer (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)",
+      "selected": false
+    },
+    {
+      "label": "spiritual",
+      "image": "https://img.pvme.io/images/PFLToHh.png",
+      "name": "Spiritual prayer (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "conservationofenergy",
+        "image": "https://img.pvme.io/images/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "energy": 350,
+        "description": "After using an ultimate ability, you will regain 10% adrenaline."
+      },
+      {
+        "label": "berserkersfury",
+        "image": "https://img.pvme.io/images/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "energy": 250,
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)"
+      },
+      {
+        "label": "persistentrage",
+        "image": "https://img.pvme.io/images/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained."
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "ripperdemon",
+        "image": "https://img.pvme.io/images/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

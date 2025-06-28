@@ -1,0 +1,402 @@
+{
+  "presetName": "Vestments",
+  "presetNotes": "<div>Pray <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/583429936606347280.png?v=1\" /> or <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190159416557573.png?v=1\" /> and <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/615613924506599497.png?v=1\" /><br /><br />Optionally, can just use <img title=\"soulsplit\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/615613924506599497.png?v=1\" /></div>",
+  "equipmentSlots": [
+    {
+      "label": "sliskehelm",
+      "image": "https://img.pvme.io/images/jxHhKUO.png",
+      "name": "Anima core helm of sliske",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_helm_of_sliske"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "aos",
+      "image": "https://img.pvme.io/images/cUaU7mB.png",
+      "name": "Amulet of souls",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_souls"
+    },
+    {
+      "label": "roarofawakening",
+      "image": "https://img.pvme.io/images/nCmqhfpcHo.png",
+      "name": "Roar of Awakening",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening"
+    },
+    {
+      "label": "sliskebody",
+      "image": "https://img.pvme.io/images/FMvke44.png",
+      "name": "Anima core body of sliske",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_body_of_sliske"
+    },
+    {
+      "label": "odetodeceit",
+      "image": "https://img.pvme.io/images/8WKmBCfI34.png",
+      "name": "Ode to Deceit",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ode_to_Deceit"
+    },
+    {
+      "label": "sliskelegs",
+      "image": "https://img.pvme.io/images/0HQcba9.png",
+      "name": "Anima core legs of sliske",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_legs_of_sliske"
+    },
+    {
+      "label": "dtb",
+      "image": "https://img.pvme.io/images/ia3JNEm.png",
+      "name": "Deathtouched bracelet",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathtouched_bracelet"
+    },
+    {
+      "label": "enhancedblastdiff",
+      "image": "https://img.pvme.io/images/KUGqEdN.png",
+      "name": "Enhanced blast diffusion boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_blast_diffusion_boots"
+    },
+    {
+      "label": "reaverring",
+      "image": "https://img.pvme.io/images/cnIOClx.png",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring"
+    },
+    {
+      "label": "pernixquiver",
+      "image": "https://img.pvme.io/images/b3geFp8.png",
+      "name": "Pernix's Quiver",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver"
+    },
+    {
+      "label": "mani",
+      "image": "https://img.pvme.io/images/5fIllNu.png",
+      "name": "Maniacal aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Maniacal_aura"
+    },
+    {
+      "label": "grim",
+      "image": "https://img.pvme.io/images/eAO0PdY.png",
+      "name": "Erethdor's grimoire",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "vestmenthood",
+      "image": "https://img.pvme.io/images/EVh5SwD.png",
+      "name": "Vestments of havoc hood",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_hood",
+      "selected": false
+    },
+    {
+      "label": "mageshield",
+      "image": "https://img.pvme.io/images/ThpXK19.png",
+      "name": "Merciless kiteshield",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Merciless_kiteshield",
+      "selected": false
+    },
+    {
+      "label": "vuln",
+      "image": "https://img.pvme.io/images/2vI8jNm.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "selected": false
+    },
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "spiritual",
+      "image": "https://img.pvme.io/images/PFLToHh.png",
+      "name": "Spiritual prayer (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)",
+      "selected": false
+    },
+    {
+      "label": "renewal4",
+      "image": "https://img.pvme.io/images/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "selected": false
+    },
+    {
+      "label": "sbrew",
+      "image": "https://img.pvme.io/images/xjiZl4Y.png",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "vestmentbody",
+      "image": "https://img.pvme.io/images/E5ptfu6.png",
+      "name": "Vestments of havoc robe top",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_top",
+      "selected": false
+    },
+    {
+      "label": "lengmh",
+      "image": "https://img.pvme.io/images/wFdHN9C.png",
+      "name": "Dark Shard of Leng",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dark_Shard_of_Leng",
+      "selected": false
+    },
+    {
+      "label": "lengoh",
+      "image": "https://img.pvme.io/images/LAVYvrE.png",
+      "name": "Dark Sliver of Leng",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dark_Sliver_of_Leng",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchpink",
+      "image": "https://img.pvme.io/images/yrnlR2T.png",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "selected": false
+    },
+    {
+      "label": "gbrew",
+      "image": "https://img.pvme.io/images/dPf2fLt.png",
+      "name": "Super Guthix brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "gbrew",
+      "image": "https://img.pvme.io/images/dPf2fLt.png",
+      "name": "Super Guthix brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "vestmentlegs",
+      "image": "https://img.pvme.io/images/mz7GwWF.png",
+      "name": "Vestments of havoc robe bottom",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_bottom",
+      "selected": false
+    },
+    {
+      "label": "fsoa",
+      "image": "https://img.pvme.io/images/AI12yBk.png",
+      "name": "Fractured Staff of Armadyl",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fractured_Staff_of_Armadyl",
+      "selected": false
+    },
+    {
+      "label": "inq",
+      "image": "https://img.pvme.io/images/My8VkUX.png",
+      "name": "Inquisitor staff",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Inquisitor_staff",
+      "selected": false
+    },
+    {
+      "label": "dummy",
+      "image": "https://img.pvme.io/images/Dgtgp4n.png",
+      "name": "Combat dummy MKII",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "vestmentboots",
+      "image": "https://img.pvme.io/images/FarIA5V.png",
+      "name": "Vestments of havoc boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_boots",
+      "selected": false
+    },
+    {
+      "label": "zekkil",
+      "image": "https://img.pvme.io/images/aKEG5mi.png",
+      "name": "Ek-ZekKil",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ek-ZekKil",
+      "selected": false
+    },
+    {
+      "label": "ecb",
+      "image": "https://img.pvme.io/images/n98Fmxx.png",
+      "name": "Eldritch crossbow",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Eldrich_crossbow",
+      "selected": false
+    },
+    {
+      "label": "elvenshard",
+      "image": "https://img.pvme.io/images/UURvGNW.png",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "<span>Helps sustain prayer points if<span> not taking enough damage.</span></span>",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "label": "berserkersfury",
+        "image": "https://img.pvme.io/images/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "energy": 250,
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)"
+      },
+      {
+        "label": "fontoflife",
+        "image": "https://img.pvme.io/images/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "energy": 50,
+        "description": "Increases maximum health by 500."
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "label": "deathward",
+        "image": "https://img.pvme.io/images/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%."
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "kalgdemon",
+        "image": "https://img.pvme.io/images/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

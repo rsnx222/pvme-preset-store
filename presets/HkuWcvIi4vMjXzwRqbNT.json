@@ -1,0 +1,309 @@
+{
+  "presetName": "Osseous AFK",
+  "presetNotes": "dla kolezki",
+  "equipmentSlots": [
+    {
+      "label": "deathdealerhoodt90",
+      "image": "https://img.pvme.io/images/mOp3i6V.png",
+      "name": "Deathdealer hood (tier 90)",
+      "breakdownNotes": "Czesciej niz rzadziej procuje deathmarka i 10~s oszczedza na killa",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_hood_(tier_90)"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "salamancy",
+      "image": "https://img.pvme.io/images/tsyhx6q.png",
+      "name": "Necklace of Salamancy",
+      "breakdownNotes": "to albo salve (e), lepiej to",
+      "wikiLink": "https://runescape.wiki/w/Necklace_of_Salamancy"
+    },
+    {
+      "label": "omniguard",
+      "image": "https://img.pvme.io/images/SzFvoQB.png",
+      "name": "Omni guard",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Omni_guard"
+    },
+    {
+      "label": "t95necrotop",
+      "image": "https://img.pvme.io/images/VwEHIYQ.png",
+      "name": "Robe top of the First Necromancer",
+      "breakdownNotes": "<span>Undead slayer top albo bottom musi byc</span>",
+      "wikiLink": "https://runescape.wiki/w/Robe_top_of_the_First_Necromancer"
+    },
+    {
+      "label": "soulboundlantern",
+      "image": "https://img.pvme.io/images/VJsZ4HL.png",
+      "name": "Soulbound lantern",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern"
+    },
+    {
+      "label": "t95necrolegs",
+      "image": "https://img.pvme.io/images/s0Acz4g.png",
+      "name": "Robe bottom of the First Necromancer",
+      "breakdownNotes": "<span>Undead slayer top albo bottom </span><span>musi byc</span>",
+      "wikiLink": "https://runescape.wiki/w/Robe_bottom_of_the_First_Necromancer"
+    },
+    {
+      "label": "t95necrogloves",
+      "image": "https://img.pvme.io/images/8zjLczG.png",
+      "name": "Hand wrap of the First Necromancer",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Hand_wrap_of_the_First_Necromancer"
+    },
+    {
+      "label": "t95necroboots",
+      "image": "https://img.pvme.io/images/FawdniP.png",
+      "name": "Foot wraps of the First Necromancer",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Foot_wraps_of_the_First_Necromancer"
+    },
+    {
+      "label": "rod",
+      "image": "https://img.pvme.io/images/y5vAY4M.png",
+      "name": "Ring of death",
+      "breakdownNotes": "jak procnie, tepujesz",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death"
+    },
+    {
+      "label": "graspingpouch",
+      "image": "https://img.pvme.io/images/Mk7jbjC.png",
+      "name": "Grasping rune pouch",
+      "breakdownNotes": "moze byc tez quiver z priff taskow",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch"
+    },
+    {
+      "label": "equilibriumaura",
+      "image": "https://img.pvme.io/images/a3Up2sd.png",
+      "name": "Equilibrium aura",
+      "breakdownNotes": "Mozna tez penance aure, zeby zaosczedzic na penance powderze - potestuj ze scarabem, bo z tego co pamietam uzywalem praktycznie tylko penance aury na wszystkich rex matriarchach. Kosztuje cie to 5-10kph jednoczesnie ratujac 1.5m na godzine.",
+      "wikiLink": "https://runescape.wiki/w/Equilibrium_aura"
+    },
+    {
+      "label": "scriptureofjas",
+      "image": "https://img.pvme.io/images/FLYAOEf.png",
+      "name": "Scripture of Jas",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Jas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "potionreservoir",
+      "image": "https://img.pvme.io/images/uIF03Iz.png",
+      "name": "Potion reservoir",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#active",
+      "selected": false
+    },
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "Bez salva sie nie obejdzie",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false
+    },
+    {
+      "label": "potionreservoir2",
+      "image": "https://img.pvme.io/images/af9O4EM.png",
+      "name": "Potion reservoir (inactive)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#inactive",
+      "selected": false
+    },
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "Bez salva sie nie obejdzie",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "wrench",
+      "image": "https://img.pvme.io/images/UVffd75.png",
+      "name": "Holy wrench",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench",
+      "selected": false
+    },
+    {
+      "label": "powderofpenance2",
+      "image": "https://img.pvme.io/images/w6hThUy.png",
+      "name": "Powder of penance",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "selected": false
+    },
+    {
+      "label": "enhluck",
+      "image": "https://img.pvme.io/images/wsYgZsb.png",
+      "name": "Enhanced luck potion",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_luck_potion",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "deathwardennexus",
+      "image": "https://img.pvme.io/images/hd7YvA4.png",
+      "name": "Deathwarden Nexus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
+      "selected": false
+    },
+    {
+      "label": "bonecrusher",
+      "image": "https://img.pvme.io/images/9Dzj0Sl.png",
+      "name": "Bonecrusher",
+      "breakdownNotes": "Bez upgrade do bonecrushera co podnosi kosci to nawet nie ma sensu go robic",
+      "wikiLink": "https://runescape.wiki/w/Bonecrusher",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "elvenshard",
+      "image": "https://img.pvme.io/images/UURvGNW.png",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "label": "deathnote",
+        "image": "https://img.pvme.io/images/2KToagJ.png",
+        "name": "Death Note",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "All guaranteed bone and ash drops are noted."
+      },
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained.",
+        "label": "persistentrage",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "holyscarab",
+        "image": "https://img.pvme.io/images/x5tUpRe.png",
+        "name": "Holy Scarab",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

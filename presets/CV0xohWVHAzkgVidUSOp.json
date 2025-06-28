@@ -1,0 +1,397 @@
+{
+  "presetName": "The Spoons send pvm",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "deathwardenhoodt70",
+      "image": "https://i.imgur.com/kMqeRBE.png",
+      "name": "Deathwarden hood (tier 70)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_hood_(tier_70)"
+    },
+    {
+      "label": "kilnnecro",
+      "image": "https://i.imgur.com/UQt44Gl.png",
+      "name": "TokHaar-Kal-Mor",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/TokHaar-Kal-Mor"
+    },
+    {
+      "label": "zealots",
+      "image": "https://i.imgur.com/UHRGdEk.png",
+      "name": "Amulet of zealots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_zealots"
+    },
+    {
+      "label": "deathguardt70",
+      "image": "https://i.imgur.com/IjI79KW.png",
+      "name": "Death guard (tier 70)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Death_guard_(tier_70)"
+    },
+    {
+      "label": "deathwardenrobetopt70",
+      "image": "https://i.imgur.com/BNmwchj.png",
+      "name": "Deathwarden robe top (tier 70)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_top_(tier_70)"
+    },
+    {
+      "label": "skulllanternt70",
+      "image": "https://i.imgur.com/yhYsPpi.png",
+      "name": "Skull lantern (tier 70)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Skull_lantern_(tier_70)"
+    },
+    {
+      "label": "deathwardenrobebottomt70",
+      "image": "https://i.imgur.com/o0ejuBm.png",
+      "name": "Deathwarden robe bottom (tier 70)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_bottom_(tier_70)"
+    },
+    {
+      "label": "deathwardenglovest70",
+      "image": "https://i.imgur.com/iPR2hWQ.png",
+      "name": "Deathwarden gloves (tier 70)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_gloves_(tier_70)"
+    },
+    {
+      "label": "deathdealerbootst90",
+      "image": "https://i.imgur.com/ixeiTn3.png",
+      "name": "Deathdealer boots (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_boots_(tier_90)"
+    },
+    {
+      "label": "vigour",
+      "image": "https://i.imgur.com/3cSIbWx.png",
+      "name": "Ring of vigour",
+      "breakdownNotes": "OR ring of wealth",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_vigour"
+    },
+    {
+      "label": "deathwardennexus",
+      "image": "https://i.imgur.com/hd7YvA4.png",
+      "name": "Deathwarden Nexus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus"
+    },
+    {
+      "label": "penance",
+      "image": "https://i.imgur.com/dMPY1FJ.png",
+      "name": "Penance aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Penance_aura"
+    },
+    {
+      "label": "tomeofum2",
+      "image": "https://i.imgur.com/ITR8cN1.png",
+      "name": "Tome of Um 2",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Tome_of_Um_2"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "extnecro",
+      "image": "https://i.imgur.com/ioK95Z8.png",
+      "name": "Extreme necromancy (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Extreme_necromancy#(4)",
+      "selected": false
+    },
+    {
+      "label": "restore4",
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "selected": false
+    },
+    {
+      "label": "spices",
+      "image": "https://i.imgur.com/GNzR4sU.png",
+      "name": "Expensive spices",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Expensive_spices",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "fontoflife",
+        "image": "https://i.imgur.com/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "energy": 50,
+        "description": "Increases maximum health by 500."
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/KWIawjY.png",
+        "name": "Legendary Pet (Scavenge)",
+        "breakdownNotes": "",
+        "label": "legendpetscav"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

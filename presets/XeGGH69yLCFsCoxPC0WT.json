@@ -1,0 +1,398 @@
+{
+  "presetName": "Araxxor (Magic)",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/jxHhKUO.png",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_helm_of_sliske",
+      "name": "Anima core helm of sliske",
+      "breakdownNotes": "",
+      "label": "sliskehelm"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/CtZKC6Z.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet_(blue)",
+      "name": "Essence of Finality amulet (blue)",
+      "breakdownNotes": "Seren Godbow special attack.",
+      "label": "eofblueunorn"
+    },
+    {
+      "image": "https://i.imgur.com/kyKIKBC.png",
+      "wikiLink": "https://runescape.wiki/w/Wand_of_the_praesul",
+      "name": "Wand of the praesul",
+      "breakdownNotes": "",
+      "label": "pwand"
+    },
+    {
+      "image": "https://i.imgur.com/FMvke44.png",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_body_of_sliske",
+      "name": "Anima core body of sliske",
+      "breakdownNotes": "",
+      "label": "sliskebody"
+    },
+    {
+      "image": "https://i.imgur.com/rvFepeU.png",
+      "wikiLink": "https://runescape.wiki/w/Imperium_core",
+      "name": "Imperium core",
+      "breakdownNotes": "",
+      "label": "core"
+    },
+    {
+      "image": "https://i.imgur.com/0HQcba9.png",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_legs_of_sliske",
+      "name": "Anima core legs of sliske",
+      "breakdownNotes": "",
+      "label": "sliskelegs"
+    },
+    {
+      "image": "https://i.imgur.com/ia3JNEm.png",
+      "wikiLink": "https://runescape.wiki/w/Deathtouched_bracelet",
+      "name": "Deathtouched bracelet",
+      "breakdownNotes": "",
+      "label": "dtb"
+    },
+    {
+      "image": "https://i.imgur.com/TkJs5ST.png",
+      "wikiLink": "https://runescape.wiki/w/Silverhawk_boots",
+      "name": "Silverhawk boots",
+      "breakdownNotes": "",
+      "label": "shboots"
+    },
+    {
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "label": "reaverring"
+    },
+    {
+      "image": "https://i.imgur.com/MCRkOPS.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver (Yellow)",
+      "breakdownNotes": "Hydrix bakriminel bolts (e) | Ful arrows",
+      "label": "pernixquiveryellow"
+    },
+    {
+      "image": "https://i.imgur.com/WB5GErF.png",
+      "wikiLink": "https://runescape.wiki/w/Maniacal_aura",
+      "name": "Maniacal aura",
+      "breakdownNotes": "",
+      "label": "mani"
+    },
+    {
+      "image": "https://i.imgur.com/eAO0PdY.png",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire",
+      "name": "Erethdor's grimoire",
+      "breakdownNotes": "",
+      "label": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/AI12yBk.png",
+      "wikiLink": "https://runescape.wiki/w/Fractured_Staff_of_Armadyl",
+      "name": "Fractured Staff of Armadyl",
+      "breakdownNotes": "",
+      "label": "fsoa",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/DGw6F36.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "",
+      "label": "ovl",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Swtl8pP.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_flask#(6)",
+      "name": "Adrenaline renewal flask (6)",
+      "breakdownNotes": "",
+      "label": "renewal6",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/itNElgJ.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(1)",
+      "name": "Powerburst of acceleration (1)",
+      "breakdownNotes": "",
+      "label": "accel1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "label": "vuln",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3pFXvMR.png",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus",
+      "name": "Zemoregal's Nexus",
+      "breakdownNotes": "",
+      "label": "zemouregalsnexus",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GkhQHSj.png",
+      "wikiLink": "https://runescape.wiki/w/Bow_of_the_Last_Guardian",
+      "name": "Bow of the Last Guardian",
+      "breakdownNotes": "",
+      "label": "bolg",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/n98Fmxx.png",
+      "wikiLink": "https://runescape.wiki/w/Eldrich_crossbow",
+      "name": "Eldritch crossbow",
+      "breakdownNotes": "",
+      "label": "ecb",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic - Runes for <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090641879050.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/537340400185245701.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090783567902.png?v=1\" />",
+      "label": "graspingpouchpink",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/S1sjGOu.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_coif",
+      "name": "Elite Dracolich coif",
+      "breakdownNotes": "",
+      "label": "edracolichcoif",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/dPf2fLt.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
+      "name": "Super Guthix brew flask (6)",
+      "breakdownNotes": "",
+      "label": "gbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/dPf2fLt.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
+      "name": "Super Guthix brew flask (6)",
+      "breakdownNotes": "",
+      "label": "gbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/dPf2fLt.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
+      "name": "Super Guthix brew flask (6)",
+      "breakdownNotes": "",
+      "label": "gbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Dgtgp4n.png",
+      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
+      "name": "Combat dummy MKII",
+      "breakdownNotes": "One for P3 (top path), one for P4 (all paths)",
+      "label": "dummy",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Dgtgp4n.png",
+      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
+      "name": "Combat dummy MKII",
+      "breakdownNotes": "One for P3 (top path), one for P4 (all paths)",
+      "label": "dummy",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire <span>- Runes for </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090641879050.png?v=1\" /><span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/537340400185245701.png?v=1\" /><span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090783567902.png?v=1\" />",
+      "label": "graspingpouchblue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/M5jOHR3.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_hauberk",
+      "name": "Elite Dracolich hauberk",
+      "breakdownNotes": "",
+      "label": "edracolichhauberk",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/tzIqWlO.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet_(pink)",
+      "name": "Essence of Finality amulet (pink)",
+      "breakdownNotes": "Eldritch Crossbow special attack.",
+      "label": "eofpinkunorn",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/uMJW8pU.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver (Red)",
+      "breakdownNotes": "Ruby bakriminel bolts (e) - For <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/565726489413287956.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/626466665848242186.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/746403211908481184.png?v=1\" />",
+      "label": "pernixquiverred",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul <span>- Runes for </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090641879050.png?v=1\" /><span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/537340400185245701.png?v=1\" /><span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090783567902.png?v=1\" />",
+      "label": "graspingpouchblack",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/VGqlhJd.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_chaps",
+      "name": "Elite Dracolich chaps",
+      "breakdownNotes": "",
+      "label": "edracolichchaps",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "label": "deathward",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": "",
+        "label": "kalgdemon"
+      }
+    ]
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "presetName": "necro araxxor",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/YlR8MWC.png",
+      "wikiLink": "https://runescape.wiki/w/Crown_of_the_First_Necromancer",
+      "name": "Crown of the First Necromancer",
+      "breakdownNotes": "",
+      "label": "t95necrohelm"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/UB0lAK8.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet",
+      "name": "Essence of Finality amulet",
+      "breakdownNotes": "T90 Deathguard special attack.",
+      "label": "eof"
+    },
+    {
+      "image": "https://i.imgur.com/rmpD7AL.png",
+      "wikiLink": "https://runescape.wiki/w/Chaotic_crossbow",
+      "name": "Chaotic crossbow",
+      "breakdownNotes": "Caroming 4 | Used for Hydrix Greater Ricochet on Dummy in Phase 4",
+      "label": "mhchaoticcbow"
+    },
+    {
+      "image": "https://i.imgur.com/ju4qvbN.png",
+      "wikiLink": "https://runescape.wiki/w/Robe_top_of_the_First_Necromancer",
+      "name": "Robe top of the First Necromancer",
+      "breakdownNotes": "",
+      "label": "t95necrotop"
+    },
+    {
+      "image": "https://i.imgur.com/VJsZ4HL.png",
+      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern",
+      "name": "Soulbound lantern",
+      "breakdownNotes": "",
+      "label": "soulboundlantern"
+    },
+    {
+      "image": "https://i.imgur.com/9B2Bf7D.png",
+      "wikiLink": "https://runescape.wiki/w/Robe_bottom_of_the_First_Necromancer",
+      "name": "Robe bottom of the First Necromancer",
+      "breakdownNotes": "",
+      "label": "t95necrolegs"
+    },
+    {
+      "image": "https://i.imgur.com/8zjLczG.png",
+      "wikiLink": "https://runescape.wiki/w/Hand_wrap_of_the_First_Necromancer",
+      "name": "Hand wrap of the First Necromancer",
+      "breakdownNotes": "",
+      "label": "t95necrogloves"
+    },
+    {
+      "image": "https://i.imgur.com/FawdniP.png",
+      "wikiLink": "https://runescape.wiki/w/Foot_wraps_of_the_First_Necromancer",
+      "name": "Foot wraps of the First Necromancer",
+      "breakdownNotes": "",
+      "label": "t95necroboots"
+    },
+    {
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "label": "reaverring"
+    },
+    {
+      "image": "https://i.imgur.com/b3geFp8.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver",
+      "breakdownNotes": "Hydrix Bolts | Ful Arrows",
+      "label": "pernixquiver"
+    },
+    {
+      "image": "https://i.imgur.com/YpjIoNM.png",
+      "wikiLink": "https://runescape.wiki/w/Supreme_invigorate_aura",
+      "name": "Supreme invigorate aura",
+      "breakdownNotes": "",
+      "label": "invigorate"
+    },
+    {
+      "image": "https://i.imgur.com/eAO0PdY.png",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire",
+      "name": "Erethdor's grimoire",
+      "breakdownNotes": "",
+      "label": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/SzFvoQB.png",
+      "wikiLink": "https://runescape.wiki/w/Omni_guard",
+      "name": "Omni guard",
+      "breakdownNotes": "",
+      "label": "omniguard",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/IqAjWRF.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "",
+      "label": "renewal4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I6HFjyN.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "Only used for top path skip.",
+      "label": "accel4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "label": "vuln",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Dgtgp4n.png",
+      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
+      "name": "Combat dummy MKII",
+      "breakdownNotes": "Two are needed for bottom path, otherwise bring one.",
+      "label": "dummy",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Dgtgp4n.png",
+      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
+      "name": "Combat dummy MKII",
+      "breakdownNotes": "Two are needed for bottom path, otherwise bring one.",
+      "label": "dummy",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "label": "grest",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "label": "grest",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Fire | Blood | Astral | Body",
+      "label": "graspingpouchblack",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3pFXvMR.png",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus",
+      "name": "Zemoregal's Nexus",
+      "breakdownNotes": "",
+      "label": "zemouregalsnexus",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GNzR4sU.png",
+      "wikiLink": "https://runescape.wiki/w/Expensive_spices",
+      "name": "Expensive spices",
+      "breakdownNotes": "",
+      "label": "spices",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ZtPaUJq.png",
+      "wikiLink": "https://runescape.wiki/w/Primal_feast",
+      "name": "Primal feast",
+      "breakdownNotes": "",
+      "label": "feast",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "label": "grest",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "label": "grest",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "label": "shadowsgrace",
+        "energy": 50
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": "",
+        "label": "kalgdemon"
+      }
+    ]
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "presetName": "aod gm mt",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "edracolichcoif",
+      "image": "https://img.pvme.io/images/S1sjGOu.png",
+      "name": "Elite Dracolich coif",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_coif"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "eofpink",
+      "image": "https://img.pvme.io/images/MWLieOn.png",
+      "name": "EoF - Eldritch crossbow",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Eldritch_crossbow"
+    },
+    {
+      "label": "zekkil",
+      "image": "https://img.pvme.io/images/aKEG5mi.png",
+      "name": "Ek-ZekKil",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ek-ZekKil"
+    },
+    {
+      "label": "edracolichhauberk",
+      "image": "https://img.pvme.io/images/M5jOHR3.png",
+      "name": "Elite Dracolich hauberk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_hauberk"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "edracolichchaps",
+      "image": "https://img.pvme.io/images/VGqlhJd.png",
+      "name": "Elite Dracolich chaps",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_chaps"
+    },
+    {
+      "label": "edracolichvambs",
+      "image": "https://img.pvme.io/images/zJ2WxLa.png",
+      "name": "Elite Dracolich vambraces",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_vambraces"
+    },
+    {
+      "label": "edracolichboots",
+      "image": "https://img.pvme.io/images/07vxUMy.png",
+      "name": "Elite Dracolich boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_boots"
+    },
+    {
+      "label": "stalkerring",
+      "image": "https://img.pvme.io/images/xRj7mKb.png",
+      "name": "Stalker's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Stalker's_ring"
+    },
+    {
+      "label": "pernixquiverblue",
+      "image": "https://img.pvme.io/images/X5AcgQh.png",
+      "name": "Pernix's Quiver (Blue)",
+      "breakdownNotes": "Wen arrows | Deathspore arrows",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver"
+    },
+    {
+      "label": "reckless",
+      "image": "https://img.pvme.io/images/FZ59xZK.png",
+      "name": "Reckless aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Reckless_aura"
+    },
+    {
+      "label": "grim",
+      "image": "https://img.pvme.io/images/eAO0PdY.png",
+      "name": "Erethdor's grimoire",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "renewal4",
+      "image": "https://img.pvme.io/images/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "selected": false
+    },
+    {
+      "label": "restore4",
+      "image": "https://img.pvme.io/images/9GwrVt6.png",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "selected": false
+    },
+    {
+      "label": "accel4",
+      "image": "https://img.pvme.io/images/I6HFjyN.png",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "selected": false
+    },
+    {
+      "label": "gbrew",
+      "image": "https://img.pvme.io/images/dPf2fLt.png",
+      "name": "Super Guthix brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "gbrew",
+      "image": "https://img.pvme.io/images/dPf2fLt.png",
+      "name": "Super Guthix brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "zemouregalsnexus",
+      "image": "https://img.pvme.io/images/3pFXvMR.png",
+      "name": "Zemouregal's Nexus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus",
+      "selected": false
+    },
+    {
+      "label": "bsa100",
+      "image": "https://img.pvme.io/images/uBbMQoy.png",
+      "name": "Black stone arrows",
+      "breakdownNotes": "used for snipe/bolg spec",
+      "wikiLink": "https://runescape.wiki/w/Black_stone_arrows",
+      "selected": false
+    },
+    {
+      "label": "nightmare",
+      "image": "https://img.pvme.io/images/goMzH9N.png",
+      "name": "Nightmare gauntlets",
+      "breakdownNotes": "(enhanced version) camped past P2 or can swap back to dracolich vambraces after snipe",
+      "wikiLink": "https://runescape.wiki/w/Nightmare_gauntlets",
+      "selected": false
+    },
+    {
+      "label": "rod",
+      "image": "https://img.pvme.io/images/y5vAY4M.png",
+      "name": "Ring of death",
+      "breakdownNotes": "equip rod on pil3 and later on kill",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "(optional) can bring extra food instead",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchred",
+      "image": "https://img.pvme.io/images/6nJNred.png",
+      "name": "Grasping rune pouch (red)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(red)",
+      "selected": false
+    },
+    {
+      "label": "eofpurpleunorn",
+      "image": "https://img.pvme.io/images/5NxOiAg.png",
+      "name": "EoF - Decimation",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Decimation",
+      "selected": false
+    },
+    {
+      "label": "eofgreen",
+      "image": "https://img.pvme.io/images/LhMlWmw.png",
+      "name": "EoF - Zamorak bow",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Zamorak_bow",
+      "selected": false
+    },
+    {
+      "label": "vestmentbody",
+      "image": "https://img.pvme.io/images/E5ptfu6.png",
+      "name": "Vestments of havoc robe top",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_top",
+      "selected": false
+    },
+    {
+      "label": "fsoa",
+      "image": "https://img.pvme.io/images/AI12yBk.png",
+      "name": "Fractured Staff of Armadyl",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fractured_Staff_of_Armadyl",
+      "selected": false
+    },
+    {
+      "label": "scriptureofful",
+      "image": "https://img.pvme.io/images/lPppoD4.png",
+      "name": "Scripture of Ful",
+      "breakdownNotes": "(optional) swap to ful book on nami<div>if swapping, grim back on ful proc / before pils (zbow at most)</div>",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful",
+      "selected": false
+    },
+    {
+      "label": "cruelty",
+      "image": "https://img.pvme.io/images/we1VPRx.png",
+      "name": "Scrimshaw of Cruelty",
+      "breakdownNotes": "(optional) fulshaw the sgb",
+      "wikiLink": "https://runescape.wiki/w/Scrimshaw_of_Cruelty",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "selected": false
+    },
+    {
+      "label": "eofyellowunorn",
+      "image": "https://img.pvme.io/images/YR6pLdv.png",
+      "name": "EoF - Dark bow",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dark_bow",
+      "selected": false
+    },
+    {
+      "label": "eofblue",
+      "image": "https://img.pvme.io/images/zAiXkJn.png",
+      "name": "EoF - Seren godbow",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Seren_godbow",
+      "selected": false
+    },
+    {
+      "label": "vestmentlegs",
+      "image": "https://img.pvme.io/images/mz7GwWF.png",
+      "name": "Vestments of havoc robe bottom",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_bottom",
+      "selected": false
+    },
+    {
+      "label": "vuln",
+      "image": "https://img.pvme.io/images/2vI8jNm.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "vuln pillars (optionally amalgs too)",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "selected": false
+    },
+    {
+      "label": "bolg",
+      "image": "https://img.pvme.io/images/GkhQHSj.png",
+      "name": "Bow of the Last Guardian",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bow_of_the_Last_Guardian",
+      "selected": false
+    },
+    {
+      "label": "dummy",
+      "image": "https://img.pvme.io/images/Dgtgp4n.png",
+      "name": "Combat dummy MKII",
+      "breakdownNotes": "place on deci spec / at G pil after dbow",
+      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "heightenedsenses",
+        "image": "https://img.pvme.io/images/DjyfvR1.png",
+        "name": "Heightened Senses",
+        "breakdownNotes": "",
+        "energy": 350,
+        "description": "Increases maximum adrenaline by 10%."
+      },
+      {
+        "label": "berserkersfury",
+        "image": "https://img.pvme.io/images/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "energy": 250,
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)"
+      },
+      {
+        "label": "fontoflife",
+        "image": "https://img.pvme.io/images/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "energy": 50,
+        "description": "Increases maximum health by 500."
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

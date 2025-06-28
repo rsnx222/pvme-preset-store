@@ -1,0 +1,389 @@
+{
+  "presetName": "Budget Mage",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/z6apdWl.png",
+      "wikiLink": "https://runescape.wiki/w/Virtus_mask",
+      "name": "Virtus mask",
+      "breakdownNotes": "",
+      "label": "virtushelm"
+    },
+    {
+      "image": "https://i.imgur.com/OYsopd4.png",
+      "wikiLink": "https://runescape.wiki/w/TokHaar-Kal-Mej",
+      "name": "TokHaar-Kal-Mej",
+      "breakdownNotes": "",
+      "label": "kilnmage"
+    },
+    {
+      "image": "https://i.imgur.com/WIvPDaE.png",
+      "wikiLink": "https://runescape.wiki/w/Arcane_blood_necklace",
+      "name": "Arcane blood necklace",
+      "breakdownNotes": "",
+      "label": "mageblood"
+    },
+    {
+      "image": "https://i.imgur.com/My8VkUX.png",
+      "wikiLink": "https://runescape.wiki/w/Inquisitor_staff",
+      "name": "Inquisitor staff",
+      "breakdownNotes": "",
+      "label": "inq"
+    },
+    {
+      "image": "https://i.imgur.com/cau9oLa.png",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_top",
+      "name": "Virtus robe top",
+      "breakdownNotes": "",
+      "label": "virtustop"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/eEGwTU4.png",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_legs",
+      "name": "Virtus robe legs",
+      "breakdownNotes": "",
+      "label": "virtuslegs"
+    },
+    {
+      "image": "https://i.imgur.com/6iT5PjZ.png",
+      "wikiLink": "https://runescape.wiki/w/Kerapac's_wrist_wraps",
+      "name": "Kerapac's wrist wraps",
+      "breakdownNotes": "",
+      "label": "wristwraps"
+    },
+    {
+      "image": "https://i.imgur.com/6kNOh8G.png",
+      "wikiLink": "https://runescape.wiki/w/Virtus_boots",
+      "name": "Virtus boots",
+      "breakdownNotes": "",
+      "label": "virtusboots"
+    },
+    {
+      "image": "https://i.imgur.com/y5vAY4M.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death",
+      "name": "Ring of death",
+      "breakdownNotes": "",
+      "label": "rod"
+    },
+    {
+      "image": "https://i.imgur.com/lBTTP01.png",
+      "wikiLink": "https://runescape.wiki/w/Large_rune_pouch",
+      "name": "Large rune pouch",
+      "breakdownNotes": "",
+      "label": "pouch"
+    },
+    {
+      "image": "https://i.imgur.com/5fIllNu.png",
+      "wikiLink": "https://runescape.wiki/w/Maniacal_aura",
+      "name": "Maniacal aura",
+      "breakdownNotes": "",
+      "label": "mani"
+    },
+    {
+      "image": "https://i.imgur.com/zd3mKfH.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "",
+      "label": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/6Zear8O.png",
+      "wikiLink": "https://runescape.wiki/w/Cywir_wand",
+      "name": "Cywir wand",
+      "breakdownNotes": "",
+      "label": "cywirwand",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/H37FxHZ.png",
+      "wikiLink": "https://runescape.wiki/w/Cywir_orb",
+      "name": "Cywir orb",
+      "breakdownNotes": "",
+      "label": "cywirorb",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ThpXK19.png",
+      "wikiLink": "https://runescape.wiki/w/Merciless_kiteshield",
+      "name": "Merciless kiteshield",
+      "breakdownNotes": "",
+      "label": "mageshield",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "Swap for Jellies if not needing as much food",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "Swap for Jellies if not needing as much food",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "Swap for Jellies if not needing as much food",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "Swap for Jellies if not needing as much food",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/n9C7iSA.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "",
+      "label": "vitality4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PFLToHh.png",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)",
+      "name": "Spiritual prayer (6)",
+      "breakdownNotes": "",
+      "label": "spiritual",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "Swap for Jellies if not needing as much food",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "Swap for Jellies if not needing as much food",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "Swap for Jellies if not needing as much food",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "Swap for Jellies if not needing as much food",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hd7YvA4.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
+      "name": "Deathwarden Nexus",
+      "breakdownNotes": "Bone shield",
+      "label": "deathwardennexus",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nXXZxpH.png",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "",
+      "label": "lotd",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "Swap for Jellies if not needing as much food",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "Swap for Jellies if not needing as much food",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "Swap for Jellies if not needing as much food",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "Swap for Jellies if not needing as much food",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gKnqcZ0.png",
+      "wikiLink": "https://runescape.wiki/w/Overload_flask#(6)",
+      "name": "Overload flask (6)",
+      "breakdownNotes": "",
+      "label": "overload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "label": "vuln",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "Swap for Guthix rests if not needing as much food",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "Swap for Guthix rests if not needing as much food",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "Swap for Guthix rests if not needing as much food",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "Swap for Guthix rests if not needing as much food",
+      "label": "sara",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "description": "Increases maximum health by 500.",
+        "label": "fontoflife",
+        "energy": 50
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": "",
+        "label": "bloodreaver"
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": "",
+        "label": "ripperdemon"
+      }
+    ]
+  }
+}

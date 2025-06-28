@@ -1,0 +1,383 @@
+{
+  "presetName": "Necromancy Kalphite King",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/YlR8MWC.png",
+      "wikiLink": "https://runescape.wiki/w/Crown_of_the_First_Necromancer",
+      "name": "Crown of the First Necromancer",
+      "breakdownNotes": "",
+      "label": "t95necrohelm"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/UB0lAK8.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet",
+      "name": "Essence of Finality amulet",
+      "breakdownNotes": "Death guard (tier 90) <img title=\"deathguard90\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1138809243143766118.png?v=1\" /><br />",
+      "label": "eof"
+    },
+    {
+      "image": "https://i.imgur.com/SzFvoQB.png",
+      "wikiLink": "https://runescape.wiki/w/Omni_guard",
+      "name": "Omni guard",
+      "breakdownNotes": "Aftershock 4 Equilibrium 2 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712074245202772009.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502258424971564.png?v=1\" />",
+      "label": "omniguard"
+    },
+    {
+      "image": "https://i.imgur.com/ju4qvbN.png",
+      "wikiLink": "https://runescape.wiki/w/Robe_top_of_the_First_Necromancer",
+      "name": "Robe top of the First Necromancer",
+      "breakdownNotes": "Biting 4 X <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087809617931.png?v=1\" /> + Relentless 5 Crackling 4 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800920748092.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087662686249.png?v=1\" />",
+      "label": "t95necrotop"
+    },
+    {
+      "image": "https://i.imgur.com/VJsZ4HL.png",
+      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern",
+      "name": "Soulbound lantern",
+      "breakdownNotes": "Precise 6 Ruthless 1 <img title=\"p6\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088769982475.png?v=1\" /> <img title=\"ruthless1\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800924942396.png?v=1\" /><br />",
+      "label": "soulboundlantern"
+    },
+    {
+      "image": "https://i.imgur.com/9B2Bf7D.png",
+      "wikiLink": "https://runescape.wiki/w/Robe_bottom_of_the_First_Necromancer",
+      "name": "Robe bottom of the First Necromancer",
+      "breakdownNotes": "Impatient 4 X <img title=\"imp4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088204013640.png?v=1\" /> + Invigorating 4 X <img title=\"invig4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087859949570.png?v=1\" />",
+      "label": "t95necrolegs"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/FawdniP.png",
+      "wikiLink": "https://runescape.wiki/w/Foot_wraps_of_the_First_Necromancer",
+      "name": "Foot wraps of the First Necromancer",
+      "breakdownNotes": "",
+      "label": "t95necroboots"
+    },
+    {
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "label": "reaverring"
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "label": "graspingpouchblue"
+    },
+    {
+      "image": "https://i.imgur.com/YpjIoNM.png",
+      "wikiLink": "https://runescape.wiki/w/Supreme_invigorate_aura",
+      "name": "Supreme invigorate aura",
+      "breakdownNotes": "",
+      "label": "invigorate"
+    },
+    {
+      "image": "https://i.imgur.com/eAO0PdY.png",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire",
+      "name": "Erethdor's grimoire",
+      "breakdownNotes": "",
+      "label": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/LWm3PJt.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_replenishment_potion#(6)",
+      "name": "Enhanced replenishment poteion (6)",
+      "breakdownNotes": "",
+      "label": "replen",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/BQXFPFu.png",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(blood_reaver)",
+      "name": "Binding contract (blood reaver)",
+      "breakdownNotes": "",
+      "label": "reaver",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/oYa48lq.png",
+      "wikiLink": "https://runescape.wiki/w/Bone_rune",
+      "name": "Bone rune",
+      "breakdownNotes": "",
+      "label": "bonerune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/cgW4gGD.png",
+      "wikiLink": "https://runescape.wiki/w/Flesh_rune",
+      "name": "Flesh rune",
+      "breakdownNotes": "",
+      "label": "fleshrune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/4pGOeox.png",
+      "wikiLink": "https://runescape.wiki/w/Miasma_rune",
+      "name": "Miasma rune",
+      "breakdownNotes": "",
+      "label": "miasmarune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/N0YCWbP.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_rune",
+      "name": "Spirit rune",
+      "breakdownNotes": "",
+      "label": "spiritrune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hw7rKHz.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(1)",
+      "name": "Weapon poison+++ (1)",
+      "breakdownNotes": "",
+      "label": "poison1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Dgtgp4n.png",
+      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
+      "name": "Combat dummy MKII",
+      "breakdownNotes": "",
+      "label": "dummy",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3o2DaTu.png",
+      "wikiLink": "https://runescape.wiki/w/Blood_Reaver_scroll_(Blood_Siphon)",
+      "name": "Blood Reaver scroll (Blood Siphon)",
+      "breakdownNotes": "",
+      "label": "reaverscrolls500",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ARLol7s.png",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "",
+      "label": "kwuarmsticks100",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/4n0C5gK.png",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "",
+      "label": "lantadymeincensesticks100",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Dy2NfTt.png",
+      "wikiLink": "https://runescape.wiki/w/Ectoplasm",
+      "name": "Ectoplasm",
+      "breakdownNotes": "",
+      "label": "ectoplasm",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GNzR4sU.png",
+      "wikiLink": "https://runescape.wiki/w/Expensive_spices",
+      "name": "Expensive spices",
+      "breakdownNotes": "",
+      "label": "spices",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "label": "grest",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "label": "grest",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "label": "graspingpouchblack",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "label": "graspingpouchpink",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "label": "vuln",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": "",
+        "label": "bloodreaver"
+      }
+    ]
+  }
+}

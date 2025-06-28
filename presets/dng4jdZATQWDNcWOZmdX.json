@@ -1,0 +1,368 @@
+{
+  "presetName": "Gate Crafting",
+  "presetNotes": "Relics and aura optional - ward is unneeded if not using excal, not 100% sure otherwise<br />",
+  "equipmentSlots": [
+    {
+      "label": "modartisansbandana",
+      "image": "https://i.imgur.com/tGoegWL.png",
+      "name": "Modified artisan's bandana",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Modified_artisan's_bandana"
+    },
+    {
+      "label": "constmastercape",
+      "image": "https://i.imgur.com/E4lGhV4.png",
+      "name": "Constitution master cape",
+      "breakdownNotes": "unnecessary, but might provide a little leeway on excal timing<br />",
+      "wikiLink": "https://runescape.wiki/w/Constitution_master_cape"
+    },
+    {
+      "label": "amuletofofferings",
+      "image": "https://i.imgur.com/q5ufzvH.png",
+      "name": "Amulet of Offerings",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_Offerings"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "artisanstop",
+      "image": "https://i.imgur.com/UkqvffG.png",
+      "name": "Artisan's top",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Artisan's_top"
+    },
+    {
+      "label": "augeneexal",
+      "image": "https://i.imgur.com/h8j0s4U.png",
+      "name": "Augmented enhanced Excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Augmented_enhanced_Excalibur"
+    },
+    {
+      "label": "artisanslegs",
+      "image": "https://i.imgur.com/ekZff5t.png",
+      "name": "Artisan's legs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Artisan's_legs"
+    },
+    {
+      "label": "artisansgloves",
+      "image": "https://i.imgur.com/0JRLZqT.png",
+      "name": "Artisan's gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Artisan%27s_gloves"
+    },
+    {
+      "label": "artisansboots",
+      "image": "https://i.imgur.com/UiJSzNR.png",
+      "name": "Artisan's boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Artisan%27s_boots"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "wisdomaura",
+      "image": "https://i.imgur.com/3EgyuWI.png",
+      "name": "Legendary wisdom aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Legendary_wisdom_aura"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "torstolincensesticks100",
+      "image": "https://i.imgur.com/PpYdCr1.png",
+      "name": "Torstol incense sticks",
+      "breakdownNotes": "optional",
+      "wikiLink": "https://runescape.wiki/w/Torstol_incense_sticks",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "deathward",
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%."
+      },
+      {
+        "label": "inspiregenius",
+        "image": "https://i.imgur.com/5v8lkm0.png",
+        "name": "Inspire Genius",
+        "breakdownNotes": "",
+        "energy": 250,
+        "description": "You will gain 2% more XP when training artisan skills."
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "hellhound",
+        "image": "https://i.imgur.com/A1BvfVb.png",
+        "name": "Hellhound",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

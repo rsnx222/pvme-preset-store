@@ -1,0 +1,385 @@
+{
+  "presetName": "",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/11pg3gM.png",
+      "wikiLink": "https://runescape.wiki/w/Jaws_of_the_Abyss",
+      "name": "Jaws of the Abyss",
+      "breakdownNotes": "",
+      "label": "jawsoftheabyss"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/tsyhx6q.png",
+      "wikiLink": "https://runescape.wiki/w/Necklace_of_Salamancy",
+      "name": "Necklace of Salamancy",
+      "breakdownNotes": "",
+      "label": "salamancy"
+    },
+    {
+      "image": "https://i.imgur.com/Moh9yya.png",
+      "wikiLink": "https://runescape.wiki/w/Abyssal_scourge",
+      "name": "Abyssal scourge",
+      "breakdownNotes": "",
+      "label": "abyssalscourge"
+    },
+    {
+      "image": "https://i.imgur.com/E5ptfu6.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_top",
+      "name": "Vestments of havoc robe top",
+      "breakdownNotes": "",
+      "label": "vestmentbody"
+    },
+    {
+      "image": "https://i.imgur.com/LAVYvrE.png",
+      "wikiLink": "https://runescape.wiki/w/Dark_Sliver_of_Leng",
+      "name": "Dark Sliver of Leng",
+      "breakdownNotes": "",
+      "label": "lengoh"
+    },
+    {
+      "image": "https://i.imgur.com/mz7GwWF.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_bottom",
+      "name": "Vestments of havoc robe bottom",
+      "breakdownNotes": "",
+      "label": "vestmentlegs"
+    },
+    {
+      "image": "https://i.imgur.com/U4Wa7vb.png",
+      "wikiLink": "https://runescape.wiki/w/Gloves_of_passage",
+      "name": "Gloves of passage",
+      "breakdownNotes": "",
+      "label": "glovesofpassage"
+    },
+    {
+      "image": "https://i.imgur.com/FarIA5V.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_boots",
+      "name": "Vestments of havoc boots",
+      "breakdownNotes": "",
+      "label": "vestmentboots"
+    },
+    {
+      "image": "https://i.imgur.com/cc9GxHt.png",
+      "wikiLink": "https://runescape.wiki/w/Champion's_ring",
+      "name": "Champion's ring",
+      "breakdownNotes": "",
+      "label": "championring"
+    },
+    {
+      "image": "https://i.imgur.com/3pFXvMR.png",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus",
+      "name": "Zemoregal's Nexus",
+      "breakdownNotes": "",
+      "label": "zemouregalsnexus"
+    },
+    {
+      "image": "https://i.imgur.com/a3Up2sd.png",
+      "wikiLink": "https://runescape.wiki/w/Equilibrium_aura",
+      "name": "Equilibrium aura",
+      "breakdownNotes": "",
+      "label": "equilibriumaura"
+    },
+    {
+      "image": "https://i.imgur.com/bMTAHDe.png",
+      "wikiLink": "https://runescape.wiki/w/Scrimshaw_of_Vampyrism",
+      "name": "Scrimshaw of Vampyrism",
+      "breakdownNotes": "",
+      "label": "vamp"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/7HsbgWH.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_scarab_pouch",
+      "name": "Holy scarab pouch",
+      "breakdownNotes": "",
+      "label": "holyscarab",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/w6hThUy.png",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "name": "Powder of penance",
+      "breakdownNotes": "",
+      "label": "powderofpenance2",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Ba7yju8.png",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "",
+      "label": "kwuarmsticks",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/LfpiRjg.png",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "",
+      "label": "lantasticks",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FVmxMkH.png",
+      "wikiLink": "https://runescape.wiki/w/Blessed_flask",
+      "name": "Blessed flask",
+      "breakdownNotes": "",
+      "label": "blessed",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "label": "poison6",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UURvGNW.png",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "label": "elvenshard",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UVffd75.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench",
+      "name": "Holy wrench",
+      "breakdownNotes": "",
+      "label": "wrench",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained.",
+        "label": "persistentrage",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/x5tUpRe.png",
+        "name": "Holy Scarab",
+        "breakdownNotes": "",
+        "label": "holyscarab"
+      }
+    ]
+  }
+}

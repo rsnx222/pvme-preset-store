@@ -1,0 +1,395 @@
+{
+  "presetName": "Legiones 1/2/3/6 Ranged",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "sirenichelm",
+      "image": "https://img.pvme.io/images/lhfAbhp.png",
+      "name": "Sirenic mask",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_mask"
+    },
+    {
+      "label": "kalxil",
+      "image": "https://img.pvme.io/images/TNKAuKX.png",
+      "name": "Igneous Kal-Xil",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Xil"
+    },
+    {
+      "label": "eof",
+      "image": "https://img.pvme.io/images/UB0lAK8.png",
+      "name": "Essence of Finality amulet",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet"
+    },
+    {
+      "label": "ecb",
+      "image": "https://img.pvme.io/images/n98Fmxx.png",
+      "name": "Eldritch crossbow",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Eldrich_crossbow"
+    },
+    {
+      "label": "sirenictop",
+      "image": "https://img.pvme.io/images/lYDKMiu.png",
+      "name": "Sirenic hauberk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_hauberk"
+    },
+    null,
+    {
+      "label": "sireniclegs",
+      "image": "https://img.pvme.io/images/gBPOqaV.png",
+      "name": "Sirenic chaps",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_chaps"
+    },
+    {
+      "label": "nightmare",
+      "image": "https://img.pvme.io/images/goMzH9N.png",
+      "name": "Nightmare gauntlets",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nightmare_gauntlets"
+    },
+    {
+      "label": "fleet",
+      "image": "https://img.pvme.io/images/R5kSCvF.png",
+      "name": "Fleeting boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fleeting_boots"
+    },
+    {
+      "label": "stalkerring",
+      "image": "https://img.pvme.io/images/xRj7mKb.png",
+      "name": "Stalker's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Stalker's_ring"
+    },
+    {
+      "label": "dstone",
+      "image": "https://img.pvme.io/images/FBCvDLh.png",
+      "name": "Dragonstone bakriminel bolts (e)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dragonstone_bakriminel_bolts_(e)"
+    },
+    {
+      "label": "reckless",
+      "image": "https://img.pvme.io/images/FZ59xZK.png",
+      "name": "Reckless aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Reckless_aura"
+    },
+    {
+      "label": "zammygodbook2",
+      "image": "https://img.pvme.io/images/F6Q8fGK.png",
+      "name": "Book of chaos",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Book_of_chaos"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "primkey",
+      "image": "https://img.pvme.io/images/zcGK9BZ.png",
+      "name": "Ascension keystone primus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_primus",
+      "selected": false
+    },
+    {
+      "label": "primkey",
+      "image": "https://img.pvme.io/images/zcGK9BZ.png",
+      "name": "Ascension keystone primus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_primus",
+      "selected": false
+    },
+    {
+      "label": "hydrix",
+      "image": "https://img.pvme.io/images/xbNBoDV.png",
+      "name": "Hydrix bakriminel bolts (e)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Hydrix_bakriminel_bolts_(e)",
+      "selected": false
+    },
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "renewal4",
+      "image": "https://img.pvme.io/images/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "primkey",
+      "image": "https://img.pvme.io/images/zcGK9BZ.png",
+      "name": "Ascension keystone primus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_primus",
+      "selected": false
+    },
+    {
+      "label": "primkey",
+      "image": "https://img.pvme.io/images/zcGK9BZ.png",
+      "name": "Ascension keystone primus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_primus",
+      "selected": false
+    },
+    {
+      "label": "primkey",
+      "image": "https://img.pvme.io/images/zcGK9BZ.png",
+      "name": "Ascension keystone primus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_primus",
+      "selected": false
+    },
+    {
+      "label": "primkey",
+      "image": "https://img.pvme.io/images/zcGK9BZ.png",
+      "name": "Ascension keystone primus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_primus",
+      "selected": false
+    },
+    {
+      "label": "primkey",
+      "image": "https://img.pvme.io/images/zcGK9BZ.png",
+      "name": "Ascension keystone primus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_primus",
+      "selected": false
+    },
+    {
+      "label": "primkey",
+      "image": "https://img.pvme.io/images/zcGK9BZ.png",
+      "name": "Ascension keystone primus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_primus",
+      "selected": false
+    },
+    {
+      "label": "grest",
+      "image": "https://img.pvme.io/images/iXpGYQo.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "selected": false
+    },
+    {
+      "label": "primkey",
+      "image": "https://img.pvme.io/images/zcGK9BZ.png",
+      "name": "Ascension keystone primus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_primus",
+      "selected": false
+    },
+    {
+      "label": "primkey",
+      "image": "https://img.pvme.io/images/zcGK9BZ.png",
+      "name": "Ascension keystone primus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_primus",
+      "selected": false
+    },
+    {
+      "label": "primkey",
+      "image": "https://img.pvme.io/images/zcGK9BZ.png",
+      "name": "Ascension keystone primus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_primus",
+      "selected": false
+    },
+    {
+      "label": "primkey",
+      "image": "https://img.pvme.io/images/zcGK9BZ.png",
+      "name": "Ascension keystone primus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_primus",
+      "selected": false
+    },
+    {
+      "label": "primkey",
+      "image": "https://img.pvme.io/images/zcGK9BZ.png",
+      "name": "Ascension keystone primus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_primus",
+      "selected": false
+    },
+    {
+      "label": "primkey",
+      "image": "https://img.pvme.io/images/zcGK9BZ.png",
+      "name": "Ascension keystone primus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_primus",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://img.pvme.io/images/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "primkey",
+      "image": "https://img.pvme.io/images/zcGK9BZ.png",
+      "name": "Ascension keystone primus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_primus",
+      "selected": false
+    },
+    {
+      "label": "primkey",
+      "image": "https://img.pvme.io/images/zcGK9BZ.png",
+      "name": "Ascension keystone primus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_primus",
+      "selected": false
+    },
+    {
+      "label": "primkey",
+      "image": "https://img.pvme.io/images/zcGK9BZ.png",
+      "name": "Ascension keystone primus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_primus",
+      "selected": false
+    },
+    {
+      "label": "primkey",
+      "image": "https://img.pvme.io/images/zcGK9BZ.png",
+      "name": "Ascension keystone primus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_primus",
+      "selected": false
+    },
+    {
+      "label": "primkey",
+      "image": "https://img.pvme.io/images/zcGK9BZ.png",
+      "name": "Ascension keystone primus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_primus",
+      "selected": false
+    },
+    {
+      "label": "primkey",
+      "image": "https://img.pvme.io/images/zcGK9BZ.png",
+      "name": "Ascension keystone primus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_primus",
+      "selected": false
+    },
+    {
+      "label": "ascshard",
+      "image": "https://img.pvme.io/images/honJ2pK.png",
+      "name": "Ascension shard",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ascension_shard",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": "",
+        "label": "ripperdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

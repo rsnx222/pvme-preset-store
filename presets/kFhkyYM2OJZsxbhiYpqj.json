@@ -1,0 +1,389 @@
+{
+  "presetName": "Wilderness Abyssal lords+beasts",
+  "presetNotes": "Can use yak to collect loot other than clues+trisk fragments - less KPH",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/xNXHeIN.png",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_helm",
+      "name": "Cryptbloom helm",
+      "breakdownNotes": "Required",
+      "label": "cryptbloomhelm"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "Downgrade to Igneous Kal-Mej if necessary",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/UB0lAK8.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet",
+      "name": "Essence of Finality amulet",
+      "breakdownNotes": "Any EOF, Special attack is irrelevant",
+      "label": "eof"
+    },
+    {
+      "image": "https://i.imgur.com/cqCp4Ar.png",
+      "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening",
+      "name": "Roar of Awakening",
+      "breakdownNotes": "Shard of Genesis upgrade recommended - Not needed<br /><br />Perks are Eruptive 4 + Ruthless 3",
+      "label": "roarofawakening"
+    },
+    {
+      "image": "https://i.imgur.com/G07AY4A.png",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_top",
+      "name": "Cryptbloom top",
+      "breakdownNotes": "<span>Required<br /><br /></span><span>Perks are Biting 4 + Demon Slayer | Absorbative 4</span><span><br /></span>",
+      "label": "cryptbloomtop"
+    },
+    {
+      "image": "https://i.imgur.com/AFimQTj.png",
+      "wikiLink": "https://runescape.wiki/w/Ode_to_Deceit",
+      "name": "Ode to Deceit",
+      "breakdownNotes": "<span>Shard of Genesis upgrade recommended - Not needed<br /><br /></span><span>Perks are Caroming 4 + Precise 2</span><span><br /></span>",
+      "label": "odetodeceit"
+    },
+    {
+      "image": "https://i.imgur.com/h07wgr8.png",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_legs",
+      "name": "Cryptbloom legs",
+      "breakdownNotes": "<span>Required<br /><br /></span><span>Perks are Relentless 5 + Crackling 4 | Scavenging 4</span><span><br /></span>",
+      "label": "cryptbloomlegs"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "<span>Required</span><br />",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/1MkR1qn.png",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_boots",
+      "name": "Cryptbloom boots",
+      "breakdownNotes": "<span>Required</span>",
+      "label": "cryptbloomboots"
+    },
+    {
+      "image": "https://i.imgur.com/xmcbfhs.png",
+      "wikiLink": "https://runescape.wiki/w/Hazelmere's_signet",
+      "name": "Hazelmere's signet ring",
+      "breakdownNotes": "Downgrade to LOTD if unowned",
+      "label": "hsr"
+    },
+    {
+      "image": "https://i.imgur.com/fWzGXLF.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(green)",
+      "name": "Grasping rune pouch (green)",
+      "breakdownNotes": "Water | Body | Astral | Blood",
+      "label": "graspingpouchgreen"
+    },
+    {
+      "image": "https://i.imgur.com/5fIllNu.png",
+      "wikiLink": "https://runescape.wiki/w/Maniacal_aura",
+      "name": "Maniacal aura",
+      "breakdownNotes": "Best in Slot",
+      "label": "mani"
+    },
+    {
+      "image": "https://i.imgur.com/t1KMJMv.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "Always Active",
+      "label": "scriptureofbik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/DGw6F36.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "",
+      "label": "ovl",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Ba7yju8.png",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "To increase poison damage",
+      "label": "kwuarmsticks",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gCf8SPg.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(purple)",
+      "name": "Grasping rune pouch (purple)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "label": "graspingpouchpurple",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NkIcFSt.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_ectoplasmator",
+      "name": "Attuned ectoplasmator",
+      "breakdownNotes": "To auto scatter ashes so you can pickup elites",
+      "label": "ecto",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/DGw6F36.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "",
+      "label": "ovl",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/LfpiRjg.png",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "To extend potion duration",
+      "label": "lantasticks",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Soul | Fire",
+      "label": "graspingpouchblue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KPREDHT.png",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "To store clues",
+      "label": "cluebag",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9oDoU6T.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "To automatically collect Catalysts of Alteration",
+      "label": "spiritattractionflask",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/w6hThUy.png",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "name": "Powder of penance",
+      "breakdownNotes": "To passively restore prayer",
+      "label": "powderofpenance2",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/cIHG8g8.png",
+      "wikiLink": "https://runescape.wiki/w/Wilderness_sword_4",
+      "name": "Wilderness sword 4",
+      "breakdownNotes": "Used to teleport to wildy herb patch for quicker access to location",
+      "label": "wildernesssword",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GTwVqeC.png",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine",
+      "name": "Dwarven siege engine",
+      "breakdownNotes": "Auto restock and damage upgrade highly recommended - tedious without",
+      "label": "cannon",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "Required",
+      "label": "poison6",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/BQXFPFu.png",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(blood_reaver)",
+      "name": "Binding contract (blood reaver)",
+      "breakdownNotes": "Can swap out for Pack Yak to pick up drops at the cost of KPH",
+      "label": "reaver",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GrfjyE2.png",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "label": "cballs",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": "",
+        "label": "bloodreaver"
+      }
+    ]
+  }
+}

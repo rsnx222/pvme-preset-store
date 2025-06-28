@@ -1,0 +1,341 @@
+{
+  "presetName": "Vorago BOTW Preset",
+  "presetNotes": "Bring the best combat gear in the style of your choice (If you have specific questions please ask before the event) <br /><br />Mammoth is recommended, if you are comfortable with the boss use the Nihil for your style. <br /><br />Rune Pouches not necessary but are very nice for 'Heal Other' and 'Disruption Shield' if unlocked.<br /><br />Relics are not needed but are nice to have. <br /><br /><br />",
+  "equipmentSlots": [
+    null,
+    {
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "Zuk cape&gt;Kiln Cape&gt;Skill cape",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "eof",
+      "image": "https://img.pvme.io/images/UB0lAK8.png",
+      "name": "Essence of Finality amulet",
+      "breakdownNotes": "EOF&gt;Amulet of Souls&gt;Amulet of Fury",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "label": "rod",
+      "image": "https://img.pvme.io/images/y5vAY4M.png",
+      "name": "Ring of death",
+      "breakdownNotes": "ROD&gt;Zorgoth's Ring&gt;Occultist's Ring",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death"
+    },
+    null,
+    {
+      "label": "equilibriumaura",
+      "image": "https://img.pvme.io/images/a3Up2sd.png",
+      "name": "Equilibrium aura",
+      "breakdownNotes": "Equilibrium&gt;Vampirism&gt;Penance  ",
+      "wikiLink": "https://runescape.wiki/w/Equilibrium_aura"
+    },
+    {
+      "label": "scriptureofful",
+      "image": "https://img.pvme.io/images/lPppoD4.png",
+      "name": "Scripture of Ful",
+      "breakdownNotes": "Ful&gt;Erethdor's Grimoire (Other books Highly not recommended) ",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "ovl",
+      "image": "https://img.pvme.io/images/DGw6F36.png",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "Elder Overlod&gt;Overload",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)"
+    },
+    {
+      "label": "renewal4",
+      "image": "https://img.pvme.io/images/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "Can use any Adrenaline Potion",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)"
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)"
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)"
+    },
+    {
+      "label": "rocktail",
+      "image": "https://img.pvme.io/images/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail"
+    },
+    {
+      "label": "rocktail",
+      "image": "https://img.pvme.io/images/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail"
+    },
+    {
+      "label": "rocktail",
+      "image": "https://img.pvme.io/images/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail"
+    },
+    {
+      "label": "graspingpouchpink",
+      "image": "https://img.pvme.io/images/yrnlR2T.png",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic ",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)"
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)"
+    },
+    {
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)"
+    },
+    {
+      "label": "rocktail",
+      "image": "https://img.pvme.io/images/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail"
+    },
+    {
+      "label": "rocktail",
+      "image": "https://img.pvme.io/images/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail"
+    },
+    {
+      "label": "rocktail",
+      "image": "https://img.pvme.io/images/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail"
+    },
+    {
+      "label": "rocktail",
+      "image": "https://img.pvme.io/images/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail"
+    },
+    {
+      "label": "vitality4",
+      "image": "https://img.pvme.io/images/n9C7iSA.png",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)"
+    },
+    null,
+    {
+      "label": "rocktail",
+      "image": "https://img.pvme.io/images/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail"
+    },
+    {
+      "label": "rocktail",
+      "image": "https://img.pvme.io/images/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail"
+    },
+    {
+      "label": "rocktail",
+      "image": "https://img.pvme.io/images/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail"
+    },
+    {
+      "label": "rocktail",
+      "image": "https://img.pvme.io/images/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail"
+    },
+    {
+      "label": "rocktail",
+      "image": "https://img.pvme.io/images/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail"
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "Nice to have but not necessary ",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur"
+    },
+    {
+      "label": "dummy",
+      "image": "https://img.pvme.io/images/Dgtgp4n.png",
+      "name": "Combat dummy MKII",
+      "breakdownNotes": "<span>Used to build adrenaline between phases</span>",
+      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII"
+    },
+    {
+      "label": "rocktail",
+      "image": "https://img.pvme.io/images/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail"
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)"
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)"
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)"
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "label": "persistentrage",
+        "image": "https://img.pvme.io/images/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained."
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "label": "fontoflife",
+        "image": "https://img.pvme.io/images/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "energy": 50,
+        "description": "Increases maximum health by 500."
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "label": "shadowsgrace",
+        "image": "https://img.pvme.io/images/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "energy": 50,
+        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline."
+      },
+      {
+        "label": "deathward",
+        "image": "https://img.pvme.io/images/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%."
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "packmammoth",
+        "image": "https://img.pvme.io/images/z8NpfWG.png",
+        "name": "Pack Mammoth",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "label": "icenihil",
+        "image": "https://img.pvme.io/images/PXt50t7.png",
+        "name": "Ice Nihil",
+        "breakdownNotes": ""
+      },
+      {
+        "label": "bloodnihil",
+        "image": "https://img.pvme.io/images/a2CITlX.png",
+        "name": "Blood Nihil",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "label": "smokenihil",
+        "image": "https://img.pvme.io/images/qbTjhXc.png",
+        "name": "Smoke Nihil",
+        "breakdownNotes": ""
+      },
+      {
+        "label": "shadownihil",
+        "image": "https://img.pvme.io/images/evmMlFz.png",
+        "name": "Shadow Nihil",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

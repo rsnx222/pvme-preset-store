@@ -1,0 +1,376 @@
+{
+  "presetName": "",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "ghostgoggles",
+      "image": "https://img.pvme.io/images/iyXqN3S.png",
+      "name": "Ghost hunter goggles",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_goggles"
+    },
+    {
+      "label": "ghostbackpack",
+      "image": "https://img.pvme.io/images/zNu0qYb.png",
+      "name": "Ghost hunter backpack",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_backpack"
+    },
+    {
+      "label": "salvee",
+      "image": "https://img.pvme.io/images/qbsFxuG.png",
+      "name": "Salve amulet (e)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Salve_amulet_(e)"
+    },
+    {
+      "label": "chins",
+      "image": "https://img.pvme.io/images/TMWKAqQ.png",
+      "name": "Mechanised chinchompa",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Mechanised_chinchompa"
+    },
+    {
+      "label": "sirenictop",
+      "image": "https://img.pvme.io/images/lYDKMiu.png",
+      "name": "Sirenic hauberk",
+      "breakdownNotes": "Undead Slayer perk",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_hauberk"
+    },
+    {
+      "label": "ohasc",
+      "image": "https://img.pvme.io/images/tSwe20M.png",
+      "name": "Off-hand ascension crossbow",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Off-hand_ascension_crossbow"
+    },
+    {
+      "label": "ghostlegs",
+      "image": "https://img.pvme.io/images/Cn2x2Mi.png",
+      "name": "Ghost hunter legs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_legs"
+    },
+    {
+      "label": "nightmare",
+      "image": "https://img.pvme.io/images/goMzH9N.png",
+      "name": "Nightmare gauntlets",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nightmare_gauntlets"
+    },
+    {
+      "label": "fleet",
+      "image": "https://img.pvme.io/images/R5kSCvF.png",
+      "name": "Fleeting boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fleeting_boots"
+    },
+    {
+      "label": "asr",
+      "image": "https://img.pvme.io/images/RZg5LNG.png",
+      "name": "Asylum surgeon's ring",
+      "breakdownNotes": "Upgrade to Stalker's Ring &gt; Reaver's Ring &gt; Ring of Death.",
+      "wikiLink": "https://runescape.wiki/w/Asylum_surgeon's_ring"
+    },
+    {
+      "label": "hydrix",
+      "image": "https://img.pvme.io/images/xbNBoDV.png",
+      "name": "Hydrix bakriminel bolts (e)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Hydrix_bakriminel_bolts_(e)"
+    },
+    {
+      "label": "reckless",
+      "image": "https://img.pvme.io/images/FZ59xZK.png",
+      "name": "Reckless aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Reckless_aura"
+    },
+    {
+      "label": "cruelty",
+      "image": "https://img.pvme.io/images/we1VPRx.png",
+      "name": "Scrimshaw of Cruelty",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scrimshaw_of_Cruelty"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "asc",
+      "image": "https://img.pvme.io/images/VZnA3ZS.png",
+      "name": "Ascension crossbow",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ascension_crossbow",
+      "selected": false
+    },
+    {
+      "label": "eofgreenunorn",
+      "image": "https://img.pvme.io/images/8a6M64a.png",
+      "name": "Essence of Finality amulet (green)",
+      "breakdownNotes": "Dbow",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet_(green)",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "ovl",
+      "image": "https://img.pvme.io/images/DGw6F36.png",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "accel4",
+      "image": "https://img.pvme.io/images/I6HFjyN.png",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "selected": false
+    },
+    {
+      "label": "renewal4",
+      "image": "https://img.pvme.io/images/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "elvenshard",
+      "image": "https://img.pvme.io/images/UURvGNW.png",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "barrowstotems",
+      "image": "https://img.pvme.io/images/gIfjnhJ.png",
+      "name": "Barrows totems",
+      "breakdownNotes": "One required per kill.",
+      "wikiLink": "https://runescape.wiki/w/Barrows_totems",
+      "selected": false
+    },
+    {
+      "label": "vuln",
+      "image": "https://img.pvme.io/images/2vI8jNm.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "selected": false
+    },
+    {
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "selected": false
+    },
+    {
+      "label": "grest",
+      "image": "https://img.pvme.io/images/iXpGYQo.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "selected": false
+    },
+    {
+      "label": "grest",
+      "image": "https://img.pvme.io/images/iXpGYQo.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "selected": false
+    },
+    {
+      "label": "grest",
+      "image": "https://img.pvme.io/images/iXpGYQo.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "selected": false
+    },
+    {
+      "label": "grest",
+      "image": "https://img.pvme.io/images/iXpGYQo.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "persistentrage",
+        "image": "https://img.pvme.io/images/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained."
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": "",
+        "label": "ripperdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

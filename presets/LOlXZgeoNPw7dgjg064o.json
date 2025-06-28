@@ -1,0 +1,338 @@
+{
+  "presetName": "",
+  "presetNotes": "Summon meerkat and put scrolls in them",
+  "equipmentSlots": [
+    {
+      "label": "deathwardenhoodt70",
+      "image": "https://i.imgur.com/kMqeRBE.png",
+      "name": "Deathwarden hood (tier 70)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_hood_(tier_70)"
+    },
+    null,
+    {
+      "label": "eof",
+      "image": "https://i.imgur.com/UB0lAK8.png",
+      "name": "Essence of Finality amulet",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet"
+    },
+    {
+      "label": "deathguardt70",
+      "image": "https://i.imgur.com/IjI79KW.png",
+      "name": "Death guard (tier 70)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Death_guard_(tier_70)"
+    },
+    {
+      "label": "deathwardenrobetopt70",
+      "image": "https://i.imgur.com/BNmwchj.png",
+      "name": "Deathwarden robe top (tier 70)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_top_(tier_70)"
+    },
+    {
+      "label": "skulllanternt70",
+      "image": "https://i.imgur.com/yhYsPpi.png",
+      "name": "Skull lantern (tier 70)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Skull_lantern_(tier_70)"
+    },
+    {
+      "label": "deathwardenrobebottomt70",
+      "image": "https://i.imgur.com/o0ejuBm.png",
+      "name": "Deathwarden robe bottom (tier 70)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_bottom_(tier_70)"
+    },
+    {
+      "label": "deathwardenglovest70",
+      "image": "https://i.imgur.com/iPR2hWQ.png",
+      "name": "Deathwarden gloves (tier 70)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_gloves_(tier_70)"
+    },
+    {
+      "label": "deathwardenbootst70",
+      "image": "https://i.imgur.com/QprppLF.png",
+      "name": "Deathwarden boots (tier 70)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_boots_(tier_70)"
+    },
+    {
+      "label": "reaverring",
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring"
+    },
+    null,
+    {
+      "label": "vampaura",
+      "image": "https://i.imgur.com/JigaLBL.png",
+      "name": "Vampyrism aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vampyrism_aura"
+    },
+    {
+      "label": "scriptureofwen",
+      "image": "https://i.imgur.com/zd3mKfH.png",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "hardclue",
+      "image": "https://i.imgur.com/Y3W9y2M.png",
+      "name": "Hard clue",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Hard_clue",
+      "selected": false
+    },
+    {
+      "label": "passageoftheabyss(green)",
+      "image": "https://i.imgur.com/PDg2YBC.png",
+      "name": "Passage of the Abyss (green)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Passage_of_the_Abyss_(green)",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "capeoflegends",
+      "image": "https://i.imgur.com/8Y1U7r0.png",
+      "name": "Cape of legends",
+      "breakdownNotes": "<span>Used for Lletya | Iorwerth</span>",
+      "wikiLink": "https://runescape.wiki/w/Cape_of_legends",
+      "selected": false
+    },
+    {
+      "label": "davesspellbook",
+      "image": "https://i.imgur.com/ahDBOU5.png",
+      "name": "Dave's spellbook",
+      "breakdownNotes": "<span>watchtower</span><span>, ardougne</span><span>, camelot tabs</span>",
+      "wikiLink": "https://runescape.wiki/w/Dave's_spellbook",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "meerkatspouch",
+      "image": "https://i.imgur.com/zIwiuqt.png",
+      "name": "Meerkats pouch",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Meerkats_pouch",
+      "selected": false
+    },
+    {
+      "label": "amuletofnature",
+      "image": "https://i.imgur.com/CjIUkSz.png",
+      "name": "Amulet of nature",
+      "breakdownNotes": "bound to ",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_nature",
+      "selected": false
+    },
+    {
+      "label": "goldseal(noted)",
+      "image": "https://i.imgur.com/I74Bq3s.png",
+      "name": "Gold seal",
+      "breakdownNotes": "to recharge Pharaoh's sceptre",
+      "wikiLink": "https://runescape.wiki/w/Gold_seal",
+      "selected": false
+    },
+    {
+      "label": "portableobelisk",
+      "image": "https://i.imgur.com/gKUbd5X.png",
+      "name": "Portable Obelisk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Portable_Obelisk",
+      "selected": false
+    },
+    {
+      "label": "attunedcrystalteleportseed",
+      "image": "https://i.imgur.com/qNQ9dCI.png",
+      "name": "Attuned crystal teleport seed",
+      "breakdownNotes": "<span>Used for Lletya | Iorwerth</span>",
+      "wikiLink": "https://runescape.wiki/w/Attuned_crystal_teleport_seed",
+      "selected": false
+    },
+    {
+      "label": "grandseedpod",
+      "image": "https://i.imgur.com/TbTkcjH.png",
+      "name": "Grand seed pod",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grand_seed_pod",
+      "selected": false
+    },
+    {
+      "label": "meerkatscrolls500",
+      "image": "https://i.imgur.com/Dc1RbtE.png",
+      "name": "Meerkat scroll (Fetch Casket)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Meerkat_scroll_(Fetch_Casket)",
+      "selected": false
+    },
+    {
+      "label": "cluebag",
+      "image": "https://i.imgur.com/KPREDHT.png",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "Used to store sealed",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "selected": false
+    },
+    {
+      "label": "wickedhood",
+      "image": "https://i.imgur.com/Uxr7Xcm.png",
+      "name": "Wicked hood",
+      "breakdownNotes": "<span>Allows you to teleport to Rune Altars and requires Wicked Hood Tokens to be charged | </span><div>Used for Nature Altar </div>",
+      "wikiLink": "https://runescape.wiki/w/Wicked_hood",
+      "selected": false
+    },
+    {
+      "label": "pharaohssceptre",
+      "image": "https://i.imgur.com/rrvRa6H.png",
+      "name": "Pharaoh's sceptre",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Pharaoh's_sceptre",
+      "selected": false
+    },
+    {
+      "label": "archaeologyteleport",
+      "image": "https://i.imgur.com/WYm7p9h.png",
+      "name": "Archaeology teleport",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Archaeology_teleport",
+      "selected": false
+    },
+    {
+      "label": "workerdistrictteleport",
+      "image": "https://i.imgur.com/2Yo9blS.png",
+      "name": "Worker district teleport",
+      "breakdownNotes": "<span>Used for Hamid located in the Worker District.</span>",
+      "wikiLink": "https://runescape.wiki/w/Worker_district_teleport",
+      "selected": false
+    },
+    {
+      "label": "banditcampteleport",
+      "image": "https://i.imgur.com/VLdEZ1R.png",
+      "name": "Bandit Camp Teleport",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bandit_Camp_Teleport",
+      "selected": false
+    },
+    {
+      "label": "gutanothteleport",
+      "image": "https://i.imgur.com/mmYFsu6.png",
+      "name": "Gu'Tanoth Teleport",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Gu'Tanoth_Teleport",
+      "selected": false
+    },
+    {
+      "label": "lighthouseteleport",
+      "image": "https://i.imgur.com/81jSXdP.png",
+      "name": "Lighthouse Teleport",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Lighthouse_Teleport",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

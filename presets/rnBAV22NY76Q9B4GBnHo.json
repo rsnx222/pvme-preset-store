@@ -1,0 +1,290 @@
+{
+  "presetName": "Basic vindicta mage",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/gfBW8r7.png",
+      "name": "Hood of subjugation",
+      "breakdownNotes": "",
+      "label": "subjhood"
+    },
+    {
+      "image": "https://i.imgur.com/KWBhzbp.png",
+      "name": "TokHaar-Kal-Mej",
+      "breakdownNotes": "",
+      "label": "kilnmage"
+    },
+    {
+      "image": "https://i.imgur.com/03MW8YA.png",
+      "name": "Dragonrider amulet",
+      "breakdownNotes": "Can be upgraded to AoS or EoF if owned",
+      "label": "drider"
+    },
+    {
+      "image": "https://i.imgur.com/6Zear8O.png",
+      "name": "Cywir wand",
+      "breakdownNotes": "",
+      "label": "cywirwand"
+    },
+    {
+      "image": "https://i.imgur.com/xaiyx7X.png",
+      "name": "Garb of subjugation",
+      "breakdownNotes": "",
+      "label": "subjgarb"
+    },
+    {
+      "image": "https://i.imgur.com/H37FxHZ.png",
+      "name": "Cywir orb",
+      "breakdownNotes": "",
+      "label": "cywirorb"
+    },
+    {
+      "image": "https://i.imgur.com/OprqhH8.png",
+      "name": "Gown of subjugation",
+      "breakdownNotes": "",
+      "label": "subjgown"
+    },
+    {
+      "image": "https://i.imgur.com/CEn20Sk.png",
+      "name": "Kerapac's wrist wraps",
+      "breakdownNotes": "",
+      "label": "wristwraps"
+    },
+    {
+      "image": "https://i.imgur.com/2VPk1SN.png",
+      "name": "Blast diffusion boots",
+      "breakdownNotes": "",
+      "label": "diffusion"
+    },
+    {
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "name": "Reaver's ring",
+      "breakdownNotes": "Can downgrade to other rings if needed",
+      "label": "reaverring"
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "<span>Blood | Astral | Body | Soul, </span><span>Runes for Exsanguinate and/or Incite Fear</span><br />",
+      "label": "graspingpouchblack"
+    },
+    {
+      "image": "https://i.imgur.com/Zevs8R8.png",
+      "name": "Maniacal aura",
+      "breakdownNotes": "",
+      "label": "mani"
+    },
+    {
+      "image": "https://i.imgur.com/jTJxwFt.png",
+      "name": "Scripture of Jas",
+      "breakdownNotes": "",
+      "label": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/8FcJc3b.png",
+      "name": "Holy overload (6)",
+      "breakdownNotes": "",
+      "label": "holyovl",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8FcJc3b.png",
+      "name": "Holy overload (6)",
+      "breakdownNotes": "",
+      "label": "holyovl",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pulVXx3.png",
+      "name": "Super restore",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pulVXx3.png",
+      "name": "Super restore",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3ETfbUf.png",
+      "name": "Saradomin brew",
+      "breakdownNotes": "Emergency food",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Emergency food",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Emergency food",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b7OFnll.png",
+      "name": "Adrenaline renewal",
+      "breakdownNotes": "Can be replaced with your best adrenaline potion",
+      "label": "renewal4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b7OFnll.png",
+      "name": "Adrenaline renewal",
+      "breakdownNotes": "Can be replaced with your best adrenaline potion",
+      "label": "renewal4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pulVXx3.png",
+      "name": "Super restore",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pulVXx3.png",
+      "name": "Super restore",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3ETfbUf.png",
+      "name": "Saradomin brew",
+      "breakdownNotes": "Emergency food",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Emergency food",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Emergency food",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b7OFnll.png",
+      "name": "Adrenaline renewal",
+      "breakdownNotes": "Can be replaced with your best adrenaline potion",
+      "label": "renewal4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b7OFnll.png",
+      "name": "Adrenaline renewal",
+      "breakdownNotes": "Can be replaced with your best adrenaline potion",
+      "label": "renewal4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/mkWYDjK.png",
+      "name": "Guthix staff",
+      "breakdownNotes": "Preferably use a gstaff EoF",
+      "label": "gstaff",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/sh0rUPx.png",
+      "name": "Enhanced luck potion",
+      "breakdownNotes": "Gives tier 3 luck, not needed if LotD is owned",
+      "label": "enhluck",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GNzR4sU.png",
+      "name": "Expensive spices",
+      "breakdownNotes": "",
+      "label": "spices",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b7OFnll.png",
+      "name": "Adrenaline renewal",
+      "breakdownNotes": "Can be replaced with your best adrenaline potion",
+      "label": "renewal4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KFZJLhU.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "Provides lossless healing on a 5 minute cooldown throughout the hour",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ysTivBO.png",
+      "name": "Noxious staff",
+      "breakdownNotes": "Can be used to cast Sonic Wave while moving, can downgrade if needed",
+      "label": "noxstaff",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I6vORmU.png",
+      "name": "Ancient lantern",
+      "breakdownNotes": "For reso-ing ranged autos, also doubles as a PF switch. Can be replaced by blighted rebounder if needed",
+      "label": "lantern",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/306PXtG.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "label": "vuln",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "<span>Chaos | Air | Water | Fire, Runes for Exsanguinate and/or Incite Fear</span><br />",
+      "label": "graspingpouchblue",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [],
+    "alternativeFamiliars": []
+  }
+}

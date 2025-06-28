@@ -1,0 +1,301 @@
+{
+  "presetName": "Kree HM (AFK Necromancy)",
+  "presetNotes": "Use Darkness",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/mOp3i6V.png",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_hood_(tier_90)",
+      "name": "Deathdealer hood (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathdealerhoodt90"
+    },
+    {
+      "image": "https://i.imgur.com/bIV6C4o.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mor",
+      "name": "Igneous Kal-Mor",
+      "breakdownNotes": "",
+      "label": "kalmor"
+    },
+    {
+      "image": "https://i.imgur.com/gA1MFTE.png",
+      "wikiLink": "https://runescape.wiki/w/Demon_horn_necklace",
+      "name": "Demon horn necklace",
+      "breakdownNotes": "",
+      "label": "demonhorn"
+    },
+    {
+      "image": "https://i.imgur.com/SzFvoQB.png",
+      "wikiLink": "https://runescape.wiki/w/Omni_guard",
+      "name": "Omni guard",
+      "breakdownNotes": "",
+      "label": "omniguard"
+    },
+    {
+      "image": "https://i.imgur.com/ju4qvbN.png",
+      "wikiLink": "https://runescape.wiki/w/Robe_top_of_the_First_Necromancer",
+      "name": "Robe top of the First Necromancer",
+      "breakdownNotes": "",
+      "label": "t95necrotop"
+    },
+    {
+      "image": "https://i.imgur.com/VJsZ4HL.png",
+      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern",
+      "name": "Soulbound lantern",
+      "breakdownNotes": "",
+      "label": "soulboundlantern"
+    },
+    {
+      "image": "https://i.imgur.com/9B2Bf7D.png",
+      "wikiLink": "https://runescape.wiki/w/Robe_bottom_of_the_First_Necromancer",
+      "name": "Robe bottom of the First Necromancer",
+      "breakdownNotes": "",
+      "label": "t95necrolegs"
+    },
+    {
+      "image": "https://i.imgur.com/olAlTZ8.png",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_gloves_(tier_90)",
+      "name": "Deathdealer gloves (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathdealerglovest90"
+    },
+    {
+      "image": "https://i.imgur.com/ixeiTn3.png",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_boots_(tier_90)",
+      "name": "Deathdealer boots (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathdealerbootst90"
+    },
+    {
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
+      "name": "Reaver's ring",
+      "breakdownNotes": "Due to the risk of dying you may use a <img title=\"rod\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190159462825984.png?v=1\" />instead. <br />",
+      "label": "reaverring"
+    },
+    {
+      "image": "https://i.imgur.com/b3geFp8.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver",
+      "breakdownNotes": "",
+      "label": "pernixquiver"
+    },
+    {
+      "image": "https://i.imgur.com/G4FM1Cz.png",
+      "wikiLink": "https://runescape.wiki/w/Penance_aura",
+      "name": "Penance aura",
+      "breakdownNotes": "",
+      "label": "penance"
+    },
+    {
+      "image": "https://i.imgur.com/zd3mKfH.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "",
+      "label": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/uIF03Iz.png",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#active",
+      "name": "Potion reservoir",
+      "breakdownNotes": "",
+      "label": "potionreservoir"
+    },
+    {
+      "image": "https://i.imgur.com/af9O4EM.png",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#inactive",
+      "name": "Potion reservoir (inactive)",
+      "breakdownNotes": "",
+      "label": "potionreservoir2"
+    },
+    null,
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/wsYgZsb.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_luck_potion",
+      "name": "Enhanced luck potion",
+      "breakdownNotes": "",
+      "label": "enhluck"
+    },
+    {
+      "image": "https://i.imgur.com/oYa48lq.png",
+      "wikiLink": "https://runescape.wiki/w/Bone_rune",
+      "name": "Bone rune",
+      "breakdownNotes": "",
+      "label": "bonerune"
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve"
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve"
+    },
+    null,
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/w6hThUy.png",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "name": "Powder of penance",
+      "breakdownNotes": "",
+      "label": "powderofpenance2"
+    },
+    {
+      "image": "https://i.imgur.com/4pGOeox.png",
+      "wikiLink": "https://runescape.wiki/w/Miasma_rune",
+      "name": "Miasma rune",
+      "breakdownNotes": "",
+      "label": "miasmarune"
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal"
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "label": "graspingpouchpink"
+    },
+    null,
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/BQXFPFu.png",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(blood_reaver)",
+      "name": "Binding contract (blood reaver)",
+      "breakdownNotes": "",
+      "label": "reaver"
+    },
+    {
+      "image": "https://i.imgur.com/N0YCWbP.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_rune",
+      "name": "Spirit rune",
+      "breakdownNotes": "",
+      "label": "spiritrune"
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner"
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "label": "graspingpouchblack"
+    },
+    null,
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/Dy2NfTt.png",
+      "wikiLink": "https://runescape.wiki/w/Ectoplasm",
+      "name": "Ectoplasm",
+      "breakdownNotes": "",
+      "label": "ectoplasm"
+    },
+    {
+      "image": "https://i.imgur.com/cgW4gGD.png",
+      "wikiLink": "https://runescape.wiki/w/Flesh_rune",
+      "name": "Flesh rune",
+      "breakdownNotes": "",
+      "label": "fleshrune"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained.",
+        "label": "persistentrage",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": "",
+        "label": "bloodreaver"
+      }
+    ]
+  }
+}

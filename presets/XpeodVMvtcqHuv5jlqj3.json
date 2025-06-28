@@ -1,0 +1,367 @@
+{
+  "presetName": "Duo BM (Magic)",
+  "presetNotes": "<br />",
+  "equipmentSlots": [
+    {
+      "label": "cryptbloomhelm",
+      "image": "https://img.pvme.io/images/zqJhRU7E8N.png",
+      "name": "Cryptbloom helm",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_helm"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "eof",
+      "image": "https://img.pvme.io/images/UB0lAK8.png",
+      "name": "Essence of Finality amulet",
+      "breakdownNotes": "Staff of light",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet"
+    },
+    {
+      "label": "roarofawakening",
+      "image": "https://img.pvme.io/images/nCmqhfpcHo.png",
+      "name": "Roar of Awakening",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening"
+    },
+    {
+      "label": "cryptbloomtop",
+      "image": "https://img.pvme.io/images/SQFVVkgKsw.png",
+      "name": "Cryptbloom top",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_top"
+    },
+    {
+      "label": "odetodeceit",
+      "image": "https://img.pvme.io/images/8WKmBCfI34.png",
+      "name": "Ode to Deceit",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ode_to_Deceit"
+    },
+    {
+      "label": "cryptbloomlegs",
+      "image": "https://img.pvme.io/images/YRNwG9fvN5.png",
+      "name": "Cryptbloom legs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_legs"
+    },
+    {
+      "label": "cryptbloomgloves",
+      "image": "https://img.pvme.io/images/p6Fwg2MItg.png",
+      "name": "Cryptbloom gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_gloves"
+    },
+    {
+      "label": "cryptbloomboots",
+      "image": "https://img.pvme.io/images/cXlCjcohsJ.png",
+      "name": "Cryptbloom boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_boots"
+    },
+    {
+      "label": "superiorleviathanring",
+      "image": "https://img.pvme.io/images/auHIoIj.png",
+      "name": "Superior leviathan ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Superior_leviathan_ring"
+    },
+    {
+      "label": "zemouregalsnexus",
+      "image": "https://img.pvme.io/images/3pFXvMR.png",
+      "name": "Zemouregal's Nexus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus"
+    },
+    {
+      "label": "aegisaura",
+      "image": "https://img.pvme.io/images/3NtBQQA.png",
+      "name": "Aegis aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aegis_aura"
+    },
+    {
+      "label": "grim",
+      "image": "https://img.pvme.io/images/eAO0PdY.png",
+      "name": "Erethdor's grimoire",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "renewal6",
+      "image": "https://img.pvme.io/images/Swtl8pP.png",
+      "name": "Adrenaline renewal flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_flask#(6)"
+    },
+    {
+      "label": "eofpurple",
+      "image": "https://img.pvme.io/images/nu7QSbh.png",
+      "name": "EoF - Guthix staff / Zamorak staff",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Guthix_staff"
+    },
+    {
+      "label": "arcane",
+      "image": "https://img.pvme.io/images/IcTDNcT.png",
+      "name": "Arcane spirit shield",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Arcane_spirit_shield"
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)"
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)"
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)"
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)"
+    },
+    {
+      "label": "blessed",
+      "image": "https://img.pvme.io/images/FVmxMkH.png",
+      "name": "Blessed flask",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blessed_flask"
+    },
+    {
+      "label": "hellhound",
+      "image": "https://img.pvme.io/images/FPfRiAQ.png",
+      "name": "Binding contract (hellhound)",
+      "breakdownNotes": "spare in case your hh dies",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(hellhound)"
+    },
+    {
+      "label": "fsoa",
+      "image": "https://img.pvme.io/images/AI12yBk.png",
+      "name": "Fractured Staff of Armadyl",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fractured_Staff_of_Armadyl"
+    },
+    null,
+    {
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish"
+    },
+    {
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish"
+    },
+    {
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish"
+    },
+    {
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)"
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)"
+    },
+    {
+      "label": "vuln",
+      "image": "https://img.pvme.io/images/2vI8jNm.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs"
+    },
+    {
+      "label": "ogreflasksaltwater",
+      "image": "https://img.pvme.io/images/aWWEV1l.png",
+      "name": "Ogre flask (salt water) (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ogre_flask_(salt_water)"
+    },
+    {
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish"
+    },
+    {
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish"
+    },
+    {
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish"
+    },
+    {
+      "label": "naturerune1k",
+      "image": "https://img.pvme.io/images/3uR1o36.png",
+      "name": "Nature rune",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nature_rune"
+    },
+    {
+      "label": "graspingpouchpink",
+      "image": "https://img.pvme.io/images/yrnlR2T.png",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)"
+    },
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)"
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur"
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish"
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish"
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "conservationofenergy",
+        "image": "https://img.pvme.io/images/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "energy": 350,
+        "description": "After using an ultimate ability, you will regain 10% adrenaline."
+      },
+      {
+        "label": "furyofthesmall",
+        "image": "https://img.pvme.io/images/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline."
+      },
+      {
+        "label": "deathward",
+        "image": "https://img.pvme.io/images/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%."
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "hellhound",
+        "image": "https://img.pvme.io/images/A1BvfVb.png",
+        "name": "Hellhound",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

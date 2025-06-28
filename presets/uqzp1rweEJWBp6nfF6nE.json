@@ -1,0 +1,349 @@
+{
+  "presetName": "AFK Caps",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/5LejzUu.png",
+      "wikiLink": "https://runescape.wiki/w/Armadyl_helmet",
+      "name": "Armadyl helmet",
+      "breakdownNotes": "",
+      "label": "armahelm"
+    },
+    {
+      "image": "https://i.imgur.com/TNKAuKX.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Xil",
+      "name": "Igneous Kal-Xil",
+      "breakdownNotes": "Kiln Cape is fine<br />",
+      "label": "kalxil"
+    },
+    {
+      "image": "https://i.imgur.com/UHRGdEk.png",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_zealots",
+      "name": "Amulet of zealots",
+      "breakdownNotes": "",
+      "label": "zealots"
+    },
+    {
+      "image": "https://i.imgur.com/lPFE6lN.png",
+      "wikiLink": "https://runescape.wiki/w/Zaryte_bow",
+      "name": "Zaryte bow",
+      "breakdownNotes": "Any T80+ Bow. P6 + E4R3<br />",
+      "label": "zaryte"
+    },
+    {
+      "image": "https://i.imgur.com/3IVzrrl.png",
+      "wikiLink": "https://runescape.wiki/w/Armadyl_chestplate",
+      "name": "Armadyl chestplate",
+      "breakdownNotes": "Scav 4<br />",
+      "label": "armaplate"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/wpBDLzn.png",
+      "wikiLink": "https://runescape.wiki/w/Armadyl_chainskirt",
+      "name": "Armadyl chainskirt",
+      "breakdownNotes": "",
+      "label": "armaskirt"
+    },
+    {
+      "image": "https://i.imgur.com/qaiPCRu.png",
+      "wikiLink": "https://runescape.wiki/w/Bracers_of_Trials",
+      "name": "Bracers of Trials",
+      "breakdownNotes": "Regen Bracelet - Not in list.<br />",
+      "label": "bracersoftrials"
+    },
+    {
+      "image": "https://i.imgur.com/m9hre9E.png",
+      "wikiLink": "https://runescape.wiki/w/Armadyl_boots",
+      "name": "Armadyl boots",
+      "breakdownNotes": "",
+      "label": "armaboots"
+    },
+    {
+      "image": "https://i.imgur.com/nXXZxpH.png",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "",
+      "label": "lotd"
+    },
+    {
+      "image": "https://i.imgur.com/b3geFp8.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver",
+      "breakdownNotes": "",
+      "label": "pernixquiver"
+    },
+    {
+      "image": "https://i.imgur.com/a3Up2sd.png",
+      "wikiLink": "https://runescape.wiki/w/Equilibrium_aura",
+      "name": "Equilibrium aura",
+      "breakdownNotes": "",
+      "label": "equilibriumaura"
+    },
+    {
+      "image": "https://i.imgur.com/zd3mKfH.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "Any Scripture<br />",
+      "label": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/af9O4EM.png",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#inactive",
+      "name": "Potion reservoir (inactive)",
+      "breakdownNotes": "",
+      "label": "potionreservoir2",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hEb9765.png",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_sextus",
+      "name": "Ascension keystone sextus",
+      "breakdownNotes": "",
+      "label": "sextkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/DaDiMWv.png",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_quintus",
+      "name": "Ascension keystone quintus",
+      "breakdownNotes": "",
+      "label": "quinkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/mfKIlJ5.png",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_quartus",
+      "name": "Ascension keystone quartus",
+      "breakdownNotes": "",
+      "label": "quartkey",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8r07LbS.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_notepaper",
+      "name": "Magic notepaper",
+      "breakdownNotes": "",
+      "label": "1knote",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/uIF03Iz.png",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#active",
+      "name": "Potion reservoir",
+      "breakdownNotes": "",
+      "label": "potionreservoir",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/zcGK9BZ.png",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_primus",
+      "name": "Ascension keystone primus",
+      "breakdownNotes": "",
+      "label": "primkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/sepfJZf.png",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_secundus",
+      "name": "Ascension keystone secundus",
+      "breakdownNotes": "",
+      "label": "seckey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gnYVyY0.png",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_tertius",
+      "name": "Ascension keystone tertius",
+      "breakdownNotes": "",
+      "label": "tertkey",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/MivUk5T.png",
+      "wikiLink": "https://runescape.wiki/w/Slayer_codex",
+      "name": "Slayer codex",
+      "breakdownNotes": "",
+      "label": "scodex",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/m6W15K7.png",
+      "wikiLink": "https://runescape.wiki/w/Crimson_charm",
+      "name": "Crimson charm",
+      "breakdownNotes": "",
+      "label": "crimsoncharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/oL7B8YM.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_charm",
+      "name": "Blue charm",
+      "breakdownNotes": "",
+      "label": "bluecharm1",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/KWIawjY.png",
+        "name": "Legendary Pet (Scavenge)",
+        "breakdownNotes": "",
+        "label": "legendpetscav"
+      }
+    ]
+  }
+}

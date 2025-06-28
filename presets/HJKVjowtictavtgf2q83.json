@@ -1,0 +1,384 @@
+{
+  "presetName": "AFK Rathis Poison Build",
+  "presetNotes": "<br />",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/EVh5SwD.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_hood",
+      "name": "Vestments of havoc hood",
+      "breakdownNotes": "",
+      "label": "vestmenthood"
+    },
+    {
+      "image": "https://i.imgur.com/bfzX8Up.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Ket",
+      "name": "Igneous Kal-Ket",
+      "breakdownNotes": "",
+      "label": "kalket"
+    },
+    {
+      "image": "https://i.imgur.com/tsyhx6q.png",
+      "wikiLink": "https://runescape.wiki/w/Necklace_of_Salamancy",
+      "name": "Necklace of Salamancy",
+      "breakdownNotes": "",
+      "label": "salamancy"
+    },
+    {
+      "image": "https://i.imgur.com/uLkJkio.png",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_spear_of_annihilation",
+      "name": "Masterwork spear of annihilation",
+      "breakdownNotes": "Eruptive 4,Precise 3/Lunging 4,Aftershock 1<br />",
+      "label": "spear"
+    },
+    {
+      "image": "https://i.imgur.com/E5ptfu6.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_top",
+      "name": "Vestments of havoc robe top",
+      "breakdownNotes": "",
+      "label": "vestmentbody"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/mz7GwWF.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_bottom",
+      "name": "Vestments of havoc robe bottom",
+      "breakdownNotes": "",
+      "label": "vestmentlegs"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/FarIA5V.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_boots",
+      "name": "Vestments of havoc boots",
+      "breakdownNotes": "",
+      "label": "vestmentboots"
+    },
+    {
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "label": "reaverring"
+    },
+    {
+      "image": "https://i.imgur.com/mbgZgVQ.png",
+      "wikiLink": "https://runescape.wiki/w/Large_rune_pouch_(green)",
+      "name": "Large rune pouch (green)",
+      "breakdownNotes": "<br />",
+      "label": "pouchgreen"
+    },
+    {
+      "image": "https://i.imgur.com/dMPY1FJ.png",
+      "wikiLink": "https://runescape.wiki/w/Penance_aura",
+      "name": "Penance aura",
+      "breakdownNotes": "",
+      "label": "penance"
+    },
+    {
+      "image": "https://i.imgur.com/bMTAHDe.png",
+      "wikiLink": "https://runescape.wiki/w/Scrimshaw_of_Vampyrism",
+      "name": "Scrimshaw of Vampyrism",
+      "breakdownNotes": "",
+      "label": "vamp"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/UURvGNW.png",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "label": "elvenshard",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8r07LbS.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_notepaper",
+      "name": "Magic notepaper",
+      "breakdownNotes": "Optional to note damaged dinosaur hides.<br />",
+      "label": "1knote",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hw7rKHz.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(1)",
+      "name": "Weapon poison+++ (1)",
+      "breakdownNotes": "",
+      "label": "poison1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/CR06fbn.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(4)",
+      "name": "Weapon poison+++ (4)",
+      "breakdownNotes": "",
+      "label": "poison4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Ba7yju8.png",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "",
+      "label": "kwuarmsticks",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hd7YvA4.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
+      "name": "Deathwarden Nexus",
+      "breakdownNotes": "Runes for Darkness.<br />",
+      "label": "deathwardennexus",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/BQXFPFu.png",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(blood_reaver)",
+      "name": "Binding contract (blood reaver)",
+      "breakdownNotes": "",
+      "label": "reaver",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "label": "restore4",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained.",
+        "label": "persistentrage",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": "",
+        "label": "bloodreaver"
+      }
+    ]
+  }
+}

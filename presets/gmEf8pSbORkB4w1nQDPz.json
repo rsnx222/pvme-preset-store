@@ -1,0 +1,382 @@
+{
+  "presetName": "Magister AFK Magic ~60-70 KPH",
+  "presetNotes": "Being on a Soul Devourer slayer task will boost Tuska's Wrath <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513201065513058306.png?v=1\" />. Slayer helm <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/798285340460449792.png?v=1\" /> and Genocidal <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689503091539705870.png?v=1\" /> don't work.<br />",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/VMQ89aP.png",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_helm_of_seren",
+      "name": "Anima core helm of seren",
+      "breakdownNotes": "",
+      "label": "serenhelm"
+    },
+    {
+      "image": "https://i.imgur.com/6EvPhe6.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mej",
+      "name": "Igneous Kal-Mej",
+      "breakdownNotes": "",
+      "label": "kalmej"
+    },
+    {
+      "image": "https://i.imgur.com/UHRGdEk.png",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_zealots",
+      "name": "Amulet of zealots",
+      "breakdownNotes": "",
+      "label": "zealots"
+    },
+    {
+      "image": "https://i.imgur.com/iRMTmuZ.png",
+      "wikiLink": "https://runescape.wiki/w/Sunspear_(melee)",
+      "name": "Sunspear",
+      "breakdownNotes": "",
+      "label": "sunspear"
+    },
+    {
+      "image": "https://i.imgur.com/84rL2dv.png",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_body_of_seren",
+      "name": "Anima core body of seren",
+      "breakdownNotes": "",
+      "label": "serenbody"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/TkJs5ST.png",
+      "wikiLink": "https://runescape.wiki/w/Silverhawk_boots",
+      "name": "Silverhawk boots",
+      "breakdownNotes": "",
+      "label": "shboots"
+    },
+    {
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "label": "reaverring"
+    },
+    {
+      "image": "https://i.imgur.com/gCf8SPg.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(purple)",
+      "name": "Grasping rune pouch (purple)",
+      "breakdownNotes": "Chaos | Air | Water | Fire. ",
+      "label": "graspingpouchpurple"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/zd3mKfH.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "",
+      "label": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "label": "vuln",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/z9ssNId.png",
+      "wikiLink": "https://runescape.wiki/w/Vital_spark_drop_enhancer",
+      "name": "Vital spark drop enhancer",
+      "breakdownNotes": "",
+      "label": "sparkenhancers",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "label": "poison6",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire. <br />Runes for <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/565726489526534154.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/866551637970255872.png?v=1\" />",
+      "label": "graspingpouchblue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic. <br />Runes for <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/565726489526534154.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/866551637970255872.png?v=1\" />",
+      "label": "graspingpouchpink",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/OQ4ZaK3.png",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(ripper_demon)",
+      "name": "Binding contract (ripper demon)",
+      "breakdownNotes": "Familiar combat mode: Attack Same Target. Summon at bank and replace with a key to the crossing <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1048592046409138217.png?v=1\" />",
+      "label": "ripper",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ML1c3oq.png",
+      "wikiLink": "https://runescape.wiki/w/Ripper_Demon_scroll_(Death_From_Above)",
+      "name": "Ripper Demon scroll (Death From Above)",
+      "breakdownNotes": "<div>Set autofire rate to 1. <br /></div><div>Place inside familiar and replace with a key to the crossing <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1048592046409138217.png?v=1\" /></div>",
+      "label": "ripperscrolls",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/LfpiRjg.png",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "Use at bank and replace with a key to the crossing <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1048592046409138217.png?v=1\" />",
+      "label": "lantasticks",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Ba7yju8.png",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "Use at bank and replace with a key to the crossing <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1048592046409138217.png?v=1\" />",
+      "label": "kwuarmsticks",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8RLFr9n.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_weed_incense_sticks",
+      "name": "Spirit weed incense sticks",
+      "breakdownNotes": "Use at bank and replace with a key to the crossing <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1048592046409138217.png?v=1\" />",
+      "label": "spiritsticks",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/w6hThUy.png",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "name": "Powder of penance",
+      "breakdownNotes": "Use at bank and replace with a key to the crossing <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1048592046409138217.png?v=1\" />",
+      "label": "powderofpenance2",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "Emergency healing.<br />",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UURvGNW.png",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "label": "elvenshard",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "label": "deathward",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "label": "furyofthesmall",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": "",
+        "label": "ripperdemon"
+      }
+    ]
+  }
+}

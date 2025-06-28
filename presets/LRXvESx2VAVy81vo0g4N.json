@@ -1,0 +1,389 @@
+{
+  "presetName": "Barrows",
+  "presetNotes": "Ghost Hunter equipment is used for all brothers minus Linza, for the 10% damage boost along with a magic top with Biting 4 Undead Slayer <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087809617931.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502804720615441.png?v=1\" /> + Mobile <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" />, for a total of 17% damage boost.<br />",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/EVh5SwD.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_hood",
+      "name": "Vestments of havoc hood",
+      "breakdownNotes": "Optional.",
+      "label": "vestmenthood"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "<br />",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/qbsFxuG.png",
+      "wikiLink": "https://runescape.wiki/w/Salve_amulet_(e)",
+      "name": "Salve amulet (e)",
+      "breakdownNotes": "Used on all brothers, the only time you don't use it is for <img title=\"dragonclaw\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/779048041088024606.png?v=1\" /> <img title=\"eofspec\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/746403211908481184.png?v=1\" /><br />",
+      "label": "salvee"
+    },
+    {
+      "image": "https://i.imgur.com/wFdHN9C.png",
+      "wikiLink": "https://runescape.wiki/w/Dark_Shard_of_Leng",
+      "name": "Dark Shard of Leng",
+      "breakdownNotes": "Precise 6 Aftershock 1 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088769982475.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502339891331093.png?v=1\" />",
+      "label": "lengmh"
+    },
+    {
+      "image": "https://i.imgur.com/E5ptfu6.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_top",
+      "name": "Vestments of havoc robe top",
+      "breakdownNotes": "Biting 4 Genocidal <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087809617931.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689503091539705870.png?v=1\" />+ Relentless 5 Crackling 4 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800920748092.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087662686249.png?v=1\" />",
+      "label": "vestmentbody"
+    },
+    {
+      "image": "https://i.imgur.com/LAVYvrE.png",
+      "wikiLink": "https://runescape.wiki/w/Dark_Sliver_of_Leng",
+      "name": "Dark Sliver of Leng",
+      "breakdownNotes": "Aftershock 4 Equilibrium 2 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712074245202772009.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502258424971564.png?v=1\" />",
+      "label": "lengoh"
+    },
+    {
+      "image": "https://i.imgur.com/mz7GwWF.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_bottom",
+      "name": "Vestments of havoc robe bottom",
+      "breakdownNotes": "Impatient 4 Devoted 4 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088204013640.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087713280033.png?v=1\" />  + Invigorating 4 Undead Slayer <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087859949570.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502804720615441.png?v=1\" />",
+      "label": "vestmentlegs"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "<br />",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/FarIA5V.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_boots",
+      "name": "Vestments of havoc boots",
+      "breakdownNotes": "",
+      "label": "vestmentboots"
+    },
+    {
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "label": "reaverring"
+    },
+    {
+      "image": "https://i.imgur.com/b3geFp8.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver",
+      "breakdownNotes": "Ful arrows <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/971025696958853180.png?v=1\" /> | Hydrix bakriminel bolts (e) <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/550834403136503822.png?v=1\" />",
+      "label": "pernixquiver"
+    },
+    {
+      "image": "https://i.imgur.com/atGzdo2.png",
+      "wikiLink": "https://runescape.wiki/w/Mahjarrat_aura",
+      "name": "Mahjarrat aura",
+      "breakdownNotes": "",
+      "label": "mahj"
+    },
+    {
+      "image": "https://i.imgur.com/eAO0PdY.png",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire",
+      "name": "Erethdor's grimoire",
+      "breakdownNotes": "Only used for Linza.",
+      "label": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/My8VkUX.png",
+      "wikiLink": "https://runescape.wiki/w/Inquisitor_staff",
+      "name": "Inquisitor staff",
+      "breakdownNotes": "Aftershock 4 Equilibrium 2 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712074245202772009.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502258424971564.png?v=1\" /> + Precise 6 Ruthless 1 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088769982475.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800924942396.png?v=1\" />",
+      "label": "inq",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/wsYgZsb.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_luck_potion",
+      "name": "Enhanced luck potion",
+      "breakdownNotes": "Tier 2 luck or higher Increases chances at barrows equipment <img title=\"dharokbody\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643507658267164672.png?v=1\" /> and amulet of the forsaken <img title=\"amuletoftheforsaken\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/855865893934334012.png?v=1\" />",
+      "label": "enhluck",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Swtl8pP.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_flask#(6)",
+      "name": "Adrenaline renewal flask (6)",
+      "breakdownNotes": "",
+      "label": "renewal6",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Swtl8pP.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_flask#(6)",
+      "name": "Adrenaline renewal flask (6)",
+      "breakdownNotes": "",
+      "label": "renewal6",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I6HFjyN.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "Use Powerburst of Acceleration <img title=\"accel\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/756236265472524418.png?v=1\" /> in outer paths. Try to use these paths if feasible as opening doors reduce speed.",
+      "label": "accel4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I6HFjyN.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "Use Powerburst of Acceleration <img title=\"accel\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/756236265472524418.png?v=1\" /> in outer paths. Try to use these paths if feasible as opening doors reduce speed.",
+      "label": "accel4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I6HFjyN.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "Use Powerburst of Acceleration <img title=\"accel\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/756236265472524418.png?v=1\" /> in outer paths. Try to use these paths if feasible as opening doors reduce speed.",
+      "label": "accel4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/iyXqN3S.png",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_goggles",
+      "name": "Ghost hunter goggles",
+      "breakdownNotes": "Set used for all brothers minus Linza.",
+      "label": "ghostgoggles",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/JMC7t7Y.png",
+      "wikiLink": "https://runescape.wiki/w/Dragon_claws",
+      "name": "EoF - Dragon claws",
+      "breakdownNotes": "Used for Linza.",
+      "label": "eofred",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Swtl8pP.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_flask#(6)",
+      "name": "Adrenaline renewal flask (6)",
+      "breakdownNotes": "",
+      "label": "renewal6",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "Only used for Linza.",
+      "label": "vuln",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I6HFjyN.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "Use Powerburst of Acceleration <img title=\"accel\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/756236265472524418.png?v=1\" /> in outer paths. Try to use these paths if feasible as opening doors reduce speed.",
+      "label": "accel4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I6HFjyN.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "Use Powerburst of Acceleration <img title=\"accel\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/756236265472524418.png?v=1\" /> in outer paths. Try to use these paths if feasible as opening doors reduce speed.",
+      "label": "accel4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/84rL2dv.png",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_body_of_seren",
+      "name": "Anima core body of seren",
+      "breakdownNotes": "<span>Biting 4 Undead Slayer </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087809617931.png?v=1\" /><span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502804720615441.png?v=1\" /><span>  + Mobile </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" />",
+      "label": "serenbody",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/zNu0qYb.png",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_backpack",
+      "name": "Ghost hunter backpack",
+      "breakdownNotes": "",
+      "label": "ghostbackpack",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GrfjyE2.png",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "label": "cballs",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gyyfHQl.png",
+      "wikiLink": "https://runescape.wiki/w/Drakan's_medallion",
+      "name": "Drakan's medallion",
+      "breakdownNotes": "Used to get back to Barrows, quicker than <img title=\"warsretreatteleport\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1032540079589163049.png?v=1\" /><br /><br />Can't be used in combat.<br />",
+      "label": "drakansmedal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "<div>Chaos | Air | Water | Fire</div><div><br /></div><div>Runes for <img title=\"incitefear\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090783567902.png?v=1\" />, <img title=\"icebarrage\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/537340400185245701.png?v=1\" />, and <img title=\"bloodbarrage\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/537338981747261446.png?v=1\" /></div>",
+      "label": "graspingpouchblue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "<div>Blood | Astral | Body | Soul</div><div><br /></div><div>Runes for <img title=\"incitefear\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090783567902.png?v=1\" />, <img title=\"icebarrage\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/537340400185245701.png?v=1\" />, and <img title=\"bloodbarrage\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/537338981747261446.png?v=1\" /></div>",
+      "label": "graspingpouchblack",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Cn2x2Mi.png",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_legs",
+      "name": "Ghost hunter legs",
+      "breakdownNotes": "",
+      "label": "ghostlegs",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2VPk1SN.png",
+      "wikiLink": "https://runescape.wiki/w/Blast_diffusion_boots",
+      "name": "Blast diffusion boots",
+      "breakdownNotes": "",
+      "label": "diffusion",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yQugioz.png",
+      "wikiLink": "https://runescape.wiki/w/Barrows_amulets",
+      "name": "Barrows amulets",
+      "breakdownNotes": "Use on Akrisae, Karil, and Guthan.<br />",
+      "label": "barrowsamulet",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/R4tRepk.png",
+      "wikiLink": "https://runescape.wiki/w/Oldak_coil",
+      "name": "Oldak coil",
+      "breakdownNotes": "During your first run, place your Oldak Coil <img title=\"oldakcoil\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/798285651387613194.png?v=1\" /> beside Linza's tomb.",
+      "label": "oldakcoil",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FVmxMkH.png",
+      "wikiLink": "https://runescape.wiki/w/Blessed_flask",
+      "name": "Blessed flask",
+      "breakdownNotes": "",
+      "label": "blessed",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "label": "poison6",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "label": "persistentrage",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "https://i.imgur.com/Ivcgjer.png",
+        "name": "Luck of the Dwarves",
+        "breakdownNotes": "",
+        "label": "luckofthedwarves",
+        "energy": 200
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

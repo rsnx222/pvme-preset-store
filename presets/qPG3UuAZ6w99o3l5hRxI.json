@@ -1,0 +1,392 @@
+{
+  "presetName": "araxxor",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/EVh5SwD.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_hood",
+      "name": "Vestments of havoc hood",
+      "breakdownNotes": "",
+      "label": "vestmenthood"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/yUkClNY.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet_(red)",
+      "name": "Essence of Finality amulet (red)",
+      "breakdownNotes": "Dragon Claw special attack.",
+      "label": "eofredunorn"
+    },
+    {
+      "image": "https://i.imgur.com/wFdHN9C.png",
+      "wikiLink": "https://runescape.wiki/w/Dark_Shard_of_Leng",
+      "name": "Dark Shard of Leng",
+      "breakdownNotes": "",
+      "label": "lengmh"
+    },
+    {
+      "image": "https://i.imgur.com/E5ptfu6.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_top",
+      "name": "Vestments of havoc robe top",
+      "breakdownNotes": "",
+      "label": "vestmentbody"
+    },
+    {
+      "image": "https://i.imgur.com/LAVYvrE.png",
+      "wikiLink": "https://runescape.wiki/w/Dark_Sliver_of_Leng",
+      "name": "Dark Sliver of Leng",
+      "breakdownNotes": "",
+      "label": "lengoh"
+    },
+    {
+      "image": "https://i.imgur.com/mz7GwWF.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_bottom",
+      "name": "Vestments of havoc robe bottom",
+      "breakdownNotes": "",
+      "label": "vestmentlegs"
+    },
+    {
+      "image": "https://i.imgur.com/ia3JNEm.png",
+      "wikiLink": "https://runescape.wiki/w/Deathtouched_bracelet",
+      "name": "Deathtouched bracelet",
+      "breakdownNotes": "",
+      "label": "dtb"
+    },
+    {
+      "image": "https://i.imgur.com/FarIA5V.png",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_boots",
+      "name": "Vestments of havoc boots",
+      "breakdownNotes": "",
+      "label": "vestmentboots"
+    },
+    {
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "label": "reaverring"
+    },
+    {
+      "image": "https://i.imgur.com/b3geFp8.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver",
+      "breakdownNotes": "Hydrix Bolts | Ful Arrows",
+      "label": "pernixquiver"
+    },
+    {
+      "image": "https://i.imgur.com/atGzdo2.png",
+      "wikiLink": "https://runescape.wiki/w/Mahjarrat_aura",
+      "name": "Mahjarrat aura",
+      "breakdownNotes": "",
+      "label": "mahj"
+    },
+    {
+      "image": "https://i.imgur.com/eAO0PdY.png",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire",
+      "name": "Erethdor's grimoire",
+      "breakdownNotes": "",
+      "label": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/GMiwyEA.png",
+      "wikiLink": "https://runescape.wiki/w/Dragon_scimitar",
+      "name": "Dragon scimitar",
+      "breakdownNotes": "",
+      "label": "dragonscimitar",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Jz8xIly.png",
+      "wikiLink": "https://runescape.wiki/w/Royal_crossbow",
+      "name": "Royal crossbow",
+      "breakdownNotes": "Purely used for Hydrix Procs",
+      "label": "royalcrossbow",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/DYr8pFK.png",
+      "wikiLink": "https://runescape.wiki/w/Noxious_scythe",
+      "name": "Noxious scythe",
+      "breakdownNotes": "Purely used for Meteor",
+      "label": "scythe",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PnbhWlm.png",
+      "wikiLink": "https://runescape.wiki/w/Kalphite_defender",
+      "name": "Kalphite defender",
+      "breakdownNotes": "Only used for resonance on webs",
+      "label": "defender",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GkhQHSj.png",
+      "wikiLink": "https://runescape.wiki/w/Bow_of_the_Last_Guardian",
+      "name": "Bow of the Last Guardian",
+      "breakdownNotes": "",
+      "label": "bolg",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I6HFjyN.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "For top path skip - can remove if doing mid / bot path",
+      "label": "accel4",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/S1sjGOu.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_coif",
+      "name": "Elite Dracolich coif",
+      "breakdownNotes": "",
+      "label": "edracolichcoif",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/M5jOHR3.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_hauberk",
+      "name": "Elite Dracolich hauberk",
+      "breakdownNotes": "",
+      "label": "edracolichhauberk",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/VGqlhJd.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_chaps",
+      "name": "Elite Dracolich chaps",
+      "breakdownNotes": "",
+      "label": "edracolichchaps",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/07vxUMy.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_boots",
+      "name": "Elite Dracolich boots",
+      "breakdownNotes": "",
+      "label": "edracolichboots",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xRj7mKb.png",
+      "wikiLink": "https://runescape.wiki/w/Stalker's_ring",
+      "name": "Stalker's ring",
+      "breakdownNotes": "",
+      "label": "stalkerring",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Dgtgp4n.png",
+      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
+      "name": "Combat dummy MKII",
+      "breakdownNotes": "Used for phase 4",
+      "label": "dummy",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "label": "vuln",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/CtZKC6Z.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet_(blue)",
+      "name": "Essence of Finality amulet (blue)",
+      "breakdownNotes": "Seren Godbow special attack.",
+      "label": "eofblueunorn",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/tzIqWlO.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet_(pink)",
+      "name": "Essence of Finality amulet (pink)",
+      "breakdownNotes": "Eldritch Crossbow special attack.",
+      "label": "eofpinkunorn",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/IqAjWRF.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "",
+      "label": "renewal4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/dPf2fLt.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
+      "name": "Super Guthix brew flask (6)",
+      "breakdownNotes": "",
+      "label": "gbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/dPf2fLt.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
+      "name": "Super Guthix brew flask (6)",
+      "breakdownNotes": "",
+      "label": "gbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/dPf2fLt.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
+      "name": "Super Guthix brew flask (6)",
+      "breakdownNotes": "",
+      "label": "gbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/dPf2fLt.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
+      "name": "Super Guthix brew flask (6)",
+      "breakdownNotes": "",
+      "label": "gbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Fire | Blood | Astral | Body",
+      "label": "graspingpouchblack",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": "",
+        "label": "kalgdemon"
+      }
+    ]
+  }
+}

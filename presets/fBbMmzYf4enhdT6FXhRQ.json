@@ -1,0 +1,308 @@
+{
+  "presetName": "Ghost hunter",
+  "presetNotes": "Ghost hunter equipment increases damage done against ghosts related creatures by 10% when three or more pieces are used.<br /><br />Armour of Trials and weapons can be replaced with your best gear.",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/iyXqN3S.png",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_goggles",
+      "name": "Ghost hunter goggles",
+      "breakdownNotes": "",
+      "label": "ghostgoggles"
+    },
+    {
+      "image": "https://i.imgur.com/zNu0qYb.png",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_backpack",
+      "name": "Ghost hunter backpack",
+      "breakdownNotes": "",
+      "label": "ghostbackpack"
+    },
+    {
+      "image": "https://i.imgur.com/qbsFxuG.png",
+      "wikiLink": "https://runescape.wiki/w/Salve_amulet_(e)",
+      "name": "Salve amulet (e)",
+      "breakdownNotes": "Increases damage and accuracy by 20% when fighting undead monsters.<br />",
+      "label": "salvee"
+    },
+    {
+      "image": "https://i.imgur.com/vPnAjqC.png",
+      "wikiLink": "https://runescape.wiki/w/Staff_of_limitless_air",
+      "name": "Staff of limitless air",
+      "breakdownNotes": "Precise 6 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088769982475.png?v=1\" /> + Equilibrium 4 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088589627505.png?v=1\" />",
+      "label": "staffoflimitlessair"
+    },
+    {
+      "image": "https://i.imgur.com/HOjpAMr.png",
+      "wikiLink": "https://runescape.wiki/w/Platebody_of_Trials",
+      "name": "Platebody of Trials",
+      "breakdownNotes": "",
+      "label": "platebodyoftrials"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/Cn2x2Mi.png",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_legs",
+      "name": "Ghost hunter legs",
+      "breakdownNotes": "",
+      "label": "ghostlegs"
+    },
+    {
+      "image": "https://i.imgur.com/qaiPCRu.png",
+      "wikiLink": "https://runescape.wiki/w/Bracers_of_Trials",
+      "name": "Bracers of Trials",
+      "breakdownNotes": "",
+      "label": "bracersoftrials"
+    },
+    {
+      "image": "https://i.imgur.com/TkJs5ST.png",
+      "wikiLink": "https://runescape.wiki/w/Silverhawk_boots",
+      "name": "Silverhawk boots",
+      "breakdownNotes": "",
+      "label": "shboots"
+    },
+    {
+      "image": "https://i.imgur.com/3cSIbWx.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_vigour",
+      "name": "Ring of vigour",
+      "breakdownNotes": "Saves 10% of adrenaline cost when an ultimate ability or a special attack is used.",
+      "label": "vigour"
+    },
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/FLYAOEf.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Jas",
+      "name": "Scripture of Jas",
+      "breakdownNotes": "Any god book or elder god scripture works.",
+      "label": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/EY9Nl4R.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_staff",
+      "name": "Guthix staff",
+      "breakdownNotes": "Claws of Guthix special attack <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/537340400273195028.png?v=1\" /><br />",
+      "label": "gstaff"
+    },
+    {
+      "image": "https://i.imgur.com/JSUUa5Q.png",
+      "wikiLink": "https://runescape.wiki/w/Upgraded_bone_blowpipe",
+      "name": "Upgraded bone blowpipe",
+      "breakdownNotes": "Precise 6 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088769982475.png?v=1\" /> + Equilibrium 4 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088589627505.png?v=1\" /><br /><br />Can be used for Ahrim or Akrisae.<br />",
+      "label": "upgradedblowpipe"
+    },
+    {
+      "image": "https://i.imgur.com/BGhsSXy.png",
+      "wikiLink": "https://runescape.wiki/w/Laniakea's_spear",
+      "name": "Laniakea's spear",
+      "breakdownNotes": "Precise 6 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088769982475.png?v=1\" /> + Equilibrium 4 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088589627505.png?v=1\" /><br /><br />Can be used for Karil or Akrisae.<br />",
+      "label": "lanispear"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "Food that doesn't drain adrenaline.",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "Food that doesn't drain adrenaline.",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "Food that doesn't drain adrenaline.",
+      "label": "jelly"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "Food that doesn't drain adrenaline.",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "Food that doesn't drain adrenaline.",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "Food that doesn't drain adrenaline.",
+      "label": "jelly"
+    },
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/wsYgZsb.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_luck_potion",
+      "name": "Enhanced luck potion",
+      "breakdownNotes": "You only need a tier 2 luck enhancer.",
+      "label": "enhluck"
+    },
+    {
+      "image": "https://i.imgur.com/IOehGlx.png",
+      "wikiLink": "https://runescape.wiki/w/Air_rune",
+      "name": "Air rune",
+      "breakdownNotes": "Runes for Air Surge <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/543465115870035999.png?v=1\" /><br />",
+      "label": "airrune1k"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "Food that doesn't drain adrenaline.",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "Food that doesn't drain adrenaline.",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/yQugioz.png",
+      "wikiLink": "https://runescape.wiki/w/Barrows_amulets",
+      "name": "Barrows amulets",
+      "breakdownNotes": "Useful for speeding up your runs.<br /><br />Simply use on the sarcophagus of the three brothers you are trying to skip.",
+      "label": "barrowsamulet"
+    },
+    {
+      "image": "https://i.imgur.com/I6HFjyN.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "Useful for speeding up your runs.",
+      "label": "accel4"
+    },
+    {
+      "image": "https://i.imgur.com/U8R9vg2.png",
+      "wikiLink": "https://runescape.wiki/w/Infernal_puzzle_box",
+      "name": "Infernal puzzle box",
+      "breakdownNotes": "Tier 3 stops your adrenaline from draining when outside of combat.<br />",
+      "label": "infernalpuzzlebox"
+    },
+    {
+      "image": "https://i.imgur.com/GNzR4sU.png",
+      "wikiLink": "https://runescape.wiki/w/Expensive_spices",
+      "name": "Expensive spices",
+      "breakdownNotes": "Heal an extra 50 life points per piece of food used. <br />",
+      "label": "spices"
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore"
+    },
+    {
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "label": "poison6"
+    },
+    {
+      "image": "https://i.imgur.com/TixXgDh.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_overload#(6)",
+      "name": "Holy overload (6)",
+      "breakdownNotes": "",
+      "label": "holyovl"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "label": "persistentrage",
+        "energy": 150
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

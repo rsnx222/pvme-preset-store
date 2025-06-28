@@ -1,0 +1,398 @@
+{
+  "presetName": "2023-04-13-20-3815",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/11pg3gM.png",
+      "wikiLink": "https://runescape.wiki/w/Jaws_of_the_Abyss",
+      "name": "Jaws of the Abyss",
+      "breakdownNotes": "",
+      "label": "jawsoftheabyss"
+    },
+    {
+      "image": "https://i.imgur.com/bfzX8Up.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Ket",
+      "name": "Igneous Kal-Ket",
+      "breakdownNotes": "",
+      "label": "kalket"
+    },
+    {
+      "image": "https://i.imgur.com/JMC7t7Y.png",
+      "wikiLink": "https://runescape.wiki/w/EoF_-_Dragon_claws",
+      "name": "EoF - Dragon claws",
+      "breakdownNotes": "",
+      "label": "eofred"
+    },
+    {
+      "image": "https://i.imgur.com/BoTSwMT.png",
+      "wikiLink": "https://runescape.wiki/w/Dragon_battleaxe",
+      "name": "Dragon battleaxe",
+      "breakdownNotes": "",
+      "label": "dba"
+    },
+    {
+      "image": "https://i.imgur.com/U2uwZ3j.png",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_platebody",
+      "name": "Masterwork platebody",
+      "breakdownNotes": "Upgrade if possible.",
+      "label": "mwtop"
+    },
+    {
+      "image": "https://i.imgur.com/3HSronv.png",
+      "wikiLink": "https://runescape.wiki/w/Malevolent_kiteshield",
+      "name": "Malevolent kiteshield",
+      "breakdownNotes": "Turtling 4",
+      "label": "meleeshield"
+    },
+    {
+      "image": "https://i.imgur.com/SpI2Us6.png",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_platelegs",
+      "name": "Masterwork platelegs",
+      "breakdownNotes": "<span>Upgrade if possible.</span>",
+      "label": "mwlegs"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/EiQNqj9.png",
+      "wikiLink": "https://runescape.wiki/w/Laceration_boots",
+      "name": "Laceration boots",
+      "breakdownNotes": "",
+      "label": "laceration"
+    },
+    {
+      "image": "https://i.imgur.com/cc9GxHt.png",
+      "wikiLink": "https://runescape.wiki/w/Champion's_ring",
+      "name": "Champion's ring",
+      "breakdownNotes": "",
+      "label": "championring"
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "label": "graspingpouchblack"
+    },
+    {
+      "image": "https://i.imgur.com/dNm4A5W.png",
+      "wikiLink": "https://runescape.wiki/w/Berserker_aura",
+      "name": "Berserker aura",
+      "breakdownNotes": "",
+      "label": "zerk"
+    },
+    {
+      "image": "https://i.imgur.com/sh1uQyP.png",
+      "wikiLink": "https://runescape.wiki/w/Scrimshaw_of_Vampyrism",
+      "name": "Scrimshaw of Vampyrism",
+      "breakdownNotes": "",
+      "label": "vamp"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/Moh9yya.png",
+      "wikiLink": "https://runescape.wiki/w/Abyssal_scourge",
+      "name": "Abyssal scourge",
+      "breakdownNotes": "",
+      "label": "abyssalscourge",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/U8DpGds.png",
+      "wikiLink": "https://runescape.wiki/w/Dark_ice_sliver",
+      "name": "Dark ice sliver",
+      "breakdownNotes": "",
+      "label": "darkicesliver",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SsNRoVE.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve",
+      "name": "Elder overload salve",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b7OFnll.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal",
+      "name": "Adrenaline renewal",
+      "breakdownNotes": "",
+      "label": "renewal4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/5PPmPXC.png",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer",
+      "name": "Spiritual prayer",
+      "breakdownNotes": "",
+      "label": "spiritual",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/5PPmPXC.png",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer",
+      "name": "Spiritual prayer",
+      "breakdownNotes": "",
+      "label": "spiritual",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/5PPmPXC.png",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer",
+      "name": "Spiritual prayer",
+      "breakdownNotes": "",
+      "label": "spiritual",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/HF0MlYj.png",
+      "wikiLink": "https://runescape.wiki/w/Superior_statius_warhammer",
+      "name": "Superior statius warhammer",
+      "breakdownNotes": "",
+      "label": "swh",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KFZJLhU.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "Mobile perk",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hw7rKHz.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_(1_dose)",
+      "name": "Weapon poison+++ (1 dose)",
+      "breakdownNotes": "",
+      "label": "poison1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3ETfbUf.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew",
+      "name": "Saradomin brew",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3ETfbUf.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew",
+      "name": "Saradomin brew",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3ETfbUf.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew",
+      "name": "Saradomin brew",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3ETfbUf.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew",
+      "name": "Saradomin brew",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/m8aQij5.png",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_spear_of_annihilation",
+      "name": "Masterwork spear of annihilation",
+      "breakdownNotes": "P6AS1 L4E2",
+      "label": "spear",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/oOITsKV.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality",
+      "name": "Powerburst of vitality",
+      "breakdownNotes": "",
+      "label": "vitality4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/306PXtG.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "label": "vuln",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/zWMNrib.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/zWMNrib.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/zWMNrib.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/zWMNrib.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "label": "graspingpouchpink",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/cevmcA1.png",
+      "wikiLink": "https://runescape.wiki/w/Abyssal_armour_spikes_(alloy)",
+      "name": "Abyssal armour spikes (alloy)",
+      "breakdownNotes": "",
+      "label": "abyssalspikes",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KYtAuVF.png",
+      "wikiLink": "https://runescape.wiki/w/Sticky_bombs",
+      "name": "Sticky bombs",
+      "breakdownNotes": "",
+      "label": "sticky",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/zWMNrib.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/zWMNrib.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/zWMNrib.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/zWMNrib.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "label": "sailfish",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "label": "deathward",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": "",
+        "label": "ripperdemon"
+      }
+    ]
+  }
+}

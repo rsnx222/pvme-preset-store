@@ -1,0 +1,358 @@
+{
+  "presetName": "Easy Clue Gathering - H.A.M. members",
+  "presetNotes": "<div>⬥ You can turn off receiving Memory Shards at the Memorial of Guthix which allows for the second Spirit Attraction flask.</div><div><br /></div><div>⬥ You can take precisely 11 Lantadyme Incense Sticks but this will only add an additional 6 minutes of trip length.</div>",
+  "equipmentSlots": [
+    {
+      "label": "mastercamouflagehead",
+      "image": "https://img.pvme.io/images/lW5qEwC.png",
+      "name": "Master camouflage head",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_camouflage_head"
+    },
+    null,
+    {
+      "label": "gote",
+      "image": "https://img.pvme.io/images/4KgPcpm.png",
+      "name": "Grace of the elves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves"
+    },
+    null,
+    {
+      "label": "mastercamouflagebody",
+      "image": "https://img.pvme.io/images/i8Lc9aI.png",
+      "name": "Master camouflage body",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_camouflage_body"
+    },
+    null,
+    {
+      "label": "mastercamouflagelegs",
+      "image": "https://img.pvme.io/images/poKctmF.png",
+      "name": "Master camouflage legs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_camouflage_legs"
+    },
+    null,
+    {
+      "label": "mastercamouflagefeet",
+      "image": "https://img.pvme.io/images/3GULnea.png",
+      "name": "Master camouflage feet",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_camouflage_feet"
+    },
+    {
+      "label": "lotd",
+      "image": "https://img.pvme.io/images/nXXZxpH.png",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "Increases quality &amp; quantity of <span>Catalyst of alteration procs</span>",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves"
+    },
+    null,
+    null,
+    {
+      "label": "scriptureofbik",
+      "image": "https://img.pvme.io/images/t1KMJMv.png",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "<span>For additional clues through Catalyst of alteration procs</span>",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "easyclue",
+      "image": "https://img.pvme.io/images/3tsGSBD.png",
+      "name": "Easy clue",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Easy_clue",
+      "selected": false
+    },
+    {
+      "label": "hamhoodnoted",
+      "image": "https://img.pvme.io/images/M9VAl8u3No.png",
+      "name": "H.A.M. hood (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/H.A.M._hood",
+      "selected": false
+    },
+    {
+      "label": "hamshirtnoted",
+      "image": "https://img.pvme.io/images/My3XQFKlW3.png",
+      "name": "H.A.M. shirt (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/H.A.M._shirt",
+      "selected": false
+    },
+    {
+      "label": "hamrobenoted",
+      "image": "https://img.pvme.io/images/VETNdM34FB.png",
+      "name": "H.A.M. robe (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/H.A.M._robe",
+      "selected": false
+    },
+    {
+      "label": "hambootsnoted",
+      "image": "https://img.pvme.io/images/DGGXVwFID7.png",
+      "name": "H.A.M. boots (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/H.A.M._boots",
+      "selected": false
+    },
+    {
+      "label": "hamglovesnoted",
+      "image": "https://img.pvme.io/images/w8gFYQ04E4.png",
+      "name": "H.A.M. gloves (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/H.A.M._gloves",
+      "selected": false
+    },
+    {
+      "label": "hamlogonoted",
+      "image": "https://img.pvme.io/images/vMK6G79QPz.png",
+      "name": "H.A.M. logo (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/H.A.M._logo",
+      "selected": false
+    },
+    {
+      "label": "spiritattractionflask",
+      "image": "https://img.pvme.io/images/9oDoU6T.png",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "Automatically collects automatically collects Catalyst of alteration procs from the Scripture of Bik",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "label": "buttonsnoted",
+      "image": "https://img.pvme.io/images/F9ZNCqT04p.png",
+      "name": "Buttons (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Buttons",
+      "selected": false
+    },
+    {
+      "label": "steelstudsnoted",
+      "image": "https://img.pvme.io/images/ooMMGEuSJA.png",
+      "name": "Steel studs (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Steel_studs",
+      "selected": false
+    },
+    {
+      "label": "grimytarrominnoted",
+      "image": "https://img.pvme.io/images/LYWxVwd34n.png",
+      "name": "Grimy tarromin (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grimy_tarromin",
+      "selected": false
+    },
+    {
+      "label": "grimyguamnoted",
+      "image": "https://img.pvme.io/images/sql8vn9UPm.png",
+      "name": "Grimy guam (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grimy_guam",
+      "selected": false
+    },
+    {
+      "label": "hamcloaknoted",
+      "image": "https://img.pvme.io/images/ZVQanKcmZh.png",
+      "name": "H.A.M. cloak (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/H.A.M._cloak",
+      "selected": false
+    },
+    {
+      "label": "spiritattractionflask",
+      "image": "https://img.pvme.io/images/9oDoU6T.png",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "Automatically collects automatically collects Catalyst of alteration procs from the Scripture of Bik",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "uncutjadenoted",
+      "image": "https://img.pvme.io/images/sCNz36ioDj.png",
+      "name": "Uncut jade (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Uncut_jade",
+      "selected": false
+    },
+    {
+      "label": "uncutopalnoted",
+      "image": "https://img.pvme.io/images/2bjfEBU2FL.png",
+      "name": "Uncut opal (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Uncut_opal",
+      "selected": false
+    },
+    {
+      "label": "smallspikysteelsalvagenoted",
+      "image": "https://img.pvme.io/images/II0OpzwZdZ.png",
+      "name": "Small spiky steel salvage (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Small_spiky_steel_salvage",
+      "selected": false
+    },
+    {
+      "label": "tinybladedsteelsalvagenoted",
+      "image": "https://img.pvme.io/images/N795ffqUOO.png",
+      "name": "Tiny bladed steel salvage (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Tiny_bladed_steel_salvage",
+      "selected": false
+    },
+    {
+      "label": "grimymarrentillnoted",
+      "image": "https://img.pvme.io/images/pcJZfQhzyf.png",
+      "name": "Grimy marrentill (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grimy_marrentill",
+      "selected": false
+    },
+    {
+      "label": "rustyswordnoted",
+      "image": "https://img.pvme.io/images/48LoAovZte.png",
+      "name": "Rusty sword (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rusty_sword",
+      "selected": false
+    },
+    {
+      "label": "coalspirit",
+      "image": "https://img.pvme.io/images/Ne2erDgNHY.png",
+      "name": "Coal stone spirit",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Coal_stone_spirit",
+      "selected": false
+    },
+    {
+      "label": "ironspirit",
+      "image": "https://img.pvme.io/images/SDXuE2zX8x.png",
+      "name": "Iron stone spirit",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Iron_stone_spirit",
+      "selected": false
+    },
+    {
+      "label": "woodspirit",
+      "image": "https://img.pvme.io/images/SmlhHZMIRH.png",
+      "name": "Wood spirit",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Wood_spirit",
+      "selected": false
+    },
+    {
+      "label": "oakwoodspirit",
+      "image": "https://img.pvme.io/images/5xx8O1301h.png",
+      "name": "Oak wood spirit",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Oak_wood_spirit",
+      "selected": false
+    },
+    {
+      "label": "leatherbodynoted",
+      "image": "https://img.pvme.io/images/yC8q2cghR5.png",
+      "name": "Leather body (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Leather_body",
+      "selected": false
+    },
+    {
+      "label": "damagedarmournoted",
+      "image": "https://img.pvme.io/images/qzQyPALQRN.png",
+      "name": "Damaged armour (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Damaged_armour",
+      "selected": false
+    },
+    {
+      "label": "slayerstaffnoted",
+      "image": "https://img.pvme.io/images/Y9XMyy9KEo.png",
+      "name": "Slayer's staff (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Slayer%27s_staff",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

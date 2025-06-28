@@ -1,0 +1,384 @@
+{
+  "presetName": "Slayer Point farming high lvl gear",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "sliskehelm",
+      "image": "https://img.pvme.io/images/jxHhKUO.png",
+      "name": "Anima core helm of sliske",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_helm_of_sliske"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "salvee",
+      "image": "https://img.pvme.io/images/qbsFxuG.png",
+      "name": "Salve amulet (e)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Salve_amulet_(e)"
+    },
+    {
+      "label": "fsoa",
+      "image": "https://img.pvme.io/images/AI12yBk.png",
+      "name": "Fractured Staff of Armadyl",
+      "breakdownNotes": "<span>Perked with Caroming 4</span>",
+      "wikiLink": "https://runescape.wiki/w/Fractured_Staff_of_Armadyl"
+    },
+    {
+      "label": "sliskebody",
+      "image": "https://img.pvme.io/images/FMvke44.png",
+      "name": "Anima core body of sliske",
+      "breakdownNotes": "<span>Undead Slayer on tops or bottoms, <br /></span><span>Scavenging 4 optional for extra materials.</span>",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_body_of_sliske"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "sliskelegs",
+      "image": "https://img.pvme.io/images/0HQcba9.png",
+      "name": "Anima core legs of sliske",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_legs_of_sliske"
+    },
+    {
+      "label": "dtb",
+      "image": "https://img.pvme.io/images/ia3JNEm.png",
+      "name": "Deathtouched bracelet",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathtouched_bracelet"
+    },
+    {
+      "label": "shboots",
+      "image": "https://img.pvme.io/images/TkJs5ST.png",
+      "name": "Silverhawk boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Silverhawk_boots"
+    },
+    {
+      "label": "lotd",
+      "image": "https://img.pvme.io/images/nXXZxpH.png",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves"
+    },
+    {
+      "label": "pernixquiverblack",
+      "image": "https://img.pvme.io/images/JqXq1zD.png",
+      "name": "Pernix's Quiver (Black)",
+      "breakdownNotes": "Ful arrows | Wen arrows",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver"
+    },
+    {
+      "label": "equilibriumaura",
+      "image": "https://img.pvme.io/images/a3Up2sd.png",
+      "name": "Equilibrium aura",
+      "breakdownNotes": "Can bring an Overload and use instead.",
+      "wikiLink": "https://runescape.wiki/w/Equilibrium_aura"
+    },
+    {
+      "label": "scriptureofbik",
+      "image": "https://img.pvme.io/images/t1KMJMv.png",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "Used for bonus clue scroll collection.",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "aggro6",
+      "image": "https://img.pvme.io/images/nTRsMW1.png",
+      "name": "Aggression flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "spiritattractionflask",
+      "image": "https://img.pvme.io/images/9oDoU6T.png",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "1knote",
+      "image": "https://img.pvme.io/images/8r07LbS.png",
+      "name": "Magic notepaper",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_notepaper",
+      "selected": false
+    },
+    {
+      "label": "ecto",
+      "image": "https://img.pvme.io/images/NkIcFSt.png",
+      "name": "Attuned ectoplasmator",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Attuned_ectoplasmator",
+      "selected": false
+    },
+    {
+      "label": "bolg",
+      "image": "https://img.pvme.io/images/GkhQHSj.png",
+      "name": "Bow of the Last Guardian",
+      "breakdownNotes": "<span>Perked with Caroming 4</span>",
+      "wikiLink": "https://runescape.wiki/w/Bow_of_the_Last_Guardian",
+      "selected": false
+    },
+    {
+      "label": "accel4",
+      "image": "https://img.pvme.io/images/I6HFjyN.png",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "selected": false
+    },
+    {
+      "label": "accel4",
+      "image": "https://img.pvme.io/images/I6HFjyN.png",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false
+    },
+    {
+      "label": "scythe",
+      "image": "https://img.pvme.io/images/DYr8pFK.png",
+      "name": "Noxious scythe",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Noxious_scythe",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "headhunterssacrifice",
+      "image": "https://img.pvme.io/images/314EQOn.png",
+      "name": "Headhunter's sacrifice",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Headhunter's_sacrifice",
+      "selected": false
+    },
+    {
+      "label": "demonhorn",
+      "image": "https://img.pvme.io/images/gA1MFTE.png",
+      "name": "Demon horn necklace",
+      "breakdownNotes": "Switch to regain prayer when low.",
+      "wikiLink": "https://runescape.wiki/w/Demon_horn_necklace",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchpink",
+      "image": "https://img.pvme.io/images/yrnlR2T.png",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "headhunterssacrifice",
+      "image": "https://img.pvme.io/images/314EQOn.png",
+      "name": "Headhunter's sacrifice",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Headhunter's_sacrifice",
+      "selected": false
+    },
+    {
+      "label": "slayermastercape",
+      "image": "https://img.pvme.io/images/X6FOTd8.png",
+      "name": "Slayer master cape",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Slayer_master_cape",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "slayerintrospection",
+        "image": "https://img.pvme.io/images/spEwR2q.png",
+        "name": "Slayer Introspection",
+        "breakdownNotes": "",
+        "energy": 200,
+        "description": "When requesting a new slayer assignment, you will have a choice between the minimum and maximum assignment amounts."
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

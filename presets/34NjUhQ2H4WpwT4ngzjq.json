@@ -1,0 +1,365 @@
+{
+  "presetName": "Vyres",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "deathwardenhoodt90",
+      "image": "https://img.pvme.io/images/5vasEy6.png",
+      "name": "Deathwarden hood (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_hood_(tier_90)"
+    },
+    {
+      "label": "necrocape",
+      "image": "https://img.pvme.io/images/jKakN5W.png",
+      "name": "Necromancy master cape",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Necromancy_master_cape"
+    },
+    {
+      "label": "amuletoffury",
+      "image": "https://img.pvme.io/images/ixoEqMS.png",
+      "name": "Amulet of fury",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_fury"
+    },
+    {
+      "label": "sunspear",
+      "image": "https://img.pvme.io/images/iRMTmuZ.png",
+      "name": "Sunspear",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sunspear_(melee)"
+    },
+    {
+      "label": "deathwardenrobetopt90",
+      "image": "https://img.pvme.io/images/JkyJN48.png",
+      "name": "Deathwarden robe top (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_top_(tier_90)"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "deathwardenrobelegst90",
+      "image": "https://img.pvme.io/images/4KirFLg.png",
+      "name": "Deathwarden robe bottom (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_legs_(tier_90)"
+    },
+    {
+      "label": "deathwardenglovest90",
+      "image": "https://img.pvme.io/images/3WIoKQI.png",
+      "name": "Deathwarden gloves (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_gloves_(tier_90)"
+    },
+    {
+      "label": "deathwardenbootst90",
+      "image": "https://img.pvme.io/images/V94Yora.png",
+      "name": "Deathwarden boots (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_boots_(tier_90)"
+    },
+    {
+      "label": "lotd",
+      "image": "https://img.pvme.io/images/nXXZxpH.png",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves"
+    },
+    {
+      "label": "wenarrow",
+      "image": "https://img.pvme.io/images/eI2oUEw.png",
+      "name": "Wen arrow",
+      "breakdownNotes": "Rune arrows",
+      "wikiLink": "https://runescape.wiki/w/Wen_arrow"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "vamp",
+      "image": "https://img.pvme.io/images/bMTAHDe.png",
+      "name": "Scrimshaw of Vampyrism",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scrimshaw_of_Vampyrism"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

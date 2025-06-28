@@ -1,0 +1,253 @@
+{
+  "presetName": "Magic Revo Testing",
+  "presetNotes": "Pray <img title=\"torment\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/583429936958930964.png?v=1\" /> and use <img title=\"elderovl\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/841419289831800882.png?v=1\" /><br /><br /><span>Autocast </span><img title=\"exsanguinate\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" /><br />",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/gfBW8r7.png",
+      "wikiLink": "https://runescape.wiki/w/Hood_of_subjugation",
+      "name": "Hood of subjugation",
+      "breakdownNotes": "",
+      "label": "subjhood"
+    },
+    {
+      "image": "https://i.imgur.com/v4dRHBk.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mej",
+      "name": "Igneous Kal-Mej",
+      "breakdownNotes": "",
+      "label": "kalmej"
+    },
+    {
+      "image": "https://i.imgur.com/cUaU7mB.png",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_souls",
+      "name": "Amulet of souls",
+      "breakdownNotes": "",
+      "label": "aos"
+    },
+    {
+      "image": "https://i.imgur.com/6Zear8O.png",
+      "wikiLink": "https://runescape.wiki/w/Cywir_wand",
+      "name": "Cywir wand",
+      "breakdownNotes": "",
+      "label": "cywirwand"
+    },
+    {
+      "image": "https://i.imgur.com/xaiyx7X.png",
+      "wikiLink": "https://runescape.wiki/w/Garb_of_subjugation",
+      "name": "Garb of subjugation",
+      "breakdownNotes": "",
+      "label": "subjgarb"
+    },
+    {
+      "image": "https://i.imgur.com/H37FxHZ.png",
+      "wikiLink": "https://runescape.wiki/w/Cywir_orb",
+      "name": "Cywir orb",
+      "breakdownNotes": "",
+      "label": "cywirorb"
+    },
+    {
+      "image": "https://i.imgur.com/OprqhH8.png",
+      "wikiLink": "https://runescape.wiki/w/Gown_of_subjugation",
+      "name": "Gown of subjugation",
+      "breakdownNotes": "",
+      "label": "subjgown"
+    },
+    {
+      "image": "https://i.imgur.com/dzW7KB4.png",
+      "wikiLink": "https://runescape.wiki/w/Gloves_of_subjugation",
+      "name": "Gloves of subjugation",
+      "breakdownNotes": "",
+      "label": "subjgloves"
+    },
+    {
+      "image": "https://i.imgur.com/7XWA1eE.png",
+      "wikiLink": "https://runescape.wiki/w/Boots_of_subjugation",
+      "name": "Boots of subjugation",
+      "breakdownNotes": "",
+      "label": "subjboots"
+    },
+    {
+      "image": "https://i.imgur.com/gpuvlcU.png",
+      "wikiLink": "https://runescape.wiki/w/Sixth-Age_circuit",
+      "name": "Sixth-Age circuit",
+      "breakdownNotes": "Must <span>have</span> <img title=\"vigour\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513201065877831680.png?v=1\" /> passive.",
+      "label": "sixthagecircuit"
+    },
+    {
+      "image": "https://i.imgur.com/Mk7jbjC.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch",
+      "name": "Grasping rune pouch",
+      "breakdownNotes": "",
+      "label": "graspingpouch"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/FLYAOEf.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Jas",
+      "name": "Scripture of Jas",
+      "breakdownNotes": "Do not activate.",
+      "label": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

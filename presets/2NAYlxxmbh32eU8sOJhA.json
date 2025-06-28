@@ -1,0 +1,398 @@
+{
+  "presetName": "SoR t95 Equilibrium Aura",
+  "presetNotes": "<div>This preset assumes <img title=\"equilibriumaura\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1233722649834684416.png?v=1\" /><br /><br />Using <img title=\"reaverpouch\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/839903693837959228.png?v=1\" /> may result in needing to use more abilities.<br /></div>",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/2msk92n.png",
+      "wikiLink": "https://runescape.wiki/w/Crown_of_the_First_Necromancer",
+      "name": "Crown of the First Necromancer",
+      "breakdownNotes": "",
+      "label": "t95necrohelm"
+    },
+    {
+      "image": "https://i.imgur.com/bIV6C4o.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mor",
+      "name": "Igneous Kal-Mor",
+      "breakdownNotes": "",
+      "label": "kalmor"
+    },
+    {
+      "image": "https://i.imgur.com/UB0lAK8.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet",
+      "name": "Essence of Finality amulet",
+      "breakdownNotes": "Death guard <img title=\"deathguard90\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1138809243143766118.png?v=1\" />",
+      "label": "eof"
+    },
+    {
+      "image": "https://i.imgur.com/SzFvoQB.png",
+      "wikiLink": "https://runescape.wiki/w/Omni_guard",
+      "name": "Omni guard",
+      "breakdownNotes": "",
+      "label": "omniguard"
+    },
+    {
+      "image": "https://i.imgur.com/VwEHIYQ.png",
+      "wikiLink": "https://runescape.wiki/w/Robe_top_of_the_First_Necromancer",
+      "name": "Robe top of the First Necromancer",
+      "breakdownNotes": "",
+      "label": "t95necrotop"
+    },
+    {
+      "image": "https://i.imgur.com/VJsZ4HL.png",
+      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern",
+      "name": "Soulbound lantern",
+      "breakdownNotes": "",
+      "label": "soulboundlantern"
+    },
+    {
+      "image": "https://i.imgur.com/s0Acz4g.png",
+      "wikiLink": "https://runescape.wiki/w/Robe_bottom_of_the_First_Necromancer",
+      "name": "Robe bottom of the First Necromancer",
+      "breakdownNotes": "",
+      "label": "t95necrolegs"
+    },
+    {
+      "image": "https://i.imgur.com/8zjLczG.png",
+      "wikiLink": "https://runescape.wiki/w/Hand_wrap_of_the_First_Necromancer",
+      "name": "Hand wrap of the First Necromancer",
+      "breakdownNotes": "",
+      "label": "t95necrogloves"
+    },
+    {
+      "image": "https://i.imgur.com/FawdniP.png",
+      "wikiLink": "https://runescape.wiki/w/Foot_wraps_of_the_First_Necromancer",
+      "name": "Foot wraps of the First Necromancer",
+      "breakdownNotes": "<br />",
+      "label": "t95necroboots"
+    },
+    {
+      "image": "https://i.imgur.com/bCYjo7u.png",
+      "wikiLink": "https://runescape.wiki/w/Occultist%27s_ring",
+      "name": "Occulist's Ring",
+      "breakdownNotes": "<br />",
+      "label": "occulistsring"
+    },
+    {
+      "image": "https://i.imgur.com/3pFXvMR.png",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus",
+      "name": "Zemoregal's Nexus",
+      "breakdownNotes": "",
+      "label": "zemouregalsnexus"
+    },
+    {
+      "image": "https://i.imgur.com/a3Up2sd.png",
+      "wikiLink": "https://runescape.wiki/w/Equilibrium_aura",
+      "name": "Equilibrium aura",
+      "breakdownNotes": "",
+      "label": "equilibriumaura"
+    },
+    {
+      "image": "https://i.imgur.com/lPppoD4.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful",
+      "name": "Scripture of Ful",
+      "breakdownNotes": "<br />",
+      "label": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "<br />",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "<br />",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "<br />",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "<br />",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PFLToHh.png",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)",
+      "name": "Spiritual prayer (6)",
+      "breakdownNotes": "",
+      "label": "spiritual",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "<br />",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "<br />",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "<br />",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "<br />",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PFLToHh.png",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)",
+      "name": "Spiritual prayer (6)",
+      "breakdownNotes": "",
+      "label": "spiritual",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "<br />",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "<br />",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GNzR4sU.png",
+      "wikiLink": "https://runescape.wiki/w/Expensive_spices",
+      "name": "Expensive spices",
+      "breakdownNotes": "",
+      "label": "spices",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "label": "vuln",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PFLToHh.png",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)",
+      "name": "Spiritual prayer (6)",
+      "breakdownNotes": "",
+      "label": "spiritual",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PFLToHh.png",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)",
+      "name": "Spiritual prayer (6)",
+      "breakdownNotes": "",
+      "label": "spiritual",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/n9C7iSA.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "",
+      "label": "vitality4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "label": "graspingpouchblack",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "label": "graspingpouchpink",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "label": "graspingpouchblue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/IqAjWRF.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "",
+      "label": "renewal4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": "",
+        "label": "bloodreaver"
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": "",
+        "label": "ripperdemon"
+      }
+    ]
+  }
+}

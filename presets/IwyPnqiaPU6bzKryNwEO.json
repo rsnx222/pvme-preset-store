@@ -1,0 +1,290 @@
+{
+  "presetName": "Basic Kiln",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/VAlRD3r.png",
+      "name": "Obsidian mage helm",
+      "breakdownNotes": "Use when maging, works with Animate Dead",
+      "label": "obbymage"
+    },
+    {
+      "image": "https://i.imgur.com/NhX2RVu.png",
+      "name": "Combatant's cape",
+      "breakdownNotes": "Can be substituted with any skill cape",
+      "label": "combatantscape"
+    },
+    {
+      "image": "https://i.imgur.com/lDrVrEd.png",
+      "name": "Blood amulet of fury",
+      "breakdownNotes": "Can upgrade to Amulet of Souls if owned",
+      "label": "bloodfury"
+    },
+    {
+      "image": "https://i.imgur.com/ysTivBO.png",
+      "name": "Noxious staff",
+      "breakdownNotes": "Can downgrade to Limitless staves (T82)",
+      "label": "noxstaff"
+    },
+    {
+      "image": "https://i.imgur.com/JlGK1Sw.png",
+      "name": "Obsidian platebody",
+      "breakdownNotes": "Can use power armour for the respective style if not owned",
+      "label": "obbytop"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/nVnBsvE.png",
+      "name": "Obsidian platelegs",
+      "breakdownNotes": "<span>Can use power armour for the respective style if not owned</span>",
+      "label": "obbylegs"
+    },
+    {
+      "image": "https://i.imgur.com/wP1GLeo.png",
+      "name": "Obsidian gloves",
+      "breakdownNotes": "<span>Cinderbanes would be BIS</span>",
+      "label": "obbygloves"
+    },
+    {
+      "image": "https://i.imgur.com/JMJoDfG.png",
+      "name": "Obsidian boots",
+      "breakdownNotes": "<span>Can use power armour for the respective style if not owned</span>",
+      "label": "obbyboots"
+    },
+    {
+      "image": "https://i.imgur.com/J1iLqln.png",
+      "name": "Tokkul-zo",
+      "breakdownNotes": "BIS for Kiln",
+      "label": "tokkulzo"
+    },
+    {
+      "image": "https://i.imgur.com/6oDVbcd.png",
+      "name": "Ascension bolts",
+      "breakdownNotes": "",
+      "label": "ascbolts"
+    },
+    {
+      "image": "https://i.imgur.com/NAg6p5G.png",
+      "name": "Vampyrism aura",
+      "breakdownNotes": "",
+      "label": "vampaura"
+    },
+    {
+      "image": "https://i.imgur.com/jTJxwFt.png",
+      "name": "Scripture of Jas",
+      "breakdownNotes": "",
+      "label": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/8FcJc3b.png",
+      "name": "Holy overload (6)",
+      "breakdownNotes": "Can upgrade to elder salves",
+      "label": "holyovl",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8FcJc3b.png",
+      "name": "Holy overload (6)",
+      "breakdownNotes": "Can upgrade to elder salves",
+      "label": "holyovl",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/INHcQrh.png",
+      "name": "Obsidian ranger helm",
+      "breakdownNotes": "Use when ranging",
+      "label": "obbymelee",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/mmW0g5D.png",
+      "name": "Obsidian warrior helm",
+      "breakdownNotes": "<span>Use when meleeing</span>",
+      "label": "obbyrange",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3ETfbUf.png",
+      "name": "Saradomin brew",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9wds5Ez.png",
+      "name": "Adrenaline renewal flask",
+      "breakdownNotes": "Can downgrade to the best adrenaline potion you can make",
+      "label": "renewal6",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "name": "Weapon poison+++ flask",
+      "breakdownNotes": "",
+      "label": "poison6",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/iRMTmuZ.png",
+      "name": "Sunspear",
+      "breakdownNotes": "PF switch for both ranged and mage, not needed if Greater codices owned",
+      "label": "sunspear",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9imiEjS.png",
+      "name": "Bandos warshield",
+      "breakdownNotes": "",
+      "label": "bandosshield",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3ETfbUf.png",
+      "name": "Saradomin brew",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pulVXx3.png",
+      "name": "Super restore",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pulVXx3.png",
+      "name": "Super restore",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/306PXtG.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "label": "vuln",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood/Astral/Body/Soul",
+      "label": "graspingpouchblack",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death/Earth/Law/Cosmic",
+      "label": "graspingpouchpink",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/BQXFPFu.png",
+      "name": "Binding contract (blood reaver)",
+      "breakdownNotes": "",
+      "label": "reaver",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pulVXx3.png",
+      "name": "Super restore",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pulVXx3.png",
+      "name": "Super restore",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/H74WgP2.png",
+      "name": "Noxious scythe",
+      "breakdownNotes": "Can downgrade to Vesta's Spear (Potentially Masuta's Warspear)",
+      "label": "scythe",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/YGlkhDV.png",
+      "name": "Wyvern crossbow",
+      "breakdownNotes": "Can downgrade to Royal Crossbow",
+      "label": "wyverncbow",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos/Air/Water/Fire",
+      "label": "graspingpouchblue",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [],
+    "alternativeFamiliars": []
+  }
+}

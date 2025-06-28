@@ -1,0 +1,133 @@
+{
+  "presetName": "",
+  "presetNotes": "",
+  "equipmentSlots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/K7gU5TK.png",
+      "wikiLink": "https://runescape.wiki/w/Off-hand_rubber_chicken",
+      "name": "Off-hand rubber chicken",
+      "breakdownNotes": "",
+      "label": "offhandrubberchicken"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "inventorySlots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/bsu5UWt.png",
+      "wikiLink": "https://runescape.wiki/w/Rope",
+      "name": "Rope",
+      "breakdownNotes": "",
+      "label": "rope"
+    },
+    null,
+    null,
+    null,
+    null
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "presetName": "Armoured Phantoms (AFK Magic)",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/iPtkkKN.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_mask",
+      "name": "Elite tectonic mask",
+      "breakdownNotes": "",
+      "label": "etectohelm"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/qbsFxuG.png",
+      "wikiLink": "https://runescape.wiki/w/Salve_amulet_(e)",
+      "name": "Salve amulet (e)",
+      "breakdownNotes": "",
+      "label": "salvee"
+    },
+    {
+      "image": "https://i.imgur.com/My8VkUX.png",
+      "wikiLink": "https://runescape.wiki/w/Inquisitor_staff",
+      "name": "Inquisitor staff",
+      "breakdownNotes": "Preferably upgraded with Enchantment of Affliction <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1006481321087991819.png?v=1\" />",
+      "label": "inq"
+    },
+    {
+      "image": "https://i.imgur.com/NftWcLQ.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_top",
+      "name": "Elite tectonic robe top",
+      "breakdownNotes": "Once piece with Undead slayer <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502804720615441.png?v=1\" />",
+      "label": "etectotop"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/0TXtWf2.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_bottom",
+      "name": "Elite tectonic robe bottom",
+      "breakdownNotes": "",
+      "label": "etectolegs"
+    },
+    {
+      "image": "https://i.imgur.com/ia3JNEm.png",
+      "wikiLink": "https://runescape.wiki/w/Deathtouched_bracelet",
+      "name": "Deathtouched bracelet",
+      "breakdownNotes": "",
+      "label": "dtb"
+    },
+    {
+      "image": "https://i.imgur.com/KUGqEdN.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_blast_diffusion_boots",
+      "name": "Enhanced blast diffusion boots",
+      "breakdownNotes": "",
+      "label": "enhancedblastdiff"
+    },
+    {
+      "image": "https://i.imgur.com/Zs7j4JG.png",
+      "wikiLink": "https://runescape.wiki/w/Channeller's_ring",
+      "name": "Channeller's ring",
+      "breakdownNotes": "",
+      "label": "channellerring"
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire - Runes for <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090783567902.png?v=1\" />",
+      "label": "graspingpouchblue"
+    },
+    {
+      "image": "https://i.imgur.com/WB5GErF.png",
+      "wikiLink": "https://runescape.wiki/w/Maniacal_aura",
+      "name": "Maniacal aura",
+      "breakdownNotes": "",
+      "label": "mani"
+    },
+    {
+      "image": "https://i.imgur.com/zd3mKfH.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "",
+      "label": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/DGw6F36.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "",
+      "label": "ovl",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/vSUpqbs.png",
+      "wikiLink": "https://runescape.wiki/w/Super_prayer_renewal_potion#(6)",
+      "name": "Super prayer renewal potion (6)",
+      "breakdownNotes": "",
+      "label": "prayrenewal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UURvGNW.png",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "label": "elvenshard",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/w6hThUy.png",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "name": "Powder of penance",
+      "breakdownNotes": "",
+      "label": "powderofpenance2",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/mTBIIuw.png",
+      "wikiLink": "https://runescape.wiki/w/Sticky_bombs",
+      "name": "Sticky bombs",
+      "breakdownNotes": "Helpful for setting up",
+      "label": "sticky",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/R4tRepk.png",
+      "wikiLink": "https://runescape.wiki/w/Oldak_coil",
+      "name": "Oldak coil",
+      "breakdownNotes": "",
+      "label": "oldakcoil",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GrfjyE2.png",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "label": "cballs",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/kJ17hH6.png",
+      "wikiLink": "https://runescape.wiki/w/Smoke_nihil_pouch",
+      "name": "Smoke nihil pouch",
+      "breakdownNotes": "",
+      "label": "smokenihil",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul - Runes for <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090783567902.png?v=1\" />",
+      "label": "graspingpouchblack",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/qbTjhXc.png",
+        "name": "Smoke Nihil",
+        "breakdownNotes": "",
+        "label": "smokenihil"
+      }
+    ]
+  }
+}

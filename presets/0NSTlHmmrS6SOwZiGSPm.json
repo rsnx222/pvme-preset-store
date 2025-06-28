@@ -1,0 +1,400 @@
+{
+  "presetName": "Ghost - Nex",
+  "presetNotes": "Substitutions are Optional But will Yield Poorer results",
+  "equipmentSlots": [
+    {
+      "label": "deathwardenhoodt90",
+      "image": "https://i.imgur.com/5vasEy6.png",
+      "name": "Deathwarden hood (tier 90)",
+      "breakdownNotes": "T90 Power Armour Works too",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_hood_(tier_90)"
+    },
+    {
+      "label": "max",
+      "image": "https://i.imgur.com/XspSSvu.png",
+      "name": "Max cape",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Max_cape"
+    },
+    {
+      "label": "conjurerammy",
+      "image": "https://i.imgur.com/UIMnph4.png",
+      "name": "Conjurer's raising amulet",
+      "breakdownNotes": "For Extra heals off ghost and stronger skeleton Use Salve (e) on Undead bosses",
+      "wikiLink": "https://runescape.wiki/w/Conjurer%27s_raising_amulet"
+    },
+    {
+      "label": "deathguardt90",
+      "image": "https://i.imgur.com/tosZimW.png",
+      "name": "Death guard (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Death_guard_(tier_90)"
+    },
+    {
+      "label": "deathwardenrobetopt90",
+      "image": "https://i.imgur.com/JkyJN48.png",
+      "name": "Deathwarden robe top (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_top_(tier_90)"
+    },
+    {
+      "label": "skulllanternt90",
+      "image": "https://i.imgur.com/nEI3w2n.png",
+      "name": "Skull lantern (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Skull_lantern_(tier_90)"
+    },
+    {
+      "label": "deathwardenrobelegst90",
+      "image": "https://i.imgur.com/4KirFLg.png",
+      "name": "Deathwarden robe bottom (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_legs_(tier_90)"
+    },
+    {
+      "label": "deathwardenglovest90",
+      "image": "https://i.imgur.com/3WIoKQI.png",
+      "name": "Deathwarden gloves (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_gloves_(tier_90)"
+    },
+    {
+      "label": "deathwardenbootst90",
+      "image": "https://i.imgur.com/V94Yora.png",
+      "name": "Deathwarden boots (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_boots_(tier_90)"
+    },
+    {
+      "label": "rod",
+      "image": "https://i.imgur.com/y5vAY4M.png",
+      "name": "Ring of death",
+      "breakdownNotes": "To save you from deaths office ",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death"
+    },
+    {
+      "label": "deathwardennexus",
+      "image": "https://i.imgur.com/hd7YvA4.png",
+      "name": "Deathwarden Nexus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "underworldgrimoire4",
+      "image": "https://i.imgur.com/FdohigN.png",
+      "name": "Underworld Grimoire 4",
+      "breakdownNotes": "Any Of the Underworld Grimoires are fine",
+      "wikiLink": "https://runescape.wiki/w/Underworld_Grimoire_4"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "ovl",
+      "image": "https://i.imgur.com/DGw6F36.png",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "summrenewal",
+      "image": "https://i.imgur.com/vBodqnM.png",
+      "name": "Summoning renewal (1)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Summoning_renewal#(1)",
+      "selected": false
+    },
+    {
+      "label": "renewal6",
+      "image": "https://i.imgur.com/Swtl8pP.png",
+      "name": "Adrenaline renewal flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "vitality4",
+      "image": "https://i.imgur.com/n9C7iSA.png",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "blessingofhet",
+        "image": "https://i.imgur.com/eDmt2lT.png",
+        "name": "Blessing of Het",
+        "breakdownNotes": "",
+        "energy": 100,
+        "description": "Food and potions heal 10% more lifepoints."
+      },
+      {
+        "label": "deathward",
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%."
+      },
+      {
+        "label": "furyofthesmall",
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline."
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "hellhound",
+        "image": "https://i.imgur.com/A1BvfVb.png",
+        "name": "Hellhound",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "label": "icenihil",
+        "image": "https://i.imgur.com/PXt50t7.png",
+        "name": "Ice Nihil",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

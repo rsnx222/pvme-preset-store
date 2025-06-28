@@ -1,0 +1,382 @@
+{
+  "presetName": "",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/oL7B8YM.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_charm",
+      "name": "Blue charm",
+      "breakdownNotes": "",
+      "label": "bluecharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/oL7B8YM.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_charm",
+      "name": "Blue charm",
+      "breakdownNotes": "",
+      "label": "bluecharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/z9gFxyX.png",
+      "wikiLink": "https://runescape.wiki/w/Gold_charm",
+      "name": "Gold charm",
+      "breakdownNotes": "",
+      "label": "goldcharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/z9gFxyX.png",
+      "wikiLink": "https://runescape.wiki/w/Gold_charm",
+      "name": "Gold charm",
+      "breakdownNotes": "",
+      "label": "goldcharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FuWsB0y.png",
+      "wikiLink": "https://runescape.wiki/w/Green_charm",
+      "name": "Green charm",
+      "breakdownNotes": "",
+      "label": "greencharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FuWsB0y.png",
+      "wikiLink": "https://runescape.wiki/w/Green_charm",
+      "name": "Green charm",
+      "breakdownNotes": "",
+      "label": "greencharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/m6W15K7.png",
+      "wikiLink": "https://runescape.wiki/w/Crimson_charm",
+      "name": "Crimson charm",
+      "breakdownNotes": "",
+      "label": "crimsoncharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/oL7B8YM.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_charm",
+      "name": "Blue charm",
+      "breakdownNotes": "",
+      "label": "bluecharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/oL7B8YM.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_charm",
+      "name": "Blue charm",
+      "breakdownNotes": "",
+      "label": "bluecharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/z9gFxyX.png",
+      "wikiLink": "https://runescape.wiki/w/Gold_charm",
+      "name": "Gold charm",
+      "breakdownNotes": "",
+      "label": "goldcharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/z9gFxyX.png",
+      "wikiLink": "https://runescape.wiki/w/Gold_charm",
+      "name": "Gold charm",
+      "breakdownNotes": "",
+      "label": "goldcharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FuWsB0y.png",
+      "wikiLink": "https://runescape.wiki/w/Green_charm",
+      "name": "Green charm",
+      "breakdownNotes": "",
+      "label": "greencharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FuWsB0y.png",
+      "wikiLink": "https://runescape.wiki/w/Green_charm",
+      "name": "Green charm",
+      "breakdownNotes": "",
+      "label": "greencharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/m6W15K7.png",
+      "wikiLink": "https://runescape.wiki/w/Crimson_charm",
+      "name": "Crimson charm",
+      "breakdownNotes": "",
+      "label": "crimsoncharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/oL7B8YM.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_charm",
+      "name": "Blue charm",
+      "breakdownNotes": "",
+      "label": "bluecharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/oL7B8YM.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_charm",
+      "name": "Blue charm",
+      "breakdownNotes": "",
+      "label": "bluecharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/z9gFxyX.png",
+      "wikiLink": "https://runescape.wiki/w/Gold_charm",
+      "name": "Gold charm",
+      "breakdownNotes": "",
+      "label": "goldcharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/z9gFxyX.png",
+      "wikiLink": "https://runescape.wiki/w/Gold_charm",
+      "name": "Gold charm",
+      "breakdownNotes": "",
+      "label": "goldcharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FuWsB0y.png",
+      "wikiLink": "https://runescape.wiki/w/Green_charm",
+      "name": "Green charm",
+      "breakdownNotes": "",
+      "label": "greencharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FuWsB0y.png",
+      "wikiLink": "https://runescape.wiki/w/Green_charm",
+      "name": "Green charm",
+      "breakdownNotes": "",
+      "label": "greencharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/m6W15K7.png",
+      "wikiLink": "https://runescape.wiki/w/Crimson_charm",
+      "name": "Crimson charm",
+      "breakdownNotes": "",
+      "label": "crimsoncharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/oL7B8YM.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_charm",
+      "name": "Blue charm",
+      "breakdownNotes": "",
+      "label": "bluecharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/oL7B8YM.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_charm",
+      "name": "Blue charm",
+      "breakdownNotes": "",
+      "label": "bluecharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/z9gFxyX.png",
+      "wikiLink": "https://runescape.wiki/w/Gold_charm",
+      "name": "Gold charm",
+      "breakdownNotes": "",
+      "label": "goldcharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/z9gFxyX.png",
+      "wikiLink": "https://runescape.wiki/w/Gold_charm",
+      "name": "Gold charm",
+      "breakdownNotes": "",
+      "label": "goldcharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FuWsB0y.png",
+      "wikiLink": "https://runescape.wiki/w/Green_charm",
+      "name": "Green charm",
+      "breakdownNotes": "",
+      "label": "greencharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FuWsB0y.png",
+      "wikiLink": "https://runescape.wiki/w/Green_charm",
+      "name": "Green charm",
+      "breakdownNotes": "",
+      "label": "greencharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/m6W15K7.png",
+      "wikiLink": "https://runescape.wiki/w/Crimson_charm",
+      "name": "Crimson charm",
+      "breakdownNotes": "",
+      "label": "crimsoncharm1",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

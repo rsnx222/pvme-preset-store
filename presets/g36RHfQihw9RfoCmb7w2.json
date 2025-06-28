@@ -1,0 +1,399 @@
+{
+  "presetName": "mage base",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "sliskehelm",
+      "image": "https://img.pvme.io/images/jxHhKUO.png",
+      "name": "Anima core helm of sliske",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_helm_of_sliske"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "eofpurple",
+      "image": "https://img.pvme.io/images/nu7QSbh.png",
+      "name": "EoF - Guthix staff / Zamorak staff",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Guthix_staff"
+    },
+    {
+      "label": "roarofawakening",
+      "image": "https://img.pvme.io/images/nCmqhfpcHo.png",
+      "name": "Roar of Awakening",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening"
+    },
+    {
+      "label": "sliskebody",
+      "image": "https://img.pvme.io/images/FMvke44.png",
+      "name": "Anima core body of sliske",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_body_of_sliske"
+    },
+    {
+      "label": "odetodeceit",
+      "image": "https://img.pvme.io/images/8WKmBCfI34.png",
+      "name": "Ode to Deceit",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ode_to_Deceit"
+    },
+    {
+      "label": "sliskelegs",
+      "image": "https://img.pvme.io/images/0HQcba9.png",
+      "name": "Anima core legs of sliske",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_legs_of_sliske"
+    },
+    {
+      "label": "dtb",
+      "image": "https://img.pvme.io/images/ia3JNEm.png",
+      "name": "Deathtouched bracelet",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathtouched_bracelet"
+    },
+    {
+      "label": "enhancedblastdiff",
+      "image": "https://img.pvme.io/images/KUGqEdN.png",
+      "name": "Enhanced blast diffusion boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_blast_diffusion_boots"
+    },
+    {
+      "label": "reaverring",
+      "image": "https://img.pvme.io/images/cnIOClx.png",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring"
+    },
+    {
+      "label": "pernixquiver",
+      "image": "https://img.pvme.io/images/b3geFp8.png",
+      "name": "Pernix's Quiver",
+      "breakdownNotes": "<span>Hydrix bakriminel bolts (e) | </span><span>Ruby bakriminel bolts (e)</span>",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver"
+    },
+    {
+      "label": "mani",
+      "image": "https://img.pvme.io/images/5fIllNu.png",
+      "name": "Maniacal aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Maniacal_aura"
+    },
+    {
+      "label": "grim",
+      "image": "https://img.pvme.io/images/eAO0PdY.png",
+      "name": "Erethdor's grimoire",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "vuln",
+      "image": "https://img.pvme.io/images/2vI8jNm.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "selected": false
+    },
+    {
+      "label": "spiritual",
+      "image": "https://img.pvme.io/images/PFLToHh.png",
+      "name": "Spiritual prayer (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)",
+      "selected": false
+    },
+    {
+      "label": "renewal4",
+      "image": "https://img.pvme.io/images/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "selected": false
+    },
+    {
+      "label": "dummy",
+      "image": "https://img.pvme.io/images/Dgtgp4n.png",
+      "name": "Combat dummy MKII",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
+      "selected": false
+    },
+    {
+      "label": "mageshield",
+      "image": "https://img.pvme.io/images/ThpXK19.png",
+      "name": "Merciless kiteshield",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Merciless_kiteshield",
+      "selected": false
+    },
+    {
+      "label": "sbrew",
+      "image": "https://img.pvme.io/images/xjiZl4Y.png",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "fsoa",
+      "image": "https://img.pvme.io/images/AI12yBk.png",
+      "name": "Fractured Staff of Armadyl",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fractured_Staff_of_Armadyl",
+      "selected": false
+    },
+    {
+      "label": "inq",
+      "image": "https://img.pvme.io/images/My8VkUX.png",
+      "name": "Inquisitor staff",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Inquisitor_staff",
+      "selected": false
+    },
+    {
+      "label": "lanispear",
+      "image": "https://img.pvme.io/images/BGhsSXy.png",
+      "name": "Laniakea's spear",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Laniakea's_spear",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchpink",
+      "image": "https://img.pvme.io/images/yrnlR2T.png",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "selected": false
+    },
+    {
+      "label": "gbrew",
+      "image": "https://img.pvme.io/images/dPf2fLt.png",
+      "name": "Super Guthix brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "swh",
+      "image": "https://img.pvme.io/images/buKTnb1.png",
+      "name": "Superior Statius's warhammer",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Superior_statius_warhammer",
+      "selected": false
+    },
+    {
+      "label": "sing",
+      "image": "https://img.pvme.io/images/9Z9ChMg.png",
+      "name": "Seismic singularity",
+      "breakdownNotes": "flanking",
+      "wikiLink": "https://runescape.wiki/w/Seismic_singularity",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "selected": false
+    },
+    {
+      "label": "gbrew",
+      "image": "https://img.pvme.io/images/dPf2fLt.png",
+      "name": "Super Guthix brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "ecb",
+      "image": "https://img.pvme.io/images/n98Fmxx.png",
+      "name": "Eldritch crossbow",
+      "breakdownNotes": "caroming 4",
+      "wikiLink": "https://runescape.wiki/w/Eldrich_crossbow",
+      "selected": false
+    },
+    {
+      "label": "vitality4",
+      "image": "https://img.pvme.io/images/n9C7iSA.png",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
+      "selected": false
+    },
+    {
+      "label": "rod",
+      "image": "https://img.pvme.io/images/y5vAY4M.png",
+      "name": "Ring of death",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "selected": false
+    },
+    {
+      "label": "gbrew",
+      "image": "https://img.pvme.io/images/dPf2fLt.png",
+      "name": "Super Guthix brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "https://i.imgur.com/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "label": "fontoflife",
+        "energy": 50
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "label": "deathward",
+        "energy": 150
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": "",
+        "label": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

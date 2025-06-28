@@ -1,0 +1,397 @@
+{
+  "presetName": "Vorkath GM Speed",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "edracolichcoif",
+      "image": "https://img.pvme.io/images/S1sjGOu.png",
+      "name": "Elite Dracolich coif",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_coif"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "salvee",
+      "image": "https://img.pvme.io/images/qbsFxuG.png",
+      "name": "Salve amulet (e)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Salve_amulet_(e)"
+    },
+    {
+      "label": "bolg",
+      "image": "https://img.pvme.io/images/GkhQHSj.png",
+      "name": "Bow of the Last Guardian",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bow_of_the_Last_Guardian"
+    },
+    {
+      "label": "edracolichhauberk",
+      "image": "https://img.pvme.io/images/M5jOHR3.png",
+      "name": "Elite Dracolich hauberk",
+      "breakdownNotes": "Must have Genocidal and Undead slayer on either armour piece",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_hauberk"
+    },
+    null,
+    {
+      "label": "edracolichchaps",
+      "image": "https://img.pvme.io/images/VGqlhJd.png",
+      "name": "Elite Dracolich chaps",
+      "breakdownNotes": "<span>Must have Genocidal and Undead slayer on either armour piece</span>",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_chaps"
+    },
+    {
+      "label": "edracolichvambs",
+      "image": "https://img.pvme.io/images/zJ2WxLa.png",
+      "name": "Elite Dracolich vambraces",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_vambraces"
+    },
+    {
+      "label": "edracolichboots",
+      "image": "https://img.pvme.io/images/07vxUMy.png",
+      "name": "Elite Dracolich boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_boots"
+    },
+    {
+      "label": "reaverring",
+      "image": "https://img.pvme.io/images/cnIOClx.png",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring"
+    },
+    {
+      "label": "pernixquiveryellow",
+      "image": "https://img.pvme.io/images/MCRkOPS.png",
+      "name": "Pernix's Quiver (Yellow)",
+      "breakdownNotes": "Jas dragonbane arrows | Deathspore arrows",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver"
+    },
+    {
+      "label": "mahj",
+      "image": "https://img.pvme.io/images/br11PCq.png",
+      "name": "Mahjarrat aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Mahjarrat_aura"
+    },
+    {
+      "label": "grim",
+      "image": "https://img.pvme.io/images/eAO0PdY.png",
+      "name": "Erethdor's grimoire",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "vuln",
+      "image": "https://img.pvme.io/images/2vI8jNm.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "selected": false
+    },
+    {
+      "label": "renewal4",
+      "image": "https://img.pvme.io/images/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "selected": false
+    },
+    {
+      "label": "omniguard",
+      "image": "https://img.pvme.io/images/SzFvoQB.png",
+      "name": "Omni guard",
+      "breakdownNotes": "Used at the end for invoke death on Zemouregal",
+      "wikiLink": "https://runescape.wiki/w/Omni_guard",
+      "selected": false
+    },
+    {
+      "label": "gbrew",
+      "image": "https://img.pvme.io/images/dPf2fLt.png",
+      "name": "Super Guthix brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "gbrew",
+      "image": "https://img.pvme.io/images/dPf2fLt.png",
+      "name": "Super Guthix brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "gbrew",
+      "image": "https://img.pvme.io/images/dPf2fLt.png",
+      "name": "Super Guthix brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_Guthix_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchpink",
+      "image": "https://img.pvme.io/images/yrnlR2T.png",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "selected": false
+    },
+    {
+      "label": "dba",
+      "image": "https://img.pvme.io/images/hZGOmkB.png",
+      "name": "Dragon battleaxe",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dragon_battleaxe",
+      "selected": false
+    },
+    {
+      "label": "vestmentbody",
+      "image": "https://img.pvme.io/images/E5ptfu6.png",
+      "name": "Vestments of havoc robe top",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_top",
+      "selected": false
+    },
+    {
+      "label": "vestmentlegs",
+      "image": "https://img.pvme.io/images/mz7GwWF.png",
+      "name": "Vestments of havoc robe bottom",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_bottom",
+      "selected": false
+    },
+    {
+      "label": "lengmh",
+      "image": "https://img.pvme.io/images/wFdHN9C.png",
+      "name": "Dark Shard of Leng",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dark_Shard_of_Leng",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "fsoa",
+      "image": "https://img.pvme.io/images/AI12yBk.png",
+      "name": "Fractured Staff of Armadyl",
+      "breakdownNotes": "Can downgrade, only used for stalling and releasing tsunami",
+      "wikiLink": "https://runescape.wiki/w/Fractured_Staff_of_Armadyl",
+      "selected": false
+    },
+    {
+      "label": "glovesofpassage",
+      "image": "https://img.pvme.io/images/U4Wa7vb.png",
+      "name": "Gloves of passage",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Gloves_of_passage",
+      "selected": false
+    },
+    {
+      "label": "vestmenthood",
+      "image": "https://img.pvme.io/images/EVh5SwD.png",
+      "name": "Vestments of havoc hood",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_hood",
+      "selected": false
+    },
+    {
+      "label": "vestmentboots",
+      "image": "https://img.pvme.io/images/FarIA5V.png",
+      "name": "Vestments of havoc boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_boots",
+      "selected": false
+    },
+    {
+      "label": "lengoh",
+      "image": "https://img.pvme.io/images/LAVYvrE.png",
+      "name": "Dark Sliver of Leng",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dark_Sliver_of_Leng",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "eofyellowunorn",
+      "image": "https://img.pvme.io/images/YR6pLdv.png",
+      "name": "EoF - Dark bow",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dark_bow",
+      "selected": false
+    },
+    {
+      "label": "eofred",
+      "image": "https://img.pvme.io/images/JMC7t7Y.png",
+      "name": "EoF - Dragon claws",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dragon_claws",
+      "selected": false
+    },
+    {
+      "label": "dragonscimitar",
+      "image": "https://img.pvme.io/images/GMiwyEA.png",
+      "name": "Dragon scimitar",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dragon_scimitar",
+      "selected": false
+    },
+    {
+      "label": "zemouregalsnexus",
+      "image": "https://img.pvme.io/images/3pFXvMR.png",
+      "name": "Zemoregal's Nexus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus",
+      "selected": false
+    },
+    {
+      "label": "zekkil",
+      "image": "https://img.pvme.io/images/aKEG5mi.png",
+      "name": "Ek-ZekKil",
+      "breakdownNotes": "T90+ 2h Melee weapon",
+      "wikiLink": "https://runescape.wiki/w/Ek-ZekKil",
+      "selected": false
+    },
+    {
+      "label": "sgb",
+      "image": "https://img.pvme.io/images/8xNK5NQ.png",
+      "name": "Seren godbow",
+      "breakdownNotes": "Required for using the special attack with Salve amulet (e)",
+      "wikiLink": "https://runescape.wiki/w/Seren_godbow",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "conservationofenergy",
+        "image": "https://img.pvme.io/images/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "energy": 350,
+        "description": "After using an ultimate ability, you will regain 10% adrenaline."
+      },
+      {
+        "label": "berserkersfury",
+        "image": "https://img.pvme.io/images/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "energy": 250,
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)"
+      },
+      {
+        "label": "fontoflife",
+        "image": "https://img.pvme.io/images/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "energy": 50,
+        "description": "Increases maximum health by 500."
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "label": "shadowsgrace",
+        "image": "https://img.pvme.io/images/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "energy": 50,
+        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline."
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "kalgdemon",
+        "image": "https://img.pvme.io/images/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

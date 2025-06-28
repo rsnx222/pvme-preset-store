@@ -1,0 +1,329 @@
+{
+  "presetName": "Nodon Artificers (AFK Magic)",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "ganohelm",
+      "image": "https://img.pvme.io/images/uDHYUf6.png",
+      "name": "Ganodermic visor",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ganodermic_visor"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "demonhorn",
+      "image": "https://img.pvme.io/images/gA1MFTE.png",
+      "name": "Demon horn necklace",
+      "breakdownNotes": "A reaper necklace <img title=\"reaper\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190159412494367.png?v=1\" /> or Essence of Finality <img title=\"eof\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/787526151978614824.png?v=1\" /> should be used if using other means to upkeep prayer",
+      "wikiLink": "https://runescape.wiki/w/Demon_horn_necklace"
+    },
+    {
+      "label": "fsoa",
+      "image": "https://img.pvme.io/images/AI12yBk.png",
+      "name": "Fractured Staff of Armadyl",
+      "breakdownNotes": "Use magic weapons with at least T90 accuracy",
+      "wikiLink": "https://runescape.wiki/w/Fractured_Staff_of_Armadyl"
+    },
+    {
+      "label": "ganobody",
+      "image": "https://img.pvme.io/images/Io6oIdr.png",
+      "name": "Ganodermic poncho",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ganodermic_poncho"
+    },
+    null,
+    {
+      "label": "ganolegs",
+      "image": "https://img.pvme.io/images/D3cx9PR.png",
+      "name": "Ganodermic leggings",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ganodermic_leggings"
+    },
+    {
+      "label": "cinder",
+      "image": "https://img.pvme.io/images/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+    },
+    {
+      "label": "ganoboots",
+      "image": "https://img.pvme.io/images/bB6QR8V.png",
+      "name": "Ganodermic boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ganodermic_boots"
+    },
+    {
+      "label": "channellerring",
+      "image": "https://img.pvme.io/images/Zs7j4JG.png",
+      "name": "Channeller's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Channeller's_ring"
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul - Runes for <img title=\"bloodbarrage\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/537338981747261446.png?v=1\" /> and <img title=\"animatedead\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090453135382.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)"
+    },
+    {
+      "label": "runic",
+      "image": "https://img.pvme.io/images/OnkKocW.png",
+      "name": "Supreme runic accuracy aura",
+      "breakdownNotes": "Maniacal <img title=\"mani\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643505153709965322.png?v=1\" /> can also be used if using better armour. Nodon Artificers have extremely high defence so an accuracy aura is required if doing them off-task",
+      "wikiLink": "https://runescape.wiki/w/Supreme_runic_accuracy_aura"
+    },
+    {
+      "label": "scriptureofwen",
+      "image": "https://img.pvme.io/images/zd3mKfH.png",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "<span>Dragonfire protection greatly reduces the damage of the artificers' special attack</span>",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "<span>Dragonfire protection greatly reduces the damage of the artificers' special attack</span>",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "elvenshard",
+      "image": "https://img.pvme.io/images/UURvGNW.png",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "selected": false
+    },
+    {
+      "label": "poison4",
+      "image": "https://img.pvme.io/images/CR06fbn.png",
+      "name": "Weapon poison+++ (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(4)",
+      "selected": false
+    },
+    {
+      "label": "poison4",
+      "image": "https://img.pvme.io/images/CR06fbn.png",
+      "name": "Weapon poison+++ (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(4)",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "cluebag",
+      "image": "https://img.pvme.io/images/KPREDHT.png",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "selected": false
+    },
+    {
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "cballs",
+      "image": "https://img.pvme.io/images/GrfjyE2.png",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "selected": false
+    },
+    {
+      "label": "oldakcoil",
+      "image": "https://img.pvme.io/images/R4tRepk.png",
+      "name": "Oldak coil",
+      "breakdownNotes": "<span>With the </span><span>Restocking Cannon</span><span> unlock from Artisan's workshop</span>",
+      "wikiLink": "https://runescape.wiki/w/Oldak_coil",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "smokenihil",
+      "image": "https://img.pvme.io/images/kJ17hH6.png",
+      "name": "Smoke nihil pouch",
+      "breakdownNotes": "If on task, other familiars may perform better. Holy scarabs may be used with penance powder if collecting dragonkin bones",
+      "wikiLink": "https://runescape.wiki/w/Smoke_nihil_pouch",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "graspingpouchpink",
+      "image": "https://img.pvme.io/images/yrnlR2T.png",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic <span>- Runes for </span><img title=\"bloodbarrage\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/537338981747261446.png?v=1\" /><span> and </span><img title=\"animatedead\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090453135382.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire<span> </span><span>- Runes for </span><img title=\"bloodbarrage\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/537338981747261446.png?v=1\" /><span> and </span><img title=\"animatedead\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090453135382.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/qbTjhXc.png",
+        "name": "Smoke Nihil",
+        "breakdownNotes": "",
+        "label": "smokenihil"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "https://i.imgur.com/x5tUpRe.png",
+        "name": "Holy Scarab",
+        "breakdownNotes": "",
+        "label": "holyscarab"
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

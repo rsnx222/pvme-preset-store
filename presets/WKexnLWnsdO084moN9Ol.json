@@ -1,0 +1,396 @@
+{
+  "presetName": "Magic Slayer",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "subjhood",
+      "image": "https://img.pvme.io/images/gfBW8r7.png",
+      "name": "Hood of subjugation",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Hood_of_subjugation"
+    },
+    {
+      "label": "kalmej",
+      "image": "https://img.pvme.io/images/v4dRHBk.png",
+      "name": "Igneous Kal-Mej",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mej"
+    },
+    {
+      "label": "aos",
+      "image": "https://img.pvme.io/images/cUaU7mB.png",
+      "name": "Amulet of souls",
+      "breakdownNotes": "Can be replaced with Blood Amulet of Fury, or Essence of Finality if owned",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_souls"
+    },
+    {
+      "label": "obliteration",
+      "image": "https://img.pvme.io/images/Mjyhuk5.png",
+      "name": "Obliteration",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Obliteration"
+    },
+    {
+      "label": "subjgarb",
+      "image": "https://img.pvme.io/images/xaiyx7X.png",
+      "name": "Garb of subjugation",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Garb_of_subjugation"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "subjgown",
+      "image": "https://img.pvme.io/images/OprqhH8.png",
+      "name": "Gown of subjugation",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Gown_of_subjugation"
+    },
+    {
+      "label": "cinder",
+      "image": "https://img.pvme.io/images/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+    },
+    {
+      "label": "subjboots",
+      "image": "https://img.pvme.io/images/7XWA1eE.png",
+      "name": "Boots of subjugation",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Boots_of_subjugation"
+    },
+    {
+      "label": "asr",
+      "image": "https://img.pvme.io/images/RZg5LNG.png",
+      "name": "Asylum surgeon's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Asylum_surgeon's_ring"
+    },
+    {
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "scriptureofwen",
+      "image": "https://img.pvme.io/images/zd3mKfH.png",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "Best AoE pocket slot, can be replaced by Ful, Jas, or whatever you have.",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "If using a lower tier Overload, remember Prayer Renewal potions, and Super Antifire for Dragon tasks.",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "renewal4",
+      "image": "https://img.pvme.io/images/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "selected": false
+    },
+    {
+      "label": "aggro4",
+      "image": "https://img.pvme.io/images/NdYvdGN.png",
+      "name": "Aggression potion (4)",
+      "breakdownNotes": "Used for better AFKing some easier tasks.",
+      "wikiLink": "https://runescape.wiki/w/Aggression_potion#(4)",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "Reusable form of healing.",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchpink",
+      "image": "https://img.pvme.io/images/yrnlR2T.png",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "selected": false
+    },
+    {
+      "label": "ecto",
+      "image": "https://img.pvme.io/images/NkIcFSt.png",
+      "name": "Attuned ectoplasmator",
+      "breakdownNotes": "Bonecrusher for ashes, used in conjunction with the Demon Horn Necklace.",
+      "wikiLink": "https://runescape.wiki/w/Attuned_ectoplasmator",
+      "selected": false
+    },
+    {
+      "label": "artificer",
+      "image": "https://img.pvme.io/images/gMZLjIv.png",
+      "name": "Artificer's measure",
+      "breakdownNotes": "Acts as a gem bag.",
+      "wikiLink": "https://runescape.wiki/w/Artificer's_measure",
+      "selected": false
+    },
+    {
+      "label": "poison4",
+      "image": "https://img.pvme.io/images/CR06fbn.png",
+      "name": "Weapon poison+++ (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(4)",
+      "selected": false
+    },
+    {
+      "label": "restore4",
+      "image": "https://img.pvme.io/images/9GwrVt6.png",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "selected": false
+    },
+    {
+      "label": "enhluck",
+      "image": "https://img.pvme.io/images/wsYgZsb.png",
+      "name": "Enhanced luck potion",
+      "breakdownNotes": "Grants the effects of Tier 3 luck, slightly increasing the chance Slayer monsters drop unique items.",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_luck_potion",
+      "selected": false
+    },
+    {
+      "label": "elvenshard",
+      "image": "https://img.pvme.io/images/UURvGNW.png",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "Reusable form of Prayer restoration.",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "selected": false
+    },
+    {
+      "label": "demonhorn",
+      "image": "https://img.pvme.io/images/gA1MFTE.png",
+      "name": "Demon horn necklace",
+      "breakdownNotes": "Used on tasks where a high-level necklace isnt needed for extra Prayer restoration.",
+      "wikiLink": "https://runescape.wiki/w/Demon_horn_necklace",
+      "selected": false
+    },
+    {
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "Can be set to high-alch/disassemble items for you.",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false
+    },
+    {
+      "label": "wilderpie",
+      "image": "https://img.pvme.io/images/3Dy2811xhQ.png",
+      "name": "Wilder pie",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Wilder_pie",
+      "selected": false
+    },
+    {
+      "label": "ushabti1",
+      "image": "https://img.pvme.io/images/ukNr0As.png",
+      "name": "Ushabti",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ushabti",
+      "selected": false
+    },
+    {
+      "label": "sacscrim",
+      "image": "https://img.pvme.io/images/JtRtMGN.png",
+      "name": "Scrimshaw of sacrifice",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scrimshaw_of_sacrifice",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "wrench",
+      "image": "https://img.pvme.io/images/UVffd75.png",
+      "name": "Holy wrench",
+      "breakdownNotes": "More Prayer points per potion sip.",
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench",
+      "selected": false
+    },
+    {
+      "label": "1knote",
+      "image": "https://img.pvme.io/images/8r07LbS.png",
+      "name": "Magic notepaper",
+      "breakdownNotes": "Can note any unstackable drops the player wants to keep.",
+      "wikiLink": "https://runescape.wiki/w/Magic_notepaper",
+      "selected": false
+    },
+    {
+      "label": "cballs",
+      "image": "https://img.pvme.io/images/GrfjyE2.png",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "selected": false
+    },
+    {
+      "label": "cannon",
+      "image": "https://img.pvme.io/images/GTwVqeC.png",
+      "name": "Dwarven siege engine",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine",
+      "selected": false
+    },
+    {
+      "label": "oldakcoil",
+      "image": "https://img.pvme.io/images/R4tRepk.png",
+      "name": "Oldak coil",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Oldak_coil",
+      "selected": false
+    },
+    {
+      "label": "cyclone",
+      "image": "https://img.pvme.io/images/LOWCNkE.png",
+      "name": "Kinetic cyclone",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Kinetic_cyclone",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "scodex",
+      "image": "https://img.pvme.io/images/MivUk5T.png",
+      "name": "Slayer codex",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Slayer_codex",
+      "selected": false
+    },
+    {
+      "label": "slayermastercape",
+      "image": "https://img.pvme.io/images/X6FOTd8.png",
+      "name": "Slayer master cape",
+      "breakdownNotes": "Basic cape or any other teleport to your current Slayer Master works too.",
+      "wikiLink": "https://runescape.wiki/w/Slayer_master_cape",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "slayerintrospection",
+        "image": "https://img.pvme.io/images/spEwR2q.png",
+        "name": "Slayer Introspection",
+        "breakdownNotes": "",
+        "energy": 200,
+        "description": "When requesting a new slayer assignment, you will have a choice between the minimum and maximum assignment amounts."
+      },
+      {
+        "label": "deathnote",
+        "image": "https://img.pvme.io/images/2KToagJ.png",
+        "name": "Death Note",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "All guaranteed bone and ash drops are noted."
+      },
+      {
+        "label": "luckofthedwarves",
+        "image": "https://img.pvme.io/images/Ivcgjer.png",
+        "name": "Luck of the Dwarves",
+        "breakdownNotes": "",
+        "energy": 200,
+        "description": "You will always gain the effect of tier 4 luck."
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "ripperdemon",
+        "image": "https://img.pvme.io/images/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "label": "hellhound",
+        "image": "https://img.pvme.io/images/A1BvfVb.png",
+        "name": "Hellhound",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

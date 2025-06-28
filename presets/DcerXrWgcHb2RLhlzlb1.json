@@ -1,0 +1,380 @@
+{
+  "presetName": "easy clue preset",
+  "presetNotes": "these items are useful for getting to clue step locations. They are NOT required to solve any easy clue steps.<br />",
+  "equipmentSlots": [
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/4gzM0Ab.png",
+      "wikiLink": "https://runescape.wiki/w/Worn_Equipment#Main_hand_slot",
+      "name": "Mainhand slot",
+      "breakdownNotes": "<span>mh or offh: (mobile perk</span><span>) </span><span> 1 flexible component, 1 subtle component</span>",
+      "label": "mhslot"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/ytFFaBI.png",
+      "wikiLink": "https://runescape.wiki/w/Worn_Equipment#Off-hand_slot",
+      "name": "Off-hand slot",
+      "breakdownNotes": "<span>mh or offh:</span><span>(mobile perk</span><span>) </span><span> 1 flexible component, 1 subtle component</span>",
+      "label": "ohslot"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/hV3Q1D1.png",
+      "wikiLink": "https://runescape.wiki/w/Explorer's_ring_3",
+      "name": "Explorer's ring 3",
+      "breakdownNotes": "<span>obtained by talking to Ned in Draynor Village as a reward a reward from the beginner</span><span>, easy and medium Lumbridge achievements</span><span>.</span>",
+      "label": "explorersring3"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/ahDBOU5.png",
+      "wikiLink": "https://runescape.wiki/w/Dave's_spellbook",
+      "name": "Dave's spellbook",
+      "breakdownNotes": "<span>obtained after completing Evil Dave</span><span>'s Big Day Out</span><span>.</span>",
+      "label": "davesspellbook"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KPREDHT.png",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "<span>obtained as a reward from the Desperate Times quest. Useful for storing clues and reward caskets.</span>",
+      "label": "cluebag",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gawFoAi.png",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_glory",
+      "name": "Amulet of glory",
+      "breakdownNotes": "<span>tradeable teleporting items. buy with charges<br /></span>",
+      "label": "amuletofglory",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/TFgj5ji.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_duelling",
+      "name": "Ring of duelling",
+      "breakdownNotes": "<span>tradeable teleporting items. buy with charges</span>",
+      "label": "ringofduelling",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bF43WHx.png",
+      "wikiLink": "https://runescape.wiki/w/Games_necklace",
+      "name": "Games necklace",
+      "breakdownNotes": "<span>tradeable teleporting items. buy with charges</span>",
+      "label": "gamesnecklace",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/cr2oJs0.png",
+      "wikiLink": "https://runescape.wiki/w/Enlightened_amulet",
+      "name": "Enlightened amulet",
+      "breakdownNotes": "<span>tradeable teleporting items. buy with charges</span>",
+      "label": "enlightenedamulet",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3Hzb1UG.png",
+      "wikiLink": "https://runescape.wiki/w/Spade",
+      "name": "Spade",
+      "breakdownNotes": "to dig on X. can also rightclick - dig on the clue scroll<br />",
+      "label": "spade",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8Y1U7r0.png",
+      "wikiLink": "https://runescape.wiki/w/Cape_of_legends",
+      "name": "Cape of legends",
+      "breakdownNotes": "requires Legends' quest completed<br />",
+      "label": "capeoflegends",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/geVhmZZ.png",
+      "wikiLink": "https://runescape.wiki/w/Skills_necklace",
+      "name": "Skills necklace",
+      "breakdownNotes": "<span>tradeable teleporting items. buy with charges</span>",
+      "label": "skillsnecklace",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KTG6jOQ.png",
+      "wikiLink": "https://runescape.wiki/w/Combat_bracelet",
+      "name": "Combat bracelet",
+      "breakdownNotes": "<span>tradeable teleporting items. buy with charges</span>",
+      "label": "combatbracelet",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/69eyA7I.png",
+      "wikiLink": "https://runescape.wiki/w/Traveller%27s_necklace",
+      "name": "Traveller's Necklace",
+      "breakdownNotes": "<span>tradeable teleporting items. buy with charges</span>",
+      "label": "travellersnecklace",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/OIXbC9E.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_respawn",
+      "name": "Ring of respawn",
+      "breakdownNotes": "<span>tradeable teleporting items. buy with charges</span>",
+      "label": "ringofrespawn",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/rMZUuze.png",
+      "wikiLink": "https://runescape.wiki/w/Skull_sceptre",
+      "name": "Skull sceptre",
+      "breakdownNotes": "<span>reward from the Stronghold of Security</span>",
+      "label": "skullsceptre",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/sOfnUEX.png",
+      "wikiLink": "https://runescape.wiki/w/Arc_journal",
+      "name": "Arc journal",
+      "breakdownNotes": "<span>obtained by speaking to Sharkborne on Waiko after completing Impressing the Locals</span><span>.</span>",
+      "label": "arcjournal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/z0Yiyhk.png",
+      "wikiLink": "https://runescape.wiki/w/Disk_of_returning_(Gower_Quest)",
+      "name": "Disk of returning",
+      "breakdownNotes": "<span>obtained during the Gower</span><span>'s Quest</span>",
+      "label": "diskofreturning",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/sxeQpNa.png",
+      "wikiLink": "https://runescape.wiki/w/Dramen_staff",
+      "name": "Dramen staff",
+      "breakdownNotes": "<span>Made during the Lost City quest.</span>",
+      "label": "dramenstaff",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/oQdFuSm.png",
+      "wikiLink": "https://runescape.wiki/w/Invitation_box",
+      "name": "Invitation box",
+      "breakdownNotes": "<span>Presumed Death quest</span><span>, provides a quick teleport to Brother Samwell in Silvarea</span><span>.</span>",
+      "label": "invitationbox",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8C3OhBk.png",
+      "wikiLink": "https://runescape.wiki/w/Archaeology_journal",
+      "name": "Archaeology journal",
+      "breakdownNotes": "<span>provided to you during the Archaelogy tutorial</span>",
+      "label": "archaeologyjournal",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/IOehGlx.png",
+      "wikiLink": "https://runescape.wiki/w/Air_rune",
+      "name": "Air rune",
+      "breakdownNotes": "teleporting runes for standard spellbook<br />",
+      "label": "airrune1k",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/BaZYIcM.png",
+      "wikiLink": "https://runescape.wiki/w/Earth_rune",
+      "name": "Earth rune",
+      "breakdownNotes": "teleporting runes for standard spellbook",
+      "label": "earthrune1k",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/lvD8hP6.png",
+      "wikiLink": "https://runescape.wiki/w/Water_rune",
+      "name": "Water rune",
+      "breakdownNotes": "teleporting runes for standard spellbook",
+      "label": "waterrune1k",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/rbZs9di.png",
+      "wikiLink": "https://runescape.wiki/w/Fire_rune",
+      "name": "Fire rune",
+      "breakdownNotes": "teleporting runes for standard spellbook",
+      "label": "firerune10k",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/MLCntzy.png",
+      "wikiLink": "https://runescape.wiki/w/Law_rune",
+      "name": "Law rune",
+      "breakdownNotes": "teleporting runes for standard spellbook",
+      "label": "lawrune100",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

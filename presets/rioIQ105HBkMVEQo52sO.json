@@ -1,0 +1,297 @@
+{
+  "presetName": "Chaos Elemental basic Ranged",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "superiorspinedhelm",
+      "image": "https://img.pvme.io/images/4QHiCSNtjJ.png",
+      "name": "Superior spined helm",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Superior_spined_helm"
+    },
+    {
+      "label": "capeoflegends",
+      "image": "https://img.pvme.io/images/8Y1U7r0.png",
+      "name": "Cape of legends",
+      "breakdownNotes": "Any Skillcape is an upgrade if owned.",
+      "wikiLink": "https://runescape.wiki/w/Cape_of_legends"
+    },
+    {
+      "label": "amuletofglory",
+      "image": "https://img.pvme.io/images/gawFoAi.png",
+      "name": "Amulet of glory",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_glory"
+    },
+    {
+      "label": "crystalbow",
+      "image": "https://img.pvme.io/images/XVXKA50eqJ.png",
+      "name": "Crystal bow",
+      "breakdownNotes": "Doesn't require arrows, Decimation is a good upgrade.",
+      "wikiLink": "https://runescape.wiki/w/Crystal_bow"
+    },
+    {
+      "label": "superiorspinedbody",
+      "image": "https://img.pvme.io/images/YoJVYd79lT.png",
+      "name": "Superior spined body",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Superior_spined_body"
+    },
+    null,
+    {
+      "label": "superiorspinedchaps",
+      "image": "https://img.pvme.io/images/Cl6WZrB0GB.png",
+      "name": "Superior spined chaps",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Superior_spined_chaps"
+    },
+    {
+      "label": "superiorspinedgloves",
+      "image": "https://img.pvme.io/images/p92YGFOudC.png",
+      "name": "Superior spined gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Superior_spined_gloves"
+    },
+    {
+      "label": "superiorspinedboots",
+      "image": "https://img.pvme.io/images/5oyzlu8eZR.png",
+      "name": "Superior spined boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Superior_spined_boots"
+    },
+    {
+      "label": "asr",
+      "image": "https://img.pvme.io/images/RZg5LNG.png",
+      "name": "Asylum surgeon's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Asylum_surgeon's_ring"
+    },
+    null,
+    null,
+    {
+      "label": "armagodbook2",
+      "image": "https://img.pvme.io/images/hm5z04C.png",
+      "name": "Book of law",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Book_of_law"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "extrange",
+      "image": "https://img.pvme.io/images/SIxkkCF.png",
+      "name": "Extreme ranging (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Extreme_Ranging#(4)",
+      "selected": false
+    },
+    {
+      "label": "extdefence",
+      "image": "https://img.pvme.io/images/DUhcOW3.png",
+      "name": "Extreme defence (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Extreme_Defence#(4)",
+      "selected": false
+    },
+    {
+      "label": "poison4",
+      "image": "https://img.pvme.io/images/CR06fbn.png",
+      "name": "Weapon poison+++ (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(4)",
+      "selected": false
+    },
+    {
+      "label": "restore4",
+      "image": "https://img.pvme.io/images/9GwrVt6.png",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "selected": false
+    },
+    {
+      "label": "restore4",
+      "image": "https://img.pvme.io/images/9GwrVt6.png",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "selected": false
+    },
+    {
+      "label": "restore4",
+      "image": "https://img.pvme.io/images/9GwrVt6.png",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "selected": false
+    },
+    {
+      "label": "spices",
+      "image": "https://img.pvme.io/images/GNzR4sU.png",
+      "name": "Expensive spices",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Expensive_spices",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "Emergency healing for when low HP.",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "Emergency healing for when low HP.",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "Used for extra healing.",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "portableobelisk",
+      "image": "https://img.pvme.io/images/gKUbd5X.png",
+      "name": "Portable Obelisk",
+      "breakdownNotes": "Optional if using Wilderness Obelisks to get to the boss.",
+      "wikiLink": "https://runescape.wiki/w/Portable_Obelisk",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "Emergency healing for when low HP.",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

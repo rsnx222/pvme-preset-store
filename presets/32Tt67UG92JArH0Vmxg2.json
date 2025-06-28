@@ -1,0 +1,279 @@
+{
+  "presetName": "Gate of Elidinis (No Food)",
+  "presetNotes": "(Still figuring out BiS)<div>- Asciatops Perk (POF)<br />- Ancient Spellbook</div>",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/XCIjNXk.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_head",
+      "name": "Magic golem head",
+      "breakdownNotes": "<span>+5 Critical Hit Chance (Set Bonus)</span>",
+      "label": "magicgolemhead"
+    },
+    {
+      "image": "https://i.imgur.com/J65ezCP.png",
+      "wikiLink": "https://runescape.wiki/w/Mining_cape",
+      "name": "Mining cape",
+      "breakdownNotes": "",
+      "label": "miningcape"
+    },
+    {
+      "image": "https://i.imgur.com/4KgPcpm.png",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves",
+      "name": "Grace of the elves",
+      "breakdownNotes": "",
+      "label": "gote"
+    },
+    {
+      "image": "https://i.imgur.com/1x24vrK.png",
+      "wikiLink": "https://runescape.wiki/w/Pickaxe_of_Life_and_Death",
+      "name": "Pickaxe of Life and Death",
+      "breakdownNotes": "",
+      "label": "pickaxeoflifeanddeath"
+    },
+    {
+      "image": "https://i.imgur.com/Ytyzy1c.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_torso",
+      "name": "Magic golem torso",
+      "breakdownNotes": "<span>+5 Critical Hit Chance (Set Bonus)</span><br />",
+      "label": "magicgolemtorso"
+    },
+    {
+      "image": "https://i.imgur.com/JffmIPJ.png",
+      "wikiLink": "https://runescape.wiki/w/Tagga's_corehammer",
+      "name": "Tagga's corehammer",
+      "breakdownNotes": "",
+      "label": "corehammer"
+    },
+    {
+      "image": "https://i.imgur.com/4jZVBTE.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_legs",
+      "name": "Magic golem legs",
+      "breakdownNotes": "<span>+5 Critical Hit Chance (Set Bonus)</span><br />",
+      "label": "magicgolemlegs"
+    },
+    {
+      "image": "https://i.imgur.com/ZaLwIE0.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_gloves",
+      "name": "Magic golem gloves",
+      "breakdownNotes": "<span>+5 Critical Hit Chance (Set Bonus)</span><br />",
+      "label": "magicgolemgloves"
+    },
+    {
+      "image": "https://i.imgur.com/0yMVyOj.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_boots",
+      "name": "Magic golem boots",
+      "breakdownNotes": "<span>+5 Critical Hit Chance (Set Bonus)</span>",
+      "label": "magicgolemboots"
+    },
+    {
+      "image": "https://i.imgur.com/xmcbfhs.png",
+      "wikiLink": "https://runescape.wiki/w/Hazelmere's_signet",
+      "name": "Hazelmere's signet ring",
+      "breakdownNotes": "Increased drop rates",
+      "label": "hsr"
+    },
+    {
+      "image": "https://i.imgur.com/gCf8SPg.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(purple)",
+      "name": "Grasping rune pouch (purple)",
+      "breakdownNotes": "Runes for Prism of Restoration",
+      "label": "graspingpouchpurple"
+    },
+    {
+      "image": "https://i.imgur.com/KDmbuSF.png",
+      "wikiLink": "https://runescape.wiki/w/Legendary_quarrymaster_aura",
+      "name": "Legendary quarrymaster aura",
+      "breakdownNotes": "",
+      "label": "legendaryquarrymaster"
+    },
+    {
+      "image": "https://i.imgur.com/caaJeHr.png",
+      "wikiLink": "https://runescape.wiki/w/Rock-crushing_scrimshaw",
+      "name": "Rock-crushing scrimshaw",
+      "breakdownNotes": "",
+      "label": "rockcrushingscrimshaw"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/LfpiRjg.png",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "",
+      "label": "lantasticks",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8RLFr9n.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_weed_incense_sticks",
+      "name": "Spirit weed incense sticks",
+      "breakdownNotes": "",
+      "label": "spiritsticks",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "Extra HP",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "description": "Increases maximum health by 500.",
+        "label": "fontoflife",
+        "energy": 50
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/mZ9MKRK.png",
+        "name": "Unicorn stallion",
+        "breakdownNotes": "",
+        "label": "unicornstallion"
+      }
+    ]
+  }
+}

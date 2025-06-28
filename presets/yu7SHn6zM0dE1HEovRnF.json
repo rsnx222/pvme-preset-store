@@ -1,0 +1,343 @@
+{
+  "presetName": "Ivory Statues Short",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "serenhelm",
+      "image": "https://img.pvme.io/images/VMQ89aP.png",
+      "name": "Anima core helm of seren",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_helm_of_seren"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "demonhorn",
+      "image": "https://img.pvme.io/images/gA1MFTE.png",
+      "name": "Demon horn necklace",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Demon_horn_necklace"
+    },
+    {
+      "label": "roarofawakening",
+      "image": "https://img.pvme.io/images/nCmqhfpcHo.png",
+      "name": "Roar of Awakening",
+      "breakdownNotes": "<img title=\"caroming4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/791281588792590336.png?v=1\" /> <img title=\"precise2\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1084799750416637993.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening"
+    },
+    {
+      "label": "virtustop",
+      "image": "https://img.pvme.io/images/cau9oLa.png",
+      "name": "Virtus robe top",
+      "breakdownNotes": "<img title=\"biting4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087809617931.png?v=1\" /> | <img title=\"demonslayerperk\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502842653900818.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_top"
+    },
+    {
+      "label": "odetodeceit",
+      "image": "https://img.pvme.io/images/8WKmBCfI34.png",
+      "name": "Ode to Deceit",
+      "breakdownNotes": "<img title=\"eruptive4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1214416401561952296.png?v=1\" /> <img title=\"ruthless3\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Ode_to_Deceit"
+    },
+    {
+      "label": "virtuslegs",
+      "image": "https://img.pvme.io/images/eEGwTU4.png",
+      "name": "Virtus robe legs",
+      "breakdownNotes": "<img title=\"scav\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1109429520995463288.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_legs"
+    },
+    {
+      "label": "wristwraps",
+      "image": "https://img.pvme.io/images/6iT5PjZ.png",
+      "name": "Kerapac's wrist wraps",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Kerapac's_wrist_wraps"
+    },
+    {
+      "label": "diffusion",
+      "image": "https://img.pvme.io/images/2VPk1SN.png",
+      "name": "Blast diffusion boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blast_diffusion_boots"
+    },
+    {
+      "label": "hsr",
+      "image": "https://img.pvme.io/images/xmcbfhs.png",
+      "name": "Hazelmere's signet ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Hazelmere's_signet"
+    },
+    {
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "<img title=\"soulrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252660333019136.png?v=1\" /> | <img title=\"bloodrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658970001409.png?v=1\" /> |  <img title=\"waterrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252660165115905.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)"
+    },
+    {
+      "label": "equilibriumaura",
+      "image": "https://img.pvme.io/images/a3Up2sd.png",
+      "name": "Equilibrium aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Equilibrium_aura"
+    },
+    {
+      "label": "scriptureofbik",
+      "image": "https://img.pvme.io/images/t1KMJMv.png",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "cluebag",
+      "image": "https://img.pvme.io/images/KPREDHT.png",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "selected": false
+    },
+    {
+      "label": "cballs",
+      "image": "https://img.pvme.io/images/GrfjyE2.png",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "selected": false
+    },
+    {
+      "label": "oldakcoil",
+      "image": "https://img.pvme.io/images/R4tRepk.png",
+      "name": "Oldak coil",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Oldak_coil",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "lantadymeincensesticks100",
+      "image": "https://img.pvme.io/images/4n0C5gK.png",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "selected": false
+    },
+    {
+      "label": "fellstalkincensesticks100",
+      "image": "https://img.pvme.io/images/nK9EU1V.png",
+      "name": "Fellstalk incense sticks",
+      "breakdownNotes": "Dwarf Incense, not Fellstalk",
+      "wikiLink": "https://runescape.wiki/w/Fellstalk_incense_sticks",
+      "selected": false
+    },
+    {
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "aggro6",
+      "image": "https://img.pvme.io/images/nTRsMW1.png",
+      "name": "Aggression flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "portablefairyring(used)",
+      "image": "https://img.pvme.io/images/iwTl6xy.png",
+      "name": "Portable fairy ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Portable_fairy_ring#active",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "aggro6",
+      "image": "https://img.pvme.io/images/nTRsMW1.png",
+      "name": "Aggression flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "aggro6",
+      "image": "https://img.pvme.io/images/nTRsMW1.png",
+      "name": "Aggression flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "spiritattractionflask",
+      "image": "https://img.pvme.io/images/9oDoU6T.png",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "soulrune",
+      "image": "https://img.pvme.io/images/hXWHlfs.png",
+      "name": "Soul rune",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Soul_rune",
+      "selected": false
+    },
+    {
+      "label": "bloodrune",
+      "image": "https://img.pvme.io/images/DmJhw50.png",
+      "name": "Blood rune",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blood_rune",
+      "selected": false
+    },
+    {
+      "label": "waterrune",
+      "image": "https://img.pvme.io/images/WnPH1nm.png",
+      "name": "Water rune",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Water_rune",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "label": "conservationofenergy",
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "energy": 350,
+        "description": "After using an ultimate ability, you will regain 10% adrenaline."
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

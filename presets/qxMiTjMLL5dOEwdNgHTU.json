@@ -1,0 +1,378 @@
+{
+  "presetName": "",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/Rg6kfwR.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_Fortune",
+      "name": "Ring of Fortune",
+      "breakdownNotes": "",
+      "label": "ringoffortune"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/HyS1DoA.png",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_glory",
+      "name": "Amulet of glory",
+      "breakdownNotes": "",
+      "label": "amuletofglory",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/wzSSGvT.png",
+      "wikiLink": "https://runescape.wiki/w/Games_necklace",
+      "name": "Games necklace",
+      "breakdownNotes": "",
+      "label": "gamesnecklace",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/28wkzOg.png",
+      "wikiLink": "https://runescape.wiki/w/Skills_necklace",
+      "name": "Skills necklace",
+      "breakdownNotes": "",
+      "label": "skillsnecklace",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9FP2aq7.png",
+      "wikiLink": "https://runescape.wiki/w/Traveller%27s_necklace",
+      "name": "Traveller's Necklace",
+      "breakdownNotes": "",
+      "label": "travellersnecklace",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/6P8F0Ye.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_duelling",
+      "name": "Ring of duelling",
+      "breakdownNotes": "",
+      "label": "ringofduelling",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/fHvV11R.png",
+      "wikiLink": "https://runescape.wiki/w/Combat_bracelet",
+      "name": "Combat bracelet",
+      "breakdownNotes": "",
+      "label": "combatbracelet",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2naTdxd.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_slaying",
+      "name": "Ring of slaying",
+      "breakdownNotes": "",
+      "label": "ringofslaying",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/0ogKur6.png",
+      "wikiLink": "https://runescape.wiki/w/Enlightened_amulet",
+      "name": "Enlightened amulet",
+      "breakdownNotes": "",
+      "label": "enlightenedamulet",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Z5qbOnJ.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_respawn",
+      "name": "Ring of respawn",
+      "breakdownNotes": "",
+      "label": "ringofrespawn",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/vm7CGaN.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_Wealth",
+      "name": "Ring of Wealth",
+      "breakdownNotes": "",
+      "label": "ringofwealth",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/fjGcC1M.png",
+      "wikiLink": "https://runescape.wiki/w/Dig_Site_pendant",
+      "name": "Dig Site pendant",
+      "breakdownNotes": "",
+      "label": "digsitependant",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/4FOxSHk.png",
+      "wikiLink": "https://runescape.wiki/w/Goblin_village_sphere",
+      "name": "Goblin village sphere",
+      "breakdownNotes": "",
+      "label": "goblinvillagesphere",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/VLdEZ1R.png",
+      "wikiLink": "https://runescape.wiki/w/Bandit_Camp_Teleport",
+      "name": "Bandit Camp Teleport",
+      "breakdownNotes": "",
+      "label": "banditcampteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pMN6RTG.png",
+      "wikiLink": "https://runescape.wiki/w/Phoenix_Lair_Teleport",
+      "name": "Phoenix Lair Teleport",
+      "breakdownNotes": "",
+      "label": "phoenixlairteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/AOVQ5Q9.png",
+      "wikiLink": "https://runescape.wiki/w/Pollnivneach_Teleport",
+      "name": "Pollnivneach Teleport",
+      "breakdownNotes": "",
+      "label": "pollnivneachteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/mmYFsu6.png",
+      "wikiLink": "https://runescape.wiki/w/Gu'Tanoth_Teleport",
+      "name": "Gu'Tanoth Teleport",
+      "breakdownNotes": "",
+      "label": "gutanothteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/HcAGnHy.png",
+      "wikiLink": "https://runescape.wiki/w/Clocktower_Teleport",
+      "name": "Clocktower Teleport",
+      "breakdownNotes": "",
+      "label": "clocktowerteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/81jSXdP.png",
+      "wikiLink": "https://runescape.wiki/w/Lighthouse_Teleport",
+      "name": "Lighthouse Teleport",
+      "breakdownNotes": "",
+      "label": "lighthouseteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/jgkom9X.png",
+      "wikiLink": "https://runescape.wiki/w/Tai_Bwo_Wannai_Teleport",
+      "name": "Tai Bwo Wannai Teleport",
+      "breakdownNotes": "",
+      "label": "taibwowannaiteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/HV7LkNR.png",
+      "wikiLink": "https://runescape.wiki/w/Grand_Exchange_Teleport",
+      "name": "Grand Exchange Teleport",
+      "breakdownNotes": "",
+      "label": "grandexchangeteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FHF6xM3.png",
+      "wikiLink": "https://runescape.wiki/w/Fort_Forinthry_Teleport",
+      "name": "Fort Forinthry Teleport",
+      "breakdownNotes": "",
+      "label": "fortforinthryteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Ew6PDyN.png",
+      "wikiLink": "https://runescape.wiki/w/Miscellania_Teleport",
+      "name": "Miscellania Teleport",
+      "breakdownNotes": "",
+      "label": "miscellaniateleport",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/8IMPgCF.png",
+        "name": "Abyssal Link",
+        "breakdownNotes": "",
+        "label": "abyssallink",
+        "energy": 250
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

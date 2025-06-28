@@ -1,0 +1,400 @@
+{
+  "presetName": "Expert Brid",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/gd1Ymwi.png",
+      "wikiLink": "https://runescape.wiki/w/Vanguard_helm",
+      "name": "Vanguard helm",
+      "breakdownNotes": "",
+      "label": "vanguardhelm"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/UB0lAK8.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet",
+      "name": "Essence of Finality amulet",
+      "breakdownNotes": "",
+      "label": "eof"
+    },
+    {
+      "image": "https://i.imgur.com/kyKIKBC.png",
+      "wikiLink": "https://runescape.wiki/w/Wand_of_the_praesul",
+      "name": "Wand of the praesul",
+      "breakdownNotes": "",
+      "label": "pwand"
+    },
+    {
+      "image": "https://i.imgur.com/Q8cyJsG.png",
+      "wikiLink": "https://runescape.wiki/w/Vanguard_body",
+      "name": "Vanguard body",
+      "breakdownNotes": "",
+      "label": "vanguardbody"
+    },
+    {
+      "image": "https://i.imgur.com/ThpXK19.png",
+      "wikiLink": "https://runescape.wiki/w/Merciless_kiteshield",
+      "name": "Merciless kiteshield",
+      "breakdownNotes": "",
+      "label": "mageshield"
+    },
+    {
+      "image": "https://i.imgur.com/CYnL1PJ.png",
+      "wikiLink": "https://runescape.wiki/w/Vanguard_legs",
+      "name": "Vanguard legs",
+      "breakdownNotes": "",
+      "label": "vanguardlegs"
+    },
+    {
+      "image": "https://i.imgur.com/GAqfkTE.png",
+      "wikiLink": "https://runescape.wiki/w/Vanguard_gloves",
+      "name": "Vanguard gloves",
+      "breakdownNotes": "",
+      "label": "vanguardgloves"
+    },
+    {
+      "image": "https://i.imgur.com/is3LA7E.png",
+      "wikiLink": "https://runescape.wiki/w/Vanguard_boots",
+      "name": "Vanguard boots",
+      "breakdownNotes": "",
+      "label": "vanguardboots"
+    },
+    {
+      "image": "https://i.imgur.com/auHIoIj.png",
+      "wikiLink": "https://runescape.wiki/w/Superior_leviathan_ring",
+      "name": "Superior leviathan ring",
+      "breakdownNotes": "",
+      "label": "superiorleviathanring"
+    },
+    {
+      "image": "https://i.imgur.com/b3geFp8.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver",
+      "breakdownNotes": "<span>Blackstone &amp; wen arrows</span>",
+      "label": "pernixquiver"
+    },
+    {
+      "image": "https://i.imgur.com/a3Up2sd.png",
+      "wikiLink": "https://runescape.wiki/w/Equilibrium_aura",
+      "name": "Equilibrium aura",
+      "breakdownNotes": "",
+      "label": "equilibriumaura"
+    },
+    {
+      "image": "https://i.imgur.com/lPppoD4.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful",
+      "name": "Scripture of Ful",
+      "breakdownNotes": "",
+      "label": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/YSj7H2I.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_prayer_flask#(6)",
+      "name": "Extreme prayer flask (6)",
+      "breakdownNotes": "",
+      "label": "extpray",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/YSj7H2I.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_prayer_flask#(6)",
+      "name": "Extreme prayer flask (6)",
+      "breakdownNotes": "",
+      "label": "extpray",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/itNElgJ.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(1)",
+      "name": "Powerburst of acceleration (1)",
+      "breakdownNotes": "",
+      "label": "accel1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/AI12yBk.png",
+      "wikiLink": "https://runescape.wiki/w/Fractured_Staff_of_Armadyl",
+      "name": "Fractured Staff of Armadyl",
+      "breakdownNotes": "",
+      "label": "fsoa",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GkhQHSj.png",
+      "wikiLink": "https://runescape.wiki/w/Bow_of_the_Last_Guardian",
+      "name": "Bow of the Last Guardian",
+      "breakdownNotes": "",
+      "label": "bolg",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/aKEG5mi.png",
+      "wikiLink": "https://runescape.wiki/w/Ek-ZekKil",
+      "name": "Ek-ZekKil",
+      "breakdownNotes": "",
+      "label": "zekkil",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "<span>blood| water| Fire</span><span>| soul</span>",
+      "label": "graspingpouchblue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "<span>Air| Chaos| Body</span><span>| Cosmic</span>",
+      "label": "graspingpouchpink",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/fWzGXLF.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(green)",
+      "name": "Grasping rune pouch (green)",
+      "breakdownNotes": "<span>death| Law| Earth</span><span>| Astral</span>",
+      "label": "graspingpouchgreen",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/goMzH9N.png",
+      "wikiLink": "https://runescape.wiki/w/Nightmare_gauntlets",
+      "name": "Nightmare gauntlets",
+      "breakdownNotes": "<span>superior does not work in pvp use normal nmz</span>",
+      "label": "nightmare",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sbrew",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained.",
+        "label": "persistentrage",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

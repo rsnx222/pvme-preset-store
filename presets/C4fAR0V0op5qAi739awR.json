@@ -1,0 +1,400 @@
+{
+  "presetName": "Zuk Preset (Necromancy)",
+  "presetNotes": "- Ancient Spellbook",
+  "equipmentSlots": [
+    {
+      "label": "t95necrohelm",
+      "image": "https://i.imgur.com/2msk92n.png",
+      "name": "Crown of the First Necromancer",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Crown_of_the_First_Necromancer"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "Reduced adrenaline use when using Death Skulls",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "eofblackunorn",
+      "image": "https://i.imgur.com/jRuWtdl.png",
+      "name": "Essence of Finality amulet (black)",
+      "breakdownNotes": "Special Attack: Death Grasp (Death Guard)",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet_(black)"
+    },
+    {
+      "label": "omniguard",
+      "image": "https://i.imgur.com/SzFvoQB.png",
+      "name": "Omni guard",
+      "breakdownNotes": "Aftershock 4, Eruptive 2<br />",
+      "wikiLink": "https://runescape.wiki/w/Omni_guard"
+    },
+    {
+      "label": "t95necrotop",
+      "image": "https://i.imgur.com/VwEHIYQ.png",
+      "name": "Robe top of the First Necromancer",
+      "breakdownNotes": "Relentless 5, Crackling 4 | Biting 4, Mobile",
+      "wikiLink": "https://runescape.wiki/w/Robe_top_of_the_First_Necromancer"
+    },
+    {
+      "label": "soulboundlantern",
+      "image": "https://i.imgur.com/VJsZ4HL.png",
+      "name": "Soulbound lantern",
+      "breakdownNotes": "Precise 6, Aftershock 1",
+      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern"
+    },
+    {
+      "label": "t95necrolegs",
+      "image": "https://i.imgur.com/s0Acz4g.png",
+      "name": "Robe bottom of the First Necromancer",
+      "breakdownNotes": "Devoted 4, Impatient 4 | Invigorating 4",
+      "wikiLink": "https://runescape.wiki/w/Robe_bottom_of_the_First_Necromancer"
+    },
+    {
+      "label": "cinder",
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "Extra poison damage",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+    },
+    {
+      "label": "t95necroboots",
+      "image": "https://i.imgur.com/FawdniP.png",
+      "name": "Foot wraps of the First Necromancer",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Foot_wraps_of_the_First_Necromancer"
+    },
+    {
+      "label": "zorgothssoulring",
+      "image": "https://i.imgur.com/EGVLuFE.png",
+      "name": "Zorgoth's soul ring",
+      "breakdownNotes": "<span>Extra Residual Soul stacks</span>",
+      "wikiLink": "https://runescape.wiki/w/Zorgoth%27s_soul_ring"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "mahj",
+      "image": "https://i.imgur.com/br11PCq.png",
+      "name": "Mahjarrat aura",
+      "breakdownNotes": "Any aura is fine",
+      "wikiLink": "https://runescape.wiki/w/Mahjarrat_aura"
+    },
+    {
+      "label": "scriptureofwen",
+      "image": "https://i.imgur.com/zd3mKfH.png",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "AOE damage during waves",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "salve",
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "Overloads + Prayer",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "blessed",
+      "image": "https://i.imgur.com/FVmxMkH.png",
+      "name": "Blessed flask",
+      "breakdownNotes": "Extra Prayer",
+      "wikiLink": "https://runescape.wiki/w/Blessed_flask",
+      "selected": false
+    },
+    {
+      "label": "vuln",
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "Used on Zuk, Har-Aken and Jad",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "poison6",
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "Extra poison damage",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "renewal6",
+      "image": "https://i.imgur.com/Swtl8pP.png",
+      "name": "Adrenaline renewal flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "If stats are reduced when killing Zuk",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "elvenshard",
+      "image": "https://i.imgur.com/UURvGNW.png",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "Extra Prayer",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "Extra HP",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "tokkulzo",
+      "image": "https://i.imgur.com/J1iLqln.png",
+      "name": "Tokkul-zo",
+      "breakdownNotes": "Switch to when killing Har-Aken",
+      "wikiLink": "https://runescape.wiki/w/Tokkul-zo",
+      "selected": false
+    },
+    {
+      "label": "lotd",
+      "image": "https://i.imgur.com/nXXZxpH.png",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "Switch to upon killing Zuk",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchgreen",
+      "image": "https://i.imgur.com/fWzGXLF.png",
+      "name": "Grasping rune pouch (green)",
+      "breakdownNotes": "<span>Runes for Animate Dead, Prism of Restoration</span>",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(green)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchred",
+      "image": "https://i.imgur.com/6nJNred.png",
+      "name": "Grasping rune pouch (red)",
+      "breakdownNotes": "<span>Runes for Animate Dead, Prism of Restoration</span>",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(red)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Runes for Animate Dead, Prism of Restoration",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "Or Guthix Rest's",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "Or Guthix Rest's",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "Or Guthix Rest's",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "Or Guthix Rest's",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "furyofthesmall",
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline."
+      },
+      {
+        "label": "deathward",
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%."
+      },
+      {
+        "label": "conservationofenergy",
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "energy": 350,
+        "description": "After using an ultimate ability, you will regain 10% adrenaline."
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "hellhound",
+        "image": "https://i.imgur.com/A1BvfVb.png",
+        "name": "Hellhound",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "label": "ripperdemon",
+        "image": "https://i.imgur.com/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": ""
+      },
+      {
+        "label": "kalgdemon",
+        "image": "https://i.imgur.com/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": ""
+      },
+      {
+        "label": "bloodreaver",
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

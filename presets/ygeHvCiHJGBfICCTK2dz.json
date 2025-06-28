@@ -1,0 +1,279 @@
+{
+  "presetName": "Croesus 2-man WC/Hunt",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "naturessentinelhelm",
+      "image": "https://img.pvme.io/images/h4cf5a8.png",
+      "name": "Nature's sentinel helm",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_helm"
+    },
+    {
+      "label": "huntercape",
+      "image": "https://img.pvme.io/images/myCOFKL.png",
+      "name": "Hunter cape",
+      "breakdownNotes": "Used for 2 ticking while gathering and doing core.",
+      "wikiLink": "https://runescape.wiki/w/Hunter_cape"
+    },
+    {
+      "label": "gote",
+      "image": "https://img.pvme.io/images/4KgPcpm.png",
+      "name": "Grace of the elves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves"
+    },
+    {
+      "label": "imcandohatchet",
+      "image": "https://img.pvme.io/images/Xoo3KYI.png",
+      "name": "Imcando hatchet",
+      "breakdownNotes": "Honed 6.",
+      "wikiLink": "https://runescape.wiki/w/Imcando_hatchet"
+    },
+    {
+      "label": "naturessentinelchest",
+      "image": "https://img.pvme.io/images/AVtsARx.png",
+      "name": "Nature's sentinel chest",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_chest"
+    },
+    {
+      "label": "fyretorch",
+      "image": "https://img.pvme.io/images/n42Kunc.png",
+      "name": "Sana's fyrtorch",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sana's_fyrtorch"
+    },
+    {
+      "label": "naturessentineltrunks",
+      "image": "https://img.pvme.io/images/AyzY63R.png",
+      "name": "Nature's sentinel trunks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_trunks"
+    },
+    {
+      "label": "naturessentinelbranch",
+      "image": "https://img.pvme.io/images/aHlOVcO.png",
+      "name": "Nature's sentinel branch",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_branch"
+    },
+    {
+      "label": "naturessentinelboots",
+      "image": "https://img.pvme.io/images/708o7G1.png",
+      "name": "Nature's sentinel boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_boots"
+    },
+    {
+      "label": "lotd",
+      "image": "https://img.pvme.io/images/nXXZxpH.png",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves"
+    },
+    {
+      "label": "graspingpouch",
+      "image": "https://img.pvme.io/images/Mk7jbjC.png",
+      "name": "Grasping rune pouch",
+      "breakdownNotes": "Earth | Fire | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch"
+    },
+    {
+      "label": "legendarylumberjack",
+      "image": "https://img.pvme.io/images/TFKGtdh.png",
+      "name": "Legendary lumberjack aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Legendary_lumberjack_aura"
+    },
+    {
+      "label": "scriptureofbik",
+      "image": "https://img.pvme.io/images/t1KMJMv.png",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "Optional for gathering clues.",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)"
+    },
+    {
+      "label": "extremehunterflask",
+      "image": "https://img.pvme.io/images/XVBSWOO.png",
+      "name": "Extreme hunter flask",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Extreme_hunter_flask#(6)"
+    },
+    {
+      "label": "fungalsporesoup",
+      "image": "https://img.pvme.io/images/Wb8Mgob.png",
+      "name": "Fungal spore soup",
+      "breakdownNotes": "<span>For damaging the core.</span>",
+      "wikiLink": "https://runescape.wiki/w/Fungal_spore_soup"
+    },
+    {
+      "label": "fungaalgaesoup",
+      "image": "https://img.pvme.io/images/OxpeKXr.png",
+      "name": "Fungal algae soup",
+      "breakdownNotes": "<span>For damaging the core.</span>",
+      "wikiLink": "https://runescape.wiki/w/Fungal_algae_soup"
+    },
+    {
+      "label": "artificer",
+      "image": "https://img.pvme.io/images/gMZLjIv.png",
+      "name": "Artificer's measure",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Artificer's_measure"
+    },
+    {
+      "label": "masterconstructorhat",
+      "image": "https://img.pvme.io/images/OTFMuCJ.png",
+      "name": "Master constructor's hat",
+      "breakdownNotes": "Used when repairing statues.",
+      "wikiLink": "https://runescape.wiki/w/Master_constructor's_hat"
+    },
+    {
+      "label": "masterconstructorsboots",
+      "image": "https://img.pvme.io/images/UCx0Gj9.png",
+      "name": "Master constructor's boots",
+      "breakdownNotes": "<span>Used when repairing statues.</span>",
+      "wikiLink": "https://runescape.wiki/w/Master_constructor's_boots"
+    },
+    null,
+    {
+      "label": "splinteringarrowtip1",
+      "image": "https://img.pvme.io/images/jHCeJqk.png",
+      "name": "Splintering arrow tips",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Splintering_arrow_tips"
+    },
+    {
+      "label": "timberfungussoup",
+      "image": "https://img.pvme.io/images/ylitEiS.png",
+      "name": "Timber fungus soup",
+      "breakdownNotes": "For damaging the core.",
+      "wikiLink": "https://runescape.wiki/w/Timber_fungus_soup"
+    },
+    {
+      "label": "calcifiedfungussoup",
+      "image": "https://img.pvme.io/images/exlOdpw.png",
+      "name": "Calcified fungus soup",
+      "breakdownNotes": "<span>For damaging the core.</span>",
+      "wikiLink": "https://runescape.wiki/w/Calcified_fungus_soup"
+    },
+    {
+      "label": "masterconstructortrousers",
+      "image": "https://img.pvme.io/images/sKzjiFQ.png",
+      "name": "Master constructor's trousers",
+      "breakdownNotes": "<span>Used when repairing statues.</span>",
+      "wikiLink": "https://runescape.wiki/w/Master_constructor's_trousers"
+    },
+    {
+      "label": "masterconstructorjacket",
+      "image": "https://img.pvme.io/images/0BCKI4J.png",
+      "name": "Master constructor's jacket",
+      "breakdownNotes": "<span>Used when repairing statues.</span>",
+      "wikiLink": "https://runescape.wiki/w/Master_constructor's_jacket"
+    },
+    {
+      "label": "masterconstructorgloves",
+      "image": "https://img.pvme.io/images/Kk7SksF.png",
+      "name": "Master constructor's gloves",
+      "breakdownNotes": "<span>Used when repairing statues.</span>",
+      "wikiLink": "https://runescape.wiki/w/Master_constructor's_gloves"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline.",
+        "label": "shadowsgrace",
+        "energy": 50
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/cIiazJk.png",
+        "name": "Arctic Bear",
+        "breakdownNotes": "",
+        "label": "arcticbear"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

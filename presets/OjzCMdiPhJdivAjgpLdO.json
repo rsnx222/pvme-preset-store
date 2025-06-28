@@ -1,0 +1,283 @@
+{
+  "presetName": "AFK Devil's Snare Necro",
+  "presetNotes": "<div><img title=\"kalgpouch\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/921410226484301925.png?v=1\" /> uses <img title=\"kalgscroll\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/841409588954923049.png?v=1\" /> with auto fire rate set to 1.</div>",
+  "equipmentSlots": [
+    {
+      "label": "t95necrohelm",
+      "image": "https://img.pvme.io/images/2msk92n.png",
+      "name": "Crown of the First Necromancer",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Crown_of_the_First_Necromancer"
+    },
+    {
+      "label": "kalmor",
+      "image": "https://img.pvme.io/images/bIV6C4o.png",
+      "name": "Igneous Kal-Mor",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mor"
+    },
+    {
+      "label": "eofpurpleunorn",
+      "image": "https://img.pvme.io/images/5NxOiAg.png",
+      "name": "EoF - Decimation",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Decimation"
+    },
+    {
+      "label": "omniguard",
+      "image": "https://img.pvme.io/images/SzFvoQB.png",
+      "name": "Omni guard",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Omni_guard"
+    },
+    {
+      "label": "t95necrotop",
+      "image": "https://img.pvme.io/images/VwEHIYQ.png",
+      "name": "Robe top of the First Necromancer",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Robe_top_of_the_First_Necromancer"
+    },
+    {
+      "label": "soulboundlantern",
+      "image": "https://img.pvme.io/images/VJsZ4HL.png",
+      "name": "Soulbound lantern",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern"
+    },
+    {
+      "label": "t95necrolegs",
+      "image": "https://img.pvme.io/images/s0Acz4g.png",
+      "name": "Robe bottom of the First Necromancer",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Robe_bottom_of_the_First_Necromancer"
+    },
+    {
+      "label": "cinder",
+      "image": "https://img.pvme.io/images/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+    },
+    {
+      "label": "t95necroboots",
+      "image": "https://img.pvme.io/images/FawdniP.png",
+      "name": "Foot wraps of the First Necromancer",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Foot_wraps_of_the_First_Necromancer"
+    },
+    {
+      "label": "rod",
+      "image": "https://img.pvme.io/images/y5vAY4M.png",
+      "name": "Ring of death",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death"
+    },
+    {
+      "label": "graspingpouchgreen",
+      "image": "https://img.pvme.io/images/fWzGXLF.png",
+      "name": "Grasping rune pouch (green)",
+      "breakdownNotes": "Time | Nature | Air | Earth",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(green)"
+    },
+    null,
+    {
+      "label": "scriptureofwen",
+      "image": "https://img.pvme.io/images/zd3mKfH.png",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "cannon",
+      "image": "https://img.pvme.io/images/GTwVqeC.png",
+      "name": "Dwarven siege engine",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)"
+    },
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)"
+    },
+    {
+      "label": "powderofpenance2",
+      "image": "https://img.pvme.io/images/w6hThUy.png",
+      "name": "Powder of penance",
+      "breakdownNotes": "Not needed when using Penance aura.",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "label": "poison6",
+      "image": "https://img.pvme.io/images/KyZkJoc.png",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)"
+    },
+    {
+      "label": "poison6",
+      "image": "https://img.pvme.io/images/KyZkJoc.png",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)"
+    },
+    {
+      "label": "deathwardennexus",
+      "image": "https://img.pvme.io/images/hd7YvA4.png",
+      "name": "Deathwarden Nexus",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "label": "slayercape",
+      "image": "https://img.pvme.io/images/B4vyqxv.png",
+      "name": "Slayer cape (t)",
+      "breakdownNotes": "Teleport to Laniakea and then run west to Devi's Snare.",
+      "wikiLink": "https://runescape.wiki/w/Slayer_cape_(t)"
+    },
+    {
+      "label": "elvenshard",
+      "image": "https://img.pvme.io/images/UURvGNW.png",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard"
+    },
+    {
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001"
+    },
+    {
+      "label": "cballs",
+      "image": "https://img.pvme.io/images/GrfjyE2.png",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs"
+    },
+    {
+      "label": "kwuarmsticks",
+      "image": "https://img.pvme.io/images/Ba7yju8.png",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "Optional",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks"
+    },
+    null,
+    null,
+    {
+      "label": "gembag",
+      "image": "https://img.pvme.io/images/ODNlwIc.png",
+      "name": "Gem bag (upgraded)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Gem_bag_(upgraded)"
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "kalgdemon",
+        "image": "https://img.pvme.io/images/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "https://i.imgur.com/KWIawjY.png",
+        "name": "Legendary Pet (Scavenge)",
+        "breakdownNotes": "",
+        "label": "legendpetscav"
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

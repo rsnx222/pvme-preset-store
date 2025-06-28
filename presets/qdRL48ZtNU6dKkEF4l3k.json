@@ -1,0 +1,313 @@
+{
+  "presetName": "AFK Helwyr (Safer)",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/mOp3i6V.png",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_hood_(tier_90)",
+      "name": "Deathdealer hood (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathdealerhoodt90"
+    },
+    {
+      "image": "https://i.imgur.com/bIV6C4o.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mor",
+      "name": "Igneous Kal-Mor",
+      "breakdownNotes": "",
+      "label": "kalmor"
+    },
+    {
+      "image": "https://i.imgur.com/cUaU7mB.png",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_souls",
+      "name": "Amulet of souls",
+      "breakdownNotes": "",
+      "label": "aos"
+    },
+    {
+      "image": "https://i.imgur.com/SzFvoQB.png",
+      "wikiLink": "https://runescape.wiki/w/Omni_guard",
+      "name": "Omni guard",
+      "breakdownNotes": "",
+      "label": "omniguard"
+    },
+    {
+      "image": "https://i.imgur.com/JkyJN48.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_top_(tier_90)",
+      "name": "Deathwarden robe top (tier 90)",
+      "breakdownNotes": "Relentless 5 Crackling 4 | Biting <br />",
+      "label": "deathwardenrobetopt90"
+    },
+    {
+      "image": "https://i.imgur.com/VJsZ4HL.png",
+      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern",
+      "name": "Soulbound lantern",
+      "breakdownNotes": "",
+      "label": "soulboundlantern"
+    },
+    {
+      "image": "https://i.imgur.com/4KirFLg.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_legs_(tier_90)",
+      "name": "Deathwarden robe legs (tier 90)",
+      "breakdownNotes": "Crystal Shield 4 | Absorbative 4<br />",
+      "label": "deathwardenrobelegst90"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/ixeiTn3.png",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_boots_(tier_90)",
+      "name": "Deathdealer boots (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathdealerbootst90"
+    },
+    {
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "label": "reaverring"
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "label": "graspingpouchblack"
+    },
+    {
+      "image": "https://i.imgur.com/JigaLBL.png",
+      "wikiLink": "https://runescape.wiki/w/Vampyrism_aura",
+      "name": "Vampyrism aura",
+      "breakdownNotes": "",
+      "label": "vampaura"
+    },
+    {
+      "image": "https://i.imgur.com/zd3mKfH.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "",
+      "label": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve"
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve"
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail"
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail"
+    },
+    {
+      "image": "https://i.imgur.com/CR06fbn.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(4)",
+      "name": "Weapon poison+++ (4)",
+      "breakdownNotes": "",
+      "label": "poison4"
+    },
+    {
+      "image": "https://i.imgur.com/hw7rKHz.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(1)",
+      "name": "Weapon poison+++ (1)",
+      "breakdownNotes": "",
+      "label": "poison1"
+    },
+    {
+      "image": "https://i.imgur.com/BQXFPFu.png",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(blood_reaver)",
+      "name": "Binding contract (blood reaver)",
+      "breakdownNotes": "",
+      "label": "reaver"
+    },
+    {
+      "image": "https://i.imgur.com/w6hThUy.png",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "name": "Powder of penance",
+      "breakdownNotes": "",
+      "label": "powderofpenance2"
+    },
+    {
+      "image": "https://i.imgur.com/Ba7yju8.png",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "",
+      "label": "kwuarmsticks"
+    },
+    {
+      "image": "https://i.imgur.com/wsYgZsb.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_luck_potion",
+      "name": "Enhanced luck potion",
+      "breakdownNotes": "",
+      "label": "enhluck"
+    },
+    {
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "label": "restore4"
+    },
+    {
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "label": "restore4"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/UVffd75.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench",
+      "name": "Holy wrench",
+      "breakdownNotes": "",
+      "label": "wrench"
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner"
+    },
+    {
+      "image": "https://i.imgur.com/hd7YvA4.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
+      "name": "Deathwarden Nexus",
+      "breakdownNotes": "",
+      "label": "deathwardennexus"
+    },
+    {
+      "image": "https://i.imgur.com/UURvGNW.png",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "label": "elvenshard"
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained.",
+        "label": "persistentrage",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained.",
+        "label": "persistentrage",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": "",
+        "label": "bloodreaver"
+      }
+    ]
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "presetName": "abyssal beasts magic",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/z6apdWl.png",
+      "wikiLink": "https://runescape.wiki/w/Virtus_mask",
+      "name": "Virtus mask",
+      "breakdownNotes": "",
+      "label": "virtushelm"
+    },
+    {
+      "image": "https://i.imgur.com/v4dRHBk.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mej",
+      "name": "Igneous Kal-Mej",
+      "breakdownNotes": "",
+      "label": "kalmej"
+    },
+    {
+      "image": "https://i.imgur.com/UB0lAK8.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet",
+      "name": "Essence of Finality amulet",
+      "breakdownNotes": "",
+      "label": "eof"
+    },
+    {
+      "image": "https://i.imgur.com/My8VkUX.png",
+      "wikiLink": "https://runescape.wiki/w/Inquisitor_staff",
+      "name": "Inquisitor staff",
+      "breakdownNotes": "<img title=\"caroming2\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1092819699416453220.png?v=1\" /> <img title=\"precise4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1092819725546946640.png?v=1\" /> | <img title=\"eruptive4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1214416401561952296.png?v=1\" /> <img title=\"ruthless3\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" />",
+      "label": "inq"
+    },
+    {
+      "image": "https://i.imgur.com/cau9oLa.png",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_top",
+      "name": "Virtus robe top",
+      "breakdownNotes": "<img title=\"biting4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087809617931.png?v=1\" /> <img title=\"demonslayerperk\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502842653900818.png?v=1\" /> | <img title=\"crack4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087662686249.png?v=1\" />",
+      "label": "virtustop"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/eEGwTU4.png",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_legs",
+      "name": "Virtus robe legs",
+      "breakdownNotes": "<img title=\"scav\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1109429520995463288.png?v=1\" />",
+      "label": "virtuslegs"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/2VPk1SN.png",
+      "wikiLink": "https://runescape.wiki/w/Blast_diffusion_boots",
+      "name": "Blast diffusion boots",
+      "breakdownNotes": "",
+      "label": "diffusion"
+    },
+    {
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "label": "reaverring"
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "<img title=\"waterrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252660165115905.png?v=1\" /> | <img title=\"bloodrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658970001409.png?v=1\" /> | <img title=\"soulrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252660333019136.png?v=1\" />",
+      "label": "graspingpouchblack"
+    },
+    {
+      "image": "https://i.imgur.com/5fIllNu.png",
+      "wikiLink": "https://runescape.wiki/w/Maniacal_aura",
+      "name": "Maniacal aura",
+      "breakdownNotes": "",
+      "label": "mani"
+    },
+    {
+      "image": "https://i.imgur.com/t1KMJMv.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "",
+      "label": "scriptureofbik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nTRsMW1.png",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "name": "Aggression flask (6)",
+      "breakdownNotes": "",
+      "label": "aggro6",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/4n0C5gK.png",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "",
+      "label": "lantadymeincensesticks100",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ARLol7s.png",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "",
+      "label": "kwuarmsticks100",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nTRsMW1.png",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "name": "Aggression flask (6)",
+      "breakdownNotes": "",
+      "label": "aggro6",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KPREDHT.png",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "label": "cluebag",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NkIcFSt.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_ectoplasmator",
+      "name": "Attuned ectoplasmator",
+      "breakdownNotes": "",
+      "label": "ecto",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9oDoU6T.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "",
+      "label": "spiritattractionflask",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "label": "poison6",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/MivUk5T.png",
+      "wikiLink": "https://runescape.wiki/w/Slayer_codex",
+      "name": "Slayer codex",
+      "breakdownNotes": "",
+      "label": "scodex",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/XjIho2f.png",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "name": "Powder of penance",
+      "breakdownNotes": "",
+      "label": "powderofpenance",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ODNlwIc.png",
+      "wikiLink": "https://runescape.wiki/w/Gem_bag_(upgraded)",
+      "name": "Gem bag (upgraded)",
+      "breakdownNotes": "",
+      "label": "gembag",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hd7YvA4.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
+      "name": "Deathwarden Nexus",
+      "breakdownNotes": "",
+      "label": "deathwardennexus",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/Ivcgjer.png",
+        "name": "Luck of the Dwarves",
+        "breakdownNotes": "",
+        "description": "You will always gain the effect of tier 4 luck.",
+        "label": "luckofthedwarves",
+        "energy": 200
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "https://i.imgur.com/KWIawjY.png",
+        "name": "Legendary Pet (Scavenge)",
+        "breakdownNotes": "",
+        "label": "legendpetscav"
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": "",
+        "label": "bloodreaver"
+      }
+    ]
+  }
+}

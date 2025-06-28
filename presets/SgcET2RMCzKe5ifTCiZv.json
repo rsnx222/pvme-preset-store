@@ -1,0 +1,383 @@
+{
+  "presetName": "Legacy Capsarius",
+  "presetNotes": "This setup assumes you're using Legacy Combat Mode <br /><br />Pray Leech Ranged Strength <br />",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/DpKvhTI.png",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_helm_of_zamorak",
+      "name": "Anima core helm of zamorak",
+      "breakdownNotes": "",
+      "label": "zamhelm"
+    },
+    {
+      "image": "https://i.imgur.com/TNKAuKX.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Xil",
+      "name": "Igneous Kal-Xil",
+      "breakdownNotes": "",
+      "label": "kalxil"
+    },
+    {
+      "image": "https://i.imgur.com/UHRGdEk.png",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_zealots",
+      "name": "Amulet of zealots",
+      "breakdownNotes": "",
+      "label": "zealots"
+    },
+    {
+      "image": "https://i.imgur.com/BJ1Qzbt.png",
+      "wikiLink": "https://runescape.wiki/w/Decimation",
+      "name": "Decimation",
+      "breakdownNotes": "Precise 6 <img title=\"p6\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088769982475.png?v=1\" /> Ruthless <img title=\"ruthless3\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" />",
+      "label": "deci"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/R5kSCvF.png",
+      "wikiLink": "https://runescape.wiki/w/Fleeting_boots",
+      "name": "Fleeting boots",
+      "breakdownNotes": "",
+      "label": "fleet"
+    },
+    {
+      "image": "https://i.imgur.com/xRj7mKb.png",
+      "wikiLink": "https://runescape.wiki/w/Stalker's_ring",
+      "name": "Stalker's ring",
+      "breakdownNotes": "",
+      "label": "stalkerring"
+    },
+    {
+      "image": "https://i.imgur.com/yxmdGCZ.png",
+      "wikiLink": "https://runescape.wiki/w/Tirannwn_quiver_4",
+      "name": "Tirannwn quiver 4",
+      "breakdownNotes": "",
+      "label": "quiver4"
+    },
+    {
+      "image": "https://i.imgur.com/a3Up2sd.png",
+      "wikiLink": "https://runescape.wiki/w/Equilibrium_aura",
+      "name": "Equilibrium aura",
+      "breakdownNotes": "",
+      "label": "equilibriumaura"
+    },
+    {
+      "image": "https://i.imgur.com/we1VPRx.png",
+      "wikiLink": "https://runescape.wiki/w/Scrimshaw_of_Cruelty",
+      "name": "Scrimshaw of Cruelty",
+      "breakdownNotes": "",
+      "label": "cruelty"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "label": "poison6",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "label": "poison6",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "label": "poison6",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "label": "poison6",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/uIF03Iz.png",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#active",
+      "name": "Potion reservoir",
+      "breakdownNotes": "",
+      "label": "potionreservoir",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8r07LbS.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_notepaper",
+      "name": "Magic notepaper",
+      "breakdownNotes": "",
+      "label": "1knote",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/MivUk5T.png",
+      "wikiLink": "https://runescape.wiki/w/Slayer_codex",
+      "name": "Slayer codex",
+      "breakdownNotes": "",
+      "label": "scodex",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UVffd75.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench",
+      "name": "Holy wrench",
+      "breakdownNotes": "",
+      "label": "wrench",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UURvGNW.png",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "label": "elvenshard",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/KWIawjY.png",
+        "name": "Legendary Pet (Scavenge)",
+        "breakdownNotes": "",
+        "label": "legendpetscav"
+      }
+    ]
+  }
+}

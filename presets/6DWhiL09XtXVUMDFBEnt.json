@@ -1,0 +1,231 @@
+{
+  "presetName": "Tetracompass Gathering Preset",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "masterarchaeologistshat",
+      "image": "https://img.pvme.io/images/RbVMH0O.png",
+      "name": "Master archaeologist's hat",
+      "breakdownNotes": "<span>6% bonus experience, u</span><span>nlimited teleports</span><span> to archaeological dig sites and collectors if</span><span> the</span><span> entire master archaeologist' outfit is equipped</span>",
+      "wikiLink": "https://runescape.wiki/w/Master_archaeologist's_hat"
+    },
+    {
+      "label": "archcape",
+      "image": "https://img.pvme.io/images/EcaWmO8.png",
+      "name": "Archaeology master cape",
+      "breakdownNotes": "<span>Skill cape perk provides 5–15% of progress to the next discovery when discovering an artefact</span>",
+      "wikiLink": "https://runescape.wiki/w/Archaeology_master_cape"
+    },
+    {
+      "label": "gote",
+      "image": "https://img.pvme.io/images/4KgPcpm.png",
+      "name": "Grace of the elves",
+      "breakdownNotes": "For Seren spirits whilst gathering",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves"
+    },
+    {
+      "label": "guildmastertonysmattock",
+      "image": "https://img.pvme.io/images/dkBoC4WhuD.png",
+      "name": "Guildmaster Tony's mattock",
+      "breakdownNotes": "Can s<span>ubstitute with the Mattock of Time and Space</span>",
+      "wikiLink": "https://runescape.wiki/w/Guildmaster_Tony%27s_mattock"
+    },
+    {
+      "label": "masterarchaeologistsjacket",
+      "image": "https://img.pvme.io/images/CeH68i3.png",
+      "name": "Master Archaeologist's jacket",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_Archaeologist's_jacket"
+    },
+    {
+      "label": "balarakssashbrush",
+      "image": "https://img.pvme.io/images/KxkWRxPBoB.png",
+      "name": "Balarak's sash brush",
+      "breakdownNotes": "Provides passive boosts to excavation success rate and mattock base precision, as well as occasionally finding additional materials. An additional bonus is given for following the time sprite",
+      "wikiLink": "https://runescape.wiki/w/Balarak%27s_sash_brush"
+    },
+    {
+      "label": "masterarchaeologiststrousers",
+      "image": "https://img.pvme.io/images/e7lRM02.png",
+      "name": "Master archaeologist's trousers",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_archaeologist's_trousers"
+    },
+    {
+      "label": "masterarchaeologistsgloves",
+      "image": "https://img.pvme.io/images/rZTzwbE.png",
+      "name": "Master archaeologist's gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_archaeologist's_gloves"
+    },
+    {
+      "label": "masterarchaeologistsboots",
+      "image": "https://img.pvme.io/images/uUxhha9.png",
+      "name": "Master archaeologist's boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_archaeologist's_boots"
+    },
+    {
+      "label": "hsr",
+      "image": "https://img.pvme.io/images/xmcbfhs.png",
+      "name": "Hazelmere's signet ring",
+      "breakdownNotes": "<span>Increases quality &amp; quantity of </span><span>Catalyst of alteration procs. </span><span>Can s</span><span>ubstitute with any T4 luck <img title=\"lotd\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/566453486913323042.png?v=1\" /></span>",
+      "wikiLink": "https://runescape.wiki/w/Hazelmere's_signet"
+    },
+    null,
+    null,
+    {
+      "label": "scriptureofbik",
+      "image": "https://img.pvme.io/images/t1KMJMv.png",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "<span>For additional clues through Catalyst of alteration procs</span>",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "restore4",
+      "image": "https://img.pvme.io/images/9GwrVt6.png",
+      "name": "Super restore (4)",
+      "breakdownNotes": "To restore familiar <span>special move points</span>",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)"
+    },
+    {
+      "label": "elvenshard",
+      "image": "https://img.pvme.io/images/UURvGNW.png",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "When activated, will restore 37.5% of the player's total Prayer points over 30 seconds. It has a 5-minute cooldown and can be activated an infinite number of times. It is unaffected by the holy wrench or Reverence aura",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard"
+    },
+    {
+      "label": "potionreservoir2",
+      "image": "https://img.pvme.io/images/af9O4EM.png",
+      "name": "Potion reservoir (inactive)",
+      "breakdownNotes": "<span>When spirit attraction is used on an active reservoir, it will fill up and automatically consume the potion 1–15 seconds before the potion's effects would expire</span>",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#inactive"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "label": "spiritattractionflask",
+      "image": "https://img.pvme.io/images/9oDoU6T.png",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "<span>Automatically collects automatically collects Seren Spirits &amp; Catalyst of alteration procs from the Scripture of Bik</span>",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "label": "spiritattractionflask",
+      "image": "https://img.pvme.io/images/9oDoU6T.png",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "<span>Automatically collects automatically collects Seren Spirits &amp; Catalyst of alteration procs from the Scripture of Bik</span>",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "label": "waterfiend",
+      "image": "https://img.pvme.io/images/aPyBE1KrM7.png",
+      "name": "Binding contract (waterfiend)",
+      "breakdownNotes": "<span>Grants a 5% chance while training</span><span> to duplicate the gained artefact and store it within itself</span>",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(waterfiend)"
+    },
+    {
+      "label": "waterfiendscrolls",
+      "image": "https://img.pvme.io/images/1VMCtlV5fb.png",
+      "name": "Waterfiend scroll (Straight Flush)",
+      "breakdownNotes": "<span>Allows the player to teleport all items stored within the familiar</span><span>'s inventory</span><span> to the player's bank</span><span> at the cost of 6 special move points</span>",
+      "wikiLink": "https://runescape.wiki/w/Waterfiend_scroll_(Straight_Flush)"
+    },
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "flowstate",
+        "image": "https://img.pvme.io/images/7yQkguFWZ0.png",
+        "name": "Flow State",
+        "breakdownNotes": "",
+        "energy": 200,
+        "description": "20% increase to Archaeology excavation precision at the expense of receiving no soil"
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

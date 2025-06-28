@@ -1,0 +1,381 @@
+{
+  "presetName": "Obelisk Abyssal Demons (Magic)",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/iIut3c4.png",
+      "wikiLink": "https://runescape.wiki/w/Demon_slayer_circlet",
+      "name": "Demon slayer circlet",
+      "breakdownNotes": "",
+      "label": "demonslayercirclet"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/UHRGdEk.png",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_zealots",
+      "name": "Amulet of zealots",
+      "breakdownNotes": "Pray Leech Magic Strength and Soul Split<br />",
+      "label": "zealots"
+    },
+    {
+      "image": "https://i.imgur.com/xBT2XFf.png",
+      "wikiLink": "https://runescape.wiki/w/Inquisitor_staff",
+      "name": "Inquisitor staff",
+      "breakdownNotes": "Caroming 4, Precise 2 + Equilibrium 4, Ruthless 3<br />",
+      "label": "inq"
+    },
+    {
+      "image": "https://i.imgur.com/cau9oLa.png",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_top",
+      "name": "Virtus robe top",
+      "breakdownNotes": "Biting 4, Demon Slayer + Relentless 5, Crackling 4",
+      "label": "virtustop"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/eEGwTU4.png",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_legs",
+      "name": "Virtus robe legs",
+      "breakdownNotes": "Impatient 4, Genocidal + Scavenging 4<br />",
+      "label": "virtuslegs"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/jdMqrkq.png",
+      "wikiLink": "https://runescape.wiki/w/Demon_slayer_boots",
+      "name": "Demon slayer boots",
+      "breakdownNotes": "",
+      "label": "demonslayerboots"
+    },
+    {
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "label": "reaverring"
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "label": "graspingpouchblack"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/gEMAH7Z.png",
+      "wikiLink": "https://runescape.wiki/w/Scrimshaw_of_sacrifice",
+      "name": "Scrimshaw of sacrifice",
+      "breakdownNotes": "Can use Ful or Wen instead<br />",
+      "label": "sacscrim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "<br />",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "<br />",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/w6hThUy.png",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "name": "Powder of penance",
+      "breakdownNotes": "",
+      "label": "powderofpenance2",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/JollAZs.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_scarab_pouch",
+      "name": "Holy scarab pouch",
+      "breakdownNotes": "<div>If prayer restoration isn't an issue, can replace with Ripper or Kal'g</div>",
+      "label": "holyscarab",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/af9O4EM.png",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir",
+      "name": "Potion reservoir",
+      "breakdownNotes": "",
+      "label": "potionreservoir2",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "label": "poison6",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FmTBRvg.png",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "",
+      "label": "lantasticks",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/iQiQKke.png",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "",
+      "label": "kwuarmsticks",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UEC7TLp.png",
+      "wikiLink": "https://runescape.wiki/w/Black_crystal_(reduced_healing)",
+      "name": "Black crystal (reduced healing)",
+      "breakdownNotes": "",
+      "label": "blackcrystal",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/eXAbFdM.png",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine",
+      "name": "Dwarven siege engine",
+      "breakdownNotes": "",
+      "label": "cannon",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/39OlNWt.png",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "label": "cballs",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "label": "graspingpouchpink",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire   <br />",
+      "label": "graspingpouchblue",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/spEwR2q.png",
+        "name": "Slayer Introspection",
+        "breakdownNotes": "",
+        "label": "slayerintrospection",
+        "energy": 200
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "https://i.imgur.com/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": "",
+        "label": "ripperdemon"
+      },
+      {
+        "image": "https://i.imgur.com/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": "",
+        "label": "kalgdemon"
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/x5tUpRe.png",
+        "name": "Holy scarab",
+        "breakdownNotes": "",
+        "label": "holyscarab"
+      }
+    ]
+  }
+}

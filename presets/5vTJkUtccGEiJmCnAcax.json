@@ -1,0 +1,396 @@
+{
+  "presetName": "BOLG Raksha",
+  "presetNotes": "Laniakea's spear is perked with Precise 6/Equilibrium 4",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/lhfAbhp.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_mask",
+      "name": "Sirenic mask",
+      "breakdownNotes": "Can be upgraded to Elite Sirenic",
+      "label": "sirenichelm"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/MWLieOn.png",
+      "wikiLink": "https://runescape.wiki/w/Eldritch_crossbow",
+      "name": "EoF - Eldritch crossbow",
+      "breakdownNotes": "",
+      "label": "eofpink"
+    },
+    {
+      "image": "https://i.imgur.com/GkhQHSj.png",
+      "wikiLink": "https://runescape.wiki/w/Bow_of_the_Last_Guardian",
+      "name": "Bow of the Last Guardian",
+      "breakdownNotes": "",
+      "label": "bolg"
+    },
+    {
+      "image": "https://i.imgur.com/lYDKMiu.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_hauberk",
+      "name": "Sirenic hauberk",
+      "breakdownNotes": "<span>Can be upgraded to Elite Sirenic</span>",
+      "label": "sirenictop"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/gBPOqaV.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_chaps",
+      "name": "Sirenic chaps",
+      "breakdownNotes": "<span>Can be upgraded to Elite Sirenic</span>",
+      "label": "sireniclegs"
+    },
+    {
+      "image": "https://i.imgur.com/goMzH9N.png",
+      "wikiLink": "https://runescape.wiki/w/Nightmare_gauntlets",
+      "name": "Nightmare gauntlets",
+      "breakdownNotes": "Enchanted",
+      "label": "nightmare"
+    },
+    {
+      "image": "https://i.imgur.com/R5kSCvF.png",
+      "wikiLink": "https://runescape.wiki/w/Fleeting_boots",
+      "name": "Fleeting boots",
+      "breakdownNotes": "Can be upgraded",
+      "label": "fleet"
+    },
+    {
+      "image": "https://i.imgur.com/xRj7mKb.png",
+      "wikiLink": "https://runescape.wiki/w/Stalker's_ring",
+      "name": "Stalker's ring",
+      "breakdownNotes": "Enchanted",
+      "label": "stalkerring"
+    },
+    {
+      "image": "https://i.imgur.com/MCRkOPS.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver (Yellow)",
+      "breakdownNotes": "Hydrix (e) + Ful arrows",
+      "label": "pernixquiveryellow"
+    },
+    {
+      "image": "https://i.imgur.com/oPYJmML.png",
+      "wikiLink": "https://runescape.wiki/w/Reckless_aura",
+      "name": "Reckless aura",
+      "breakdownNotes": "Required for accuracy and damage",
+      "label": "reckless"
+    },
+    {
+      "image": "https://i.imgur.com/eAO0PdY.png",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire",
+      "name": "Erethdor's grimoire",
+      "breakdownNotes": "",
+      "label": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/DGw6F36.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "",
+      "label": "ovl",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/IqAjWRF.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "",
+      "label": "renewal4",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/zAiXkJn.png",
+      "wikiLink": "https://runescape.wiki/w/Seren_godbow",
+      "name": "EoF - Seren godbow",
+      "breakdownNotes": "",
+      "label": "eofblue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "label": "grest",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "label": "grest",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "label": "grest",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PFLToHh.png",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)",
+      "name": "Spiritual prayer (6)",
+      "breakdownNotes": "",
+      "label": "spiritual",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PFLToHh.png",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)",
+      "name": "Spiritual prayer (6)",
+      "breakdownNotes": "",
+      "label": "spiritual",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PFLToHh.png",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)",
+      "name": "Spiritual prayer (6)",
+      "breakdownNotes": "",
+      "label": "spiritual",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "label": "vuln",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/n9C7iSA.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "Used for rockfalls",
+      "label": "vitality4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/u9527hu.png",
+      "wikiLink": "https://runescape.wiki/w/Deathspore_arrows",
+      "name": "Deathspore arrows",
+      "breakdownNotes": "",
+      "label": "deathsporearrows",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GNzR4sU.png",
+      "wikiLink": "https://runescape.wiki/w/Expensive_spices",
+      "name": "Expensive spices",
+      "breakdownNotes": "",
+      "label": "spices",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/BGhsSXy.png",
+      "wikiLink": "https://runescape.wiki/w/Laniakea's_spear",
+      "name": "Laniakea's spear",
+      "breakdownNotes": "For pools",
+      "label": "lanispear",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/EiQNqj9.png",
+      "wikiLink": "https://runescape.wiki/w/Laceration_boots",
+      "name": "Laceration boots",
+      "breakdownNotes": "<span>For pools</span>",
+      "label": "laceration",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/6IMR311.png",
+      "wikiLink": "https://runescape.wiki/w/Blightbound_crossbow",
+      "name": "Blightbound crossbow",
+      "breakdownNotes": "",
+      "label": "bbc",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bDDDK9h.png",
+      "wikiLink": "https://runescape.wiki/w/Off-hand_blightbound_crossbow",
+      "name": "Off-hand blightbound crossbow",
+      "breakdownNotes": "",
+      "label": "ohbbc",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic - Runes for Vengeance and Disruption Shield with Smoke Cloud on Borrowed Power",
+      "label": "graspingpouchpink",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul<span> - Runes for Vengeance and Disruption Shield with Smoke Cloud on Borrowed Power</span>",
+      "label": "graspingpouchblack",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/DjyfvR1.png",
+        "name": "Heightened Senses",
+        "breakdownNotes": "",
+        "label": "heightenedsenses",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "https://i.imgur.com/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "label": "fontoflife",
+        "energy": 50
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": "",
+        "label": "ripperdemon"
+      }
+    ]
+  }
+}

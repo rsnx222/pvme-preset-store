@@ -1,0 +1,340 @@
+{
+  "presetName": "Tetracompass Gathering Preset",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "masterarchaeologistshat",
+      "image": "https://img.pvme.io/images/RbVMH0O.png",
+      "name": "Master archaeologist's hat",
+      "breakdownNotes": "<span>6% bonus experience, u</span><span>nlimited teleports</span><span> to archaeological dig sites and collectors if</span><span> the</span><span> entire master archaeologist' outfit is equipped</span>",
+      "wikiLink": "https://runescape.wiki/w/Master_archaeologist's_hat"
+    },
+    {
+      "label": "archcape",
+      "image": "https://img.pvme.io/images/EcaWmO8.png",
+      "name": "Archaeology master cape",
+      "breakdownNotes": "<span>Skill cape perk provides 5–15% of progress to the next discovery when discovering an artefact</span>",
+      "wikiLink": "https://runescape.wiki/w/Archaeology_master_cape"
+    },
+    {
+      "label": "gote",
+      "image": "https://img.pvme.io/images/4KgPcpm.png",
+      "name": "Grace of the elves",
+      "breakdownNotes": "New and partially-used Signs of the Porter can charge the necklace up to 500 charges, enabling full functionality while worn<div><br /></div><div>This causes most gathered items to automatically teleport to the player's bank, consuming one charge per item, Sign of the Porter charges will send archaeology materials to the material storage, not the primary bank<div><br /></div><div>While training a gathering skill with the necklace equipped, a Seren spirit has a 10% chance to spawn on the first eligible XP drop each minute, lasting 30 seconds </div><div><br /></div><div>Interacting with the spirit deposits a random rare drop into the player's bank</div></div>",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves"
+    },
+    {
+      "label": "guildmastertonysmattock",
+      "image": "https://img.pvme.io/images/dkBoC4WhuD.png",
+      "name": "Guildmaster Tony's mattock",
+      "breakdownNotes": "Can s<span>ubstitute with the Mattock of Time and Space</span><div><br /><div>Perks: <span>Honed 6 Prosper + Fortune 3 Imp Souled 3</span></div></div>",
+      "wikiLink": "https://runescape.wiki/w/Guildmaster_Tony%27s_mattock"
+    },
+    {
+      "label": "masterarchaeologistsjacket",
+      "image": "https://img.pvme.io/images/CeH68i3.png",
+      "name": "Master Archaeologist's jacket",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_Archaeologist's_jacket"
+    },
+    {
+      "label": "balarakssashbrush",
+      "image": "https://img.pvme.io/images/KxkWRxPBoB.png",
+      "name": "Balarak's sash brush",
+      "breakdownNotes": "Provides passive boosts to excavation success rate and mattock base precision, as well as occasionally finding additional materials. An additional bonus is given for following the time sprite",
+      "wikiLink": "https://runescape.wiki/w/Balarak%27s_sash_brush"
+    },
+    {
+      "label": "masterarchaeologiststrousers",
+      "image": "https://img.pvme.io/images/e7lRM02.png",
+      "name": "Master archaeologist's trousers",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_archaeologist's_trousers"
+    },
+    {
+      "label": "masterarchaeologistsgloves",
+      "image": "https://img.pvme.io/images/rZTzwbE.png",
+      "name": "Master archaeologist's gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_archaeologist's_gloves"
+    },
+    {
+      "label": "masterarchaeologistsboots",
+      "image": "https://img.pvme.io/images/uUxhha9.png",
+      "name": "Master archaeologist's boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_archaeologist's_boots"
+    },
+    {
+      "label": "hsr",
+      "image": "https://img.pvme.io/images/xmcbfhs.png",
+      "name": "Hazelmere's signet ring",
+      "breakdownNotes": "<span>Increases quality &amp; quantity of </span><span>Catalyst of alteration procs</span><div><span><br /></span></div><div><span>Can s</span><span>ubstitute with any T4 luck <img title=\"lotd\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/566453486913323042.png?v=1\" /></span></div>",
+      "wikiLink": "https://runescape.wiki/w/Hazelmere's_signet"
+    },
+    null,
+    null,
+    {
+      "label": "scriptureofbik",
+      "image": "https://img.pvme.io/images/t1KMJMv.png",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "<span>For additional clues through Catalyst of alteration procs</span>",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "restore4",
+      "image": "https://img.pvme.io/images/9GwrVt6.png",
+      "name": "Super restore (4)",
+      "breakdownNotes": "To restore Summoning points",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "selected": false
+    },
+    {
+      "label": "elvenshard",
+      "image": "https://img.pvme.io/images/UURvGNW.png",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "When activated, will restore 37.5% of the player's total Prayer points over 30 seconds<div><br /></div><div>It has a 5-minute cooldown and can be activated an infinite number of times, unaffected by the holy wrench or Reverence aura</div>",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "selected": false
+    },
+    {
+      "label": "potionreservoir2",
+      "image": "https://img.pvme.io/images/af9O4EM.png",
+      "name": "Potion reservoir (inactive)",
+      "breakdownNotes": "<span>When spirit attraction is used on an active reservoir, it will fill up and automatically consume the potion 1–15 seconds before the potion's effects would expire</span>",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#inactive",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "spiritattractionflask",
+      "image": "https://img.pvme.io/images/9oDoU6T.png",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "<span>Automatically collects automatically collects Seren Spirits &amp; Catalyst of alteration procs from the Scripture of Bik</span>",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "hispecmonocle",
+      "image": "https://img.pvme.io/images/di9l8BrQmW.png",
+      "name": "Hi-spec monocle",
+      "breakdownNotes": "Bring about 4 of these<div><br /></div><div>Wearing the monocle grants a buff that gives a 20% increase in base mattock precision for 20 minutes, or 30 minutes if the full master archaeologist's outfit is worn</div>",
+      "wikiLink": "https://runescape.wiki/w/Hi-spec_monocle",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "spiritattractionflask",
+      "image": "https://img.pvme.io/images/9oDoU6T.png",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "<span>Automatically collects automatically collects Seren Spirits &amp; Catalyst of alteration procs from the Scripture of Bik</span>",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "cluebag",
+      "image": "https://img.pvme.io/images/KPREDHT.png",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "Any clue scrolls received while training Archaeology, from the Scripture of Bik and the Prosper perk, will be automatically stored in the clue carrier if it is worn or in the inventory",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "selected": false
+    },
+    {
+      "label": "porterVII",
+      "image": "https://img.pvme.io/images/RsEVsN2kLt.png",
+      "name": "Sign of the porter VII",
+      "breakdownNotes": "<span>The item has 50 charges, which allow the player to transport items directly to the bank.</span>",
+      "wikiLink": "https://runescape.wiki/w/Sign_of_the_porter_VII",
+      "selected": false
+    },
+    {
+      "label": "porterVII",
+      "image": "https://img.pvme.io/images/RsEVsN2kLt.png",
+      "name": "Sign of the porter VII",
+      "breakdownNotes": "<span>The item has 50 charges, which allow the player to transport items directly to the bank.</span>",
+      "wikiLink": "https://runescape.wiki/w/Sign_of_the_porter_VII",
+      "selected": false
+    },
+    {
+      "label": "porterVII",
+      "image": "https://img.pvme.io/images/RsEVsN2kLt.png",
+      "name": "Sign of the porter VII",
+      "breakdownNotes": "<span>The item has 50 charges, which allow the player to transport items directly to the bank.</span>",
+      "wikiLink": "https://runescape.wiki/w/Sign_of_the_porter_VII",
+      "selected": false
+    },
+    {
+      "label": "porterVII",
+      "image": "https://img.pvme.io/images/RsEVsN2kLt.png",
+      "name": "Sign of the porter VII",
+      "breakdownNotes": "<span>The item has 50 charges, which allow the player to transport items directly to the bank.</span>",
+      "wikiLink": "https://runescape.wiki/w/Sign_of_the_porter_VII",
+      "selected": false
+    },
+    {
+      "label": "porterVII",
+      "image": "https://img.pvme.io/images/RsEVsN2kLt.png",
+      "name": "Sign of the porter VII",
+      "breakdownNotes": "<span>The item has 50 charges, which allow the player to transport items directly to the bank.</span>",
+      "wikiLink": "https://runescape.wiki/w/Sign_of_the_porter_VII",
+      "selected": false
+    },
+    {
+      "label": "waterfiend",
+      "image": "https://img.pvme.io/images/aPyBE1KrM7.png",
+      "name": "Binding contract (waterfiend)",
+      "breakdownNotes": "<span>Grants a 5% chance while training</span><span> to duplicate the gained artefact and store it within itself</span>",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(waterfiend)",
+      "selected": false
+    },
+    {
+      "label": "waterfiendscrolls",
+      "image": "https://img.pvme.io/images/1VMCtlV5fb.png",
+      "name": "Waterfiend scroll (Straight Flush)",
+      "breakdownNotes": "<span>Allows the player to teleport all items stored within the familiar</span><span>'s inventory</span><span> to the player's bank</span><span> at the cost of 6 special move points</span>",
+      "wikiLink": "https://runescape.wiki/w/Waterfiend_scroll_(Straight_Flush)",
+      "selected": false
+    },
+    {
+      "label": "porterVII",
+      "image": "https://img.pvme.io/images/RsEVsN2kLt.png",
+      "name": "Sign of the porter VII",
+      "breakdownNotes": "<span>The item has 50 charges, which allow the player to transport items directly to the bank.</span>",
+      "wikiLink": "https://runescape.wiki/w/Sign_of_the_porter_VII",
+      "selected": false
+    },
+    {
+      "label": "porterVII",
+      "image": "https://img.pvme.io/images/RsEVsN2kLt.png",
+      "name": "Sign of the porter VII",
+      "breakdownNotes": "<span>The item has 50 charges, which allow the player to transport items directly to the bank.</span>",
+      "wikiLink": "https://runescape.wiki/w/Sign_of_the_porter_VII",
+      "selected": false
+    },
+    {
+      "label": "porterVII",
+      "image": "https://img.pvme.io/images/RsEVsN2kLt.png",
+      "name": "Sign of the porter VII",
+      "breakdownNotes": "<span>The item has 50 charges, which allow the player to transport items directly to the bank.</span>",
+      "wikiLink": "https://runescape.wiki/w/Sign_of_the_porter_VII",
+      "selected": false
+    },
+    {
+      "label": "porterVII",
+      "image": "https://img.pvme.io/images/RsEVsN2kLt.png",
+      "name": "Sign of the porter VII",
+      "breakdownNotes": "<span>The item has 50 charges, which allow the player to transport items directly to the bank.</span>",
+      "wikiLink": "https://runescape.wiki/w/Sign_of_the_porter_VII",
+      "selected": false
+    },
+    {
+      "label": "porterVII",
+      "image": "https://img.pvme.io/images/RsEVsN2kLt.png",
+      "name": "Sign of the porter VII",
+      "breakdownNotes": "<span>The item has 50 charges, which allow the player to transport items directly to the bank.</span>",
+      "wikiLink": "https://runescape.wiki/w/Sign_of_the_porter_VII",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "flowstate",
+        "image": "https://img.pvme.io/images/7yQkguFWZ0.png",
+        "name": "Flow State",
+        "breakdownNotes": "",
+        "energy": 200,
+        "description": "20% increase to Archaeology excavation precision at the expense of receiving no soil"
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

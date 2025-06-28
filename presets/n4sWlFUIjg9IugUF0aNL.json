@@ -1,0 +1,388 @@
+{
+  "presetName": "Easy Clue",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/IZYhahB.png",
+      "wikiLink": "https://runescape.wiki/w/Dragon_Rider_helm",
+      "name": "Dragon Rider helm",
+      "breakdownNotes": "",
+      "label": "driderhelm"
+    },
+    {
+      "image": "https://i.imgur.com/9u3f0ws.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_backpack",
+      "name": "Globetrotter backpack",
+      "breakdownNotes": "",
+      "label": "globetrotterbackpack"
+    },
+    {
+      "image": "https://i.imgur.com/4KgPcpm.png",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves",
+      "name": "Grace of the elves",
+      "breakdownNotes": "",
+      "label": "gote"
+    },
+    {
+      "image": "https://i.imgur.com/kLSCUux.png",
+      "wikiLink": "https://runescape.wiki/w/Worn_Equipment#Two-handed_items",
+      "name": "2h equipment slot",
+      "breakdownNotes": "Elemental Battlestaff",
+      "label": "2hslot"
+    },
+    {
+      "image": "https://i.imgur.com/paFUjfv.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_jacket",
+      "name": "Globetrotter jacket",
+      "breakdownNotes": "",
+      "label": "globetrotterjacket"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/DvyUvd2.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_shorts",
+      "name": "Globetrotter shorts",
+      "breakdownNotes": "",
+      "label": "globetrottershorts"
+    },
+    {
+      "image": "https://i.imgur.com/TCZljWu.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_arm_guards",
+      "name": "Globetrotter arm guards",
+      "breakdownNotes": "",
+      "label": "globetrotterarmguards"
+    },
+    {
+      "image": "https://i.imgur.com/44J9f9V.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_boots",
+      "name": "Globetrotter boots",
+      "breakdownNotes": "",
+      "label": "globetrotterboots"
+    },
+    {
+      "image": "https://i.imgur.com/nXXZxpH.png",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "",
+      "label": "lotd"
+    },
+    {
+      "image": "https://i.imgur.com/yxmdGCZ.png",
+      "wikiLink": "https://runescape.wiki/w/Tirannwn_quiver_4",
+      "name": "Tirannwn quiver 4",
+      "breakdownNotes": "",
+      "label": "quiver4"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/KPREDHT.png",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "label": "cluebag"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/Qp0s9G2.png",
+      "wikiLink": "https://runescape.wiki/w/Passage_of_the_Abyss_(red)",
+      "name": "Passage of the Abyss (red)",
+      "breakdownNotes": "Glory, Games, Dueling, skills, digsite, combat",
+      "label": "passageoftheabyss(red)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PDg2YBC.png",
+      "wikiLink": "https://runescape.wiki/w/Passage_of_the_Abyss_(green)",
+      "name": "Passage of the Abyss (green)",
+      "breakdownNotes": "wealth, slaying, respawn, enlightened, travellers",
+      "label": "passageoftheabyss(green)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qNQ9dCI.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_crystal_teleport_seed",
+      "name": "Attuned crystal teleport seed",
+      "breakdownNotes": "",
+      "label": "attunedcrystalteleportseed",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ahDBOU5.png",
+      "wikiLink": "https://runescape.wiki/w/Dave's_spellbook",
+      "name": "Dave's spellbook",
+      "breakdownNotes": "With teletabs",
+      "label": "davesspellbook",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/sOfnUEX.png",
+      "wikiLink": "https://runescape.wiki/w/Arc_journal",
+      "name": "Arc journal",
+      "breakdownNotes": "",
+      "label": "arcjournal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/EuRZLF2.png",
+      "wikiLink": "https://runescape.wiki/w/Menaphos_journal",
+      "name": "Menaphos journal",
+      "breakdownNotes": "With teletabs",
+      "label": "menaphosjournal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/TmVweQs.png",
+      "wikiLink": "https://runescape.wiki/w/Support_cape",
+      "name": "Support cape",
+      "breakdownNotes": "Dung, slayer",
+      "label": "supportcape",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3wrb0Um.png",
+      "wikiLink": "https://runescape.wiki/w/Law_rune",
+      "name": "Law rune",
+      "breakdownNotes": "",
+      "label": "lawrune500",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Uxr7Xcm.png",
+      "wikiLink": "https://runescape.wiki/w/Wicked_hood",
+      "name": "Wicked hood",
+      "breakdownNotes": "",
+      "label": "wickedhood",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gyyfHQl.png",
+      "wikiLink": "https://runescape.wiki/w/Drakan's_medallion",
+      "name": "Drakan's medallion",
+      "breakdownNotes": "Charged",
+      "label": "drakansmedal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/dQVBOyX.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_kinship",
+      "name": "Ring of kinship",
+      "breakdownNotes": "",
+      "label": "ringofkinship",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/mqsH3xe.png",
+      "wikiLink": "https://runescape.wiki/w/Ectophial",
+      "name": "Ectophial",
+      "breakdownNotes": "",
+      "label": "ectophial",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gpuvlcU.png",
+      "wikiLink": "https://runescape.wiki/w/Sixth-Age_circuit",
+      "name": "Sixth-Age circuit",
+      "breakdownNotes": "",
+      "label": "sixthagecircuit",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/JInu2Jy.png",
+      "wikiLink": "https://runescape.wiki/w/Desert_amulet_4",
+      "name": "Desert amulet 4",
+      "breakdownNotes": "",
+      "label": "desertamulet4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Ho60PPT.png",
+      "wikiLink": "https://runescape.wiki/w/Big_Book_o'Piracy",
+      "name": "Big Book o'Piracy",
+      "breakdownNotes": "Charged",
+      "label": "bigbookopiracy",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Xrq18bn.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_tree_re-rooter#inactive",
+      "name": "Spirit tree re-rooter (inactive)",
+      "breakdownNotes": "",
+      "label": "spirittreere-rooter",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/sv8RnA7.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_tree_re-rooter#active",
+      "name": "Spirit tree re-rooter",
+      "breakdownNotes": "",
+      "label": "spirittreere-rooter(used)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/XCZuCaN.png",
+      "wikiLink": "https://runescape.wiki/w/Portable_fairy_ring#inactive",
+      "name": "Portable fairy ring (inactive)",
+      "breakdownNotes": "",
+      "label": "fairyring",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/iwTl6xy.png",
+      "wikiLink": "https://runescape.wiki/w/Portable_fairy_ring#active",
+      "name": "Portable fairy ring",
+      "breakdownNotes": "",
+      "label": "portablefairyring(used)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/rMZUuze.png",
+      "wikiLink": "https://runescape.wiki/w/Skull_sceptre",
+      "name": "Skull sceptre",
+      "breakdownNotes": "",
+      "label": "skullsceptre",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3Hzb1UG.png",
+      "wikiLink": "https://runescape.wiki/w/Spade",
+      "name": "Spade",
+      "breakdownNotes": "Hotkeyed",
+      "label": "spade",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8C3OhBk.png",
+      "wikiLink": "https://runescape.wiki/w/Archaeology_journal",
+      "name": "Archaeology journal",
+      "breakdownNotes": "",
+      "label": "archaeologyjournal",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "presetName": "Elite Profane Scabarites",
+  "presetNotes": "- Vampyrism Aura is required, make sure to have aura resets available if you are looking to camp these in the long term.<br />- Autocast Earth Surge, high alchemy runes for rare drop table drops<br />- If you do NOT have sharded tier100 magic weapons, use ring of death instead of reavers.<br />*Protect melee and use torment if using powder of penance<br />*Protect melee and use affliction if using holy scarab + ritual shard<br /><br />",
+  "equipmentSlots": [
+    {
+      "label": "virtushelm",
+      "image": "https://img.pvme.io/images/z6apdWl.png",
+      "name": "Virtus mask",
+      "breakdownNotes": "Can be substituted (Anima core helm of seren)",
+      "wikiLink": "https://runescape.wiki/w/Virtus_mask"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "aos",
+      "image": "https://img.pvme.io/images/cUaU7mB.png",
+      "name": "Amulet of souls",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_souls"
+    },
+    {
+      "label": "roarofawakening",
+      "image": "https://img.pvme.io/images/nCmqhfpcHo.png",
+      "name": "Roar of Awakening",
+      "breakdownNotes": "Eruptive 4/Ruthless 3 <br />",
+      "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening"
+    },
+    {
+      "label": "virtustop",
+      "image": "https://img.pvme.io/images/cau9oLa.png",
+      "name": "Virtus robe top",
+      "breakdownNotes": "Enhanced Devoted 4 + Biting 4/Venomblood ",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_top"
+    },
+    {
+      "label": "odetodeceit",
+      "image": "https://img.pvme.io/images/8WKmBCfI34.png",
+      "name": "Ode to Deceit",
+      "breakdownNotes": "Aftershock 4/Precise 2",
+      "wikiLink": "https://runescape.wiki/w/Ode_to_Deceit"
+    },
+    {
+      "label": "virtuslegs",
+      "image": "https://img.pvme.io/images/eEGwTU4.png",
+      "name": "Virtus robe legs",
+      "breakdownNotes": "Devoted 4/Impatient 4 + Crackling 4/Relentless 5",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_legs"
+    },
+    {
+      "label": "cinder",
+      "image": "https://img.pvme.io/images/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+    },
+    {
+      "label": "virtusboots",
+      "image": "https://img.pvme.io/images/6kNOh8G.png",
+      "name": "Virtus boots",
+      "breakdownNotes": "Can be substituted (Silverhawks/Blast diffusion etc)",
+      "wikiLink": "https://runescape.wiki/w/Virtus_boots"
+    },
+    {
+      "label": "reaverring",
+      "image": "https://img.pvme.io/images/cnIOClx.png",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring"
+    },
+    {
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Earth | Air | Fire | Nature",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)"
+    },
+    {
+      "label": "vampaura",
+      "image": "https://img.pvme.io/images/JigaLBL.png",
+      "name": "Vampyrism aura",
+      "breakdownNotes": "Hard requirement <br />",
+      "wikiLink": "https://runescape.wiki/w/Vampyrism_aura"
+    },
+    {
+      "label": "scriptureofwen",
+      "image": "https://img.pvme.io/images/zd3mKfH.png",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "potionreservoir",
+      "image": "https://img.pvme.io/images/uIF03Iz.png",
+      "name": "Potion reservoir",
+      "breakdownNotes": "Holy aggroverload (6) in reservoir",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#active",
+      "selected": false
+    },
+    {
+      "label": "potionreservoir2",
+      "image": "https://img.pvme.io/images/af9O4EM.png",
+      "name": "Potion reservoir (inactive)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#inactive",
+      "selected": false
+    },
+    {
+      "label": "holyaggroverload",
+      "image": "https://img.pvme.io/images/x2G1m0Q.png",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "label": "elvenshard",
+      "image": "https://img.pvme.io/images/UURvGNW.png",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "Can use holy scarab and ritual shard to upkeep prayer instead of powder if you want",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "selected": false
+    },
+    {
+      "label": "iritsticks",
+      "image": "https://img.pvme.io/images/oEYAJZf.png",
+      "name": "Irit incense sticks",
+      "breakdownNotes": "Can be used to supplement for venomblood",
+      "wikiLink": "https://runescape.wiki/w/Irit_incense_sticks",
+      "selected": false
+    },
+    {
+      "label": "powderofpenance2",
+      "image": "https://img.pvme.io/images/w6hThUy.png",
+      "name": "Powder of penance",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "xpcapacitor5000charging",
+      "image": "https://img.pvme.io/images/e0vL3ur.png",
+      "name": "XP Capacitor 5000 (Charging)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/XP_Capacitor_5000#Charging",
+      "selected": false
+    },
+    {
+      "label": "poison6",
+      "image": "https://img.pvme.io/images/KyZkJoc.png",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false
+    },
+    {
+      "label": "wrench",
+      "image": "https://img.pvme.io/images/UVffd75.png",
+      "name": "Holy wrench",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    }
+  ],
+  "relics": {
+    "alternativeRelics": [],
+    "primaryRelics": [
+      {
+        "label": "deathward",
+        "image": "https://img.pvme.io/images/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%."
+      },
+      {
+        "label": "conservationofenergy",
+        "image": "https://img.pvme.io/images/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "energy": 350,
+        "description": "After using an ultimate ability, you will regain 10% adrenaline."
+      },
+      {
+        "label": "furyofthesmall",
+        "image": "https://img.pvme.io/images/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline."
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "legendpetscav",
+        "image": "https://img.pvme.io/images/KWIawjY.png",
+        "name": "Legendary Pet (Scavenge)",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "label": "holyscarab",
+        "image": "https://img.pvme.io/images/x5tUpRe.png",
+        "name": "Holy Scarab",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

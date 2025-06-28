@@ -1,0 +1,389 @@
+{
+  "presetName": "Low Effort HM Helwyr",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "cryptbloomhelm",
+      "image": "https://img.pvme.io/images/zqJhRU7E8N.png",
+      "name": "Cryptbloom helm",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_helm"
+    },
+    {
+      "label": "kalmej",
+      "image": "https://img.pvme.io/images/v4dRHBk.png",
+      "name": "Igneous Kal-Mej",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mej"
+    },
+    {
+      "label": "eofpinkunorn",
+      "image": "https://img.pvme.io/images/tzIqWlO.png",
+      "name": "Essence of Finality amulet (pink)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet_(pink)"
+    },
+    {
+      "label": "roarofawakening",
+      "image": "https://img.pvme.io/images/nCmqhfpcHo.png",
+      "name": "Roar of Awakening",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening"
+    },
+    {
+      "label": "cryptbloomtop",
+      "image": "https://img.pvme.io/images/SQFVVkgKsw.png",
+      "name": "Cryptbloom top",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_top"
+    },
+    {
+      "label": "odetodeceit",
+      "image": "https://img.pvme.io/images/8WKmBCfI34.png",
+      "name": "Ode to Deceit",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ode_to_Deceit"
+    },
+    {
+      "label": "cryptbloomlegs",
+      "image": "https://img.pvme.io/images/YRNwG9fvN5.png",
+      "name": "Cryptbloom legs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_legs"
+    },
+    {
+      "label": "cryptbloomgloves",
+      "image": "https://img.pvme.io/images/p6Fwg2MItg.png",
+      "name": "Cryptbloom gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_gloves"
+    },
+    {
+      "label": "cryptbloomboots",
+      "image": "https://img.pvme.io/images/cXlCjcohsJ.png",
+      "name": "Cryptbloom boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_boots"
+    },
+    {
+      "label": "rod",
+      "image": "https://img.pvme.io/images/y5vAY4M.png",
+      "name": "Ring of death",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death"
+    },
+    {
+      "label": "zemouregalsnexus",
+      "image": "https://img.pvme.io/images/3pFXvMR.png",
+      "name": "Zemoregal's Nexus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus"
+    },
+    {
+      "label": "vampaura",
+      "image": "https://img.pvme.io/images/JigaLBL.png",
+      "name": "Vampyrism aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vampyrism_aura"
+    },
+    {
+      "label": "scriptureofamascut",
+      "image": "https://img.pvme.io/images/4KBTJqYn6o.png",
+      "name": "Scripture of Amascut",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Amascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "powderofpenance2",
+      "image": "https://img.pvme.io/images/w6hThUy.png",
+      "name": "Powder of penance",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "hellhound",
+      "image": "https://img.pvme.io/images/FPfRiAQ.png",
+      "name": "Binding contract (hellhound)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(hellhound)",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "kwuarmsticks",
+      "image": "https://img.pvme.io/images/Ba7yju8.png",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
+      "selected": false
+    },
+    {
+      "label": "elvenshard",
+      "image": "https://img.pvme.io/images/UURvGNW.png",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "selected": false
+    },
+    {
+      "label": "hellhound",
+      "image": "https://img.pvme.io/images/FPfRiAQ.png",
+      "name": "Binding contract (hellhound)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(hellhound)",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "poison6",
+      "image": "https://img.pvme.io/images/KyZkJoc.png",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "lantasticks",
+      "image": "https://img.pvme.io/images/LfpiRjg.png",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "selected": false
+    },
+    {
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false
+    },
+    {
+      "label": "hellhound",
+      "image": "https://img.pvme.io/images/FPfRiAQ.png",
+      "name": "Binding contract (hellhound)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(hellhound)",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "graspingpouchpink",
+      "image": "https://img.pvme.io/images/yrnlR2T.png",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "selected": false
+    },
+    {
+      "label": "hellhound",
+      "image": "https://img.pvme.io/images/FPfRiAQ.png",
+      "name": "Binding contract (hellhound)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(hellhound)",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "conservationofenergy",
+        "image": "https://img.pvme.io/images/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "energy": 350,
+        "description": "After using an ultimate ability, you will regain 10% adrenaline."
+      },
+      {
+        "label": "persistentrage",
+        "image": "https://img.pvme.io/images/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained."
+      },
+      {
+        "label": "furyofthesmall",
+        "image": "https://img.pvme.io/images/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline."
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "hellhound",
+        "image": "https://img.pvme.io/images/A1BvfVb.png",
+        "name": "Hellhound",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

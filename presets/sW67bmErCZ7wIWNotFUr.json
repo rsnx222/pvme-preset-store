@@ -1,0 +1,400 @@
+{
+  "presetName": "Min_Ranged_2024",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "sirenichelm",
+      "image": "https://i.imgur.com/lhfAbhp.png",
+      "name": "Sirenic mask",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_mask"
+    },
+    {
+      "label": "defencecape",
+      "image": "https://i.imgur.com/QbbeF9W.png",
+      "name": "Defence cape (t)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Defence_cape_(t)"
+    },
+    {
+      "label": "aos",
+      "image": "https://i.imgur.com/cUaU7mB.png",
+      "name": "Amulet of souls",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_souls"
+    },
+    {
+      "label": "deci",
+      "image": "https://i.imgur.com/BJ1Qzbt.png",
+      "name": "Decimation",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Decimation"
+    },
+    {
+      "label": "sirenictop",
+      "image": "https://i.imgur.com/lYDKMiu.png",
+      "name": "Sirenic hauberk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_hauberk"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "sireniclegs",
+      "image": "https://i.imgur.com/gBPOqaV.png",
+      "name": "Sirenic chaps",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_chaps"
+    },
+    {
+      "label": "nightmare",
+      "image": "https://i.imgur.com/goMzH9N.png",
+      "name": "Nightmare gauntlets",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nightmare_gauntlets"
+    },
+    {
+      "label": "fleet",
+      "image": "https://i.imgur.com/R5kSCvF.png",
+      "name": "Fleeting boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fleeting_boots"
+    },
+    {
+      "label": "asr",
+      "image": "https://i.imgur.com/RZg5LNG.png",
+      "name": "Asylum surgeon's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Asylum_surgeon's_ring"
+    },
+    {
+      "label": "quiver4",
+      "image": "https://i.imgur.com/yxmdGCZ.png",
+      "name": "Tirannwn quiver 4",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Tirannwn_quiver_4"
+    },
+    {
+      "label": "sharpshooter",
+      "image": "https://i.imgur.com/3G8n8xa.png",
+      "name": "Supreme sharpshooter aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Supreme_sharpshooter_aura"
+    },
+    {
+      "label": "scriptureofjas",
+      "image": "https://i.imgur.com/FLYAOEf.png",
+      "name": "Scripture of Jas",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Jas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "ovl",
+      "image": "https://i.imgur.com/DGw6F36.png",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "<span>Use your highest level overload </span>",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
+      "selected": false
+    },
+    {
+      "label": "replen",
+      "image": "https://i.imgur.com/LWm3PJt.png",
+      "name": "Enhanced replenishment potion (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_replenishment_potion#(6)",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "Extra health",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "vigour",
+      "image": "https://i.imgur.com/3cSIbWx.png",
+      "name": "Ring of vigour",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_vigour",
+      "selected": false
+    },
+    {
+      "label": "rangeshield",
+      "image": "https://i.imgur.com/upbhHnL.png",
+      "name": "Vengful kiteshield",
+      "breakdownNotes": "Shield / Defender T70+ <br />",
+      "wikiLink": "https://runescape.wiki/w/Vengful_kiteshield",
+      "selected": false
+    },
+    {
+      "label": "chins",
+      "image": "https://i.imgur.com/TMWKAqQ.png",
+      "name": "Mechanised chinchompa",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Mechanised_chinchompa",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/eDmt2lT.png",
+        "name": "Blessing of Het",
+        "breakdownNotes": "",
+        "description": "Food and potions heal 10% more lifepoints.",
+        "label": "blessingofhet",
+        "energy": 100
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/pIteWAi.png",
+        "name": "Pack Yak",
+        "breakdownNotes": "",
+        "label": "packyak"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "https://i.imgur.com/z8NpfWG.png",
+        "name": "Pack Mammoth",
+        "breakdownNotes": "",
+        "label": "packmammoth"
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

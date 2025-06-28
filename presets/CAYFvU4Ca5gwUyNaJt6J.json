@@ -1,0 +1,354 @@
+{
+  "presetName": "",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/lhfAbhp.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_mask",
+      "name": "Sirenic mask",
+      "breakdownNotes": "",
+      "label": "sirenichelm"
+    },
+    {
+      "image": "https://i.imgur.com/mXAz21V.png",
+      "wikiLink": "https://runescape.wiki/w/Ranged_cape_(t)",
+      "name": "Ranged cape (t)",
+      "breakdownNotes": "could try to get zuk cape",
+      "label": "rangecape"
+    },
+    {
+      "image": "https://i.imgur.com/lDrVrEd.png",
+      "wikiLink": "https://runescape.wiki/w/Blood_amulet_of_fury",
+      "name": "Blood amulet of fury",
+      "breakdownNotes": "blood fury &lt; souls &lt; reaper &lt; eof (reaper better at nex)",
+      "label": "bloodfury"
+    },
+    {
+      "image": "https://i.imgur.com/JSUUa5Q.png",
+      "wikiLink": "https://runescape.wiki/w/Upgraded_bone_blowpipe",
+      "name": "Upgraded bone blowpipe",
+      "breakdownNotes": "Precise 6, Equilibrium 4 *just bring best weapon, this is just a cheap starter weapon*",
+      "label": "upgradedblowpipe"
+    },
+    {
+      "image": "https://i.imgur.com/lYDKMiu.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_hauberk",
+      "name": "Sirenic hauberk",
+      "breakdownNotes": "Biting 3, Crackling 4",
+      "label": "sirenictop"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/gBPOqaV.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_chaps",
+      "name": "Sirenic chaps",
+      "breakdownNotes": "Impatient 4, Enhanced Devoted 4",
+      "label": "sireniclegs"
+    },
+    {
+      "image": "https://i.imgur.com/FjsLw1L.png",
+      "wikiLink": "https://runescape.wiki/w/Armadyl_gloves",
+      "name": "Armadyl gloves",
+      "breakdownNotes": "this or pernix",
+      "label": "armagloves"
+    },
+    {
+      "image": "https://i.imgur.com/R5kSCvF.png",
+      "wikiLink": "https://runescape.wiki/w/Fleeting_boots",
+      "name": "Fleeting boots",
+      "breakdownNotes": "Small investment over pernix, can walk during rapidfire.",
+      "label": "fleet"
+    },
+    {
+      "image": "https://i.imgur.com/nXXZxpH.png",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "*optional shit rng stuff*",
+      "label": "lotd"
+    },
+    {
+      "image": "https://i.imgur.com/qrqZ9ZH.png",
+      "wikiLink": "https://runescape.wiki/w/Ascension_bolts",
+      "name": "Ascension bolts",
+      "breakdownNotes": "or dragonstone baks (e)",
+      "label": "ascbolts"
+    },
+    {
+      "image": "https://i.imgur.com/oPYJmML.png",
+      "wikiLink": "https://runescape.wiki/w/Reckless_aura",
+      "name": "Reckless aura",
+      "breakdownNotes": "",
+      "label": "reckless"
+    },
+    {
+      "image": "https://i.imgur.com/2zNVN6w.png",
+      "wikiLink": "https://runescape.wiki/w/Illuminated_Book_of_Law",
+      "name": "Illuminated Book of Law",
+      "breakdownNotes": "or ful (do more dmg but take more)",
+      "label": "armagodbook"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/DGw6F36.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "",
+      "label": "ovl",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "*optional*",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "bomba",
+      "label": "vuln",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "can take blue, green kinda meh but cheap af, blue better if u actually need all the heals",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "can take blue, green kinda meh but cheap af, blue better if u actually need all the heals",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/n9C7iSA.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "",
+      "label": "vitality4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KkJxTbf.png",
+      "wikiLink": "https://runescape.wiki/w/Dark_bow",
+      "name": "Dark bow",
+      "breakdownNotes": "No need to augment, acts as panic shield *optional*",
+      "label": "dbow",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UURvGNW.png",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "*optional*",
+      "label": "elvenshard",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/TNm1JRD.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_notepaper",
+      "name": "Magic notepaper",
+      "breakdownNotes": "",
+      "label": "40note",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "can take blue, green kinda meh but cheap af, blue better if u actually need all the heals",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "can take blue, green kinda meh but cheap af, blue better if u actually need all the heals",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "can take blue, green kinda meh but cheap af, blue better if u actually need all the heals",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "can take blue, green kinda meh but cheap af, blue better if u actually need all the heals",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "can take blue, green kinda meh but cheap af, blue better if u actually need all the heals",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "can take blue, green kinda meh but cheap af, blue better if u actually need all the heals",
+      "label": "greenjelly",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/eDmt2lT.png",
+        "name": "Blessing of Het",
+        "breakdownNotes": "",
+        "label": "blessingofhet",
+        "energy": 100
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "https://i.imgur.com/DjyfvR1.png",
+        "name": "Heightened Senses",
+        "breakdownNotes": "",
+        "label": "heightenedsenses",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "label": "deathward",
+        "energy": 150
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/evmMlFz.png",
+        "name": "Shadow Nihil",
+        "breakdownNotes": "",
+        "label": "shadownihil"
+      }
+    ]
+  }
+}

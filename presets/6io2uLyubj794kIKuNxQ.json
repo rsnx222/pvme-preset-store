@@ -1,0 +1,384 @@
+{
+  "presetName": "",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/xNXHeIN.png",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_helm",
+      "name": "Cryptbloom helm",
+      "breakdownNotes": "Can be substituted with Magic Power Helm / Mask of the Abyss",
+      "label": "cryptbloomhelm"
+    },
+    {
+      "image": "https://i.imgur.com/6EvPhe6.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mej",
+      "name": "Igneous Kal-Mej",
+      "breakdownNotes": "Assumes max cape with Slayer, Defence and Constitution capes",
+      "label": "kalmej"
+    },
+    {
+      "image": "https://i.imgur.com/lwTB80E.png",
+      "wikiLink": "https://runescape.wiki/w/Demon_horn_necklace",
+      "name": "Demon horn necklace",
+      "breakdownNotes": "Prayer upkeep with charged attuned ectoplasmator",
+      "label": "demonhorn"
+    },
+    {
+      "image": "https://i.imgur.com/xBT2XFf.png",
+      "wikiLink": "https://runescape.wiki/w/Inquisitor_staff",
+      "name": "Inquisitor staff",
+      "breakdownNotes": "FSoA, SoS, and Noxious Staff are viable substitutes. (Precise 6 Caroming 2/ Equilibrium 4 Relentless 3)",
+      "label": "inq"
+    },
+    {
+      "image": "https://i.imgur.com/cau9oLa.png",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_top",
+      "name": "Virtus robe top",
+      "breakdownNotes": "T80 - 92 Magic Top (Biting 4 Demon Slayer/ Crackling 4 Relentless 5)",
+      "label": "virtustop"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/eEGwTU4.png",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_legs",
+      "name": "Virtus robe legs",
+      "breakdownNotes": "<span>T80 - 92 Magic Legs (Impatient 4 Devoted 4/ Scavenging 4)</span>",
+      "label": "virtuslegs"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/1MkR1qn.png",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_boots",
+      "name": "Cryptbloom boots",
+      "breakdownNotes": "",
+      "label": "cryptbloomboots"
+    },
+    {
+      "image": "https://i.imgur.com/xmcbfhs.png",
+      "wikiLink": "https://runescape.wiki/w/Hazelmere's_signet",
+      "name": "Hazelmere's signet",
+      "breakdownNotes": "Luck of the Dwarves if unowned",
+      "label": "hsr"
+    },
+    {
+      "image": "https://i.imgur.com/fWzGXLF.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(green)",
+      "name": "Grasping rune pouch (green)",
+      "breakdownNotes": "Death | Soul | Blood | Water, runes for Animate Dead and Incite Fear along with red pouch",
+      "label": "graspingpouchgreen"
+    },
+    {
+      "image": "https://i.imgur.com/Zevs8R8.png",
+      "wikiLink": "https://runescape.wiki/w/Maniacal_aura",
+      "name": "Maniacal aura",
+      "breakdownNotes": "<span>Other aura options:</span><br /><span>Maniacal &gt; Mahjarrat &gt; Dark Magic &gt; Penance (allows a better amulet) &gt; Dedicated Slayer &gt; Vampyrism<br /><br /></span><span>VAMPYRISM MUST BE USED IF USING MASK OF THE ABYSS</span><span><br /></span>",
+      "label": "mani"
+    },
+    {
+      "image": "https://i.imgur.com/t1KMJMv.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "",
+      "label": "scriptureofbik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload_(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload_(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/BQXFPFu.png",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(blood_reaver)",
+      "name": "Binding contract (blood reaver)",
+      "breakdownNotes": "",
+      "label": "reaver",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/BQXFPFu.png",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(blood_reaver)",
+      "name": "Binding contract (blood reaver)",
+      "breakdownNotes": "",
+      "label": "reaver",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload_(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload_(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask",
+      "name": "Weapon poison+++ flask",
+      "breakdownNotes": "",
+      "label": "poison6",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask",
+      "name": "Weapon poison+++ flask",
+      "breakdownNotes": "",
+      "label": "poison6",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pulVXx3.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore",
+      "name": "Super restore",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/D0Ky3DE.png",
+      "wikiLink": "https://runescape.wiki/w/Slayer_codex",
+      "name": "Slayer codex",
+      "breakdownNotes": "",
+      "label": "scodex",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/h7hCOfy.png",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "label": "cluebag",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2VUi0VP.png",
+      "wikiLink": "https://runescape.wiki/w/Artificier's_measure",
+      "name": "Artificier's measure",
+      "breakdownNotes": "",
+      "label": "artificier",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/5XEM9AB.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_ectoplasmator",
+      "name": "Attuned ectoplasmator",
+      "breakdownNotes": "<span>Prayer upkeep with demon horn necklace</span>",
+      "label": "ecto",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/6nJNred.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(red)",
+      "name": "Grasping rune pouch (red)",
+      "breakdownNotes": "Earth, <span>runes for Animate Dead and Incite Fear along with green pouch</span>",
+      "label": "graspingpouchred",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "label": "fontoflife",
+        "energy": 50
+      },
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": "",
+        "label": "bloodreaver"
+      }
+    ]
+  }
+}

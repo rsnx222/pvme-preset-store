@@ -1,0 +1,393 @@
+{
+  "presetName": "Glacytes Long",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "driderhelm",
+      "image": "https://img.pvme.io/images/IZYhahB.png",
+      "name": "Dragon Rider helm",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dragon_Rider_helm"
+    },
+    {
+      "label": "dridercape",
+      "image": "https://img.pvme.io/images/TOBhmb5.png",
+      "name": "Dragon Rider cape",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dragon_Rider_cape"
+    },
+    {
+      "label": "souls",
+      "image": "https://img.pvme.io/images/ZCKGIBM.png",
+      "name": "Amulet of souls (or)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_souls_(or)"
+    },
+    {
+      "label": "roarofawakening",
+      "image": "https://img.pvme.io/images/nCmqhfpcHo.png",
+      "name": "Roar of Awakening",
+      "breakdownNotes": "<img title=\"caroming4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/791281588792590336.png?v=1\" /> <img title=\"precise2\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1084799750416637993.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening"
+    },
+    {
+      "label": "virtustop",
+      "image": "https://img.pvme.io/images/cau9oLa.png",
+      "name": "Virtus robe top",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_top"
+    },
+    {
+      "label": "odetodeceit",
+      "image": "https://img.pvme.io/images/8WKmBCfI34.png",
+      "name": "Ode to Deceit",
+      "breakdownNotes": "<img title=\"eruptive4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1214416401561952296.png?v=1\" /> <img title=\"ruthless3\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Ode_to_Deceit"
+    },
+    {
+      "label": "virtuslegs",
+      "image": "https://img.pvme.io/images/eEGwTU4.png",
+      "name": "Virtus robe legs",
+      "breakdownNotes": "<img title=\"scav\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1109429520995463288.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_legs"
+    },
+    {
+      "label": "wristwraps",
+      "image": "https://img.pvme.io/images/6iT5PjZ.png",
+      "name": "Kerapac's wrist wraps",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Kerapac's_wrist_wraps"
+    },
+    {
+      "label": "superiordragonriderboots",
+      "image": "https://img.pvme.io/images/DeDRUdo.png",
+      "name": "Superior Dragon Rider boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Superior_Dragon_Rider_boots"
+    },
+    {
+      "label": "hsr",
+      "image": "https://img.pvme.io/images/xmcbfhs.png",
+      "name": "Hazelmere's signet ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Hazelmere's_signet"
+    },
+    {
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "<img title=\"bloodrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658970001409.png?v=1\" /> | <img title=\"firerune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659850674186.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)"
+    },
+    {
+      "label": "equilibriumaura",
+      "image": "https://img.pvme.io/images/a3Up2sd.png",
+      "name": "Equilibrium aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Equilibrium_aura"
+    },
+    {
+      "label": "scriptureofbik",
+      "image": "https://img.pvme.io/images/t1KMJMv.png",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "cluebag",
+      "image": "https://img.pvme.io/images/KPREDHT.png",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "selected": false
+    },
+    {
+      "label": "cballs",
+      "image": "https://img.pvme.io/images/GrfjyE2.png",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "selected": false
+    },
+    {
+      "label": "powderofpenance",
+      "image": "https://img.pvme.io/images/XjIho2f.png",
+      "name": "Powder of penance",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "selected": false
+    },
+    {
+      "label": "cannon",
+      "image": "https://img.pvme.io/images/GTwVqeC.png",
+      "name": "Dwarven siege engine",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine",
+      "selected": false
+    },
+    {
+      "label": "holyaggroverload",
+      "image": "https://img.pvme.io/images/x2G1m0Q.png",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "spiritattractionflask",
+      "image": "https://img.pvme.io/images/9oDoU6T.png",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "lantadymeincensesticks100",
+      "image": "https://img.pvme.io/images/4n0C5gK.png",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "selected": false
+    },
+    {
+      "label": "dwarfincensesticks100",
+      "image": "https://img.pvme.io/images/IyrZ6fUXKZ.png",
+      "name": "Dwarf weed incense sticks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dwarf_weed_incense_sticks",
+      "selected": false
+    },
+    {
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false
+    },
+    {
+      "label": "potionreservoir",
+      "image": "https://img.pvme.io/images/uIF03Iz.png",
+      "name": "Potion reservoir",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#active",
+      "selected": false
+    },
+    {
+      "label": "holyaggroverload",
+      "image": "https://img.pvme.io/images/x2G1m0Q.png",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "holyaggroverload",
+      "image": "https://img.pvme.io/images/x2G1m0Q.png",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "potionreservoir",
+      "image": "https://img.pvme.io/images/uIF03Iz.png",
+      "name": "Potion reservoir",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#active",
+      "selected": false
+    },
+    {
+      "label": "holyaggroverload",
+      "image": "https://img.pvme.io/images/x2G1m0Q.png",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "spiritattractionflask",
+      "image": "https://img.pvme.io/images/9oDoU6T.png",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "holyaggroverload",
+      "image": "https://img.pvme.io/images/x2G1m0Q.png",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "spiritattractionflask",
+      "image": "https://img.pvme.io/images/9oDoU6T.png",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "holyaggroverload",
+      "image": "https://img.pvme.io/images/x2G1m0Q.png",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "spiritattractionflask",
+      "image": "https://img.pvme.io/images/9oDoU6T.png",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "firerune",
+      "image": "https://img.pvme.io/images/Moq1ANC.png",
+      "name": "Fire rune",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fire_rune",
+      "selected": false
+    },
+    {
+      "label": "holyaggroverload",
+      "image": "https://img.pvme.io/images/x2G1m0Q.png",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "holyaggroverload",
+      "image": "https://img.pvme.io/images/x2G1m0Q.png",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "holyaggroverload",
+      "image": "https://img.pvme.io/images/x2G1m0Q.png",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "holyaggroverload",
+      "image": "https://img.pvme.io/images/x2G1m0Q.png",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "holyaggroverload",
+      "image": "https://img.pvme.io/images/x2G1m0Q.png",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "holyaggroverload",
+      "image": "https://img.pvme.io/images/x2G1m0Q.png",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "bloodrune",
+      "image": "https://img.pvme.io/images/DmJhw50.png",
+      "name": "Blood rune",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blood_rune",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "label": "conservationofenergy",
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "energy": 350,
+        "description": "After using an ultimate ability, you will regain 10% adrenaline."
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "legendpetscav",
+        "image": "https://i.imgur.com/KWIawjY.png",
+        "name": "Legendary Pet (Scavenge)",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

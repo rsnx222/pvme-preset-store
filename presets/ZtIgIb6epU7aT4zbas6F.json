@@ -1,0 +1,221 @@
+{
+  "presetName": "Rune Dragons",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/Ezvarbg.png",
+      "name": "Sirenic mask",
+      "label": "sirenichelm"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/zAiXkJn.png",
+      "name": "EoF - Seren godbow",
+      "label": "eofblue"
+    },
+    {
+      "image": "https://i.imgur.com/GkhQHSj.png",
+      "name": "Bow of the Last Guardian",
+      "label": "bolg"
+    },
+    {
+      "image": "https://i.imgur.com/Xqpr6Xs.png",
+      "name": "Sirenic hauberk",
+      "label": "sirenictop"
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/IuyylJw.png",
+      "name": "Sirenic chaps",
+      "label": "sireniclegs"
+    },
+    {
+      "image": "https://i.imgur.com/DpNOi7u.png",
+      "name": "Nightmare gauntlets",
+      "label": "nightmare"
+    },
+    {
+      "image": "https://i.imgur.com/9j06KPo.png",
+      "name": "Enhanced fleeting boots",
+      "label": "enhancedfleet"
+    },
+    {
+      "image": "https://i.imgur.com/1XuMVbo.png",
+      "name": "Kethsi ring",
+      "label": "kethsiring"
+    },
+    {
+      "image": "https://i.imgur.com/GhS5tdX.png",
+      "name": "Jas dragonbane arrow",
+      "label": "jasdragonbanearrow"
+    },
+    {
+      "image": "https://i.imgur.com/JtO8ViZ.png",
+      "name": "Penance aura",
+      "label": "penance"
+    },
+    {
+      "image": "https://i.imgur.com/lPppoD4.png",
+      "name": "Scripture of Ful",
+      "label": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/SsNRoVE.png",
+      "name": "Elder overload salve",
+      "label": "salve"
+    },
+    {
+      "image": "https://i.imgur.com/SsNRoVE.png",
+      "name": "Elder overload salve",
+      "label": "salve"
+    },
+    {
+      "image": "https://i.imgur.com/zWMNrib.png",
+      "name": "Sailfish",
+      "label": "sailfish"
+    },
+    {
+      "image": "https://i.imgur.com/zWMNrib.png",
+      "name": "Sailfish",
+      "label": "sailfish"
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/pulVXx3.png",
+      "name": "Super restore",
+      "label": "restore"
+    },
+    {
+      "image": "https://i.imgur.com/b7OFnll.png",
+      "name": "Adrenaline renewal",
+      "label": "renewal4"
+    },
+    {
+      "image": "https://i.imgur.com/OPZ0ibN.png",
+      "name": "Dominion mines",
+      "label": "20mines"
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "name": "Spring clearner 9001",
+      "label": "springcleaner"
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/lF55iT3.png",
+      "name": "Sixth-Age circuit",
+      "label": "sixthagecircuit"
+    },
+    {
+      "image": "https://i.imgur.com/UVffd75.png",
+      "name": "Holy wrench",
+      "label": "wrench"
+    },
+    {
+      "image": "https://i.imgur.com/nG9F5n4.png",
+      "name": "Magic notepaper (1000)",
+      "label": "1knote"
+    },
+    {
+      "image": "https://i.imgur.com/Mk7jbjC.png",
+      "name": "Grasping rune pouch",
+      "label": "graspingpouch"
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/UURvGNW.png",
+      "name": "Ancient elven ritual shard",
+      "label": "elvenshard"
+    },
+    {
+      "image": "https://i.imgur.com/KFZJLhU.png",
+      "name": "Enhanced excalibur",
+      "label": "excal"
+    },
+    {
+      "image": "https://i.imgur.com/h7hCOfy.png",
+      "name": "Charos' clue carrier",
+      "label": "cluebag"
+    },
+    {
+      "image": "https://i.imgur.com/BQXFPFu.png",
+      "name": "Binding contract (blood reaver)",
+      "label": "reaver"
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    }
+  ],
+  "relics": {
+    "primaryRelics": [],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [],
+    "alternativeFamiliars": []
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "presetName": "AFK Crystal Shapeshifters Magic Souls",
+  "presetNotes": "Relics not necessary but can be helpful",
+  "equipmentSlots": [
+    {
+      "label": "attunedcrystalhelm",
+      "image": "https://img.pvme.io/images/Ka6DnQN.png",
+      "name": "Attuned crystal helm",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Attuned_crystal_helm"
+    },
+    {
+      "label": "kalmor",
+      "image": "https://img.pvme.io/images/bIV6C4o.png",
+      "name": "Igneous Kal-Mor",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mor"
+    },
+    {
+      "label": "eof",
+      "image": "https://img.pvme.io/images/UB0lAK8.png",
+      "name": "Essence of Finality amulet",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet"
+    },
+    {
+      "label": "inq",
+      "image": "https://img.pvme.io/images/My8VkUX.png",
+      "name": "Inquisitor staff",
+      "breakdownNotes": "Use blood blitz if using inq staff, blood barrage otherwise",
+      "wikiLink": "https://runescape.wiki/w/Inquisitor_staff"
+    },
+    {
+      "label": "sirenictop",
+      "image": "https://img.pvme.io/images/lYDKMiu.png",
+      "name": "Sirenic hauberk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_hauberk"
+    },
+    null,
+    {
+      "label": "attunedcrystallegs",
+      "image": "https://img.pvme.io/images/oPiyg7y.png",
+      "name": "Attuned crystal legs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Attuned_crystal_legs"
+    },
+    {
+      "label": "attunedcrystalgloves",
+      "image": "https://img.pvme.io/images/dKtQVCX.png",
+      "name": "Attuned crystal gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Attuned_crystal_gloves"
+    },
+    {
+      "label": "attunedcrystalboots",
+      "image": "https://img.pvme.io/images/51btJxg.png",
+      "name": "Attuned crystal boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Attuned_crystal_boots"
+    },
+    {
+      "label": "reaverring",
+      "image": "https://img.pvme.io/images/cnIOClx.png",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring"
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul<span>, runes for Blood Barrage</span>",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)"
+    },
+    {
+      "label": "penance",
+      "image": "https://img.pvme.io/images/dMPY1FJ.png",
+      "name": "Penance aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Penance_aura"
+    },
+    {
+      "label": "scriptureofwen",
+      "image": "https://img.pvme.io/images/zd3mKfH.png",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "ovl",
+      "image": "https://img.pvme.io/images/DGw6F36.png",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
+      "selected": false
+    },
+    {
+      "label": "prayrenewal",
+      "image": "https://img.pvme.io/images/vSUpqbs.png",
+      "name": "Super prayer renewal potion (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_prayer_renewal_potion#(6)",
+      "selected": false
+    },
+    {
+      "label": "sixthagecircuit",
+      "image": "https://img.pvme.io/images/gpuvlcU.png",
+      "name": "Sixth-Age circuit",
+      "breakdownNotes": "For travel to the World Gate",
+      "wikiLink": "https://runescape.wiki/w/Sixth-Age_circuit",
+      "selected": false
+    },
+    {
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "Emergency food",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "elvenshard",
+      "image": "https://img.pvme.io/images/UURvGNW.png",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "selected": false
+    },
+    {
+      "label": "powderofpenance",
+      "image": "https://img.pvme.io/images/XjIho2f.png",
+      "name": "Powder of penance",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "selected": false
+    },
+    {
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "Emergency food",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "poison6",
+      "image": "https://img.pvme.io/images/KyZkJoc.png",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "cannon",
+      "image": "https://img.pvme.io/images/GTwVqeC.png",
+      "name": "Dwarven siege engine",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine",
+      "selected": false
+    },
+    {
+      "label": "reaver",
+      "image": "https://img.pvme.io/images/BQXFPFu.png",
+      "name": "Binding contract (blood reaver)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(blood_reaver)",
+      "selected": false
+    },
+    {
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "Emergency food",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false
+    },
+    {
+      "label": "scodex",
+      "image": "https://img.pvme.io/images/MivUk5T.png",
+      "name": "Slayer codex",
+      "breakdownNotes": "<span>For teleport to PoD</span>",
+      "wikiLink": "https://runescape.wiki/w/Slayer_codex",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire<span>, runes for Blood Barrage</span>",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "selected": false
+    },
+    {
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "Emergency food",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Ivcgjer.png",
+        "name": "Luck of the Dwarves",
+        "breakdownNotes": "",
+        "description": "You will always gain the effect of tier 4 luck.",
+        "label": "luckofthedwarves",
+        "energy": 200
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "description": "Increases maximum health by 500.",
+        "label": "fontoflife",
+        "energy": 50
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": "",
+        "label": "bloodreaver"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

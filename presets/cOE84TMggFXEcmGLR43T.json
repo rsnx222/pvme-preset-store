@@ -1,0 +1,359 @@
+{
+  "presetName": "Edimmu (AFK Magic)",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/iyXqN3S.png",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_goggles",
+      "name": "Ghost hunter goggles",
+      "breakdownNotes": "",
+      "label": "ghostgoggles"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/qbsFxuG.png",
+      "wikiLink": "https://runescape.wiki/w/Salve_amulet_(e)",
+      "name": "Salve amulet (e)",
+      "breakdownNotes": "",
+      "label": "salvee"
+    },
+    {
+      "image": "https://i.imgur.com/6teyxne.png",
+      "wikiLink": "https://runescape.wiki/w/Staff_of_sliske",
+      "name": "Staff of Sliske",
+      "breakdownNotes": "Your caroming staff with <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/791281588792590336.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1084799750416637993.png?v=1\" /> and <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088589627505.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" />",
+      "label": "sos"
+    },
+    {
+      "image": "https://i.imgur.com/G07AY4A.png",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_top",
+      "name": "Cryptbloom top",
+      "breakdownNotes": "<span>Perked with <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502804720615441.png?v=1\" /> </span><span>and </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689503091539705870.png?v=1\" />. <span>Power armour is usable but increases your chances of dying to elite Edimmu</span>",
+      "label": "cryptbloomtop"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/Cn2x2Mi.png",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_legs",
+      "name": "Ghost hunter legs",
+      "breakdownNotes": "",
+      "label": "ghostlegs"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/1MkR1qn.png",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_boots",
+      "name": "Cryptbloom boots",
+      "breakdownNotes": "",
+      "label": "cryptbloomboots"
+    },
+    {
+      "image": "https://i.imgur.com/y5vAY4M.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death",
+      "name": "Ring of death",
+      "breakdownNotes": "",
+      "label": "rod"
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul - Runes for <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090453135382.png?v=1\" />",
+      "label": "graspingpouchblack"
+    },
+    {
+      "image": "https://i.imgur.com/G4FM1Cz.png",
+      "wikiLink": "https://runescape.wiki/w/Penance_aura",
+      "name": "Penance aura",
+      "breakdownNotes": "",
+      "label": "penance"
+    },
+    {
+      "image": "https://i.imgur.com/lPppoD4.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful",
+      "name": "Scripture of Ful",
+      "breakdownNotes": "",
+      "label": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/CR06fbn.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(4)",
+      "name": "Weapon poison+++ (4)",
+      "breakdownNotes": "",
+      "label": "poison4",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Ca8KMuK.png",
+      "wikiLink": "https://runescape.wiki/w/Dungeoneering_cape_(t)",
+      "name": "Dungeoneering cape (t)",
+      "breakdownNotes": "",
+      "label": "dungeoneeringcape",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/wsYgZsb.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_luck_potion",
+      "name": "Enhanced luck potion",
+      "breakdownNotes": "Increase Elite spawn chance",
+      "label": "enhluck",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nK9EU1V.png",
+      "wikiLink": "https://runescape.wiki/w/Fellstalk_incense_sticks",
+      "name": "Fellstalk incense sticks",
+      "breakdownNotes": "Increase Elite spawn chance",
+      "label": "fellstalkincensesticks100",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nTRsMW1.png",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "name": "Aggression flask (6)",
+      "breakdownNotes": "",
+      "label": "aggro6",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "label": "restore4",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8r07LbS.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_notepaper",
+      "name": "Magic notepaper",
+      "breakdownNotes": "Can bring if wanting ashes and not using Death note",
+      "label": "1knote",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Ba7yju8.png",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "",
+      "label": "kwuarmsticks",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KPREDHT.png",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "label": "cluebag",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/BQXFPFu.png",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(blood_reaver)",
+      "name": "Binding contract (blood reaver)",
+      "breakdownNotes": "",
+      "label": "reaver",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GTwVqeC.png",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine",
+      "name": "Dwarven siege engine",
+      "breakdownNotes": "",
+      "label": "cannon",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GrfjyE2.png",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "label": "cballs",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UVffd75.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench",
+      "name": "Holy wrench",
+      "breakdownNotes": "",
+      "label": "wrench",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gMZLjIv.png",
+      "wikiLink": "https://runescape.wiki/w/Artificier's_measure",
+      "name": "Artificier's measure",
+      "breakdownNotes": "",
+      "label": "artificier",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/30CSA7N.png",
+      "wikiLink": "https://runescape.wiki/w/Dominion_mines",
+      "name": "Dominion mines",
+      "breakdownNotes": "Not necessary but useful for some extra damage for Elites",
+      "label": "20mines",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire <span>- Runes for </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" /><span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090453135382.png?v=1\" />",
+      "label": "graspingpouchblue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic <span>- Runes for </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" /><span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090453135382.png?v=1\" />",
+      "label": "graspingpouchpink",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": "",
+        "label": "bloodreaver"
+      }
+    ]
+  }
+}

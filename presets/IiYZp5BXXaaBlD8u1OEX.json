@@ -1,0 +1,286 @@
+{
+  "presetName": "Skele KPH",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/VMQ89aP.png",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_helm_of_seren",
+      "name": "Anima core helm of seren",
+      "breakdownNotes": "",
+      "label": "serenhelm"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/qbsFxuG.png",
+      "wikiLink": "https://runescape.wiki/w/Salve_amulet_(e)",
+      "name": "Salve amulet (e)",
+      "breakdownNotes": "",
+      "label": "salvee"
+    },
+    {
+      "image": "https://i.imgur.com/vPnAjqC.png",
+      "wikiLink": "https://runescape.wiki/w/Staff_of_limitless_air",
+      "name": "Staff of limitless air",
+      "breakdownNotes": "<span>Caroming 4 Precise 2 </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/791281588792590336.png?v=1\" /><span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1084799750416637993.png?v=1\" /><span> + Equilibrium 4 Ruthless 3 </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088589627505.png?v=1\" /><span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" /><span>. </span>Provides runes for Air Surge.<br />",
+      "label": "staffoflimitlessair"
+    },
+    {
+      "image": "https://i.imgur.com/84rL2dv.png",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_body_of_seren",
+      "name": "Anima core body of seren",
+      "breakdownNotes": "Biting 4 Undead Slayer <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087809617931.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502804720615441.png?v=1\" /> + Scavenging 4 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1005934140669046824.png?v=1\" />",
+      "label": "serenbody"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/I5QHqtm.png",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_legs_of_seren",
+      "name": "Anima core legs of seren",
+      "breakdownNotes": "Unaugmented.",
+      "label": "serenlegs"
+    },
+    {
+      "image": "https://i.imgur.com/dzW7KB4.png",
+      "wikiLink": "https://runescape.wiki/w/Gloves_of_subjugation",
+      "name": "Gloves of subjugation",
+      "breakdownNotes": "Immune to poison. ",
+      "label": "subjgloves"
+    },
+    {
+      "image": "https://i.imgur.com/TkJs5ST.png",
+      "wikiLink": "https://runescape.wiki/w/Silverhawk_boots",
+      "name": "Silverhawk boots",
+      "breakdownNotes": "<span>If 200m agility, can use boots of subjugation. <br /></span>",
+      "label": "shboots"
+    },
+    {
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
+      "name": "Reaver's ring",
+      "breakdownNotes": "<span>Not important. Can't roll RDT. Any ring with stats is fine.</span>",
+      "label": "reaverring"
+    },
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/lPppoD4.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful",
+      "name": "Scripture of Ful",
+      "breakdownNotes": "<span>Not important. Any pocket slot with stats, or even Brooch of the Gods can be used.</span>",
+      "label": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "Can replace with aggression potions at the cost of kph.",
+      "label": "holyaggroverload"
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "Can replace with aggression potions at the cost of kph.",
+      "label": "holyaggroverload"
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "Can replace with aggression potions at the cost of kph.",
+      "label": "holyaggroverload"
+    },
+    {
+      "image": "https://i.imgur.com/FmyhIY5.png",
+      "wikiLink": "https://runescape.wiki/w/Smoke_devil_pouch",
+      "name": "Smoke devil pouch",
+      "breakdownNotes": "",
+      "label": "smokedevilpouch"
+    },
+    {
+      "image": "https://i.imgur.com/FmyhIY5.png",
+      "wikiLink": "https://runescape.wiki/w/Smoke_devil_pouch",
+      "name": "Smoke devil pouch",
+      "breakdownNotes": "",
+      "label": "smokedevilpouch"
+    },
+    {
+      "image": "https://i.imgur.com/FmyhIY5.png",
+      "wikiLink": "https://runescape.wiki/w/Smoke_devil_pouch",
+      "name": "Smoke devil pouch",
+      "breakdownNotes": "",
+      "label": "smokedevilpouch"
+    },
+    {
+      "image": "https://i.imgur.com/uIF03Iz.png",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#active",
+      "name": "Potion reservoir",
+      "breakdownNotes": "Use on Holy aggroverload. <br />",
+      "label": "potionreservoir"
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "Can replace with aggression potions at the cost of kph.",
+      "label": "holyaggroverload"
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "Can replace with aggression potions at the cost of kph.",
+      "label": "holyaggroverload"
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "Can replace with aggression potions at the cost of kph.",
+      "label": "holyaggroverload"
+    },
+    {
+      "image": "https://i.imgur.com/FmyhIY5.png",
+      "wikiLink": "https://runescape.wiki/w/Smoke_devil_pouch",
+      "name": "Smoke devil pouch",
+      "breakdownNotes": "",
+      "label": "smokedevilpouch"
+    },
+    {
+      "image": "https://i.imgur.com/FmyhIY5.png",
+      "wikiLink": "https://runescape.wiki/w/Smoke_devil_pouch",
+      "name": "Smoke devil pouch",
+      "breakdownNotes": "",
+      "label": "smokedevilpouch"
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/4n0C5gK.png",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "",
+      "label": "lantadymeincensesticks100"
+    },
+    {
+      "image": "https://i.imgur.com/YWaDJIE.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_weed_incense_sticks",
+      "name": "Spirit weed incense sticks",
+      "breakdownNotes": "",
+      "label": "spiritsticks100"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore"
+    },
+    {
+      "image": "https://i.imgur.com/6WSkKO7.png",
+      "wikiLink": "https://runescape.wiki/w/Smoke_Devil_scroll_(Dust_Cloud)",
+      "name": "Smoke Devil scroll (Dust Cloud) (5k)",
+      "breakdownNotes": "<span>Make sure to refill familiar with scrolls after each potion reservoir depletes.</span>",
+      "label": "smokedevilscroll5000"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/2KToagJ.png",
+        "name": "Death Note",
+        "breakdownNotes": "",
+        "label": "deathnote",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/v6Q4ZEl.png",
+        "name": "Smoke Devil",
+        "breakdownNotes": "",
+        "label": "smokedevil"
+      }
+    ]
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "presetName": "",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "mastercamouflagehead",
+      "image": "https://img.pvme.io/images/lW5qEwC.png",
+      "name": "Master camouflage head",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_camouflage_head"
+    },
+    {
+      "label": "max",
+      "image": "https://img.pvme.io/images/XspSSvu.png",
+      "name": "Max cape",
+      "breakdownNotes": "Thieving, HP, Defence (Option to just put HP cape on stand and wear thieving cape)",
+      "wikiLink": "https://runescape.wiki/w/Max_cape"
+    },
+    {
+      "label": "gote",
+      "image": "https://img.pvme.io/images/4KgPcpm.png",
+      "name": "Grace of the elves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "mastercamouflagebody",
+      "image": "https://img.pvme.io/images/i8Lc9aI.png",
+      "name": "Master camouflage body",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_camouflage_body"
+    },
+    {
+      "label": "spectral",
+      "image": "https://img.pvme.io/images/Z4BttRK.png",
+      "name": "Spectral spirit shield",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spectral_spirit_shield"
+    },
+    {
+      "label": "mastercamouflagelegs",
+      "image": "https://img.pvme.io/images/poKctmF.png",
+      "name": "Master camouflage legs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_camouflage_legs"
+    },
+    {
+      "label": "mastercamouflagehands",
+      "image": "https://img.pvme.io/images/VNC7QgK.png",
+      "name": "Master camouflage hands",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_camouflage_hands"
+    },
+    {
+      "label": "mastercamouflagefeet",
+      "image": "https://img.pvme.io/images/3GULnea.png",
+      "name": "Master camouflage feet",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_camouflage_feet"
+    },
+    {
+      "label": "rod",
+      "image": "https://img.pvme.io/images/y5vAY4M.png",
+      "name": "Ring of death",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death"
+    },
+    {
+      "label": "graspingpouchgreen",
+      "image": "https://img.pvme.io/images/fWzGXLF.png",
+      "name": "Grasping rune pouch (green)",
+      "breakdownNotes": "Clay Mask",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(green)"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "brooch",
+      "image": "https://img.pvme.io/images/5rpdKqL.png",
+      "name": "Brooch of the Gods",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Brooch_of_the_Gods"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Prism of Restoration",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "torstolincensesticks100",
+      "image": "https://img.pvme.io/images/PpYdCr1.png",
+      "name": "Torstol incense sticks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Torstol_incense_sticks",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "persistentrage",
+        "image": "https://img.pvme.io/images/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained."
+      },
+      {
+        "label": "stickyfingers",
+        "image": "https://img.pvme.io/images/KHLIxCJ.png",
+        "name": "Sticky Fingers",
+        "breakdownNotes": "",
+        "energy": 100,
+        "description": "The player will automatically attempt to pickpocket at a 50% faster rate after a successful attempt until they are caught."
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "hellhound",
+        "image": "https://img.pvme.io/images/A1BvfVb.png",
+        "name": "Hellhound",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "label": "unicornstallion",
+        "image": "https://img.pvme.io/images/hUZsPCkSXt.png",
+        "name": "Unicorn stallion",
+        "breakdownNotes": ""
+      },
+      {
+        "label": "bunyip",
+        "image": "https://img.pvme.io/images/hpjldw8.png",
+        "name": "Bunyip",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

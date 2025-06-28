@@ -1,0 +1,338 @@
+{
+  "presetName": "AFK NM Kerapac Magic",
+  "presetNotes": "<span>You should be using Soulsplit </span><span> and Torment </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/583429936958930964.png?v=1\" /><span> / Affliction </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190158468907008.png?v=1\" /><span> for the entire fight.\n    • </span><span>If using Affliction </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190158468907008.png?v=1\" /><span>, you must either use Powder of Penance </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/928221126360969226.png?v=1\" /><span> or click an Ancient Elven Ritual Shard </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/656426717505650708.png?v=1\" /><span> at the start of each kill. </span><div><span><br /></span></div><div><span>This method requires using at least a Seismic Wand </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/583429704837758997.png?v=1\" /><span> and Animate Dead </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090453135382.png?v=1\" /><span> with some tank armour </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/892819107123195956.png?v=1\" /><span>, as raw damage is the focus and this setup is not as strong on healing when compared to the other styles' setups. </span><span><br /></span></div>",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/xNXHeIN.png",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_helm",
+      "name": "Cryptbloom helm",
+      "breakdownNotes": "",
+      "label": "cryptbloomhelm"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "Can be downgraded to an Igneous Kal-Mej.",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/nu7QSbh.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_staff",
+      "name": "EoF - Guthix staff",
+      "breakdownNotes": "<span>Stored special attack is not used, but is worn for the accuracy bonus and Soulsplit passive.</span>",
+      "label": "eofpurple"
+    },
+    {
+      "image": "https://i.imgur.com/kyKIKBC.png",
+      "wikiLink": "https://runescape.wiki/w/Wand_of_the_praesul",
+      "name": "Wand of the praesul",
+      "breakdownNotes": "Can be downgraded to Seismic Wand <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/583429704837758997.png?v=1\" /> .",
+      "label": "pwand"
+    },
+    {
+      "image": "https://i.imgur.com/NftWcLQ.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_top",
+      "name": "Elite tectonic robe top",
+      "breakdownNotes": "",
+      "label": "etectotop"
+    },
+    {
+      "image": "https://i.imgur.com/rvFepeU.png",
+      "wikiLink": "https://runescape.wiki/w/Imperium_core",
+      "name": "Imperium core",
+      "breakdownNotes": "Can be downgraded to Seismic Singularity <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/583430011831189527.png?v=1\" /> .",
+      "label": "core"
+    },
+    {
+      "image": "https://i.imgur.com/h07wgr8.png",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_legs",
+      "name": "Cryptbloom legs",
+      "breakdownNotes": "",
+      "label": "cryptbloomlegs"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/1MkR1qn.png",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_boots",
+      "name": "Cryptbloom boots",
+      "breakdownNotes": "",
+      "label": "cryptbloomboots"
+    },
+    {
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
+      "name": "Reaver's ring",
+      "breakdownNotes": "<span>Extra critical chance helps speed up kills. If not owned, can be substituted for other strong rings such as a Ring of Death <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190159462825984.png?v=1\" /> .</span>",
+      "label": "reaverring"
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul<span> - For Exsanguinate </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" /><span> and Animate Dead </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090453135382.png?v=1\" /><span> .</span>",
+      "label": "graspingpouchblack"
+    },
+    {
+      "image": "https://i.imgur.com/WB5GErF.png",
+      "wikiLink": "https://runescape.wiki/w/Maniacal_aura",
+      "name": "Maniacal aura",
+      "breakdownNotes": "Can be replaced with Dark Magic <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643505652571963417.png?v=1\" /> .",
+      "label": "mani"
+    },
+    {
+      "image": "https://i.imgur.com/zd3mKfH.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "Used for additional hitsplats to proc poison.",
+      "label": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/OQ4ZaK3.png",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(ripper_demon)",
+      "name": "Binding contract (ripper demon)",
+      "breakdownNotes": "<span>Due to the high focus on raw damage with this setup, a Ripper Demon is the strongest familiar option available to you.</span>",
+      "label": "ripper",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "Emergency food.",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "Emergency food.",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic<span> - For Exsanguinate </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" /><span> and Animate Dead </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090453135382.png?v=1\" /><span> .</span>",
+      "label": "graspingpouchpink",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/LfpiRjg.png",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "Optional - Increases duration of potions used.",
+      "label": "lantasticks",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ML1c3oq.png",
+      "wikiLink": "https://runescape.wiki/w/Ripper_Demon_scroll_(Death_From_Above)",
+      "name": "Ripper Demon scroll (Death From Above)",
+      "breakdownNotes": "",
+      "label": "ripperscrolls",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire - For Exsanguinate <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" /> and Animate Dead <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090453135382.png?v=1\" /> .",
+      "label": "graspingpouchblue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Ba7yju8.png",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "",
+      "label": "kwuarmsticks",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/CR06fbn.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(4)",
+      "name": "Weapon poison+++ (4)",
+      "breakdownNotes": "",
+      "label": "poison4",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/U8R9vg2.png",
+      "wikiLink": "https://runescape.wiki/w/Infernal_puzzle_box",
+      "name": "Infernal puzzle box",
+      "breakdownNotes": "<span>Needs to be at least Tier 3 for the adrenaline retention passive. Optional if Persistent Rage is being used.</span>",
+      "label": "infernalpuzzlebox",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8RLFr9n.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_weed_incense_sticks",
+      "name": "Spirit weed incense sticks",
+      "breakdownNotes": "Optional - Special move point restoration for more Ripper Demon specials attacks.",
+      "label": "spiritsticks",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "<span>Used at the beginning of the fight and as needed throughout the fight to keep the vulnerability debuff applied.</span><br />",
+      "label": "vuln",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UURvGNW.png",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "<span>Helps maintain prayer points if using Affliction <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190158468907008.png?v=1\" /></span>",
+      "label": "elvenshard",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "label": "persistentrage",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": "",
+        "label": "ripperdemon"
+      }
+    ]
+  }
+}

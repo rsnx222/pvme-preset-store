@@ -1,0 +1,373 @@
+{
+  "presetName": "Abyssal beasts AFK Melee Asterix",
+  "presetNotes": "Will get me around 630 kills per hour. Without dark magic its 600 kills per hour",
+  "equipmentSlots": [
+    {
+      "label": "vestmenthood",
+      "image": "https://img.pvme.io/images/EVh5SwD.png",
+      "name": "Vestments of havoc hood",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_hood"
+    },
+    {
+      "label": "kalket",
+      "image": "https://img.pvme.io/images/bfzX8Up.png",
+      "name": "Igneous Kal-Ket",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Ket"
+    },
+    {
+      "label": "demonhorn",
+      "image": "https://img.pvme.io/images/gA1MFTE.png",
+      "name": "Demon horn necklace",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Demon_horn_necklace"
+    },
+    {
+      "label": "masterwork2hsword",
+      "image": "https://img.pvme.io/images/N3KNAWxY2Q.png",
+      "name": "Masterwork 2h sword",
+      "breakdownNotes": "Aftershock 4 / Planted Feet + Eruptive 4 / Ruthless 3<br />Heals for 2% of damage dealt, better for health upkeep than scythe",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_2h_sword"
+    },
+    {
+      "label": "vestmentbody",
+      "image": "https://img.pvme.io/images/E5ptfu6.png",
+      "name": "Vestments of havoc robe top",
+      "breakdownNotes": "Biting 4 / Demon Slayer + Scavenging 4",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_top"
+    },
+    null,
+    {
+      "label": "vestmentlegs",
+      "image": "https://img.pvme.io/images/mz7GwWF.png",
+      "name": "Vestments of havoc robe bottom",
+      "breakdownNotes": "Devoteted 4 / Impatiend 4 + Enhanced Devoted 4",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_bottom"
+    },
+    {
+      "label": "cinder",
+      "image": "https://img.pvme.io/images/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+    },
+    {
+      "label": "vestmentboots",
+      "image": "https://img.pvme.io/images/FarIA5V.png",
+      "name": "Vestments of havoc boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_boots"
+    },
+    {
+      "label": "lotd",
+      "image": "https://img.pvme.io/images/nXXZxpH.png",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "Ring of death prob better",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves"
+    },
+    {
+      "label": "abyssalspikes",
+      "image": "https://img.pvme.io/images/0WBnZ62.png",
+      "name": "Abyssal armour spikes (alloy)",
+      "breakdownNotes": "Will use about 2650 / h. Worth it",
+      "wikiLink": "https://runescape.wiki/w/Abyssal_armour_spikes_(alloy)"
+    },
+    {
+      "label": "darkmagicaura",
+      "image": "https://img.pvme.io/images/yfe6JbK.png",
+      "name": "Dark magic aura",
+      "breakdownNotes": "Optional, will get around 30 extra kills / h. Can use vamp instead when struggeling with health",
+      "wikiLink": "https://runescape.wiki/w/Dark_magic_aura"
+    },
+    {
+      "label": "vamp",
+      "image": "https://img.pvme.io/images/bMTAHDe.png",
+      "name": "Scrimshaw of Vampyrism",
+      "breakdownNotes": "Using superior version",
+      "wikiLink": "https://runescape.wiki/w/Scrimshaw_of_Vampyrism"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "reaver",
+      "image": "https://img.pvme.io/images/BQXFPFu.png",
+      "name": "Binding contract (blood reaver)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(blood_reaver)",
+      "selected": false
+    },
+    {
+      "label": "holyaggroverload",
+      "image": "https://img.pvme.io/images/x2G1m0Q.png",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "Using only a single potion needs the least input",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "holyaggroverload",
+      "image": "https://img.pvme.io/images/x2G1m0Q.png",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "Using only a single potion needs the least input",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "potionreservoir2",
+      "image": "https://img.pvme.io/images/af9O4EM.png",
+      "name": "Potion reservoir (inactive)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#inactive",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "artificer",
+      "image": "https://img.pvme.io/images/gMZLjIv.png",
+      "name": "Artificer's measure",
+      "breakdownNotes": "For collecting dragonstones. can use gem bag(upgraded) as well",
+      "wikiLink": "https://runescape.wiki/w/Artificer's_measure",
+      "selected": false
+    },
+    {
+      "label": "ecto",
+      "image": "https://img.pvme.io/images/NkIcFSt.png",
+      "name": "Attuned ectoplasmator",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Attuned_ectoplasmator",
+      "selected": false
+    },
+    {
+      "label": "bluecharm1",
+      "image": "https://img.pvme.io/images/oL7B8YM.png",
+      "name": "Blue charm",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_charm",
+      "selected": false
+    },
+    {
+      "label": "crimsoncharm1",
+      "image": "https://img.pvme.io/images/m6W15K7.png",
+      "name": "Crimson charm",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Crimson_charm",
+      "selected": false
+    },
+    {
+      "label": "grimyirit1noted",
+      "image": "https://img.pvme.io/images/1cQUDmUboe.png",
+      "name": "Grimy irit",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grimy_irit",
+      "selected": false
+    },
+    {
+      "label": "grimyavantoe1noted",
+      "image": "https://img.pvme.io/images/EEsG2bq9ym.png",
+      "name": "Grimy avantoe",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grimy_avantoe",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false
+    },
+    {
+      "label": "cluebag",
+      "image": "https://img.pvme.io/images/KPREDHT.png",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "will get 10-12 Elite clues / h",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "selected": false
+    },
+    {
+      "label": "grimytoadflax1noted",
+      "image": "https://img.pvme.io/images/ePgC4ZrAPp.png",
+      "name": "Grimy toadflax",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grimy_toadflax",
+      "selected": false
+    },
+    {
+      "label": "crystalkey1noted",
+      "image": "https://img.pvme.io/images/ele52vp.png",
+      "name": "Crystal key",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Crystal_key",
+      "selected": false
+    },
+    {
+      "label": "grimycadantine1noted",
+      "image": "https://img.pvme.io/images/reGWPkH5iC.png",
+      "name": "Grimy cadantine",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grimy_cadantine",
+      "selected": false
+    },
+    {
+      "label": "grimydwarfweed1noted",
+      "image": "https://img.pvme.io/images/1UndjKAYRw.png",
+      "name": "Grimy dwarf weed",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grimy_dwarf_weed",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "elvenshard",
+      "image": "https://img.pvme.io/images/UURvGNW.png",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "pureessence1noted",
+      "image": "https://img.pvme.io/images/jfijgZN.png",
+      "name": "Pure essence",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Pure_essence",
+      "selected": false
+    },
+    {
+      "label": "grimylantadyme1noted",
+      "image": "https://img.pvme.io/images/wvcl13Rllt.png",
+      "name": "Grimy lantadyme",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grimy_lantadyme",
+      "selected": false
+    },
+    {
+      "label": "onyxboltse",
+      "image": "https://img.pvme.io/images/sUAvNro.png",
+      "name": "Onyx bolts (e)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Onyx_bolts_(e)",
+      "selected": false
+    },
+    {
+      "label": "grenwallspikes",
+      "image": "https://img.pvme.io/images/QnPtp0D.png",
+      "name": "Grenwall spikes",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grenwall_spikes",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "40note",
+      "image": "https://img.pvme.io/images/TNm1JRD.png",
+      "name": "Magic notepaper",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_notepaper",
+      "selected": false
+    },
+    {
+      "label": "scodex",
+      "image": "https://img.pvme.io/images/MivUk5T.png",
+      "name": "Slayer codex",
+      "breakdownNotes": "Teleport to sunken pyramid",
+      "wikiLink": "https://runescape.wiki/w/Slayer_codex",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "persistentrage",
+        "image": "https://img.pvme.io/images/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained."
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": "",
+        "energy": 0
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": "",
+        "energy": 0
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": "",
+        "label": "bloodreaver"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

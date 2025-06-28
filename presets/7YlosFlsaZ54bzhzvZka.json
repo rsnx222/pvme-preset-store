@@ -1,0 +1,294 @@
+{
+  "presetName": "Celestial Dragons AFK",
+  "presetNotes": "[Drop rates are NOT increased on task]<br />- Soul Split + Desolation",
+  "equipmentSlots": [
+    {
+      "label": "edracolichcoif",
+      "image": "https://i.imgur.com/S1sjGOu.png",
+      "name": "Elite Dracolich coif",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_coif"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "demonhorn",
+      "image": "https://i.imgur.com/gA1MFTE.png",
+      "name": "Demon horn necklace",
+      "breakdownNotes": "Prayer Sustain",
+      "wikiLink": "https://runescape.wiki/w/Demon_horn_necklace"
+    },
+    {
+      "label": "bolg",
+      "image": "https://i.imgur.com/GkhQHSj.png",
+      "name": "Bow of the Last Guardian",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bow_of_the_Last_Guardian"
+    },
+    {
+      "label": "edracolichhauberk",
+      "image": "https://i.imgur.com/M5jOHR3.png",
+      "name": "Elite Dracolich hauberk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_hauberk"
+    },
+    null,
+    {
+      "label": "edracolichchaps",
+      "image": "https://i.imgur.com/VGqlhJd.png",
+      "name": "Elite Dracolich chaps",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_chaps"
+    },
+    {
+      "label": "cinder",
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+    },
+    {
+      "label": "enhancedfleet",
+      "image": "https://i.imgur.com/9j06KPo.png",
+      "name": "Enhanced fleeting boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_fleeting_boots"
+    },
+    {
+      "label": "stalkerring",
+      "image": "https://i.imgur.com/xRj7mKb.png",
+      "name": "Stalker's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Stalker's_ring"
+    },
+    {
+      "label": "pernixquiverorange",
+      "image": "https://i.imgur.com/KYb4lnS.png",
+      "name": "Pernix's Quiver (Orange)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver"
+    },
+    null,
+    {
+      "label": "scriptureofful",
+      "image": "https://i.imgur.com/lPppoD4.png",
+      "name": "Scripture of Ful",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "salve",
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "Overload + Dragonfire Resist",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "poison6",
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "dungeoneeringcape",
+      "image": "https://i.imgur.com/Ca8KMuK.png",
+      "name": "Dungeoneering cape (t)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dungeoneering_cape_(t)",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "reaver",
+      "image": "https://i.imgur.com/BQXFPFu.png",
+      "name": "Binding contract (blood reaver)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(blood_reaver)",
+      "selected": false
+    },
+    {
+      "label": "lantasticks",
+      "image": "https://i.imgur.com/LfpiRjg.png",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "selected": false
+    },
+    {
+      "label": "kwuarmsticks",
+      "image": "https://i.imgur.com/Ba7yju8.png",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "cannon",
+      "image": "https://i.imgur.com/GTwVqeC.png",
+      "name": "Dwarven siege engine",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine",
+      "selected": false
+    },
+    {
+      "label": "cballs",
+      "image": "https://i.imgur.com/GrfjyE2.png",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "springcleaner",
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/Ivcgjer.png",
+        "name": "Luck of the Dwarves",
+        "breakdownNotes": "",
+        "description": "You will always gain the effect of tier 4 luck.",
+        "label": "luckofthedwarves",
+        "energy": 200
+      },
+      {
+        "image": "https://i.imgur.com/spEwR2q.png",
+        "name": "Slayer Introspection",
+        "breakdownNotes": "",
+        "description": "When requesting a new slayer assignment, you will have a choice between the minimum and maximum assignment amounts.",
+        "label": "slayerintrospection",
+        "energy": 200
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": "",
+        "label": "bloodreaver"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "https://i.imgur.com/KWIawjY.png",
+        "name": "Legendary Pet (Scavenge)",
+        "breakdownNotes": "",
+        "label": "legendpetscav"
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "presetName": "Mage camp - AoD",
+  "presetNotes": "Base tank is the only role than can use cryptbloom (4 piece), you should be fine to learn current aod with power armour. Im not really sure if wrist wraps are better than deathtouch brace, but as you get more experience in the fight you will probably move to mage/melee hybrid since thats the next step (and you need a deathtouch brace for that preset)",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/iPtkkKN.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_mask",
+      "name": "Elite tectonic mask",
+      "breakdownNotes": "I use normal tectonic mask because i cba to use a dye or pay 100m+ for a helm",
+      "label": "etectohelm"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "A normal Igneous Kal-Mej at least to get the boost of Omnipower, consider getting this upgrade asap",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/8a6M64a.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet_(green)",
+      "name": "Essence of Finality amulet (green)",
+      "breakdownNotes": "Guthix staff spec (Abs shouldnt be used at aod)<div>Was only used for kills higher than 2min before fsoa rework, not anymore</div>",
+      "label": "eofgreenunorn"
+    },
+    {
+      "image": "https://i.imgur.com/WTkwmcP.png",
+      "wikiLink": "https://runescape.wiki/w/Seismic_wand",
+      "name": "Seismic wand",
+      "breakdownNotes": "",
+      "label": "swand"
+    },
+    {
+      "image": "https://i.imgur.com/NftWcLQ.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_top",
+      "name": "Elite tectonic robe top",
+      "breakdownNotes": "Bis top",
+      "label": "etectotop"
+    },
+    {
+      "image": "https://i.imgur.com/v9ceVpM.png",
+      "wikiLink": "https://runescape.wiki/w/Ancient_lantern",
+      "name": "Ancient lantern",
+      "breakdownNotes": "Can be swapped with a regular shield, but you already have the lantern, this is fine",
+      "label": "lantern"
+    },
+    {
+      "image": "https://i.imgur.com/0TXtWf2.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_bottom",
+      "name": "Elite tectonic robe bottom",
+      "breakdownNotes": "Bis bottom",
+      "label": "etectolegs"
+    },
+    {
+      "image": "https://i.imgur.com/ia3JNEm.png",
+      "wikiLink": "https://runescape.wiki/w/Deathtouched_bracelet",
+      "name": "Deathtouched bracelet",
+      "breakdownNotes": "Can be swapped for Kerapac's wrist wraps",
+      "label": "dtb"
+    },
+    {
+      "image": "https://i.imgur.com/2VPk1SN.png",
+      "wikiLink": "https://runescape.wiki/w/Blast_diffusion_boots",
+      "name": "Blast diffusion boots",
+      "breakdownNotes": "Bis boots (They also reduce the time to fully charge detonate)",
+      "label": "diffusion"
+    },
+    {
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
+      "name": "Reaver's ring",
+      "breakdownNotes": "Bis ring, can be swapped with channeler's ring",
+      "label": "reaverring"
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Body | Soul | Blood | Astral (Can fill however you want)",
+      "label": "graspingpouchblue"
+    },
+    {
+      "image": "https://i.imgur.com/WB5GErF.png",
+      "wikiLink": "https://runescape.wiki/w/Maniacal_aura",
+      "name": "Maniacal aura",
+      "breakdownNotes": "Zerk auras are the only option for AoD since the high defence of the bird",
+      "label": "mani"
+    },
+    {
+      "image": "https://i.imgur.com/eAO0PdY.png",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire",
+      "name": "Erethdor's grimoire",
+      "breakdownNotes": "Bis pocket slot",
+      "label": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/AI12yBk.png",
+      "wikiLink": "https://runescape.wiki/w/Fractured_Staff_of_Armadyl",
+      "name": "Fractured Staff of Armadyl",
+      "breakdownNotes": "",
+      "label": "fsoa"
+    },
+    {
+      "image": "https://i.imgur.com/My8VkUX.png",
+      "wikiLink": "https://runescape.wiki/w/Inquisitor_staff",
+      "name": "Inquisitor staff",
+      "breakdownNotes": "",
+      "label": "inq"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/9Z9ChMg.png",
+      "wikiLink": "https://runescape.wiki/w/Seismic_singularity",
+      "name": "Seismic singularity",
+      "breakdownNotes": "",
+      "label": "sing"
+    },
+    {
+      "image": "https://i.imgur.com/e79LetS.png",
+      "wikiLink": "https://runescape.wiki/w/Flanking_perk",
+      "name": "Flanking perk",
+      "breakdownNotes": "Optional but strongly suggested",
+      "label": "flank"
+    },
+    {
+      "image": "https://i.imgur.com/nXXZxpH.png",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "Switch before the end of the kill for t4 luck",
+      "label": "lotd"
+    },
+    {
+      "image": "https://i.imgur.com/Dgtgp4n.png",
+      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
+      "name": "Combat dummy MKII",
+      "breakdownNotes": "Optional to lose target for your detonate",
+      "label": "dummy"
+    },
+    {
+      "image": "https://i.imgur.com/Mk7jbjC.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch",
+      "name": "Grasping rune pouch",
+      "breakdownNotes": "Water | Fire | Air | Chaos (Can fill however you want)",
+      "label": "graspingpouch"
+    },
+    {
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "name": "Guthix rest",
+      "breakdownNotes": "Core food (Good to clear poison from pillar if you dont have elder salve and doesnt drain stats like saradomin brew)",
+      "label": "grest"
+    },
+    {
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "name": "Guthix rest",
+      "breakdownNotes": "Core food (Good to clear poison from pillar if you dont have elder salve and doesnt drain stats like saradomin brew)",
+      "label": "grest"
+    },
+    {
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "name": "Guthix rest",
+      "breakdownNotes": "Core food (Good to clear poison from pillar if you dont have elder salve and doesnt drain stats like saradomin brew)",
+      "label": "grest"
+    },
+    {
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "name": "Guthix rest",
+      "breakdownNotes": "Core food (Good to clear poison from pillar if you dont have elder salve and doesnt drain stats like saradomin brew)",
+      "label": "grest"
+    },
+    {
+      "image": "https://i.imgur.com/Swtl8pP.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_flask#(6)",
+      "name": "Adrenaline renewal flask (6)",
+      "breakdownNotes": "Can be a 4(or 2) dose, will only be used twice in slow teams (+2:00 min) and once in faster teams (-1:50 min)",
+      "label": "renewal6"
+    },
+    {
+      "image": "https://i.imgur.com/I6HFjyN.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "Used to move around pillars in faster teams<div>Used to get out of ice mechanic</div>",
+      "label": "accel4"
+    },
+    {
+      "image": "https://i.imgur.com/6nJNred.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(red)",
+      "name": "Grasping rune pouch (red)",
+      "breakdownNotes": "Law | Cosmic | Earth | Death (Can fill however you want)",
+      "label": "graspingpouchred"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "Combo food",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "Combo food",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "Combo food",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "Combo food",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/PFLToHh.png",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)",
+      "name": "Spiritual prayer (6)",
+      "breakdownNotes": "Used to refill the spec bar of your ripper demon (can be used to juice more specs out of it)",
+      "label": "spiritual"
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "Can be changed for a normal elder overload",
+      "label": "salve"
+    },
+    {
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "To vuln your pillar and your minion if you do Glacies or Umbra (To vuln pillars if you are Umbra MT aswell)",
+      "label": "vuln"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "Combo food",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "Combo food",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "Combo food",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "Combo food",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/PFLToHh.png",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)",
+      "name": "Spiritual prayer (6)",
+      "breakdownNotes": "Used to refill the spec bar of your ripper demon (can be used to juice more specs out of it)",
+      "label": "spiritual"
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "Mainly used to stall Omnipower before the fight starts (optional) and to get some hp back",
+      "label": "excal"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "https://i.imgur.com/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "label": "fontoflife",
+        "energy": 50
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "label": "shadowsgrace",
+        "energy": 50
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": "",
+        "label": "ripperdemon"
+      }
+    ]
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "presetName": "Helwyr - AFK",
+  "presetNotes": "Soulsplit and t95/99 necro prayer<br /><br /><a href=\"https://cdn.discordapp.com/attachments/1251377318882971708/1312090148485333032/qc7oxQXPkE.png?ex=679afd6c&is=6799abec&hm=b10b2c70d6325aec9e768b931c40b819cf08a4e0148a29617c24ec7d11a0a1a5&\" contenteditable=\"false\">https://cdn.discordapp.com/attachments/1251377318882971708/1312090148485333032/qc7oxQXPkE.png?ex=679afd6c&amp;is=6799abec&amp;hm=b10b2c70d6325aec9e768b931c40b819cf08a4e0148a29617c24ec7d11a0a1a5&amp;</a>",
+  "equipmentSlots": [
+    {
+      "label": "deathdealerhoodt90",
+      "image": "https://img.pvme.io/images/mOp3i6V.png",
+      "name": "Deathdealer hood (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_hood_(tier_90)"
+    },
+    {
+      "label": "kalmor",
+      "image": "https://img.pvme.io/images/bIV6C4o.png",
+      "name": "Igneous Kal-Mor",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mor"
+    },
+    {
+      "label": "souls",
+      "image": "https://img.pvme.io/images/ZCKGIBM.png",
+      "name": "Amulet of souls (or)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_souls_(or)"
+    },
+    {
+      "label": "omniguard",
+      "image": "https://img.pvme.io/images/SzFvoQB.png",
+      "name": "Omni guard",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Omni_guard"
+    },
+    {
+      "label": "deathwardenrobetopt90",
+      "image": "https://img.pvme.io/images/JkyJN48.png",
+      "name": "Deathwarden robe top (tier 90)",
+      "breakdownNotes": "<span>Relentless 5 Crackling 4 | Biting</span>",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_top_(tier_90)"
+    },
+    {
+      "label": "soulboundlantern",
+      "image": "https://img.pvme.io/images/VJsZ4HL.png",
+      "name": "Soulbound lantern",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern"
+    },
+    {
+      "label": "deathwardenrobelegst90",
+      "image": "https://img.pvme.io/images/4KirFLg.png",
+      "name": "Deathwarden robe bottom (tier 90)",
+      "breakdownNotes": "<span>Crystal Shield 4 | Absorbative 4</span>",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_legs_(tier_90)"
+    },
+    {
+      "label": "cinder",
+      "image": "https://img.pvme.io/images/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+    },
+    {
+      "label": "deathdealerbootst90",
+      "image": "https://img.pvme.io/images/ixeiTn3.png",
+      "name": "Deathdealer boots (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_boots_(tier_90)"
+    },
+    {
+      "label": "reaverring",
+      "image": "https://img.pvme.io/images/cnIOClx.png",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring"
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)"
+    },
+    {
+      "label": "penance",
+      "image": "https://img.pvme.io/images/dMPY1FJ.png",
+      "name": "Penance aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Penance_aura"
+    },
+    {
+      "label": "scriptureofwen",
+      "image": "https://img.pvme.io/images/zd3mKfH.png",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "wrench",
+      "image": "https://img.pvme.io/images/UVffd75.png",
+      "name": "Holy wrench",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench",
+      "selected": false
+    },
+    {
+      "label": "potionreservoir",
+      "image": "https://img.pvme.io/images/uIF03Iz.png",
+      "name": "Potion reservoir",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#active",
+      "selected": false
+    },
+    {
+      "label": "potionreservoir2",
+      "image": "https://img.pvme.io/images/af9O4EM.png",
+      "name": "Potion reservoir (inactive)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#inactive",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "lantasticks",
+      "image": "https://img.pvme.io/images/LfpiRjg.png",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "selected": false
+    },
+    {
+      "label": "kwuarmsticks",
+      "image": "https://img.pvme.io/images/Ba7yju8.png",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
+      "selected": false
+    },
+    {
+      "label": "enhluck",
+      "image": "https://img.pvme.io/images/wsYgZsb.png",
+      "name": "Enhanced luck potion",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_luck_potion",
+      "selected": false
+    },
+    {
+      "label": "elvenshard",
+      "image": "https://img.pvme.io/images/UURvGNW.png",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "selected": false
+    },
+    {
+      "label": "poison6",
+      "image": "https://img.pvme.io/images/KyZkJoc.png",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://img.pvme.io/images/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "reaverscrolls",
+      "image": "https://img.pvme.io/images/Fq5eKsl.png",
+      "name": "Blood Reaver scroll (Blood Siphon)",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Blood_Reaver_scroll_(Blood_Siphon)",
+      "selected": false
+    },
+    {
+      "label": "reaver",
+      "image": "https://img.pvme.io/images/BQXFPFu.png",
+      "name": "Binding contract (blood reaver)",
+      "breakdownNotes": "Autofire 0 to survive b2b spores full afk",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(blood_reaver)",
+      "selected": false
+    },
+    {
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false
+    },
+    {
+      "label": "zemouregalsnexus",
+      "image": "https://img.pvme.io/images/3pFXvMR.png",
+      "name": "Zemoregal's Nexus",
+      "breakdownNotes": "Deathwarden nexus also works",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://img.pvme.io/images/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "bloodreaver",
+        "image": "https://img.pvme.io/images/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

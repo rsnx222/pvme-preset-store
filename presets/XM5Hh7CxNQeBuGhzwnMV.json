@@ -1,0 +1,283 @@
+{
+  "presetName": "Nightmare Creatures (AFK)",
+  "presetNotes": "[Increased drop rates on task]<br />- Protect from Ranged (Or Soul Split but I prefer Ranged)<br />- Ancient Spellbook",
+  "equipmentSlots": [
+    {
+      "label": "deathwardenhoodt90",
+      "image": "https://img.pvme.io/images/5vasEy6.png",
+      "name": "Deathwarden hood (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_hood_(tier_90)"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "demonhorn",
+      "image": "https://img.pvme.io/images/gA1MFTE.png",
+      "name": "Demon horn necklace",
+      "breakdownNotes": "Prayer Sustain",
+      "wikiLink": "https://runescape.wiki/w/Demon_horn_necklace"
+    },
+    {
+      "label": "omniguard",
+      "image": "https://img.pvme.io/images/SzFvoQB.png",
+      "name": "Omni guard",
+      "breakdownNotes": "Aftershock 4, Eruptive 2",
+      "wikiLink": "https://runescape.wiki/w/Omni_guard"
+    },
+    {
+      "label": "deathwardenrobetopt90",
+      "image": "https://img.pvme.io/images/JkyJN48.png",
+      "name": "Deathwarden robe top (tier 90)",
+      "breakdownNotes": "Biting 4 | Relentless 5, Crackling 4",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_top_(tier_90)"
+    },
+    {
+      "label": "soulboundlantern",
+      "image": "https://img.pvme.io/images/VJsZ4HL.png",
+      "name": "Soulbound lantern",
+      "breakdownNotes": "Precise 6",
+      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern"
+    },
+    {
+      "label": "deathwardenrobelegst90",
+      "image": "https://img.pvme.io/images/4KirFLg.png",
+      "name": "Deathwarden robe bottom (tier 90)",
+      "breakdownNotes": "<span>Devoted 4, Impatient 4 | Invigorating 4</span>",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_legs_(tier_90)"
+    },
+    {
+      "label": "cinder",
+      "image": "https://img.pvme.io/images/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "Increased poison damage",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+    },
+    {
+      "label": "deathwardenbootst90",
+      "image": "https://img.pvme.io/images/V94Yora.png",
+      "name": "Deathwarden boots (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_boots_(tier_90)"
+    },
+    {
+      "label": "hsr",
+      "image": "https://img.pvme.io/images/xmcbfhs.png",
+      "name": "Hazelmere's signet ring",
+      "breakdownNotes": "Increased luck",
+      "wikiLink": "https://runescape.wiki/w/Hazelmere's_signet"
+    },
+    {
+      "label": "zemouregalsnexus",
+      "image": "https://img.pvme.io/images/3pFXvMR.png",
+      "name": "Zemoregal's Nexus",
+      "breakdownNotes": "Runes for Darkness",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus"
+    },
+    {
+      "label": "inspiration",
+      "image": "https://img.pvme.io/images/KGFnFzQ.png",
+      "name": "Inspiration aura",
+      "breakdownNotes": "Extra adrenaline",
+      "wikiLink": "https://runescape.wiki/w/Inspiration_aura"
+    },
+    {
+      "label": "scriptureofwen",
+      "image": "https://img.pvme.io/images/zd3mKfH.png",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "AoE damage",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "Overloads + Prayer Sustain",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)"
+    },
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "Overloads + Prayer Sustain",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)"
+    },
+    {
+      "label": "poison6",
+      "image": "https://img.pvme.io/images/KyZkJoc.png",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "Increased poison damage",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)"
+    },
+    null,
+    {
+      "label": "hellhound",
+      "image": "https://img.pvme.io/images/FPfRiAQ.png",
+      "name": "Binding contract (hellhound)",
+      "breakdownNotes": "Damage reduction",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(hellhound)"
+    },
+    {
+      "label": "kwuarmsticks",
+      "image": "https://img.pvme.io/images/Ba7yju8.png",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "Increased poison damage",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks"
+    },
+    {
+      "label": "lantasticks",
+      "image": "https://img.pvme.io/images/LfpiRjg.png",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "Increases overload timer",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "label": "sixthagecircuit",
+      "image": "https://img.pvme.io/images/gpuvlcU.png",
+      "name": "Sixth-Age circuit",
+      "breakdownNotes": "World Gate - Ritual Site",
+      "wikiLink": "https://runescape.wiki/w/Sixth-Age_circuit"
+    },
+    {
+      "label": "1knote",
+      "image": "https://img.pvme.io/images/8r07LbS.png",
+      "name": "Magic notepaper",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_notepaper"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "label": "cannon",
+      "image": "https://img.pvme.io/images/GTwVqeC.png",
+      "name": "Dwarven siege engine",
+      "breakdownNotes": "Keep creatures active",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine"
+    },
+    {
+      "label": "cballs",
+      "image": "https://img.pvme.io/images/GrfjyE2.png",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs"
+    },
+    null,
+    null,
+    {
+      "label": "graspingpouchred",
+      "image": "https://img.pvme.io/images/6nJNred.png",
+      "name": "Grasping rune pouch (red)",
+      "breakdownNotes": "Runes for Prism of Restoration",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(red)"
+    },
+    {
+      "label": "graspingpouchgreen",
+      "image": "https://img.pvme.io/images/fWzGXLF.png",
+      "name": "Grasping rune pouch (green)",
+      "breakdownNotes": "<span>Runes for Prism of Restoration</span>",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(green)"
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "<span>Runes for Prism of Restoration</span>",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      },
+      {
+        "label": "berserkersfury",
+        "image": "https://img.pvme.io/images/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "energy": 250,
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)"
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "hellhound",
+        "image": "https://img.pvme.io/images/A1BvfVb.png",
+        "name": "Hellhound",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

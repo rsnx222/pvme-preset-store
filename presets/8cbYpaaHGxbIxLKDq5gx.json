@@ -1,0 +1,295 @@
+{
+  "presetName": "Minimum setup AFK Vindicta",
+  "presetNotes": "<span>Pray </span><img title=\"sorrow\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1137941003895046284.png?v=1\" /><span> and </span><img title=\"deflectmage\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/544195487926845462.png?v=1\" />",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/mOp3i6V.png",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_hood_(tier_90)",
+      "name": "Deathdealer hood (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathdealerhoodt90"
+    },
+    {
+      "image": "https://i.imgur.com/bIV6C4o.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mor",
+      "name": "Igneous Kal-Mor",
+      "breakdownNotes": "",
+      "label": "kalmor"
+    },
+    {
+      "image": "https://i.imgur.com/cUaU7mB.png",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_souls",
+      "name": "Amulet of souls",
+      "breakdownNotes": "",
+      "label": "aos"
+    },
+    {
+      "image": "https://i.imgur.com/tosZimW.png",
+      "wikiLink": "https://runescape.wiki/w/Death_guard_(tier_90)",
+      "name": "Death guard (tier 90)",
+      "breakdownNotes": "<span>Aftershock 4 </span><img title=\"as4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712074245202772009.png?v=1\" />",
+      "label": "deathguardt90"
+    },
+    {
+      "image": "https://i.imgur.com/iKWW3ZF.png",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_robe_top_(tier_90)",
+      "name": "Deathdealer robe top (tier 90)",
+      "breakdownNotes": "<span>Biting 4 X </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087809617931.png?v=1\" /><span> + Relentless 5 Crackling 4 </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800920748092.png?v=1\" /><span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087662686249.png?v=1\" /><br /><br /><span>Ideally no </span><img title=\"relentless5\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800920748092.png?v=1\" /><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087662686249.png?v=1\" /><br />",
+      "label": "deathdealerrobetopt90"
+    },
+    {
+      "image": "https://i.imgur.com/nEI3w2n.png",
+      "wikiLink": "https://runescape.wiki/w/Skull_lantern_(tier_90)",
+      "name": "Skull lantern (tier 90)",
+      "breakdownNotes": "<span>Precise 6 Ruthless 1 </span><img title=\"p6\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088769982475.png?v=1\" /><span> </span><img title=\"ruthless1\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800924942396.png?v=1\" />",
+      "label": "skulllanternt90"
+    },
+    {
+      "image": "https://i.imgur.com/h07wgr8.png",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_legs",
+      "name": "Cryptbloom legs",
+      "breakdownNotes": "<span>Impatient 4 Devoted 4 <img title=\"imp4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088204013640.png?v=1\" /> <img title=\"dev4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087713280033.png?v=1\" /> </span><span>+ Invigorating 4 X </span><img title=\"invig4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087859949570.png?v=1\" /><div><br /></div><div>Devoted 4 <img title=\"dev4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087713280033.png?v=1\" /> or Enhanced Devoted 4 <img title=\"enhdev4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087507628035.png?v=1\" /> is required</div>",
+      "label": "cryptbloomlegs"
+    },
+    {
+      "image": "https://i.imgur.com/yHxz8PD.png",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_gloves",
+      "name": "Cryptbloom gloves",
+      "breakdownNotes": "",
+      "label": "cryptbloomgloves"
+    },
+    {
+      "image": "https://i.imgur.com/1MkR1qn.png",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_boots",
+      "name": "Cryptbloom boots",
+      "breakdownNotes": "",
+      "label": "cryptbloomboots"
+    },
+    {
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
+      "name": "Reaver's ring",
+      "breakdownNotes": "<span>Can be substituted for other strong rings (e.g. </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190159462825984.png?v=1\" /><span>)</span><br />",
+      "label": "reaverring"
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "<span>Death | Earth | Law | Cosmic</span><br /><br /><div>Runes for <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090453135382.png?v=1\" /></div>",
+      "label": "graspingpouchpink"
+    },
+    {
+      "image": "https://i.imgur.com/G4FM1Cz.png",
+      "wikiLink": "https://runescape.wiki/w/Penance_aura",
+      "name": "Penance aura",
+      "breakdownNotes": "",
+      "label": "penance"
+    },
+    {
+      "image": "https://i.imgur.com/FLYAOEf.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Jas",
+      "name": "Scripture of Jas",
+      "breakdownNotes": "",
+      "label": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/af9O4EM.png",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#inactive",
+      "name": "Potion reservoir (inactive)",
+      "breakdownNotes": "<span>Can store up to 6 doses of a potion (e.g. overload), and automatically refresh that potion when its duration is low.</span>",
+      "label": "potionreservoir2"
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal"
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "<span>Blood | Astral | Body | Soul</span><br /><br /><div>Runes for <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090453135382.png?v=1\" /></div>",
+      "label": "graspingpouchblack"
+    },
+    null,
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "<span>Emergency food.</span>",
+      "label": "sailfish"
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve"
+    },
+    {
+      "image": "https://i.imgur.com/UURvGNW.png",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "label": "elvenshard"
+    },
+    {
+      "image": "https://i.imgur.com/wsYgZsb.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_luck_potion",
+      "name": "Enhanced luck potion",
+      "breakdownNotes": "",
+      "label": "enhluck"
+    },
+    null,
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "<span>Emergency food.</span>",
+      "label": "sailfish"
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve"
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner"
+    },
+    {
+      "image": "https://i.imgur.com/w6hThUy.png",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "name": "Powder of penance",
+      "breakdownNotes": "",
+      "label": "powderofpenance2"
+    },
+    null,
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "<span>Emergency food.</span>",
+      "label": "sailfish"
+    },
+    {
+      "image": "https://i.imgur.com/Dy2NfTt.png",
+      "wikiLink": "https://runescape.wiki/w/Ectoplasm",
+      "name": "Ectoplasm",
+      "breakdownNotes": "",
+      "label": "ectoplasm"
+    },
+    {
+      "image": "https://i.imgur.com/UVffd75.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench",
+      "name": "Holy wrench",
+      "breakdownNotes": "",
+      "label": "wrench"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "<span>Emergency food.</span>",
+      "label": "sailfish"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained.",
+        "label": "persistentrage",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/KWIawjY.png",
+        "name": "Legendary Pet (Scavenge)",
+        "breakdownNotes": "",
+        "label": "legendpetscav"
+      }
+    ]
+  }
+}

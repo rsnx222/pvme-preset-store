@@ -1,0 +1,365 @@
+{
+  "presetName": "minelol",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/9gAdl6f.png",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_helm",
+      "name": "Masterwork helm",
+      "breakdownNotes": "",
+      "label": "mwhelm"
+    },
+    {
+      "image": "https://i.imgur.com/kJFyO7G.png",
+      "wikiLink": "https://runescape.wiki/w/Strength_cape_(t)",
+      "name": "Strength cape (t)",
+      "breakdownNotes": "",
+      "label": "strengthcape"
+    },
+    {
+      "image": "https://i.imgur.com/lDrVrEd.png",
+      "wikiLink": "https://runescape.wiki/w/Blood_amulet_of_fury",
+      "name": "Blood amulet of fury",
+      "breakdownNotes": "",
+      "label": "bloodfury"
+    },
+    {
+      "image": "https://i.imgur.com/0Cs8pvg.png",
+      "wikiLink": "https://runescape.wiki/w/Drygore_mace",
+      "name": "Drygore mace",
+      "breakdownNotes": "",
+      "label": "mace"
+    },
+    {
+      "image": "https://i.imgur.com/ALe1PIE.png",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_platebody",
+      "name": "Masterwork platebody",
+      "breakdownNotes": "",
+      "label": "mwtop"
+    },
+    {
+      "image": "https://i.imgur.com/ytFFaBI.png",
+      "wikiLink": "https://runescape.wiki/w/Worn_Equipment#Off-hand_slot",
+      "name": "Off-hand slot",
+      "breakdownNotes": "",
+      "label": "ohslot"
+    },
+    {
+      "image": "https://i.imgur.com/Ev1KbDF.png",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_platelegs",
+      "name": "Masterwork platelegs",
+      "breakdownNotes": "",
+      "label": "mwlegs"
+    },
+    {
+      "image": "https://i.imgur.com/U4Wa7vb.png",
+      "wikiLink": "https://runescape.wiki/w/Gloves_of_passage",
+      "name": "Gloves of passage",
+      "breakdownNotes": "",
+      "label": "glovesofpassage"
+    },
+    {
+      "image": "https://i.imgur.com/GsZmtrn.png",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_boots",
+      "name": "Masterwork boots",
+      "breakdownNotes": "",
+      "label": "mwboots"
+    },
+    {
+      "image": "https://i.imgur.com/Rg6kfwR.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_Fortune",
+      "name": "Ring of Fortune",
+      "breakdownNotes": "",
+      "label": "ringoffortune"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/gNvJT7o.png",
+      "wikiLink": "https://runescape.wiki/w/Illuminated_Book_of_Wisdom",
+      "name": "Illuminated Book of Wisdom",
+      "breakdownNotes": "",
+      "label": "saragodbook"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/a2CITlX.png",
+        "name": "Blood Nihil",
+        "breakdownNotes": "",
+        "label": "bloodnihil"
+      }
+    ]
+  }
+}

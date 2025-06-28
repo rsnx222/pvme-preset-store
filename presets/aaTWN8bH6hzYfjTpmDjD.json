@@ -1,0 +1,384 @@
+{
+  "presetName": "Hellhounds Magic",
+  "presetNotes": "T100 &gt; Inquisitor &gt; T95",
+  "equipmentSlots": [
+    {
+      "label": "virtushelm",
+      "image": "https://i.imgur.com/z6apdWl.png",
+      "name": "Virtus mask",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Virtus_mask"
+    },
+    {
+      "label": "kalmej",
+      "image": "https://i.imgur.com/v4dRHBk.png",
+      "name": "Igneous Kal-Mej",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mej"
+    },
+    {
+      "label": "demonhorn",
+      "image": "https://i.imgur.com/gA1MFTE.png",
+      "name": "Demon horn necklace",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Demon_horn_necklace"
+    },
+    {
+      "label": "roarofawakening",
+      "image": "https://img.pvme.io/images/nCmqhfpcHo.png",
+      "name": "Roar of Awakening",
+      "breakdownNotes": "<img title=\"caroming2\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1092819699416453220.png?v=1\" /><span> </span><img title=\"precise4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1092819725546946640.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening"
+    },
+    {
+      "label": "virtustop",
+      "image": "https://i.imgur.com/cau9oLa.png",
+      "name": "Virtus robe top",
+      "breakdownNotes": "<img title=\"biting4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087809617931.png?v=1\" /> <img title=\"demonslayerperk\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502842653900818.png?v=1\" /> | <img title=\"relentless5\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800920748092.png?v=1\" /> <img title=\"crack4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087662686249.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_top"
+    },
+    {
+      "label": "odetodeceit",
+      "image": "https://img.pvme.io/images/8WKmBCfI34.png",
+      "name": "Ode to Deceit",
+      "breakdownNotes": "<img title=\"eruptive4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1214416401561952296.png?v=1\" /><span> </span><img title=\"ruthless3\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Ode_to_Deceit"
+    },
+    {
+      "label": "virtuslegs",
+      "image": "https://i.imgur.com/eEGwTU4.png",
+      "name": "Virtus robe legs",
+      "breakdownNotes": "<img title=\"scav\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1109429520995463288.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_legs"
+    },
+    {
+      "label": "cinder",
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+    },
+    {
+      "label": "diffusion",
+      "image": "https://i.imgur.com/2VPk1SN.png",
+      "name": "Blast diffusion boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blast_diffusion_boots"
+    },
+    {
+      "label": "lotd",
+      "image": "https://i.imgur.com/nXXZxpH.png",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves"
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "<img title=\"airrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658986647589.png?v=1\" /> | <img title=\"lawrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252661406760970.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "scriptureofbik",
+      "image": "https://i.imgur.com/t1KMJMv.png",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "cluebag",
+      "image": "https://i.imgur.com/KPREDHT.png",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "selected": false
+    },
+    {
+      "label": "springcleaner",
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false
+    },
+    {
+      "label": "airrune",
+      "image": "https://i.imgur.com/9Nngfvj.png",
+      "name": "Air rune",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Air_rune",
+      "selected": false
+    },
+    {
+      "label": "cballs",
+      "image": "https://i.imgur.com/GrfjyE2.png",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "selected": false
+    },
+    {
+      "label": "cannon",
+      "image": "https://i.imgur.com/GTwVqeC.png",
+      "name": "Dwarven siege engine",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine",
+      "selected": false
+    },
+    {
+      "label": "lantadymeincensesticks100",
+      "image": "https://i.imgur.com/4n0C5gK.png",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "aggro6",
+      "image": "https://i.imgur.com/nTRsMW1.png",
+      "name": "Aggression flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "aggro6",
+      "image": "https://i.imgur.com/nTRsMW1.png",
+      "name": "Aggression flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "aggro6",
+      "image": "https://i.imgur.com/nTRsMW1.png",
+      "name": "Aggression flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "aggro6",
+      "image": "https://i.imgur.com/nTRsMW1.png",
+      "name": "Aggression flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "spiritattractionflask",
+      "image": "https://i.imgur.com/9oDoU6T.png",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "poison6",
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "poison6",
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "aggro6",
+      "image": "https://i.imgur.com/nTRsMW1.png",
+      "name": "Aggression flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "aggro6",
+      "image": "https://i.imgur.com/nTRsMW1.png",
+      "name": "Aggression flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "aggro6",
+      "image": "https://i.imgur.com/nTRsMW1.png",
+      "name": "Aggression flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "spiritattractionflask",
+      "image": "https://i.imgur.com/9oDoU6T.png",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "spiritattractionflask",
+      "image": "https://i.imgur.com/9oDoU6T.png",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "poison6",
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "poison6",
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "aggro6",
+      "image": "https://i.imgur.com/nTRsMW1.png",
+      "name": "Aggression flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "aggro6",
+      "image": "https://i.imgur.com/nTRsMW1.png",
+      "name": "Aggression flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "aggro6",
+      "image": "https://i.imgur.com/nTRsMW1.png",
+      "name": "Aggression flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "spiritattractionflask",
+      "image": "https://i.imgur.com/9oDoU6T.png",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "spiritattractionflask",
+      "image": "https://i.imgur.com/9oDoU6T.png",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "poison6",
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "selected": false
+    },
+    {
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "legendpetscav",
+        "image": "https://i.imgur.com/KWIawjY.png",
+        "name": "Legendary Pet (Scavenge)",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

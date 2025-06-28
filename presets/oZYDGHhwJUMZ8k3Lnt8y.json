@@ -1,0 +1,401 @@
+{
+  "presetName": "Mage (Castle Wars)",
+  "presetNotes": "Basic preset for beginners<br />See items description below for alternatives",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/uDHYUf6.png",
+      "wikiLink": "https://runescape.wiki/w/Ganodermic_visor",
+      "name": "Ganodermic visor",
+      "breakdownNotes": "or Zuriel's Hood / T78 cap",
+      "label": "ganohelm"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/ZjwLwcR.png",
+      "wikiLink": "https://runescape.wiki/w/Phoenix_necklace",
+      "name": "Phoenix necklace",
+      "breakdownNotes": "Or EoF if experienced",
+      "label": "pneck"
+    },
+    {
+      "image": "https://i.imgur.com/4gzM0Ab.png",
+      "wikiLink": "https://runescape.wiki/w/Worn_Equipment#Main_hand_slot",
+      "name": "Mainhand slot",
+      "breakdownNotes": "Any wand / Praesul BiS",
+      "label": "mhslot"
+    },
+    {
+      "image": "https://i.imgur.com/Io6oIdr.png",
+      "wikiLink": "https://runescape.wiki/w/Ganodermic_poncho",
+      "name": "Ganodermic poncho",
+      "breakdownNotes": "T78 cap",
+      "label": "ganobody"
+    },
+    {
+      "image": "https://i.imgur.com/ThpXK19.png",
+      "wikiLink": "https://runescape.wiki/w/Merciless_kiteshield",
+      "name": "Merciless kiteshield",
+      "breakdownNotes": "Any shield / Turtling 4 perk",
+      "label": "mageshield"
+    },
+    {
+      "image": "https://i.imgur.com/D3cx9PR.png",
+      "wikiLink": "https://runescape.wiki/w/Ganodermic_leggings",
+      "name": "Ganodermic leggings",
+      "breakdownNotes": "T78 cap",
+      "label": "ganolegs"
+    },
+    {
+      "image": "https://i.imgur.com/0xf0xYo.png",
+      "wikiLink": "https://runescape.wiki/w/Castle_wars_brace#(3)",
+      "name": "Castle wars brace (3)",
+      "breakdownNotes": "",
+      "label": "cwbrace"
+    },
+    {
+      "image": "https://i.imgur.com/2VPk1SN.png",
+      "wikiLink": "https://runescape.wiki/w/Blast_diffusion_boots",
+      "name": "Blast diffusion boots",
+      "breakdownNotes": "Any boots",
+      "label": "diffusion"
+    },
+    {
+      "image": "https://i.imgur.com/OwpbyOe.png",
+      "wikiLink": "https://runescape.wiki/w/Leviathan_ring",
+      "name": "Leviathan ring",
+      "breakdownNotes": "Or any DPS ring",
+      "label": "leviathanring"
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Runes for Animated Dead, Exsanguinate, Disruption Shield",
+      "label": "graspingpouchblack"
+    },
+    {
+      "image": "https://i.imgur.com/3NtBQQA.png",
+      "wikiLink": "https://runescape.wiki/w/Aegis_aura",
+      "name": "Aegis aura",
+      "breakdownNotes": "Or Ancestor spirits / Dark magic",
+      "label": "aegisaura"
+    },
+    {
+      "image": "https://i.imgur.com/lPppoD4.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful",
+      "name": "Scripture of Ful",
+      "breakdownNotes": "Or Saradomin book / Zamorak book",
+      "label": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "or simple Overloads",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/kLSCUux.png",
+      "wikiLink": "https://runescape.wiki/w/Worn_Equipment#Two-handed_items",
+      "name": "2h equipment slot",
+      "breakdownNotes": "Any Staff / FSOA BiS",
+      "label": "2hslot",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/mrSh3MM.png",
+      "wikiLink": "https://runescape.wiki/w/Spellcaster_gloves_(white)",
+      "name": "Spellcaster gloves (white)",
+      "breakdownNotes": "",
+      "label": "spellcastergloves",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "Any food",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "Any food",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "Any food",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "Any food",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/IqAjWRF.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "Any adren pot",
+      "label": "renewal4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/k1f7oSp.png",
+      "wikiLink": "https://runescape.wiki/w/Numbing_root",
+      "name": "Numbing root",
+      "breakdownNotes": "<span>Insta remove bleeds (45s cooldown)</span>",
+      "label": "numbingroot",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SRVgAXl.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
+      "name": "Attuned portent of restoration X",
+      "breakdownNotes": "Or Portent of restoration X (bought from g.e)<div><div><div></div></div></div>",
+      "label": "attunedportentofrestorationx",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SRVgAXl.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
+      "name": "Attuned portent of restoration X",
+      "breakdownNotes": "Or Portent of restoration X (bought from g.e)<div><div><div></div></div></div>",
+      "label": "attunedportentofrestorationx",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "Any food",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "Any food",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "Any food",
+      "label": "sailfish",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "Any prayer potion / Blessed Flask BiS",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "Any prayer potion / Blessed Flask BiS",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SRVgAXl.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
+      "name": "Attuned portent of restoration X",
+      "breakdownNotes": "Or Portent of restoration X (bought from g.e)<div><div><div></div></div></div>",
+      "label": "attunedportentofrestorationx",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SRVgAXl.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
+      "name": "Attuned portent of restoration X",
+      "breakdownNotes": "Or Portent of restoration X (bought from g.e)<div><div><div></div></div></div>",
+      "label": "attunedportentofrestorationx",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "Any brew",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "Any brew",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "Any brew",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/n9C7iSA.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "Could save you when deep stunned",
+      "label": "vitality4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/swrloxf.png",
+      "wikiLink": "https://runescape.wiki/w/Gorajian_mushroom",
+      "name": "Gorajian mushroom",
+      "breakdownNotes": "<span>10 sec of 15% dmg reduction in PvP</span>",
+      "label": "gorajianmushroom",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "<span>Runes for Animated Dead, Exsanguinate, Disruption Shield</span>",
+      "label": "graspingpouchpink",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "<span>Runes for Animated Dead, Exsanguinate, Disruption Shield</span>",
+      "label": "graspingpouchblue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "Any brew",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "Any brew",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "Any brew",
+      "label": "sara",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/eDmt2lT.png",
+        "name": "Blessing of Het",
+        "breakdownNotes": "",
+        "description": "Food and potions heal 10% more lifepoints.",
+        "label": "blessingofhet",
+        "energy": 100
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/eDmt2lT.png",
+        "name": "Blessing of Het",
+        "breakdownNotes": "",
+        "description": "Food and potions heal 10% more lifepoints.",
+        "label": "blessingofhet",
+        "energy": 100
+      },
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

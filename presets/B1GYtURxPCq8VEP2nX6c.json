@@ -1,0 +1,399 @@
+{
+  "presetName": "Vorago - Low Gear Magia",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/z6apdWl.png",
+      "wikiLink": "https://runescape.wiki/w/Virtus_mask",
+      "name": "Virtus mask",
+      "breakdownNotes": "",
+      "label": "virtushelm"
+    },
+    {
+      "image": "https://i.imgur.com/QbbeF9W.png",
+      "wikiLink": "https://runescape.wiki/w/Defence_cape_(t)",
+      "name": "Defence cape (t)",
+      "breakdownNotes": "",
+      "label": "defencecape"
+    },
+    {
+      "image": "https://i.imgur.com/cUaU7mB.png",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_souls",
+      "name": "Amulet of souls",
+      "breakdownNotes": "",
+      "label": "aos"
+    },
+    {
+      "image": "https://i.imgur.com/6Zear8O.png",
+      "wikiLink": "https://runescape.wiki/w/Cywir_wand",
+      "name": "Cywir wand",
+      "breakdownNotes": "",
+      "label": "cywirwand"
+    },
+    {
+      "image": "https://i.imgur.com/cau9oLa.png",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_top",
+      "name": "Virtus robe top",
+      "breakdownNotes": "",
+      "label": "virtustop"
+    },
+    {
+      "image": "https://i.imgur.com/H37FxHZ.png",
+      "wikiLink": "https://runescape.wiki/w/Cywir_orb",
+      "name": "Cywir orb",
+      "breakdownNotes": "",
+      "label": "cywirorb"
+    },
+    {
+      "image": "https://i.imgur.com/eEGwTU4.png",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_legs",
+      "name": "Virtus robe legs",
+      "breakdownNotes": "",
+      "label": "virtuslegs"
+    },
+    {
+      "image": "https://i.imgur.com/6iT5PjZ.png",
+      "wikiLink": "https://runescape.wiki/w/Kerapac's_wrist_wraps",
+      "name": "Kerapac's wrist wraps",
+      "breakdownNotes": "",
+      "label": "wristwraps"
+    },
+    {
+      "image": "https://i.imgur.com/2VPk1SN.png",
+      "wikiLink": "https://runescape.wiki/w/Blast_diffusion_boots",
+      "name": "Blast diffusion boots",
+      "breakdownNotes": "",
+      "label": "diffusion"
+    },
+    {
+      "image": "https://i.imgur.com/y5vAY4M.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death",
+      "name": "Ring of death",
+      "breakdownNotes": "",
+      "label": "rod"
+    },
+    {
+      "image": "https://i.imgur.com/Mk7jbjC.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch",
+      "name": "Grasping rune pouch",
+      "breakdownNotes": "ár ",
+      "label": "graspingpouch"
+    },
+    {
+      "image": "https://i.imgur.com/OnkKocW.png",
+      "wikiLink": "https://runescape.wiki/w/Supreme_runic_accuracy_aura",
+      "name": "Supreme runic accuracy aura",
+      "breakdownNotes": "",
+      "label": "runic"
+    },
+    {
+      "image": "https://i.imgur.com/o7yhKdD.png",
+      "wikiLink": "https://runescape.wiki/w/Scrimshaw_of_Elements",
+      "name": "Scrimshaw of Elements",
+      "breakdownNotes": "",
+      "label": "elements"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/gKnqcZ0.png",
+      "wikiLink": "https://runescape.wiki/w/Overload_flask#(6)",
+      "name": "Overload flask (6)",
+      "breakdownNotes": "",
+      "label": "overload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xhMnZMo.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_Urn",
+      "name": "Adrenaline Urn",
+      "breakdownNotes": "",
+      "label": "adrenurn",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/n9C7iSA.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "",
+      "label": "vitality4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ThpXK19.png",
+      "wikiLink": "https://runescape.wiki/w/Merciless_kiteshield",
+      "name": "Merciless kiteshield",
+      "breakdownNotes": "",
+      "label": "mageshield",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "https://i.imgur.com/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline.",
+        "label": "shadowsgrace",
+        "energy": 50
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "https://i.imgur.com/A1BvfVb.png",
+        "name": "Hellhound",
+        "breakdownNotes": "",
+        "label": "hellhound"
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/pIteWAi.png",
+        "name": "Pack Yak",
+        "breakdownNotes": "",
+        "label": "packyak"
+      }
+    ]
+  }
+}

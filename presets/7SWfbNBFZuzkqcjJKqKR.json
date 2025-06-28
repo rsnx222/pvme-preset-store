@@ -1,0 +1,333 @@
+{
+  "presetName": "Obelisk Abyssal Demons (Melee)",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "demonslayercirclet",
+      "image": "https://img.pvme.io/images/iIut3c4.png",
+      "name": "Demon slayer circlet",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Demon_slayer_circlet"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "zealots",
+      "image": "https://img.pvme.io/images/UHRGdEk.png",
+      "name": "Amulet of zealots",
+      "breakdownNotes": "Pray Leech Strength and Soul Split<br />",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_zealots"
+    },
+    {
+      "label": "lanispear",
+      "image": "https://img.pvme.io/images/BGhsSXy.png",
+      "name": "Laniakea's spear",
+      "breakdownNotes": "Aftershock 4 Precise 2<span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712074245202772009.png?v=1\" /><span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1084799750416637993.png?v=1\" /> + Equilibrium 4 Ruthless 3 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088589627505.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" /><br />",
+      "wikiLink": "https://runescape.wiki/w/Laniakea's_spear"
+    },
+    {
+      "label": "vestmentbody",
+      "image": "https://img.pvme.io/images/E5ptfu6.png",
+      "name": "Vestments of havoc robe top",
+      "breakdownNotes": "<span>Biting 4 Demon Slayer </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087809617931.png?v=1\" /><span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502842653900818.png?v=1\" /><span> + </span><span>Crackling 4 </span><span>Relentless 5  </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087662686249.png?v=1\" /><span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800920748092.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_top"
+    },
+    null,
+    {
+      "label": "vestmentlegs",
+      "image": "https://img.pvme.io/images/mz7GwWF.png",
+      "name": "Vestments of havoc robe bottom",
+      "breakdownNotes": "<span>Impatient 4 Genocidal </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088204013640.png?v=1\" /><span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689503091539705870.png?v=1\" /><span>+ Scavenging 4 </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1005934140669046824.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_bottom"
+    },
+    {
+      "label": "cinder",
+      "image": "https://img.pvme.io/images/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+    },
+    {
+      "label": "vestmentboots",
+      "image": "https://img.pvme.io/images/FarIA5V.png",
+      "name": "Vestments of havoc boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_boots"
+    },
+    {
+      "label": "reaverring",
+      "image": "https://img.pvme.io/images/cnIOClx.png",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring"
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Runes do not matter, mostly taken for prayer bonus",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)"
+    },
+    null,
+    {
+      "label": "sacscrim",
+      "image": "https://img.pvme.io/images/JtRtMGN.png",
+      "name": "Scrimshaw of sacrifice",
+      "breakdownNotes": "<span>Can use Scripture of Ful </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/902209626412560395.png?v=1\" /><span> or Wen </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/883134307902816297.png?v=1\" /><span> instead</span><br />",
+      "wikiLink": "https://runescape.wiki/w/Scrimshaw_of_sacrifice"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "ovl",
+      "image": "https://img.pvme.io/images/DGw6F36.png",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
+      "selected": false
+    },
+    {
+      "label": "ovl",
+      "image": "https://img.pvme.io/images/DGw6F36.png",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
+      "selected": false
+    },
+    {
+      "label": "powderofpenance2",
+      "image": "https://img.pvme.io/images/w6hThUy.png",
+      "name": "Powder of penance",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "selected": false
+    },
+    {
+      "label": "holyscarab",
+      "image": "https://img.pvme.io/images/7HsbgWH.png",
+      "name": "Holy scarab pouch",
+      "breakdownNotes": "<span>Can replace if prayer restoration isn't an issue</span><br />",
+      "wikiLink": "https://runescape.wiki/w/Holy_scarab_pouch",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "potionreservoir2",
+      "image": "https://img.pvme.io/images/af9O4EM.png",
+      "name": "Potion reservoir (inactive)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#inactive",
+      "selected": false
+    },
+    {
+      "label": "aggro6",
+      "image": "https://img.pvme.io/images/nTRsMW1.png",
+      "name": "Aggression flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "aggro6",
+      "image": "https://img.pvme.io/images/nTRsMW1.png",
+      "name": "Aggression flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "lantasticks",
+      "image": "https://img.pvme.io/images/LfpiRjg.png",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "selected": false
+    },
+    {
+      "label": "kwuarmsticks",
+      "image": "https://img.pvme.io/images/Ba7yju8.png",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false
+    },
+    {
+      "label": "poison6",
+      "image": "https://img.pvme.io/images/KyZkJoc.png",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "portableobelisk",
+      "image": "https://img.pvme.io/images/gKUbd5X.png",
+      "name": "Portable Obelisk",
+      "breakdownNotes": "For teleporting to level 18 obelisk, can be replaced by obelisk shard",
+      "wikiLink": "https://runescape.wiki/w/Portable_Obelisk",
+      "selected": false
+    },
+    {
+      "label": "cannon",
+      "image": "https://img.pvme.io/images/GTwVqeC.png",
+      "name": "Dwarven siege engine",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "label": "cballs",
+      "image": "https://img.pvme.io/images/GrfjyE2.png",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "elvenshard",
+      "image": "https://img.pvme.io/images/UURvGNW.png",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/spEwR2q.png",
+        "name": "Slayer Introspection",
+        "breakdownNotes": "",
+        "label": "slayerintrospection",
+        "energy": 200
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/x5tUpRe.png",
+        "name": "Holy scarab",
+        "breakdownNotes": "",
+        "label": "holyscarab"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "https://i.imgur.com/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": "",
+        "label": "ripperdemon"
+      },
+      {
+        "image": "https://i.imgur.com/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": "",
+        "label": "kalgdemon"
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

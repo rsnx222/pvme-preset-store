@@ -1,0 +1,256 @@
+{
+  "presetName": "2023-04-14-23-2845",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/fiTvvCf.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_crystal_helm",
+      "name": "Attuned crystal helm",
+      "breakdownNotes": "",
+      "label": "attunedcrystalhelm"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/E9U0laS.png",
+      "wikiLink": "https://runescape.wiki/w/Brawler's_blood_necklace",
+      "name": "Brawler's blood necklace",
+      "breakdownNotes": "",
+      "label": "meleeblood"
+    },
+    {
+      "image": "https://i.imgur.com/4iuw5ze.png",
+      "wikiLink": "https://runescape.wiki/w/Zaros_godsword",
+      "name": "Zaros godsword",
+      "breakdownNotes": "Ek-Zek Kil, MSoA, and Noxious Scythe are viable alternatives",
+      "label": "zgs"
+    },
+    {
+      "image": "https://i.imgur.com/Xqpr6Xs.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_hauberk",
+      "name": "Sirenic hauberk",
+      "breakdownNotes": "With Biting 4 and Clearheaded 4",
+      "label": "sirenictop"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/xnjdLrW.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_crystal_legs",
+      "name": "Attuned crystal legs",
+      "breakdownNotes": "",
+      "label": "attunedcrystallegs"
+    },
+    {
+      "image": "https://i.imgur.com/xgIpwVn.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_crystal_gloves",
+      "name": "Attuned crystal gloves",
+      "breakdownNotes": "",
+      "label": "attunedcrystalgloves"
+    },
+    {
+      "image": "https://i.imgur.com/SESOIYr.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_crystal_boots",
+      "name": "Attuned crystal boots",
+      "breakdownNotes": "",
+      "label": "attunedcrystalboots"
+    },
+    {
+      "image": "https://i.imgur.com/MtrMHZ0.png",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "",
+      "label": "lotd"
+    },
+    {
+      "image": "https://i.imgur.com/92PLIAF.png",
+      "wikiLink": "https://runescape.wiki/w/Tirannwn_quiver_4",
+      "name": "Tirannwn quiver 4",
+      "breakdownNotes": "Mainly used for Prayer bonus",
+      "label": "quiver4"
+    },
+    {
+      "image": "https://i.imgur.com/JtO8ViZ.png",
+      "wikiLink": "https://runescape.wiki/w/Penance_aura",
+      "name": "Penance aura",
+      "breakdownNotes": "",
+      "label": "penance"
+    },
+    {
+      "image": "https://i.imgur.com/sh1uQyP.png",
+      "wikiLink": "https://runescape.wiki/w/Scrimshaw_of_Vampyrism",
+      "name": "Scrimshaw of Vampyrism",
+      "breakdownNotes": "",
+      "label": "vamp"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/SsNRoVE.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve",
+      "name": "Elder overload salve",
+      "breakdownNotes": "",
+      "label": "salve"
+    },
+    {
+      "image": "https://i.imgur.com/pulVXx3.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore",
+      "name": "Super restore",
+      "breakdownNotes": "",
+      "label": "restore"
+    },
+    {
+      "image": "https://i.imgur.com/zWMNrib.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "Emergency food",
+      "label": "sailfish"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/CR06fbn.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_(4_dose)",
+      "name": "Weapon poison+++ (4 dose)",
+      "breakdownNotes": "",
+      "label": "poison4"
+    },
+    {
+      "image": "https://i.imgur.com/BQXFPFu.png",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(blood_reaver)",
+      "name": "Binding contract (blood reaver)",
+      "breakdownNotes": "",
+      "label": "reaver"
+    },
+    {
+      "image": "https://i.imgur.com/zWMNrib.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "name": "Sailfish",
+      "breakdownNotes": "Emergency food",
+      "label": "sailfish"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/D0Ky3DE.png",
+      "wikiLink": "https://runescape.wiki/w/Slayer_codex",
+      "name": "Slayer codex",
+      "breakdownNotes": "For teleport to PoD",
+      "label": "scodex"
+    },
+    {
+      "image": "https://i.imgur.com/UURvGNW.png",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "label": "elvenshard"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner"
+    },
+    {
+      "image": "https://i.imgur.com/KFZJLhU.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal"
+    },
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": "",
+        "energy": 0
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": "",
+        "energy": 0
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": "",
+        "energy": 0
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": "",
+        "label": "bloodreaver"
+      }
+    ]
+  }
+}

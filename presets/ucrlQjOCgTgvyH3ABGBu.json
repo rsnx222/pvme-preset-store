@@ -1,0 +1,367 @@
+{
+  "presetName": "2000% solo zamorak (ranged)",
+  "presetNotes": "Kal'gerion - 2000% enrage<div>EoF info is in breakdown</div>",
+  "equipmentSlots": [
+    {
+      "label": "edracolichcoif",
+      "image": "https://i.imgur.com/S1sjGOu.png",
+      "name": "Elite Dracolich coif",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_coif"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "eofblue",
+      "image": "https://i.imgur.com/zAiXkJn.png",
+      "name": "EoF - Seren godbow",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Seren_godbow"
+    },
+    {
+      "label": "omniguard",
+      "image": "https://i.imgur.com/SzFvoQB.png",
+      "name": "Omni guard",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Omni_guard"
+    },
+    {
+      "label": "edracolichhauberk",
+      "image": "https://i.imgur.com/M5jOHR3.png",
+      "name": "Elite Dracolich hauberk",
+      "breakdownNotes": "Biting 4 + Mobile | Relentless 5 Crackling 4",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_hauberk"
+    },
+    {
+      "label": "soulboundlantern",
+      "image": "https://i.imgur.com/VJsZ4HL.png",
+      "name": "Soulbound lantern",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern"
+    },
+    {
+      "label": "edracolichchaps",
+      "image": "https://i.imgur.com/VGqlhJd.png",
+      "name": "Elite Dracolich chaps",
+      "breakdownNotes": "Devoted 4 + impatient 4 | Lucky 6 + X",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_chaps"
+    },
+    {
+      "label": "edracolichvambs",
+      "image": "https://i.imgur.com/zJ2WxLa.png",
+      "name": "Elite Dracolich vambraces",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_vambraces"
+    },
+    {
+      "label": "edracolichboots",
+      "image": "https://i.imgur.com/07vxUMy.png",
+      "name": "Elite Dracolich boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_boots"
+    },
+    {
+      "label": "stalkerring",
+      "image": "https://i.imgur.com/xRj7mKb.png",
+      "name": "Stalker's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Stalker's_ring"
+    },
+    {
+      "label": "pernixquiverblue",
+      "image": "https://i.imgur.com/X5AcgQh.png",
+      "name": "Pernix's Quiver (Blue)",
+      "breakdownNotes": "Wen arrows | Deathspore Arrows",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver"
+    },
+    {
+      "label": "mahj",
+      "image": "https://i.imgur.com/br11PCq.png",
+      "name": "Mahjarrat aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Mahjarrat_aura"
+    },
+    {
+      "label": "grim",
+      "image": "https://i.imgur.com/eAO0PdY.png",
+      "name": "Erethdor's grimoire",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "pernixquiverred",
+      "image": "https://i.imgur.com/uMJW8pU.png",
+      "name": "Pernix's Quiver (Red)",
+      "breakdownNotes": "Ful arrows | Black Stone Arrows",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver"
+    },
+    {
+      "label": "vitality4",
+      "image": "https://i.imgur.com/n9C7iSA.png",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)"
+    },
+    {
+      "label": "graspingpouchpink",
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)"
+    },
+    {
+      "label": "eofor",
+      "image": "https://i.imgur.com/xPypDhQ.png",
+      "name": "EoF - Ek-ZekKil",
+      "breakdownNotes": "Death Guard EOF",
+      "wikiLink": "https://runescape.wiki/w/Ek-ZekKil"
+    },
+    {
+      "label": "sbrew",
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)"
+    },
+    {
+      "label": "sbrew",
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)"
+    },
+    {
+      "label": "sbrew",
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)"
+    },
+    {
+      "label": "renewal4",
+      "image": "https://i.imgur.com/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)"
+    },
+    {
+      "label": "rod",
+      "image": "https://i.imgur.com/y5vAY4M.png",
+      "name": "Ring of death",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death"
+    },
+    {
+      "label": "graspingpouchblue",
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)"
+    },
+    {
+      "label": "eofgreen",
+      "image": "https://i.imgur.com/LhMlWmw.png",
+      "name": "EoF - Dark bow",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dark_bow"
+    },
+    {
+      "label": "sbrew",
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)"
+    },
+    {
+      "label": "sbrew",
+      "image": "https://i.imgur.com/xjiZl4Y.png",
+      "name": "Super Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)"
+    },
+    {
+      "label": "salve",
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "Optional - Learners can replace with food and drink elder salve at bank chest before teleporting to Zamorak",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)"
+    },
+    {
+      "label": "bolg",
+      "image": "https://i.imgur.com/GkhQHSj.png",
+      "name": "Bow of the Last Guardian",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bow_of_the_Last_Guardian"
+    },
+    null,
+    {
+      "label": "graspingpouchblack",
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)"
+    },
+    {
+      "label": "eofblack",
+      "image": "https://i.imgur.com/iZw3Uee.png",
+      "name": "EoF - Statius warhammer",
+      "breakdownNotes": "ECB EOF",
+      "wikiLink": "https://runescape.wiki/w/Statius_warhammer"
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish"
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish"
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish"
+    },
+    {
+      "label": "t95necrohelm",
+      "image": "https://i.imgur.com/2msk92n.png",
+      "name": "Crown of the First Necromancer",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Crown_of_the_First_Necromancer"
+    },
+    {
+      "label": "t95necrotop",
+      "image": "https://i.imgur.com/VwEHIYQ.png",
+      "name": "Robe top of the First Necromancer",
+      "breakdownNotes": "Biting 4 + Demon Slayer | Relentless 5 + Crackling 4",
+      "wikiLink": "https://runescape.wiki/w/Robe_top_of_the_First_Necromancer"
+    },
+    {
+      "label": "t95necrolegs",
+      "image": "https://i.imgur.com/s0Acz4g.png",
+      "name": "Robe bottom of the First Necromancer",
+      "breakdownNotes": "Devoted 4 + impatient 4 | Invigorating 4 + mobile",
+      "wikiLink": "https://runescape.wiki/w/Robe_bottom_of_the_First_Necromancer"
+    },
+    {
+      "label": "eofpurple",
+      "image": "https://i.imgur.com/nu7QSbh.png",
+      "name": "EoF - Guthix staff",
+      "breakdownNotes": "Zamorak Bow EOF",
+      "wikiLink": "https://runescape.wiki/w/Guthix_staff"
+    },
+    {
+      "label": "zemouregalsnexus",
+      "image": "https://i.imgur.com/3pFXvMR.png",
+      "name": "Zemoregal's Nexus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus"
+    },
+    {
+      "label": "vuln",
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs"
+    },
+    {
+      "label": "blessed",
+      "image": "https://i.imgur.com/FVmxMkH.png",
+      "name": "Blessed flask",
+      "breakdownNotes": "Optional - Learners can replace with penance powder (lost on death/practice runs, expensive upkeep)",
+      "wikiLink": "https://runescape.wiki/w/Blessed_flask"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "description": "Increases maximum health by 500.",
+        "label": "fontoflife",
+        "energy": 50
+      },
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)",
+        "label": "berserkersfury",
+        "energy": 250
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": "",
+        "label": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

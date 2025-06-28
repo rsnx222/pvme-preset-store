@@ -1,0 +1,307 @@
+{
+  "presetName": "Legacy Capsarius",
+  "presetNotes": "This setup assumes you're using Legacy Combat Mode <br /><br />Upgrade where possible<br />",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/DpKvhTI.png",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_helm_of_zamorak",
+      "name": "Anima core helm of zamorak",
+      "breakdownNotes": "",
+      "label": "zamhelm"
+    },
+    {
+      "image": "https://i.imgur.com/TNKAuKX.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Xil",
+      "name": "Igneous Kal-Xil",
+      "breakdownNotes": "",
+      "label": "kalxil"
+    },
+    {
+      "image": "https://i.imgur.com/YQRScqK.png",
+      "wikiLink": "https://runescape.wiki/w/Farsight_blood_necklace",
+      "name": "Farsight blood necklace",
+      "breakdownNotes": "",
+      "label": "rangeblood"
+    },
+    {
+      "image": "https://i.imgur.com/BJ1Qzbt.png",
+      "wikiLink": "https://runescape.wiki/w/Decimation",
+      "name": "Decimation",
+      "breakdownNotes": "Precise 6 <img title=\"p6\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088769982475.png?v=1\" /> Ruthless <img title=\"ruthless3\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" />",
+      "label": "deci"
+    },
+    null,
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/FjsLw1L.png",
+      "wikiLink": "https://runescape.wiki/w/Armadyl_gloves",
+      "name": "Armadyl gloves",
+      "breakdownNotes": "",
+      "label": "armagloves"
+    },
+    {
+      "image": "https://i.imgur.com/m9hre9E.png",
+      "wikiLink": "https://runescape.wiki/w/Armadyl_boots",
+      "name": "Armadyl boots",
+      "breakdownNotes": "",
+      "label": "armaboots"
+    },
+    {
+      "image": "https://i.imgur.com/RZg5LNG.png",
+      "wikiLink": "https://runescape.wiki/w/Asylum_surgeon's_ring",
+      "name": "Asylum surgeon's ring",
+      "breakdownNotes": "Any ring works<br />",
+      "label": "asr"
+    },
+    {
+      "image": "https://i.imgur.com/yxmdGCZ.png",
+      "wikiLink": "https://runescape.wiki/w/Tirannwn_quiver_4",
+      "name": "Tirannwn quiver 4",
+      "breakdownNotes": "",
+      "label": "quiver4"
+    },
+    {
+      "image": "https://i.imgur.com/a3Up2sd.png",
+      "wikiLink": "https://runescape.wiki/w/Equilibrium_aura",
+      "name": "Equilibrium aura",
+      "breakdownNotes": "",
+      "label": "equilibriumaura"
+    },
+    {
+      "image": "https://i.imgur.com/we1VPRx.png",
+      "wikiLink": "https://runescape.wiki/w/Scrimshaw_of_Cruelty",
+      "name": "Scrimshaw of Cruelty",
+      "breakdownNotes": "",
+      "label": "cruelty"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8r07LbS.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_notepaper",
+      "name": "Magic notepaper",
+      "breakdownNotes": "",
+      "label": "1knote",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/uIF03Iz.png",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#active",
+      "name": "Potion reservoir",
+      "breakdownNotes": "",
+      "label": "potionreservoir",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/MivUk5T.png",
+      "wikiLink": "https://runescape.wiki/w/Slayer_codex",
+      "name": "Slayer codex",
+      "breakdownNotes": "<br />",
+      "label": "scodex",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UURvGNW.png",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "label": "elvenshard",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/KWIawjY.png",
+        "name": "Legendary Pet (Scavenge)",
+        "breakdownNotes": "",
+        "label": "legendpetscav"
+      }
+    ]
+  }
+}

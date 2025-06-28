@@ -1,0 +1,403 @@
+{
+  "presetName": "",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/5vasEy6.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_hood_(tier_90)",
+      "name": "Deathwarden hood (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathwardenhoodt90"
+    },
+    {
+      "image": "https://i.imgur.com/wTwgzck.png",
+      "wikiLink": "https://runescape.wiki/w/Reefwalker's_cape",
+      "name": "Reefwalker's cape",
+      "breakdownNotes": "",
+      "label": "reefcape"
+    },
+    {
+      "image": "https://i.imgur.com/4KgPcpm.png",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves",
+      "name": "Grace of the elves",
+      "breakdownNotes": "",
+      "label": "gote"
+    },
+    {
+      "image": "https://i.imgur.com/wFdHN9C.png",
+      "wikiLink": "https://runescape.wiki/w/Dark_Shard_of_Leng",
+      "name": "Dark Shard of Leng",
+      "breakdownNotes": "",
+      "label": "lengmh"
+    },
+    {
+      "image": "https://i.imgur.com/JkyJN48.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_top_(tier_90)",
+      "name": "Deathwarden robe top (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathwardenrobetopt90"
+    },
+    {
+      "image": "https://i.imgur.com/ThpXK19.png",
+      "wikiLink": "https://runescape.wiki/w/Merciless_kiteshield",
+      "name": "Merciless kiteshield",
+      "breakdownNotes": "",
+      "label": "mageshield"
+    },
+    {
+      "image": "https://i.imgur.com/4KirFLg.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_legs_(tier_90)",
+      "name": "Deathwarden robe legs (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathwardenrobelegst90"
+    },
+    {
+      "image": "https://i.imgur.com/3WIoKQI.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_gloves_(tier_90)",
+      "name": "Deathwarden gloves (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathwardenglovest90"
+    },
+    {
+      "image": "https://i.imgur.com/V94Yora.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_boots_(tier_90)",
+      "name": "Deathwarden boots (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathwardenbootst90"
+    },
+    {
+      "image": "https://i.imgur.com/nXXZxpH.png",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "",
+      "label": "lotd"
+    },
+    {
+      "image": "https://i.imgur.com/9JNBvSP.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(orange)",
+      "name": "Grasping rune pouch (orange)",
+      "breakdownNotes": "",
+      "label": "graspingpouchorange"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | soul",
+      "label": "graspingpouchblue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/VmHx4CQ.png",
+      "wikiLink": "https://runescape.wiki/w/Chaos_rune",
+      "name": "Chaos rune",
+      "breakdownNotes": "<br />",
+      "label": "chaosrune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9Nngfvj.png",
+      "wikiLink": "https://runescape.wiki/w/Air_rune",
+      "name": "Air rune",
+      "breakdownNotes": "",
+      "label": "airrune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/WnPH1nm.png",
+      "wikiLink": "https://runescape.wiki/w/Water_rune",
+      "name": "Water rune",
+      "breakdownNotes": "",
+      "label": "waterrune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hXWHlfs.png",
+      "wikiLink": "https://runescape.wiki/w/Soul_rune",
+      "name": "Soul rune",
+      "breakdownNotes": "",
+      "label": "soulrune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/YSj7H2I.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_prayer_flask#(6)",
+      "name": "Extreme prayer flask (6)",
+      "breakdownNotes": "normal Flasks are fine aswell<br />",
+      "label": "extpray",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/YSj7H2I.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_prayer_flask#(6)",
+      "name": "Extreme prayer flask (6)",
+      "breakdownNotes": "normal Flasks are fine aswell<br />",
+      "label": "extpray",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gCf8SPg.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(purple)",
+      "name": "Grasping rune pouch (purple)",
+      "breakdownNotes": "",
+      "label": "graspingpouchpurple",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/0V4quVU.png",
+      "wikiLink": "https://runescape.wiki/w/Death_rune",
+      "name": "Death rune",
+      "breakdownNotes": "",
+      "label": "deathrune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/AnzJigr.png",
+      "wikiLink": "https://runescape.wiki/w/Earth_rune",
+      "name": "Earth rune",
+      "breakdownNotes": "",
+      "label": "earthrune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ILev8dS.png",
+      "wikiLink": "https://runescape.wiki/w/Law_rune",
+      "name": "Law rune",
+      "breakdownNotes": "",
+      "label": "lawrune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/7HrRTp8.png",
+      "wikiLink": "https://runescape.wiki/w/Cosmic_rune",
+      "name": "Cosmic rune",
+      "breakdownNotes": "",
+      "label": "cosmicrune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/YSj7H2I.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_prayer_flask#(6)",
+      "name": "Extreme prayer flask (6)",
+      "breakdownNotes": "normal Flasks are fine aswell<br />",
+      "label": "extpray",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/YSj7H2I.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_prayer_flask#(6)",
+      "name": "Extreme prayer flask (6)",
+      "breakdownNotes": "normal Flasks are fine aswell<br />",
+      "label": "extpray",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "label": "graspingpouchblack",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Moq1ANC.png",
+      "wikiLink": "https://runescape.wiki/w/Fire_rune",
+      "name": "Fire rune",
+      "breakdownNotes": "",
+      "label": "firerune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/DmJhw50.png",
+      "wikiLink": "https://runescape.wiki/w/Blood_rune",
+      "name": "Blood rune",
+      "breakdownNotes": "",
+      "label": "bloodrune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/orRGsqY.png",
+      "wikiLink": "https://runescape.wiki/w/Body_rune",
+      "name": "Body rune",
+      "breakdownNotes": "",
+      "label": "bodyrune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PxjiQ9K.png",
+      "wikiLink": "https://runescape.wiki/w/Astral_rune",
+      "name": "Astral rune",
+      "breakdownNotes": "",
+      "label": "astralrune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/YSj7H2I.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_prayer_flask#(6)",
+      "name": "Extreme prayer flask (6)",
+      "breakdownNotes": "normal Flasks are fine aswell<br />",
+      "label": "extpray",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/YSj7H2I.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_prayer_flask#(6)",
+      "name": "Extreme prayer flask (6)",
+      "breakdownNotes": "normal Flasks are fine aswell<br />",
+      "label": "extpray",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3pFXvMR.png",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus",
+      "name": "Zemoregal's Nexus",
+      "breakdownNotes": "",
+      "label": "zemouregalsnexus",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FVmxMkH.png",
+      "wikiLink": "https://runescape.wiki/w/Blessed_flask",
+      "name": "Blessed flask",
+      "breakdownNotes": "",
+      "label": "blessed",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/YSj7H2I.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_prayer_flask#(6)",
+      "name": "Extreme prayer flask (6)",
+      "breakdownNotes": "normal Flasks are fine aswell<br />",
+      "label": "extpray",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/YSj7H2I.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_prayer_flask#(6)",
+      "name": "Extreme prayer flask (6)",
+      "breakdownNotes": "normal Flasks are fine aswell<br />",
+      "label": "extpray",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/YSj7H2I.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_prayer_flask#(6)",
+      "name": "Extreme prayer flask (6)",
+      "breakdownNotes": "normal Flasks are fine aswell<br />",
+      "label": "extpray",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/YSj7H2I.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_prayer_flask#(6)",
+      "name": "Extreme prayer flask (6)",
+      "breakdownNotes": "normal Flasks are fine aswell<br />",
+      "label": "extpray",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/YSj7H2I.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_prayer_flask#(6)",
+      "name": "Extreme prayer flask (6)",
+      "breakdownNotes": "normal Flasks are fine aswell<br />",
+      "label": "extpray",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "https://i.imgur.com/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "description": "Increases maximum health by 500.",
+        "label": "fontoflife",
+        "energy": 50
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

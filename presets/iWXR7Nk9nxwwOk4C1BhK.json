@@ -1,0 +1,357 @@
+{
+  "presetName": "Rune Dragons (AFK Ranged)",
+  "presetNotes": "No relics are mandatory, but <img title=\"deathnote\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1023150755093426216.png?v=1\" /> can auto-loot bones (<span>if </span><img title=\"bonecrusher\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/975284344526602240.png?v=1\" /> is off)",
+  "equipmentSlots": [
+    {
+      "label": "edracolichcoif",
+      "image": "https://img.pvme.io/images/S1sjGOu.png",
+      "name": "Elite Dracolich coif",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_coif"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "souls",
+      "image": "https://img.pvme.io/images/ZCKGIBM.png",
+      "name": "Amulet of souls (or)",
+      "breakdownNotes": "Cheaper to run than <img title=\"eof\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/787526151978614824.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_souls_(or)"
+    },
+    {
+      "label": "bolg",
+      "image": "https://img.pvme.io/images/GkhQHSj.png",
+      "name": "Bow of the Last Guardian",
+      "breakdownNotes": "Can be any strong bow (T90+) with <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088769982475.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/791281588792590336.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Bow_of_the_Last_Guardian"
+    },
+    {
+      "label": "edracolichhauberk",
+      "image": "https://img.pvme.io/images/M5jOHR3.png",
+      "name": "Elite Dracolich hauberk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_hauberk"
+    },
+    null,
+    {
+      "label": "sireniclegs",
+      "image": "https://img.pvme.io/images/gBPOqaV.png",
+      "name": "Sirenic chaps",
+      "breakdownNotes": "<img title=\"dragonslayerperk\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502927731163170.png?v=1\" /> Dragon Slayer perk (can be optionally combo'd with <img title=\"impatient\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/848803118706720798.png?v=1\" /> Impatient",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_chaps"
+    },
+    {
+      "label": "edracolichvambs",
+      "image": "https://img.pvme.io/images/zJ2WxLa.png",
+      "name": "Elite Dracolich vambraces",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_vambraces"
+    },
+    {
+      "label": "edracolichboots",
+      "image": "https://img.pvme.io/images/07vxUMy.png",
+      "name": "Elite Dracolich boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_boots"
+    },
+    {
+      "label": "kethsiring",
+      "image": "https://img.pvme.io/images/1XuMVbo.png",
+      "name": "Kethsi ring",
+      "breakdownNotes": "<img title=\"kethsiring\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/937093437881192498.png?v=1\" /> &gt; <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/839903943601029120.png?v=1\" /> &gt; <img title=\"rod\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190159462825984.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Kethsi_ring"
+    },
+    {
+      "label": "jasdragonbanearrow",
+      "image": "https://img.pvme.io/images/GhS5tdX.png",
+      "name": "Jas dragonbane arrow",
+      "breakdownNotes": "BIS Ammo for Rune Dragons",
+      "wikiLink": "https://runescape.wiki/w/Jas_dragonbane_arrow"
+    },
+    {
+      "label": "penance",
+      "image": "https://img.pvme.io/images/dMPY1FJ.png",
+      "name": "Penance aura",
+      "breakdownNotes": "or <img title=\"mahj\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643148943856762890.png?v=1\" /> with <img title=\"penancepowder\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/928221126360969226.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Penance_aura"
+    },
+    {
+      "label": "scriptureofamascut",
+      "image": "https://img.pvme.io/images/4KBTJqYn6o.png",
+      "name": "Scripture of Amascut",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Amascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "selected": false
+    },
+    {
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "fellstalkincensesticks100",
+      "image": "https://img.pvme.io/images/nK9EU1V.png",
+      "name": "Fellstalk incense sticks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fellstalk_incense_sticks",
+      "selected": false
+    },
+    {
+      "label": "sixthagecircuit",
+      "image": "https://img.pvme.io/images/gpuvlcU.png",
+      "name": "Sixth-Age circuit",
+      "breakdownNotes": "World Gate Teleport (<span>Dial to </span><span>Kethsi)</span>",
+      "wikiLink": "https://runescape.wiki/w/Sixth-Age_circuit",
+      "selected": false
+    },
+    {
+      "label": "elvenshard",
+      "image": "https://img.pvme.io/images/UURvGNW.png",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "lantadymeincensesticks100",
+      "image": "https://img.pvme.io/images/4n0C5gK.png",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "Can <span>negatively</span> affect prayer restoration",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "selected": false
+    },
+    {
+      "label": "cballs",
+      "image": "https://img.pvme.io/images/GrfjyE2.png",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "selected": false
+    },
+    {
+      "label": "graspingpouch",
+      "image": "https://img.pvme.io/images/Mk7jbjC.png",
+      "name": "Grasping rune pouch",
+      "breakdownNotes": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252661406760970.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658986647589.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659850674186.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252660270104591.png?v=1\" /> - Runes for Telekinetic Grab <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/866551637970255872.png?v=1\" /> and High alchemy <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/937093290631786496.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch",
+      "selected": false
+    },
+    {
+      "label": "deathwardennexus",
+      "image": "https://img.pvme.io/images/hd7YvA4.png",
+      "name": "Deathwarden Nexus",
+      "breakdownNotes": "For <img title=\"darkness\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1137809209782698024.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "label": "cannon",
+      "image": "https://img.pvme.io/images/GTwVqeC.png",
+      "name": "Dwarven siege engine",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine",
+      "selected": false
+    },
+    {
+      "label": "wrench",
+      "image": "https://img.pvme.io/images/UVffd75.png",
+      "name": "Holy wrench",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench",
+      "selected": false
+    },
+    {
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false
+    },
+    {
+      "label": "cluebag",
+      "image": "https://img.pvme.io/images/KPREDHT.png",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "holyscarab",
+      "image": "https://img.pvme.io/images/7HsbgWH.png",
+      "name": "Holy scarab pouch",
+      "breakdownNotes": "If prayer is no issue <span>you c</span><span>an</span><span> </span><span>use </span><img title=\"kalgpouch\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/921410226484301925.png?v=1\" /><span>, </span><img title=\"ripperpouch\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/703581275453128714.png?v=1\" /><span> or </span><img title=\"shadownihil\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/854475441946230855.png?v=1\" /><span> if downgrading gear</span>",
+      "wikiLink": "https://runescape.wiki/w/Holy_scarab_pouch",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "label": "deathnote",
+        "image": "https://img.pvme.io/images/2KToagJ.png",
+        "name": "Death Note",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "All guaranteed bone and ash drops are noted."
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "holyscarab",
+        "image": "https://img.pvme.io/images/x5tUpRe.png",
+        "name": "Holy Scarab",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "label": "ripperdemon",
+        "image": "https://img.pvme.io/images/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": ""
+      },
+      {
+        "label": "kalgdemon",
+        "image": "https://img.pvme.io/images/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": ""
+      },
+      {
+        "label": "shadownihil",
+        "image": "https://img.pvme.io/images/evmMlFz.png",
+        "name": "Shadow Nihil",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

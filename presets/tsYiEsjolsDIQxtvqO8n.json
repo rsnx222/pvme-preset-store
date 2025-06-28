@@ -1,0 +1,395 @@
+{
+  "presetName": "gotyernose clues",
+  "presetNotes": "Teleport to House tabs in bottom left.",
+  "equipmentSlots": [
+    {
+      "label": "wickedhood",
+      "image": "https://img.pvme.io/images/Uxr7Xcm.png",
+      "name": "Wicked hood",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Wicked_hood"
+    },
+    {
+      "label": "globetrotterbackpack",
+      "image": "https://img.pvme.io/images/9u3f0ws.png",
+      "name": "Globetrotter backpack",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_backpack"
+    },
+    {
+      "label": "gote",
+      "image": "https://img.pvme.io/images/4KgPcpm.png",
+      "name": "Grace of the elves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves"
+    },
+    {
+      "label": "deathguardt90",
+      "image": "https://img.pvme.io/images/tosZimW.png",
+      "name": "Death guard (tier 90)",
+      "breakdownNotes": "Glow Worm + Mobile",
+      "wikiLink": "https://runescape.wiki/w/Death_guard_(tier_90)"
+    },
+    {
+      "label": "globetrotterjacket",
+      "image": "https://img.pvme.io/images/paFUjfv.png",
+      "name": "Globetrotter jacket",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_jacket"
+    },
+    {
+      "label": "skulllanternt90",
+      "image": "https://img.pvme.io/images/nEI3w2n.png",
+      "name": "Skull lantern (tier 90)",
+      "breakdownNotes": "Precise 6",
+      "wikiLink": "https://runescape.wiki/w/Skull_lantern_(tier_90)"
+    },
+    {
+      "label": "globetrottershorts",
+      "image": "https://img.pvme.io/images/DvyUvd2.png",
+      "name": "Globetrotter shorts",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_shorts"
+    },
+    {
+      "label": "globetrotterarmguards",
+      "image": "https://img.pvme.io/images/TCZljWu.png",
+      "name": "Globetrotter arm guards",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_arm_guards"
+    },
+    {
+      "label": "globetrotterboots",
+      "image": "https://img.pvme.io/images/44J9f9V.png",
+      "name": "Globetrotter boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_boots"
+    },
+    {
+      "label": "facetofluck",
+      "image": "https://img.pvme.io/images/IHgyELp.png",
+      "name": "Dark Facet of Luck",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dark_Facet_of_Luck"
+    },
+    {
+      "label": "quiver4",
+      "image": "https://img.pvme.io/images/yxmdGCZ.png",
+      "name": "Tirannwn quiver 4",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Tirannwn_quiver_4"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "archaeologyjournal",
+      "image": "https://img.pvme.io/images/8C3OhBk.png",
+      "name": "Archaeology journal",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Archaeology_journal"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "naturessentinelhelm",
+      "image": "https://img.pvme.io/images/h4cf5a8.png",
+      "name": "Nature's sentinel helm",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_helm",
+      "selected": false
+    },
+    {
+      "label": "naturessentinelbranch",
+      "image": "https://img.pvme.io/images/aHlOVcO.png",
+      "name": "Nature's sentinel branch",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_branch",
+      "selected": false
+    },
+    {
+      "label": "naturessentineltrunks",
+      "image": "https://img.pvme.io/images/AyzY63R.png",
+      "name": "Nature's sentinel trunks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_trunks",
+      "selected": false
+    },
+    {
+      "label": "bigbookopiracy",
+      "image": "https://img.pvme.io/images/Ho60PPT.png",
+      "name": "Big Book o'Piracy",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Big_Book_o'Piracy",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "naturessentinelchest",
+      "image": "https://img.pvme.io/images/AVtsARx.png",
+      "name": "Nature's sentinel chest",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_chest",
+      "selected": false
+    },
+    {
+      "label": "naturessentinelboots",
+      "image": "https://img.pvme.io/images/708o7G1.png",
+      "name": "Nature's sentinel boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_boots",
+      "selected": false
+    },
+    {
+      "label": "sceptreofthegods",
+      "image": "https://img.pvme.io/images/E2dLUWN.png",
+      "name": "Sceptre of the gods",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sceptre_of_the_gods",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "enchantedlyre",
+      "image": "https://img.pvme.io/images/X0KALWt.png",
+      "name": "Enchanted lyre",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enchanted_lyre",
+      "selected": false
+    },
+    {
+      "label": "davesspellbook",
+      "image": "https://img.pvme.io/images/ahDBOU5.png",
+      "name": "Dave's spellbook",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dave's_spellbook",
+      "selected": false
+    },
+    {
+      "label": "dragonkinlaboratoryteleport",
+      "image": "https://img.pvme.io/images/nGYkvb0.png",
+      "name": "Dragonkin Laboratory teleport",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dragonkin_Laboratory_teleport",
+      "selected": false
+    },
+    {
+      "label": "ectophial",
+      "image": "https://img.pvme.io/images/mqsH3xe.png",
+      "name": "Ectophial",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ectophial",
+      "selected": false
+    },
+    {
+      "label": "desertamulet4",
+      "image": "https://img.pvme.io/images/JInu2Jy.png",
+      "name": "Desert amulet 4",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Desert_amulet_4",
+      "selected": false
+    },
+    {
+      "label": "masterquestcape",
+      "image": "https://img.pvme.io/images/wTjsmBt.png",
+      "name": "Master quest cape",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_quest_cape",
+      "selected": false
+    },
+    {
+      "label": "passageoftheabyss(yellow)",
+      "image": "https://img.pvme.io/images/OD2ylaK.png",
+      "name": "Passage of the Abyss (yellow)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Passage_of_the_Abyss_(yellow)",
+      "selected": false
+    },
+    {
+      "label": "cluebag",
+      "image": "https://img.pvme.io/images/KPREDHT.png",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "selected": false
+    },
+    {
+      "label": "dungeoneeringcape",
+      "image": "https://img.pvme.io/images/Ca8KMuK.png",
+      "name": "Dungeoneering cape (t)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dungeoneering_cape_(t)",
+      "selected": false
+    },
+    {
+      "label": "ringofkinship",
+      "image": "https://img.pvme.io/images/dQVBOyX.png",
+      "name": "Ring of kinship",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_kinship",
+      "selected": false
+    },
+    {
+      "label": "passageoftheabyss(purple)",
+      "image": "https://img.pvme.io/images/4FnqALw.png",
+      "name": "Passage of the Abyss (purple)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Passage_of_the_Abyss_(purple)",
+      "selected": false
+    },
+    {
+      "label": "goblinvillagesphere",
+      "image": "https://img.pvme.io/images/4FOxSHk.png",
+      "name": "Goblin village sphere",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Goblin_village_sphere",
+      "selected": false
+    },
+    {
+      "label": "slayercape",
+      "image": "https://img.pvme.io/images/B4vyqxv.png",
+      "name": "Slayer cape (t)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Slayer_cape_(t)",
+      "selected": false
+    },
+    {
+      "label": "portablefairyring(used)",
+      "image": "https://img.pvme.io/images/iwTl6xy.png",
+      "name": "Portable fairy ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Portable_fairy_ring#active",
+      "selected": false
+    },
+    {
+      "label": "spirittreere-rooter(used)",
+      "image": "https://img.pvme.io/images/sv8RnA7.png",
+      "name": "Spirit tree re-rooter",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spirit_tree_re-rooter#active",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "portableobelisk",
+      "image": "https://img.pvme.io/images/gKUbd5X.png",
+      "name": "Portable Obelisk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Portable_Obelisk",
+      "selected": false
+    },
+    {
+      "label": "leelasfavour",
+      "image": "https://img.pvme.io/images/AMEBwepV3P.png",
+      "name": "Leela's favour",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Leela's_favour",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchgreen",
+      "image": "https://img.pvme.io/images/fWzGXLF.png",
+      "name": "Grasping rune pouch (green)",
+      "breakdownNotes": "Time | Nature | Air | Earth",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(green)",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "shadowsgrace",
+        "image": "https://img.pvme.io/images/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "energy": 50,
+        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline."
+      },
+      {
+        "label": "abyssallink",
+        "image": "https://img.pvme.io/images/8IMPgCF.png",
+        "name": "Abyssal Link",
+        "breakdownNotes": "",
+        "energy": 250,
+        "description": "Teleport spells from the spellbook no longer require runes, but award no magic XP."
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "meerkats",
+        "image": "https://img.pvme.io/images/cOwxYnD.png",
+        "name": "Meerkats",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

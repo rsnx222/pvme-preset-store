@@ -1,0 +1,291 @@
+{
+  "presetName": "Obelisk Abyssal Demons (Range)",
+  "presetNotes": "Chinning can't proc bolt effects, but will still consume ammo. ",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/iIut3c4.png",
+      "wikiLink": "https://runescape.wiki/w/Demon_slayer_circlet",
+      "name": "Demon slayer circlet",
+      "breakdownNotes": "",
+      "label": "demonslayercirclet"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/UHRGdEk.png",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_zealots",
+      "name": "Amulet of zealots",
+      "breakdownNotes": "Pray Leech Range Strength, Leech Ranged, and Soul Split<br />",
+      "label": "zealots"
+    },
+    {
+      "image": "https://i.imgur.com/TMWKAqQ.png",
+      "wikiLink": "https://runescape.wiki/w/Mechanised_chinchompa",
+      "name": "Mechanised chinchompa",
+      "breakdownNotes": "",
+      "label": "chins"
+    },
+    {
+      "image": "https://i.imgur.com/2S7BJBW.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix_body",
+      "name": "Pernix body",
+      "breakdownNotes": "Biting 4 Demon Slayer + Relentless 5 Crackling 4",
+      "label": "pernixtop"
+    },
+    {
+      "image": "https://i.imgur.com/bDDDK9h.png",
+      "wikiLink": "https://runescape.wiki/w/Off-hand_blightbound_crossbow",
+      "name": "Off-hand blightbound crossbow",
+      "breakdownNotes": "Aftershock 4 Equilibrium 2<br />",
+      "label": "ohbbc"
+    },
+    {
+      "image": "https://i.imgur.com/5EkevSX.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix_chaps",
+      "name": "Pernix chaps",
+      "breakdownNotes": "Impatient 4 Genocidal + Scavenging 4",
+      "label": "pernixlegs"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/jdMqrkq.png",
+      "wikiLink": "https://runescape.wiki/w/Demon_slayer_boots",
+      "name": "Demon slayer boots",
+      "breakdownNotes": "",
+      "label": "demonslayerboots"
+    },
+    {
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "label": "reaverring"
+    },
+    {
+      "image": "https://i.imgur.com/b3geFp8.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver",
+      "breakdownNotes": "Any ammo of the same tier as your OH.<br />",
+      "label": "pernixquiver"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/JtRtMGN.png",
+      "wikiLink": "https://runescape.wiki/w/Scrimshaw_of_sacrifice",
+      "name": "Scrimshaw of sacrifice",
+      "breakdownNotes": "Can use Ful or Wen instead<br />",
+      "label": "sacscrim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/DGw6F36.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "",
+      "label": "ovl"
+    },
+    {
+      "image": "https://i.imgur.com/DGw6F36.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "",
+      "label": "ovl"
+    },
+    {
+      "image": "https://i.imgur.com/w6hThUy.png",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "name": "Powder of penance",
+      "breakdownNotes": "",
+      "label": "powderofpenance2"
+    },
+    {
+      "image": "https://i.imgur.com/JollAZs.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_scarab_pouch",
+      "name": "Holy scarab pouch",
+      "breakdownNotes": "<div>Can replace if prayer restoration isn't an issue.<br /></div>",
+      "label": "holyscarab"
+    },
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/af9O4EM.png",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#inactive",
+      "name": "Potion reservoir (inactive)",
+      "breakdownNotes": "",
+      "label": "potionreservoir2"
+    },
+    {
+      "image": "https://i.imgur.com/nTRsMW1.png",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "name": "Aggression flask (6)",
+      "breakdownNotes": "",
+      "label": "aggro6"
+    },
+    {
+      "image": "https://i.imgur.com/nTRsMW1.png",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "name": "Aggression flask (6)",
+      "breakdownNotes": "",
+      "label": "aggro6"
+    },
+    {
+      "image": "https://i.imgur.com/LfpiRjg.png",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "",
+      "label": "lantasticks"
+    },
+    {
+      "image": "https://i.imgur.com/Ba7yju8.png",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "",
+      "label": "kwuarmsticks"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner"
+    },
+    {
+      "image": "https://i.imgur.com/UEC7TLp.png",
+      "wikiLink": "https://runescape.wiki/w/Black_crystal_(reduced_healing)",
+      "name": "Black crystal (reduced healing)",
+      "breakdownNotes": "",
+      "label": "blackcrystal"
+    },
+    {
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "label": "poison6"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/GTwVqeC.png",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine",
+      "name": "Dwarven siege engine",
+      "breakdownNotes": "",
+      "label": "cannon"
+    },
+    {
+      "image": "https://i.imgur.com/GrfjyE2.png",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "label": "cballs"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/UURvGNW.png",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "label": "elvenshard"
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/spEwR2q.png",
+        "name": "Slayer Introspection",
+        "breakdownNotes": "",
+        "label": "slayerintrospection",
+        "energy": 200
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "https://i.imgur.com/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": "",
+        "label": "ripperdemon"
+      },
+      {
+        "image": "https://i.imgur.com/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": "",
+        "label": "kalgdemon"
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/x5tUpRe.png",
+        "name": "Holy scarab",
+        "breakdownNotes": "",
+        "label": "holyscarab"
+      }
+    ]
+  }
+}

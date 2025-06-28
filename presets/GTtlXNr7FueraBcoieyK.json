@@ -1,0 +1,387 @@
+{
+  "presetName": "Lava Strykewyrms",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "deathwardenhoodt90",
+      "image": "https://img.pvme.io/images/5vasEy6.png",
+      "name": "Deathwarden hood (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_hood_(tier_90)"
+    },
+    {
+      "label": "max",
+      "image": "https://img.pvme.io/images/XspSSvu.png",
+      "name": "Max cape",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Max_cape"
+    },
+    {
+      "label": "aos",
+      "image": "https://img.pvme.io/images/cUaU7mB.png",
+      "name": "Amulet of souls",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_souls"
+    },
+    {
+      "label": "deathguardt90",
+      "image": "https://img.pvme.io/images/tosZimW.png",
+      "name": "Death guard (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Death_guard_(tier_90)"
+    },
+    {
+      "label": "deathwardenrobetopt90",
+      "image": "https://img.pvme.io/images/JkyJN48.png",
+      "name": "Deathwarden robe top (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_top_(tier_90)"
+    },
+    {
+      "label": "skulllanternt90",
+      "image": "https://img.pvme.io/images/nEI3w2n.png",
+      "name": "Skull lantern (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Skull_lantern_(tier_90)"
+    },
+    {
+      "label": "deathdealerrobebottomt90",
+      "image": "https://img.pvme.io/images/AjOaaB7.png",
+      "name": "Deathdealer robe bottom (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_robe_bottom_(tier_90)"
+    },
+    {
+      "label": "cinder",
+      "image": "https://img.pvme.io/images/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "Can be replaced with Deathdealer Gloves",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+    },
+    {
+      "label": "deathwardenbootst90",
+      "image": "https://img.pvme.io/images/V94Yora.png",
+      "name": "Deathwarden boots (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_boots_(tier_90)"
+    },
+    {
+      "label": "zorgothssoulring",
+      "image": "https://img.pvme.io/images/EGVLuFE.png",
+      "name": "Zorgoth's soul ring",
+      "breakdownNotes": "Can be replaced with LOTD",
+      "wikiLink": "https://runescape.wiki/w/Zorgoth%27s_soul_ring"
+    },
+    {
+      "label": "quiver4",
+      "image": "https://img.pvme.io/images/yxmdGCZ.png",
+      "name": "Tirannwn quiver 4",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Tirannwn_quiver_4"
+    },
+    {
+      "label": "penance",
+      "image": "https://img.pvme.io/images/dMPY1FJ.png",
+      "name": "Penance aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Penance_aura"
+    },
+    {
+      "label": "scriptureofwen",
+      "image": "https://img.pvme.io/images/zd3mKfH.png",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "Can be replaced by any God Book",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "wrench",
+      "image": "https://img.pvme.io/images/UVffd75.png",
+      "name": "Holy wrench",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench",
+      "selected": false
+    },
+    {
+      "label": "gembag",
+      "image": "https://img.pvme.io/images/ODNlwIc.png",
+      "name": "Gem bag (upgraded)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Gem_bag_(upgraded)",
+      "selected": false
+    },
+    {
+      "label": "holyovl",
+      "image": "https://img.pvme.io/images/TixXgDh.png",
+      "name": "Holy overload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_overload#(6)",
+      "selected": false
+    },
+    {
+      "label": "holyovl",
+      "image": "https://img.pvme.io/images/TixXgDh.png",
+      "name": "Holy overload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_overload#(6)",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "packyakpouch",
+      "image": "https://img.pvme.io/images/HDVqGWL.png",
+      "name": "Pack yak pouch",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Pack_yak_pouch",
+      "selected": false
+    },
+    {
+      "label": "1knote",
+      "image": "https://img.pvme.io/images/8r07LbS.png",
+      "name": "Magic notepaper",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_notepaper",
+      "selected": false
+    },
+    {
+      "label": "ectoplasm",
+      "image": "https://img.pvme.io/images/Dy2NfTt.png",
+      "name": "Ectoplasm",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ectoplasm",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "conservationofenergy",
+        "image": "https://img.pvme.io/images/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "energy": 350,
+        "description": "After using an ultimate ability, you will regain 10% adrenaline."
+      },
+      {
+        "label": "furyofthesmall",
+        "image": "https://img.pvme.io/images/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline."
+      },
+      {
+        "label": "deathnote",
+        "image": "https://img.pvme.io/images/2KToagJ.png",
+        "name": "Death Note",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "All guaranteed bone and ash drops are noted."
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "label": "conservationofenergy",
+        "image": "https://img.pvme.io/images/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "energy": 350,
+        "description": "After using an ultimate ability, you will regain 10% adrenaline."
+      },
+      {
+        "label": "furyofthesmall",
+        "image": "https://img.pvme.io/images/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline."
+      },
+      {
+        "label": "persistentrage",
+        "image": "https://img.pvme.io/images/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained."
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "packyak",
+        "image": "https://img.pvme.io/images/pIteWAi.png",
+        "name": "Pack Yak",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

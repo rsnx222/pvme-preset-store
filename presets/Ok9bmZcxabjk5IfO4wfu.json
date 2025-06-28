@@ -1,0 +1,378 @@
+{
+  "presetName": "Iron DailyScape",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "masterfarmerhat",
+      "image": "https://i.imgur.com/OkwR3Yv.png",
+      "name": "Master farmer hat",
+      "breakdownNotes": "allows casting of Rapid Growth Twice a day for Golden roses",
+      "wikiLink": "https://runescape.wiki/w/Master_farmer_hat"
+    },
+    {
+      "label": "farmingcape",
+      "image": "https://i.imgur.com/u4Z7zDy.png",
+      "name": "Farming cape",
+      "breakdownNotes": "120 Cape uses super compost",
+      "wikiLink": "https://runescape.wiki/w/Farming_cape"
+    },
+    {
+      "label": "gote",
+      "image": "https://i.imgur.com/4KgPcpm.png",
+      "name": "Grace of the elves",
+      "breakdownNotes": "Porters for Sandstone",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "masterfarmertop",
+      "image": "https://i.imgur.com/z1zOYAE.png",
+      "name": "Master farmer jacket",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_farmer_jacket"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "masterfarmerlegs",
+      "image": "https://i.imgur.com/o2SdRlR.png",
+      "name": "Master farmer legwear",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_farmer_legwear"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "masterfarmerboots",
+      "image": "https://i.imgur.com/w3SBgSA.png",
+      "name": "Master farmer boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_farmer_boots"
+    },
+    {
+      "label": "facetofluck",
+      "image": "https://i.imgur.com/IHgyELp.png",
+      "name": "Dark Facet of Luck",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dark_Facet_of_Luck"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "scriptureofbik",
+      "image": "https://i.imgur.com/t1KMJMv.png",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "bloodrune",
+      "image": "https://i.imgur.com/DmJhw50.png",
+      "name": "Blood rune",
+      "breakdownNotes": "Rune Shop",
+      "wikiLink": "https://runescape.wiki/w/Blood_rune",
+      "selected": false
+    },
+    {
+      "label": "soulrune",
+      "image": "https://i.imgur.com/hXWHlfs.png",
+      "name": "Soul rune",
+      "breakdownNotes": "<span>Rune Shop</span>",
+      "wikiLink": "https://runescape.wiki/w/Soul_rune",
+      "selected": false
+    },
+    {
+      "label": "deathrune",
+      "image": "https://i.imgur.com/0V4quVU.png",
+      "name": "Death rune",
+      "breakdownNotes": "<span>Rune Shop</span>",
+      "wikiLink": "https://runescape.wiki/w/Death_rune",
+      "selected": false
+    },
+    {
+      "label": "naturerune1k",
+      "image": "https://i.imgur.com/3uR1o36.png",
+      "name": "Nature rune",
+      "breakdownNotes": "<span>Rune Shop</span>",
+      "wikiLink": "https://runescape.wiki/w/Nature_rune",
+      "selected": false
+    },
+    {
+      "label": "airrune",
+      "image": "https://i.imgur.com/9Nngfvj.png",
+      "name": "Air rune",
+      "breakdownNotes": "<span>Rune Shop</span>",
+      "wikiLink": "https://runescape.wiki/w/Air_rune",
+      "selected": false
+    },
+    {
+      "label": "waterrune",
+      "image": "https://i.imgur.com/WnPH1nm.png",
+      "name": "Water rune",
+      "breakdownNotes": "<span>Rune Shop</span>",
+      "wikiLink": "https://runescape.wiki/w/Water_rune",
+      "selected": false
+    },
+    {
+      "label": "earthrune",
+      "image": "https://i.imgur.com/AnzJigr.png",
+      "name": "Earth rune",
+      "breakdownNotes": "<span>Rune Shop</span>",
+      "wikiLink": "https://runescape.wiki/w/Earth_rune",
+      "selected": false
+    },
+    {
+      "label": "cosmicrune",
+      "image": "https://i.imgur.com/7HrRTp8.png",
+      "name": "Cosmic rune",
+      "breakdownNotes": "<span>Rune Shop</span>",
+      "wikiLink": "https://runescape.wiki/w/Cosmic_rune",
+      "selected": false
+    },
+    {
+      "label": "chaosrune",
+      "image": "https://i.imgur.com/VmHx4CQ.png",
+      "name": "Chaos rune",
+      "breakdownNotes": "<span>Rune Shop</span>",
+      "wikiLink": "https://runescape.wiki/w/Chaos_rune",
+      "selected": false
+    },
+    {
+      "label": "mindrune",
+      "image": "https://i.imgur.com/2zOitRL.png",
+      "name": "Mind rune",
+      "breakdownNotes": "<span>Rune Shop</span>",
+      "wikiLink": "https://runescape.wiki/w/Mind_rune",
+      "selected": false
+    },
+    {
+      "label": "bodyrune",
+      "image": "https://i.imgur.com/orRGsqY.png",
+      "name": "Body rune",
+      "breakdownNotes": "<span>Rune Shop</span>",
+      "wikiLink": "https://runescape.wiki/w/Body_rune",
+      "selected": false
+    },
+    {
+      "label": "wickedhood",
+      "image": "https://i.imgur.com/Uxr7Xcm.png",
+      "name": "Wicked hood",
+      "breakdownNotes": "TP for Vis",
+      "wikiLink": "https://runescape.wiki/w/Wicked_hood",
+      "selected": false
+    },
+    {
+      "label": "attunedcrystalteleportseed",
+      "image": "https://i.imgur.com/qNQ9dCI.png",
+      "name": "Attuned crystal teleport seed",
+      "breakdownNotes": "TP for Sandstone + Shops",
+      "wikiLink": "https://runescape.wiki/w/Attuned_crystal_teleport_seed",
+      "selected": false
+    },
+    {
+      "label": "maatfeathers1k",
+      "image": "https://i.imgur.com/ZHuOtCr.png",
+      "name": "Feather of Ma'at",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Feather_of_Ma'at",
+      "selected": false
+    },
+    {
+      "label": "armagodbook2",
+      "image": "https://i.imgur.com/hm5z04C.png",
+      "name": "Book of law",
+      "breakdownNotes": "Log book for Ports",
+      "wikiLink": "https://runescape.wiki/w/Book_of_law",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "seedbag",
+      "image": "https://i.imgur.com/JujxNhC.png",
+      "name": "Seed bag",
+      "breakdownNotes": "arbuck or fellstalk seeds",
+      "wikiLink": "https://runescape.wiki/w/Seed_bag",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

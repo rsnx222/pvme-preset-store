@@ -1,0 +1,361 @@
+{
+  "presetName": "Basic 2h Ranged Nex",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "dracolichcoif",
+      "image": "https://img.pvme.io/images/gIpAy1i.png",
+      "name": "Dracolich coif",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dracolich_coif"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "eofyellowunorn",
+      "image": "https://img.pvme.io/images/YR6pLdv.png",
+      "name": "EoF - Dark bow",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dark_bow"
+    },
+    {
+      "label": "nymorablade",
+      "image": "https://img.pvme.io/images/KujZsuF.png",
+      "name": "Blade of nymora",
+      "breakdownNotes": "Clear Headed 4",
+      "wikiLink": "https://runescape.wiki/w/Blade_of_nymora"
+    },
+    {
+      "label": "dracolichhauberk",
+      "image": "https://img.pvme.io/images/KbRjDzW.png",
+      "name": "Dracolich hauberk",
+      "breakdownNotes": "Biting 4  |  Crackling 4 Relentless 3",
+      "wikiLink": "https://runescape.wiki/w/Dracolich_hauberk"
+    },
+    {
+      "label": "nexdefender",
+      "image": "https://img.pvme.io/images/ILVnJN0.png",
+      "name": "Ancient defender",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ancient_defender"
+    },
+    {
+      "label": "dracolichchaps",
+      "image": "https://img.pvme.io/images/NFb6IWY.png",
+      "name": "Dracolich chaps",
+      "breakdownNotes": "Impatient 4  |  Enhanced Devoted 4",
+      "wikiLink": "https://runescape.wiki/w/Dracolich_chaps"
+    },
+    {
+      "label": "nightmare",
+      "image": "https://img.pvme.io/images/goMzH9N.png",
+      "name": "Nightmare gauntlets",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nightmare_gauntlets"
+    },
+    {
+      "label": "dracolichboots",
+      "image": "https://img.pvme.io/images/iMHrk57.png",
+      "name": "Dracolich boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dracolich_boots"
+    },
+    {
+      "label": "stalkerring",
+      "image": "https://img.pvme.io/images/xRj7mKb.png",
+      "name": "Stalker's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Stalker's_ring"
+    },
+    {
+      "label": "bsa100",
+      "image": "https://img.pvme.io/images/uBbMQoy.png",
+      "name": "Black stone arrows",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Black_stone_arrows"
+    },
+    {
+      "label": "reckless",
+      "image": "https://img.pvme.io/images/FZ59xZK.png",
+      "name": "Reckless aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Reckless_aura"
+    },
+    {
+      "label": "scriptureofful",
+      "image": "https://img.pvme.io/images/lPppoD4.png",
+      "name": "Scripture of Ful",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "noxbow",
+      "image": "https://img.pvme.io/images/iiBXivW.png",
+      "name": "Noxious longbow",
+      "breakdownNotes": "Precise 6  |  Caroming 4",
+      "wikiLink": "https://runescape.wiki/w/Noxious_longbow"
+    },
+    null,
+    null,
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)"
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)"
+    },
+    {
+      "label": "graspingpouchpink",
+      "image": "https://img.pvme.io/images/yrnlR2T.png",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)"
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)"
+    },
+    {
+      "label": "deathwardennexus",
+      "image": "https://img.pvme.io/images/hd7YvA4.png",
+      "name": "Deathwarden Nexus",
+      "breakdownNotes": "Runes for Darkness",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus"
+    },
+    {
+      "label": "renewal4",
+      "image": "https://img.pvme.io/images/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)"
+    },
+    {
+      "label": "deathsporearrows",
+      "image": "https://img.pvme.io/images/u9527hu.png",
+      "name": "Deathspore arrows",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathspore_arrows"
+    },
+    {
+      "label": "swift",
+      "image": "https://img.pvme.io/images/2WMUq8U.png",
+      "name": "Swift gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Swift_gloves"
+    },
+    {
+      "label": "grest",
+      "image": "https://img.pvme.io/images/iXpGYQo.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest"
+    },
+    {
+      "label": "grest",
+      "image": "https://img.pvme.io/images/iXpGYQo.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest"
+    },
+    {
+      "label": "grest",
+      "image": "https://img.pvme.io/images/iXpGYQo.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest"
+    },
+    {
+      "label": "zambrew4",
+      "image": "https://img.pvme.io/images/WibUB0k.png",
+      "name": "Zamorak brew (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Zamorak_brew_(4)"
+    },
+    {
+      "label": "zambrew4",
+      "image": "https://img.pvme.io/images/WibUB0k.png",
+      "name": "Zamorak brew (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Zamorak_brew_(4)"
+    },
+    {
+      "label": "2mines",
+      "image": "https://img.pvme.io/images/MRHUme8.png",
+      "name": "Dominion mines",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dominion_mines"
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish"
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish"
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish"
+    },
+    {
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish"
+    },
+    {
+      "label": "vuln",
+      "image": "https://img.pvme.io/images/2vI8jNm.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs"
+    },
+    {
+      "label": "spices",
+      "image": "https://img.pvme.io/images/GNzR4sU.png",
+      "name": "Expensive spices",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Expensive_spices"
+    },
+    {
+      "label": "vitality4",
+      "image": "https://img.pvme.io/images/n9C7iSA.png",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)"
+    },
+    {
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish"
+    },
+    {
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish"
+    },
+    {
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish"
+    },
+    {
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "berserkersfury",
+        "image": "https://img.pvme.io/images/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "energy": 250,
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)"
+      },
+      {
+        "label": "furyofthesmall",
+        "image": "https://img.pvme.io/images/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline."
+      },
+      {
+        "label": "blessingofhet",
+        "image": "https://img.pvme.io/images/eDmt2lT.png",
+        "name": "Blessing of Het",
+        "breakdownNotes": "",
+        "energy": 100,
+        "description": "Food and potions heal 10% more lifepoints."
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "bloodreaver",
+        "image": "https://img.pvme.io/images/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

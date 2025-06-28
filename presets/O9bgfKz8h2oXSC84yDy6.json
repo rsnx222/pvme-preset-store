@@ -1,0 +1,369 @@
+{
+  "presetName": "Archaeology preset",
+  "presetNotes": "@quartz pls go for 120 for 650 monolith energy :)",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/RbVMH0O.png",
+      "wikiLink": "https://runescape.wiki/w/Master_archaeologist's_hat",
+      "name": "Master archaeologist's hat",
+      "breakdownNotes": "",
+      "label": "masterarchaeologistshat"
+    },
+    {
+      "image": "https://i.imgur.com/EcaWmO8.png",
+      "wikiLink": "https://runescape.wiki/w/Archaeology_master_cape",
+      "name": "Archaeology master cape",
+      "breakdownNotes": "",
+      "label": "archcape"
+    },
+    {
+      "image": "https://i.imgur.com/4KgPcpm.png",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves",
+      "name": "Grace of the elves",
+      "breakdownNotes": "",
+      "label": "gote"
+    },
+    {
+      "image": "https://i.imgur.com/pshT4j0.png",
+      "wikiLink": "https://runescape.wiki/w/Pickaxe_of_Earth_and_Song",
+      "name": "Pickaxe of Earth and Song",
+      "breakdownNotes": "Mattock of Time and Space | Honed 6 + Fortune 3 Prosper",
+      "label": "pickaxeofearthandsong"
+    },
+    {
+      "image": "https://i.imgur.com/CeH68i3.png",
+      "wikiLink": "https://runescape.wiki/w/Master_Archaeologist's_jacket",
+      "name": "Master Archaeologist's jacket",
+      "breakdownNotes": "",
+      "label": "masterarchaeologistsjacket"
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "Wise 4 | Mobile",
+      "label": "excal"
+    },
+    {
+      "image": "https://i.imgur.com/e7lRM02.png",
+      "wikiLink": "https://runescape.wiki/w/Master_archaeologist's_trousers",
+      "name": "Master archaeologist's trousers",
+      "breakdownNotes": "",
+      "label": "masterarchaeologiststrousers"
+    },
+    {
+      "image": "https://i.imgur.com/rZTzwbE.png",
+      "wikiLink": "https://runescape.wiki/w/Master_archaeologist's_gloves",
+      "name": "Master archaeologist's gloves",
+      "breakdownNotes": "",
+      "label": "masterarchaeologistsgloves"
+    },
+    {
+      "image": "https://i.imgur.com/uUxhha9.png",
+      "wikiLink": "https://runescape.wiki/w/Master_archaeologist's_boots",
+      "name": "Master archaeologist's boots",
+      "breakdownNotes": "",
+      "label": "masterarchaeologistsboots"
+    },
+    {
+      "image": "https://i.imgur.com/VTDTXoF.png",
+      "wikiLink": "https://runescape.wiki/w/Pontifex_shadow_ring",
+      "name": "Pontifex shadow ring",
+      "breakdownNotes": "",
+      "label": "pontifexshadowring"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/5rpdKqL.png",
+      "wikiLink": "https://runescape.wiki/w/Brooch_of_the_Gods",
+      "name": "Brooch of the Gods",
+      "breakdownNotes": "",
+      "label": "brooch"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/e0vL3ur.png",
+      "wikiLink": "https://runescape.wiki/w/XP_Capacitor_5000#Charging",
+      "name": "XP Capacitor 5000 (Charging)",
+      "breakdownNotes": "",
+      "label": "xpcapacitor5000charging",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KPREDHT.png",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "label": "cluebag",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PpYdCr1.png",
+      "wikiLink": "https://runescape.wiki/w/Torstol_incense_sticks",
+      "name": "Torstol incense sticks",
+      "breakdownNotes": "",
+      "label": "torstolincensesticks100",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nXXZxpH.png",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "",
+      "label": "lotd",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

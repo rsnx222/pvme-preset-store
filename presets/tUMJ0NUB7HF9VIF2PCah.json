@@ -1,0 +1,355 @@
+{
+  "presetName": "range camp solak",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/zghHDxK.png",
+      "name": "Elite sirenic mask",
+      "breakdownNotes": "<div><br /></div>",
+      "label": "esirenichelm"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/hiC7f5F.png",
+      "wikiLink": "https://runescape.wiki/w/Armadyl_Battlestaff",
+      "name": "EoF -  Armadyl Battlestaff",
+      "breakdownNotes": "",
+      "label": "eofyellow"
+    },
+    {
+      "image": "https://i.imgur.com/BJ1Qzbt.png",
+      "wikiLink": "https://runescape.wiki/w/Decimation",
+      "name": "Decimation",
+      "breakdownNotes": "",
+      "label": "deci"
+    },
+    {
+      "image": "https://i.imgur.com/Awlvns0.png",
+      "name": "Elite sirenic hauberk",
+      "label": "esirenictop"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/bHmDqjV.png",
+      "name": "Elite sirenic chaps",
+      "label": "esireniclegs"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/9j06KPo.png",
+      "name": "Enhanced fleeting boots",
+      "label": "enhancedfleet"
+    },
+    {
+      "image": "https://i.imgur.com/xRj7mKb.png",
+      "name": "Stalker's ring",
+      "label": "stalkerring"
+    },
+    {
+      "image": "https://i.imgur.com/MG25Uow.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver (Green)",
+      "breakdownNotes": "Emerald bakriminel bolts (e) | Bik arrow",
+      "label": "pernixquivergreen"
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/FAPSk6p.png",
+      "name": "Erethdor's grimoire",
+      "label": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/GkhQHSj.png",
+      "name": "Bow of the Last Guardian",
+      "label": "bolg",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Dgtgp4n.png",
+      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
+      "name": "Combat dummy MKII",
+      "breakdownNotes": "",
+      "label": "dummy",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/6IMR311.png",
+      "wikiLink": "https://runescape.wiki/w/Blightbound_crossbow",
+      "name": "Blightbound crossbow",
+      "breakdownNotes": "",
+      "label": "bbc",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bDDDK9h.png",
+      "wikiLink": "https://runescape.wiki/w/Off-hand_blightbound_crossbow",
+      "name": "Off-hand blightbound crossbow",
+      "breakdownNotes": "",
+      "label": "ohbbc",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "label": "graspingpouchblue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "label": "graspingpouchblack",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gCf8SPg.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(purple)",
+      "name": "Grasping rune pouch (purple)",
+      "breakdownNotes": "",
+      "label": "graspingpouchpurple",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/oOITsKV.png",
+      "name": "Powerburst of vitality",
+      "label": "vitality4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/zAiXkJn.png",
+      "wikiLink": "https://runescape.wiki/w/Seren_godbow",
+      "name": "EoF - Seren godbow",
+      "breakdownNotes": "",
+      "label": "eofblue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/uMJW8pU.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver (Red)",
+      "breakdownNotes": "Ruby bakriminel bolts (e) | Hydrix bakriminel bolts (e)",
+      "label": "pernixquiverred",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/TMWKAqQ.png",
+      "wikiLink": "https://runescape.wiki/w/Mechanised_chinchompa",
+      "name": "Mechanised chinchompa",
+      "breakdownNotes": "",
+      "label": "chins",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PFLToHh.png",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)",
+      "name": "Spiritual prayer (6)",
+      "breakdownNotes": "",
+      "label": "spiritual",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xnevE7L.png",
+      "name": "Super guthix brew",
+      "label": "gbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xnevE7L.png",
+      "name": "Super guthix brew",
+      "label": "gbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b7OFnll.png",
+      "name": "Adrenaline renewal",
+      "label": "renewal4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/iZw3Uee.png",
+      "name": "EoF - Statius warhammer",
+      "label": "eofblack",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/DmUfsSM.png",
+      "name": "Wand of the praesul",
+      "label": "pwand",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PNWPCPA.png",
+      "name": "Kalphite rebounder",
+      "label": "rebounder",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UEC7TLp.png",
+      "name": "Black crystal (reduced healing)",
+      "label": "blackcrystal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/wFdHN9C.png",
+      "wikiLink": "https://runescape.wiki/w/Dark_Shard_of_Leng",
+      "name": "Dark Shard of Leng",
+      "breakdownNotes": "",
+      "label": "lengmh",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ghUXVss.png",
+      "wikiLink": "https://runescape.wiki/w/Dominion_mines",
+      "name": "Dominion mines",
+      "breakdownNotes": "",
+      "label": "4mines",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "label": "vuln",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Dgtgp4n.png",
+      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
+      "name": "Combat dummy MKII",
+      "breakdownNotes": "",
+      "label": "dummy",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "https://i.imgur.com/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "label": "fontoflife",
+        "energy": 50
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": "",
+        "label": "bloodreaver"
+      }
+    ]
+  }
+}

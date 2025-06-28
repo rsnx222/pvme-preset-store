@@ -1,0 +1,253 @@
+{
+  "presetName": "Preset de Pesca - WU",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "furysharkhead",
+      "image": "https://img.pvme.io/images/JHc4QWU.png",
+      "name": "Fury shark head",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fury_shark_head"
+    },
+    {
+      "label": "fishingcape",
+      "image": "https://img.pvme.io/images/2QLmKri.png",
+      "name": "Fishing cape",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fishing_cape"
+    },
+    {
+      "label": "gote",
+      "image": "https://img.pvme.io/images/4KgPcpm.png",
+      "name": "Grace of the elves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves"
+    },
+    {
+      "label": "rodomatic",
+      "image": "https://img.pvme.io/images/maZE8qW.png",
+      "name": "Fishing rod-o-matic",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fishing_rod-o-matic"
+    },
+    {
+      "label": "furysharkbody",
+      "image": "https://img.pvme.io/images/uz0wELA.png",
+      "name": "Fury shark body",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fury_shark_body"
+    },
+    {
+      "label": "fyretorch",
+      "image": "https://img.pvme.io/images/n42Kunc.png",
+      "name": "Sana's fyrtorch",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sana's_fyrtorch"
+    },
+    {
+      "label": "furysharklegs",
+      "image": "https://img.pvme.io/images/r9Gzn0X.png",
+      "name": "Fury shark legs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fury_shark_legs"
+    },
+    {
+      "label": "furysharkgloves",
+      "image": "https://img.pvme.io/images/iCfoioZ.png",
+      "name": "Fury shark hands",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fury_shark_hands"
+    },
+    {
+      "label": "furysharkboots",
+      "image": "https://img.pvme.io/images/Kk68bUS.png",
+      "name": "Fury shark feet",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fury_shark_feet"
+    },
+    {
+      "label": "ringofwhispers",
+      "image": "https://img.pvme.io/images/sxtHL16.png",
+      "name": "Ring of Whispers",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_Whispers"
+    },
+    {
+      "label": "pouchpink",
+      "image": "https://img.pvme.io/images/SkevD4i.png",
+      "name": "Large rune pouch (pink)",
+      "breakdownNotes": "Soul | Mud | Air",
+      "wikiLink": "https://runescape.wiki/w/Large_rune_pouch_(pink)"
+    },
+    {
+      "label": "legendarycallofthesea",
+      "image": "https://img.pvme.io/images/fsSx8Aa.png",
+      "name": "Legendary call of the sea aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Legendary_call_of_the_sea_aura"
+    },
+    {
+      "label": "brooch",
+      "image": "https://img.pvme.io/images/5rpdKqL.png",
+      "name": "Brooch of the Gods",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Brooch_of_the_Gods"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)"
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)"
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "label": "pickaxeoflifeanddeath",
+      "image": "https://img.pvme.io/images/OoGrEMisjo.png",
+      "name": "Pickaxe of Life and Death",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Pickaxe_of_Life_and_Death"
+    },
+    {
+      "label": "furnacecore",
+      "image": "https://img.pvme.io/images/vxHDfak.png",
+      "name": "Orthen furnace core",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Orthen_furnace_core"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "label": "imcandohatchet",
+      "image": "https://img.pvme.io/images/Xoo3KYI.png",
+      "name": "Imcando hatchet",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Imcando_hatchet"
+    },
+    {
+      "label": "accel4",
+      "image": "https://img.pvme.io/images/I6HFjyN.png",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "label": "magicbutterflynet",
+      "image": "https://img.pvme.io/images/Qf9AVbR.png",
+      "name": "Magic butterfly net",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_butterfly_net"
+    },
+    {
+      "label": "artificer",
+      "image": "https://img.pvme.io/images/gMZLjIv.png",
+      "name": "Artificer's measure",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Artificer's_measure"
+    },
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "granitelobster",
+        "image": "https://img.pvme.io/images/uHd98i7.png",
+        "name": "Granite Lobster",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "presetName": "rcm preset",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/5vasEy6.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_hood_(tier_90)",
+      "name": "Deathwarden hood (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathwardenhoodt90"
+    },
+    {
+      "image": "https://i.imgur.com/EcaWmO8.png",
+      "wikiLink": "https://runescape.wiki/w/Archaeology_master_cape",
+      "name": "Archaeology master cape",
+      "breakdownNotes": "",
+      "label": "archcape"
+    },
+    {
+      "image": "https://i.imgur.com/UB0lAK8.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet",
+      "name": "Essence of Finality amulet",
+      "breakdownNotes": "",
+      "label": "eof"
+    },
+    {
+      "image": "https://i.imgur.com/kyKIKBC.png",
+      "wikiLink": "https://runescape.wiki/w/Wand_of_the_praesul",
+      "name": "Wand of the praesul",
+      "breakdownNotes": "",
+      "label": "pwand"
+    },
+    {
+      "image": "https://i.imgur.com/JkyJN48.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_top_(tier_90)",
+      "name": "Deathwarden robe top (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathwardenrobetopt90"
+    },
+    {
+      "image": "https://i.imgur.com/ThpXK19.png",
+      "wikiLink": "https://runescape.wiki/w/Merciless_kiteshield",
+      "name": "Merciless kiteshield",
+      "breakdownNotes": "",
+      "label": "mageshield"
+    },
+    {
+      "image": "https://i.imgur.com/4KirFLg.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_legs_(tier_90)",
+      "name": "Deathwarden robe legs (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathwardenrobelegst90"
+    },
+    {
+      "image": "https://i.imgur.com/3WIoKQI.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_gloves_(tier_90)",
+      "name": "Deathwarden gloves (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathwardenglovest90"
+    },
+    {
+      "image": "https://i.imgur.com/V94Yora.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_boots_(tier_90)",
+      "name": "Deathwarden boots (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathwardenbootst90"
+    },
+    {
+      "image": "https://i.imgur.com/xmcbfhs.png",
+      "wikiLink": "https://runescape.wiki/w/Hazelmere's_signet",
+      "name": "Hazelmere's signet ring",
+      "breakdownNotes": "",
+      "label": "hsr"
+    },
+    {
+      "image": "https://i.imgur.com/uMJW8pU.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver (Red)",
+      "breakdownNotes": "Ruby bakriminel bolts (e) | Hydrix bakriminel bolts (e)",
+      "label": "pernixquiverred"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/t1KMJMv.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "",
+      "label": "scriptureofbik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/OQ4ZaK3.png",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(ripper_demon)",
+      "name": "Binding contract (ripper demon)",
+      "breakdownNotes": "",
+      "label": "ripper",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/BQXFPFu.png",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(blood_reaver)",
+      "name": "Binding contract (blood reaver)",
+      "breakdownNotes": "",
+      "label": "reaver",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PpYdCr1.png",
+      "wikiLink": "https://runescape.wiki/w/Torstol_incense_sticks",
+      "breakdownNotes": "",
+      "name": "Torstol incense sticks",
+      "label": "torstolincensesticks100",
+      "selected": false
+    },
+    {
+      "image": "",
+      "breakdownNotes": "",
+      "name": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/vBodqnM.png",
+      "wikiLink": "https://runescape.wiki/w/Summoning_renewal#(1)",
+      "breakdownNotes": "",
+      "name": "Summoning renewal (1)",
+      "label": "summrenewal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hw7rKHz.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(1)",
+      "name": "Weapon poison+++ (1)",
+      "breakdownNotes": "",
+      "label": "poison1",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ML1c3oq.png",
+      "wikiLink": "https://runescape.wiki/w/Ripper_Demon_scroll_(Death_From_Above)",
+      "name": "Ripper Demon scroll (Death From Above)",
+      "breakdownNotes": "",
+      "label": "ripperscrolls",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3o2DaTu.png",
+      "wikiLink": "https://runescape.wiki/w/Blood_Reaver_scroll_(Blood_Siphon)",
+      "name": "Blood Reaver scroll (Blood Siphon)",
+      "breakdownNotes": "",
+      "label": "reaverscrolls500",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8RLFr9n.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_weed_incense_sticks",
+      "name": "Spirit weed incense sticks",
+      "breakdownNotes": "",
+      "label": "spiritsticks",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "name": "Grasping rune pouch (black)",
+      "label": "graspingpouchblack",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hXWHlfs.png",
+      "wikiLink": "https://runescape.wiki/w/Soul_rune",
+      "breakdownNotes": "",
+      "name": "Soul rune",
+      "label": "soulrune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/DmJhw50.png",
+      "wikiLink": "https://runescape.wiki/w/Blood_rune",
+      "breakdownNotes": "",
+      "name": "Blood rune",
+      "label": "bloodrune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/BQZgdnb.png",
+      "wikiLink": "https://runescape.wiki/w/Grim_gem",
+      "name": "Grim gem",
+      "breakdownNotes": "",
+      "label": "grimgem",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/5dumsv0.png",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(kal'gerion_demon)",
+      "name": "Binding contract (kal'gerion demon)",
+      "breakdownNotes": "",
+      "label": "kalg",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FPfRiAQ.png",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(hellhound)",
+      "breakdownNotes": "",
+      "name": "Binding contract (hellhound)",
+      "label": "hellhound",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Ba7yju8.png",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "",
+      "label": "kwuarmsticks",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "label": "graspingpouchpink",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/AnzJigr.png",
+      "wikiLink": "https://runescape.wiki/w/Earth_rune",
+      "name": "Earth rune",
+      "breakdownNotes": "",
+      "label": "earthrune",
+      "selected": false
+    },
+    {
+      "image": "",
+      "breakdownNotes": "",
+      "name": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/0QDIRGb.png",
+      "wikiLink": "https://runescape.wiki/w/Shadow_nihil_pouch",
+      "breakdownNotes": "",
+      "name": "Shadow nihil pouch",
+      "label": "shadownihil",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/vIatvqA.png",
+      "wikiLink": "https://runescape.wiki/w/Kal%27gerion_Demon_scroll_(Crit-i-Kal)",
+      "breakdownNotes": "",
+      "name": "Kal'gerion Demon scroll (Crit-i-Kal)",
+      "label": "kalgscrolls100",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/rB1tPpW.png",
+      "wikiLink": "https://runescape.wiki/w/Hellhound_scroll_(Soul_Food)",
+      "name": "Hellhound scroll (Soul Food)",
+      "breakdownNotes": "",
+      "label": "hellhoundscrolls500",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/w6hThUy.png",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "name": "Powder of penance",
+      "breakdownNotes": "",
+      "label": "powderofpenance2",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "label": "graspingpouchblue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/WnPH1nm.png",
+      "wikiLink": "https://runescape.wiki/w/Water_rune",
+      "breakdownNotes": "",
+      "name": "Water rune",
+      "label": "waterrune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Moq1ANC.png",
+      "wikiLink": "https://runescape.wiki/w/Fire_rune",
+      "name": "Fire rune",
+      "breakdownNotes": "",
+      "label": "firerune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/HDVqGWL.png",
+      "wikiLink": "https://runescape.wiki/w/Pack_yak_pouch",
+      "breakdownNotes": "",
+      "name": "Pack yak pouch",
+      "label": "packyakpouch",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

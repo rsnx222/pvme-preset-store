@@ -1,0 +1,391 @@
+{
+  "presetName": "range rots",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/iyXqN3S.png",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_goggles",
+      "name": "Ghost hunter goggles",
+      "breakdownNotes": "",
+      "label": "ghostgoggles"
+    },
+    {
+      "image": "https://i.imgur.com/zNu0qYb.png",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_backpack",
+      "name": "Ghost hunter backpack",
+      "breakdownNotes": "",
+      "label": "ghostbackpack"
+    },
+    {
+      "image": "https://i.imgur.com/qbsFxuG.png",
+      "wikiLink": "https://runescape.wiki/w/Salve_amulet_(e)",
+      "name": "Salve amulet (e)",
+      "breakdownNotes": "",
+      "label": "salvee"
+    },
+    {
+      "image": "https://i.imgur.com/GkhQHSj.png",
+      "wikiLink": "https://runescape.wiki/w/Bow_of_the_Last_Guardian",
+      "name": "Bow of the Last Guardian",
+      "breakdownNotes": "",
+      "label": "bolg"
+    },
+    {
+      "image": "https://i.imgur.com/Awlvns0.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_sirenic_hauberk",
+      "name": "Elite sirenic hauberk",
+      "breakdownNotes": "",
+      "label": "esirenictop"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/VLeD3Vy.png",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_legs",
+      "name": "Ghost hunter legs",
+      "breakdownNotes": "",
+      "label": "ghostlegs"
+    },
+    {
+      "image": "https://i.imgur.com/DpNOi7u.png",
+      "wikiLink": "https://runescape.wiki/w/Nightmare_gauntlets",
+      "name": "Nightmare gauntlets",
+      "breakdownNotes": "",
+      "label": "nightmare"
+    },
+    {
+      "image": "https://i.imgur.com/9j06KPo.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_fleeting_boots",
+      "name": "Enhanced fleeting boots",
+      "breakdownNotes": "",
+      "label": "enhancedfleet"
+    },
+    {
+      "image": "https://i.imgur.com/RZg5LNG.png",
+      "wikiLink": "https://runescape.wiki/w/Asylum_surgeon's_ring",
+      "name": "Asylum surgeon's ring",
+      "breakdownNotes": "",
+      "label": "asr"
+    },
+    {
+      "image": "https://i.imgur.com/b3geFp8.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver (Purple)",
+      "breakdownNotes": "",
+      "label": "pernixquiver"
+    },
+    {
+      "image": "https://i.imgur.com/56x8kkE.png",
+      "wikiLink": "https://runescape.wiki/w/Reckless_aura",
+      "name": "Reckless aura",
+      "breakdownNotes": "",
+      "label": "reckless"
+    },
+    {
+      "image": "https://i.imgur.com/FAPSk6p.png",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire",
+      "name": "Erethdor's grimoire",
+      "breakdownNotes": "",
+      "label": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/S2uAoW3.png",
+      "wikiLink": "https://runescape.wiki/w/Mechanised_chinchompa",
+      "name": "Mechanised chinchompa",
+      "breakdownNotes": "",
+      "label": "chins",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KBuV3lm.png",
+      "wikiLink": "https://runescape.wiki/w/Offhand_blightbound_crossbow",
+      "name": "Offhand blightbound crossbow",
+      "breakdownNotes": "",
+      "label": "ohbbc",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KFZJLhU.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/w6hThUy.png",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "name": "Powder of penance",
+      "breakdownNotes": "",
+      "label": "powderofpenance2",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FmTBRvg.png",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "",
+      "label": "lantasticks",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/5dumsv0.png",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(kal'gerion_demon)",
+      "name": "Binding contract (kal'gerion demon)",
+      "breakdownNotes": "",
+      "label": "kalg",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/vIatvqA.png",
+      "wikiLink": "https://runescape.wiki/w/Crit-i-kal_scrolls",
+      "name": "Crit-i-kal scrolls",
+      "breakdownNotes": "",
+      "label": "kalgscrolls100",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/LhMlWmw.png",
+      "wikiLink": "https://runescape.wiki/w/EoF_-_Dark_bow",
+      "name": "EoF - Dark bow",
+      "breakdownNotes": "",
+      "label": "eofgreen",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xPypDhQ.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_finality_(or)",
+      "name": "Essence of finality (or)",
+      "breakdownNotes": "",
+      "label": "eofor",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9wds5Ez.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_flask",
+      "name": "Adrenaline renewal flask",
+      "breakdownNotes": "",
+      "label": "renewal6",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9wds5Ez.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_flask",
+      "name": "Adrenaline renewal flask",
+      "breakdownNotes": "",
+      "label": "renewal6",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/cP73EYR.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration",
+      "name": "Powerburst of acceleration",
+      "breakdownNotes": "",
+      "label": "accel4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/cP73EYR.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration",
+      "name": "Powerburst of acceleration",
+      "breakdownNotes": "",
+      "label": "accel4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/cP73EYR.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration",
+      "name": "Powerburst of acceleration",
+      "breakdownNotes": "",
+      "label": "accel4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SsNRoVE.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve",
+      "name": "Elder overload salve",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/1KKDsVs.png",
+      "wikiLink": "https://runescape.wiki/w/Barrows_totems",
+      "name": "Barrows totems",
+      "breakdownNotes": "",
+      "label": "barrowstotems",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/306PXtG.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "label": "vuln",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/cP73EYR.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration",
+      "name": "Powerburst of acceleration",
+      "breakdownNotes": "",
+      "label": "accel4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/cP73EYR.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration",
+      "name": "Powerburst of acceleration",
+      "breakdownNotes": "",
+      "label": "accel4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/cP73EYR.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration",
+      "name": "Powerburst of acceleration",
+      "breakdownNotes": "",
+      "label": "accel4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/cP73EYR.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration",
+      "name": "Powerburst of acceleration",
+      "breakdownNotes": "",
+      "label": "accel4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SsNRoVE.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve",
+      "name": "Elder overload salve",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "label": "persistentrage",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/DjyfvR1.png",
+        "name": "Heightened Senses",
+        "breakdownNotes": "",
+        "label": "heightenedsenses",
+        "energy": 350
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": "",
+        "label": "kalgdemon"
+      }
+    ]
+  }
+}

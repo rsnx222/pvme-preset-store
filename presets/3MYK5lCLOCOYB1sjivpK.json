@@ -1,0 +1,391 @@
+{
+  "presetName": "King Black dragon basic necro",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/KkSmljc.png",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_hood_(tier_70)",
+      "name": "Deathdealer hood (tier 70)",
+      "breakdownNotes": "",
+      "label": "deathdealerhoodt70"
+    },
+    {
+      "image": "https://i.imgur.com/8Y1U7r0.png",
+      "wikiLink": "https://runescape.wiki/w/Cape_of_legends",
+      "name": "Cape of legends",
+      "breakdownNotes": "obsidian cape is a buyable alternative<br />",
+      "label": "capeoflegends"
+    },
+    {
+      "image": "https://i.imgur.com/gawFoAi.png",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_glory",
+      "name": "Amulet of glory",
+      "breakdownNotes": "stat bonus<br />",
+      "label": "amuletofglory"
+    },
+    {
+      "image": "https://i.imgur.com/IjI79KW.png",
+      "wikiLink": "https://runescape.wiki/w/Death_guard_(tier_70)",
+      "name": "Death guard (tier 70)",
+      "breakdownNotes": "",
+      "label": "deathguardt70"
+    },
+    {
+      "image": "https://i.imgur.com/Yf8CzMa.png",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_robe_top_(tier_70)",
+      "name": "Deathdealer robe top (tier 70)",
+      "breakdownNotes": "deathwarden armour can also be used<br />",
+      "label": "deathdealerrobetopt70"
+    },
+    {
+      "image": "https://i.imgur.com/yhYsPpi.png",
+      "wikiLink": "https://runescape.wiki/w/Skull_lantern_(tier_70)",
+      "name": "Skull lantern (tier 70)",
+      "breakdownNotes": "",
+      "label": "skulllanternt70"
+    },
+    {
+      "image": "https://i.imgur.com/7WKqA5L.png",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_robe_bottom_(tier_70)",
+      "name": "Deathdealer robe bottom (tier 70)",
+      "breakdownNotes": "",
+      "label": "deathdealerrobebottomt70"
+    },
+    {
+      "image": "https://i.imgur.com/lksnw1R.png",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_gloves_(tier_70)",
+      "name": "Deathdealer gloves (tier 70)",
+      "breakdownNotes": "",
+      "label": "deathdealerglovest70"
+    },
+    {
+      "image": "https://i.imgur.com/xxuUiUI.png",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_boots_(tier_70)",
+      "name": "Deathdealer boots (tier 70)",
+      "breakdownNotes": "",
+      "label": "deathdealerbootst70"
+    },
+    {
+      "image": "https://i.imgur.com/aKOEeRs.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_Fortune",
+      "name": "Ring of Fortune",
+      "breakdownNotes": "stat bonus<br />",
+      "label": "ringoffortune"
+    },
+    {
+      "image": "https://i.imgur.com/hd7YvA4.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
+      "name": "Deathwarden Nexus",
+      "breakdownNotes": "can hold ectoplasm  <img title=\"ectoplasm\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1151165582650122350.png?v=1\" /> and necromancy runes <img title=\"spiritrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1138808705362710680.png?v=1\" /> <img title=\"bonerune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1138808701029982319.png?v=1\" /> <img title=\"fleshrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1138808695703207967.png?v=1\" /> <img title=\"miasmarune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1138808692087730206.png?v=1\" />",
+      "label": "deathwardennexus"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/hm5z04C.png",
+      "wikiLink": "https://runescape.wiki/w/Book_of_law",
+      "name": "Book of law",
+      "breakdownNotes": "any god book works (or underworld grimoire) for stat bonus, this one is slightly better when activated.<br />",
+      "label": "armagodbook2"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/ioK95Z8.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_necromancy#(4)",
+      "name": "Extreme necromancy (4)",
+      "breakdownNotes": "",
+      "label": "extnecro",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/DUhcOW3.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_Defence#(4)",
+      "name": "Extreme defence (4)",
+      "breakdownNotes": "",
+      "label": "extdefence",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "name": "Super restore (4)",
+      "breakdownNotes": "for restoring prayer points<br />",
+      "label": "restore4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "name": "Super restore (4)",
+      "breakdownNotes": "for restoring prayer points<br />",
+      "label": "restore4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "name": "Super restore (4)",
+      "breakdownNotes": "for restoring prayer points<br />",
+      "label": "restore4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/CR06fbn.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(4)",
+      "name": "Weapon poison+++ (4)",
+      "breakdownNotes": "",
+      "label": "poison4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GNzR4sU.png",
+      "wikiLink": "https://runescape.wiki/w/Expensive_spices",
+      "name": "Expensive spices",
+      "breakdownNotes": "makes every bite heal a bit more<br />",
+      "label": "spices",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ap5QY9d.png",
+      "wikiLink": "https://runescape.wiki/w/Antipoison++",
+      "name": "Antipoison++",
+      "breakdownNotes": "Protect from poison damage<br />",
+      "label": "antipsn++",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/g4GKi54.png",
+      "wikiLink": "https://runescape.wiki/w/Super_antifire#(4)",
+      "name": "Super antifire (4)",
+      "breakdownNotes": "Protect you from dragon breath",
+      "label": "superantifire",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "panic food",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "panic food",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "panic food",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "panic food",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "optional, but worth obtaining to reduce food usage",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "panic food",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "panic food",
+      "label": "shark",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "description": "Increases maximum health by 500.",
+        "label": "fontoflife",
+        "energy": 50
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/hpjldw8.png",
+        "name": "Bunyip",
+        "breakdownNotes": "",
+        "label": "bunyip"
+      }
+    ]
+  }
+}

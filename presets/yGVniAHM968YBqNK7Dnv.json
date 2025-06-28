@@ -1,0 +1,269 @@
+{
+  "presetName": "Melee AFK Salawa Akh",
+  "presetNotes": "Pray <img title=\"soulsplit\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/615613924506599497.png?v=1\" /> and <img title=\"turmoil\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/583429936606347280.png?v=1\" /> or <img title=\"malevolence\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190159416557573.png?v=1\" />",
+  "equipmentSlots": [
+    {
+      "label": "tmwhelm",
+      "image": "https://img.pvme.io/images/x379hPF.png",
+      "name": "Trimmed masterwork helm",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Trimmed_masterwork_helm"
+    },
+    {
+      "label": "kalket",
+      "image": "https://img.pvme.io/images/bfzX8Up.png",
+      "name": "Igneous Kal-Ket",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Ket"
+    },
+    {
+      "label": "aos",
+      "image": "https://img.pvme.io/images/cUaU7mB.png",
+      "name": "Amulet of souls",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_souls"
+    },
+    {
+      "label": "lanispear",
+      "image": "https://img.pvme.io/images/BGhsSXy.png",
+      "name": "Laniakea's spear",
+      "breakdownNotes": "Aftershock 4 Precise 2<span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712074245202772009.png?v=1\" /><span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1084799750416637993.png?v=1\" /> + Equilibrium 4 Ruthless 3 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088589627505.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" /><br /><br />Replace with <img title=\"scythe\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190159341322240.png?v=1\" /> if accuracy is an issue.",
+      "wikiLink": "https://runescape.wiki/w/Laniakea's_spear"
+    },
+    {
+      "label": "tmwtop",
+      "image": "https://img.pvme.io/images/kbAkth3.png",
+      "name": "Trimmed masterwork platebody",
+      "breakdownNotes": "Biting 4 X <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087809617931.png?v=1\" /> + Relentless 5 Crackling 4 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800920748092.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087662686249.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Trimmed_masterwork_platebody"
+    },
+    null,
+    {
+      "label": "tmwlegs",
+      "image": "https://img.pvme.io/images/Pggz07A.png",
+      "name": "Trimmed masterwork platelegs",
+      "breakdownNotes": "Impatient 4 X <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088204013640.png?v=1\" /> + Enhanced Devoted 4 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087507628035.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Trimmed_masterwork_platelegs"
+    },
+    {
+      "label": "cinder",
+      "image": "https://img.pvme.io/images/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+    },
+    {
+      "label": "laceration",
+      "image": "https://img.pvme.io/images/EiQNqj9.png",
+      "name": "Laceration boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Laceration_boots"
+    },
+    {
+      "label": "reaverring",
+      "image": "https://img.pvme.io/images/cnIOClx.png",
+      "name": "Reaver's ring",
+      "breakdownNotes": "Any strong ring works.<br />",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring"
+    },
+    {
+      "label": "graspingpouch",
+      "image": "https://img.pvme.io/images/Mk7jbjC.png",
+      "name": "Grasping rune pouch",
+      "breakdownNotes": "Only used for prayer bonus.",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch"
+    },
+    null,
+    {
+      "label": "vamp",
+      "image": "https://img.pvme.io/images/bMTAHDe.png",
+      "name": "Scrimshaw of Vampyrism",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scrimshaw_of_Vampyrism"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "holyaggroverload",
+      "image": "https://img.pvme.io/images/x2G1m0Q.png",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)"
+    },
+    {
+      "label": "sparkenhancers",
+      "image": "https://img.pvme.io/images/z9ssNId.png",
+      "name": "Vital spark drop enhancer",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vital_spark_drop_enhancer"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "label": "poison4",
+      "image": "https://img.pvme.io/images/CR06fbn.png",
+      "name": "Weapon poison+++ (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(4)"
+    },
+    {
+      "label": "spikes",
+      "image": "https://img.pvme.io/images/9TncsW1.png",
+      "name": "Armour spikes (alloy)",
+      "breakdownNotes": "Optional.",
+      "wikiLink": "https://runescape.wiki/w/Armour_spikes_(alloy)"
+    },
+    {
+      "label": "maatfeathers1k",
+      "image": "https://img.pvme.io/images/ZHuOtCr.png",
+      "name": "Feather of Ma'at",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Feather_of_Ma'at"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "<span>May bring more if needed.</span>",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)"
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur"
+    },
+    {
+      "label": "sophanemdungeonteleport",
+      "image": "https://img.pvme.io/images/bv0fyzq.png",
+      "name": "Sophanem Dungeon teleport",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sophanem_Dungeon_teleport"
+    },
+    {
+      "label": "reaver",
+      "image": "https://img.pvme.io/images/BQXFPFu.png",
+      "name": "Binding contract (blood reaver)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(blood_reaver)"
+    },
+    null,
+    null,
+    null,
+    {
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001"
+    },
+    {
+      "label": "elvenshard",
+      "image": "https://img.pvme.io/images/UURvGNW.png",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard"
+    },
+    {
+      "label": "powderofpenance2",
+      "image": "https://img.pvme.io/images/w6hThUy.png",
+      "name": "Powder of penance",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance"
+    },
+    {
+      "label": "kwuarmsticks",
+      "image": "https://img.pvme.io/images/Ba7yju8.png",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "Optional.",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks"
+    },
+    null,
+    null,
+    null
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": "",
+        "label": "bloodreaver"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

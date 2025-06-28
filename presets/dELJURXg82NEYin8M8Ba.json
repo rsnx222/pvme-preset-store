@@ -1,0 +1,409 @@
+{
+  "presetName": "BOTW necro",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "deathwardenhoodt70",
+      "image": "https://img.pvme.io/images/kMqeRBE.png",
+      "name": "Deathwarden hood (tier 70)",
+      "breakdownNotes": "or higher - No power armour except t95",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_hood_(tier_70)"
+    },
+    {
+      "label": "defencecape",
+      "image": "https://img.pvme.io/images/QbbeF9W.png",
+      "name": "Defence cape (t)",
+      "breakdownNotes": "Any skillcape or higher capes",
+      "wikiLink": "https://runescape.wiki/w/Defence_cape_(t)"
+    },
+    {
+      "label": "conjurerammy",
+      "image": "https://img.pvme.io/images/UIMnph4.png",
+      "name": "Conjurer's raising amulet",
+      "breakdownNotes": "or reaper/souls necklace/eof",
+      "wikiLink": "https://runescape.wiki/w/Conjurer%27s_raising_amulet"
+    },
+    {
+      "label": "deathguardt80",
+      "image": "https://img.pvme.io/images/HqXGvJ6.png",
+      "name": "Death guard (tier 80)",
+      "breakdownNotes": "or higher ",
+      "wikiLink": "https://runescape.wiki/w/Death_guard_(tier_80)"
+    },
+    {
+      "label": "deathwardenrobetopt70",
+      "image": "https://img.pvme.io/images/BNmwchj.png",
+      "name": "Deathwarden robe top (tier 70)",
+      "breakdownNotes": "<span>or higher - No power armour except t95</span>",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_top_(tier_70)"
+    },
+    {
+      "label": "skulllanternt80",
+      "image": "https://img.pvme.io/images/9F9X4Jd.png",
+      "name": "Skull lantern (tier 80)",
+      "breakdownNotes": "or higher",
+      "wikiLink": "https://runescape.wiki/w/Skull_lantern_(tier_80)"
+    },
+    {
+      "label": "deathwardenrobebottomt70",
+      "image": "https://img.pvme.io/images/o0ejuBm.png",
+      "name": "Deathwarden robe bottom (tier 70)",
+      "breakdownNotes": "<span>or higher - No power armour except t95</span>",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_bottom_(tier_70)"
+    },
+    {
+      "label": "deathwardenglovest70",
+      "image": "https://img.pvme.io/images/iPR2hWQ.png",
+      "name": "Deathwarden gloves (tier 70)",
+      "breakdownNotes": "<span>or higher - No power armour except t95</span>",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_gloves_(tier_70)"
+    },
+    {
+      "label": "deathwardenbootst70",
+      "image": "https://img.pvme.io/images/QprppLF.png",
+      "name": "Deathwarden boots (tier 70)",
+      "breakdownNotes": "<span>or higher - No power armour except t95</span>",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_boots_(tier_70)"
+    },
+    {
+      "label": "lotd",
+      "image": "https://img.pvme.io/images/nXXZxpH.png",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "reaver / asylum surgeon's / occultist / zorgoth's soul ring",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves"
+    },
+    {
+      "label": "deathwardennexus",
+      "image": "https://img.pvme.io/images/hd7YvA4.png",
+      "name": "Deathwarden Nexus",
+      "breakdownNotes": "or zemo nexus",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus"
+    },
+    {
+      "label": "mahj",
+      "image": "https://img.pvme.io/images/br11PCq.png",
+      "name": "Mahjarrat aura",
+      "breakdownNotes": "Dark Magic/Aegis/Penance/Vampyrism",
+      "wikiLink": "https://runescape.wiki/w/Mahjarrat_aura"
+    },
+    {
+      "label": "underworldgrimoire4",
+      "image": "https://img.pvme.io/images/CUl6DIOOhs.png",
+      "name": "Underworld Grimoire 4",
+      "breakdownNotes": "Ful/jas/wen/E. Grimoire",
+      "wikiLink": "https://runescape.wiki/w/Underworld_Grimoire_4"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "overload",
+      "image": "https://img.pvme.io/images/gKnqcZ0.png",
+      "name": "Overload flask (6)",
+      "breakdownNotes": "Any type of Overload Potion ",
+      "wikiLink": "https://runescape.wiki/w/Overload_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "restore4",
+      "image": "https://img.pvme.io/images/9GwrVt6.png",
+      "name": "Super restore (4)",
+      "breakdownNotes": "Any potion for prayer points renewal",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "selected": false
+    },
+    {
+      "label": "restore4",
+      "image": "https://img.pvme.io/images/9GwrVt6.png",
+      "name": "Super restore (4)",
+      "breakdownNotes": "Any potion for prayer points renewal",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "selected": false
+    },
+    {
+      "label": "renewal4",
+      "image": "https://img.pvme.io/images/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "Any Adrenaline Potion",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "If available for extra Healing",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "Or super sara brews",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "Or super sara brews",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "Or super sara brews",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "Or super sara brews",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "Few pieces of Blubber fish if available or any Higher solid food ",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "Few pieces of Blubber fish if available or any Higher solid food ",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "Few pieces of Blubber fish if available or any Higher solid food ",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "Few pieces of Blubber fish if available or any Higher solid food ",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "Few pieces of Blubber fish if available or any Higher solid food ",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "Few pieces of Blubber fish if available or any Higher solid food ",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "Few pieces of Blubber fish if available or any Higher solid food ",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "Few pieces of Blubber fish if available or any Higher solid food ",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "Few pieces of Blubber fish if available or any Higher solid food ",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "Few pieces of Blubber fish if available or any Higher solid food ",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "Few pieces of Blubber fish if available or any Higher solid food ",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "Few pieces of Blubber fish if available or any Higher solid food ",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "Few pieces of Blubber fish if available or any Higher solid food ",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "Few pieces of Blubber fish if available or any Higher solid food ",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "Few pieces of Blubber fish if available or any Higher solid food ",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "Few pieces of Blubber fish if available or any Higher solid food ",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "Few pieces of Blubber fish if available or any Higher solid food ",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "accel4",
+      "image": "https://img.pvme.io/images/I6HFjyN.png",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "Not mandatory",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "selected": false
+    },
+    {
+      "label": "pouch",
+      "image": "https://img.pvme.io/images/lBTTP01.png",
+      "name": "Large rune pouch",
+      "breakdownNotes": "or Grasping rune pouch/s with appropriate runes",
+      "wikiLink": "https://runescape.wiki/w/Large_rune_pouch",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "berserkersfury",
+        "image": "https://img.pvme.io/images/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "energy": 250,
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)"
+      },
+      {
+        "label": "furyofthesmall",
+        "image": "https://img.pvme.io/images/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline."
+      },
+      {
+        "label": "blessingofhet",
+        "image": "https://img.pvme.io/images/eDmt2lT.png",
+        "name": "Blessing of Het",
+        "breakdownNotes": "",
+        "energy": 100,
+        "description": "Food and potions heal 10% more lifepoints."
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "label": "persistentrage",
+        "image": "https://img.pvme.io/images/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained."
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "packyak",
+        "image": "https://img.pvme.io/images/pIteWAi.png",
+        "name": "Pack Yak",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "label": "ripperdemon",
+        "image": "https://img.pvme.io/images/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": ""
+      },
+      {
+        "label": "kalgdemon",
+        "image": "https://img.pvme.io/images/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": ""
+      },
+      {
+        "label": "hellhound",
+        "image": "https://img.pvme.io/images/A1BvfVb.png",
+        "name": "Hellhound",
+        "breakdownNotes": ""
+      },
+      {
+        "label": "packmammoth",
+        "image": "https://img.pvme.io/images/z8NpfWG.png",
+        "name": "Pack Mammoth",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "presetName": "vyre",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "cryptbloomhelm",
+      "image": "https://i.imgur.com/xNXHeIN.png",
+      "name": "Cryptbloom helm",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_helm"
+    },
+    {
+      "label": "kilnmage",
+      "image": "https://i.imgur.com/OYsopd4.png",
+      "name": "TokHaar-Kal-Mej",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/TokHaar-Kal-Mej"
+    },
+    {
+      "label": "zealots",
+      "image": "https://i.imgur.com/UHRGdEk.png",
+      "name": "Amulet of zealots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_zealots"
+    },
+    {
+      "label": "sunspear",
+      "image": "https://i.imgur.com/iRMTmuZ.png",
+      "name": "Sunspear",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sunspear_(melee)"
+    },
+    {
+      "label": "lunartorso",
+      "image": "https://i.imgur.com/8xVdj2x.png",
+      "name": "Lunar torso",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Lunar_torso"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "cryptbloomlegs",
+      "image": "https://i.imgur.com/h07wgr8.png",
+      "name": "Cryptbloom legs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_legs"
+    },
+    {
+      "label": "lunargloves",
+      "image": "https://i.imgur.com/sFyLuKh.png",
+      "name": "Lunar gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Lunar_gloves"
+    },
+    {
+      "label": "lunarboots",
+      "image": "https://i.imgur.com/MPEFfj4.png",
+      "name": "Lunar boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Lunar_boots"
+    },
+    {
+      "label": "vigour",
+      "image": "https://i.imgur.com/3cSIbWx.png",
+      "name": "Ring of vigour",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_vigour"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "vampaura",
+      "image": "https://i.imgur.com/JigaLBL.png",
+      "name": "Vampyrism aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vampyrism_aura"
+    },
+    {
+      "label": "zerkess",
+      "image": "https://i.imgur.com/6Yt0jCG.png",
+      "name": "Berserk blood essence",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Berserk_blood_essence"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "goldcharm1",
+      "image": "https://i.imgur.com/z9gFxyX.png",
+      "name": "Gold charm",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Gold_charm",
+      "selected": false
+    },
+    {
+      "label": "bunyippouch",
+      "image": "https://i.imgur.com/ThhI7qf.png",
+      "name": "Bunyip pouch",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bunyip_pouch",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "greencharm1",
+      "image": "https://i.imgur.com/FuWsB0y.png",
+      "name": "Green charm",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_charm",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "crimsoncharm1",
+      "image": "https://i.imgur.com/m6W15K7.png",
+      "name": "Crimson charm",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Crimson_charm",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "bluecharm1",
+      "image": "https://i.imgur.com/oL7B8YM.png",
+      "name": "Blue charm",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_charm",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "fontoflife",
+        "image": "https://i.imgur.com/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "energy": 50,
+        "description": "Increases maximum health by 500."
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "bunyip",
+        "image": "https://i.imgur.com/hpjldw8.png",
+        "name": "Bunyip",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

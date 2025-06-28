@@ -1,0 +1,313 @@
+{
+  "presetName": "Ranged Kerapac",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/Ezvarbg.png",
+      "name": "Sirenic mask",
+      "label": "sirenichelm"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/MWLieOn.png",
+      "name": "EoF - Eldritch crossbow",
+      "label": "eofpink"
+    },
+    {
+      "image": "https://i.imgur.com/GkhQHSj.png",
+      "name": "Bow of the Last Guardian",
+      "label": "bolg"
+    },
+    {
+      "image": "https://i.imgur.com/Xqpr6Xs.png",
+      "name": "Sirenic hauberk",
+      "label": "sirenictop"
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/IuyylJw.png",
+      "name": "Sirenic chaps",
+      "label": "sireniclegs"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/9j06KPo.png",
+      "name": "Enhanced fleeting boots",
+      "label": "enhancedfleet"
+    },
+    {
+      "image": "https://i.imgur.com/xRj7mKb.png",
+      "name": "Stalker's ring",
+      "label": "stalkerring"
+    },
+    {
+      "image": "https://i.imgur.com/b3geFp8.png",
+      "name": "Pernix's Quiver",
+      "label": "pernixquiver"
+    },
+    {
+      "image": "https://i.imgur.com/NAg6p5G.png",
+      "name": "Vampyrism aura",
+      "label": "vampaura"
+    },
+    {
+      "image": "https://i.imgur.com/zd3mKfH.png",
+      "name": "Scripture of Wen",
+      "label": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/SsNRoVE.png",
+      "name": "Elder overload salve",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b7OFnll.png",
+      "name": "Adrenaline renewal",
+      "label": "renewal4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xnevE7L.png",
+      "name": "Super guthix brew",
+      "label": "gbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xnevE7L.png",
+      "name": "Super guthix brew",
+      "label": "gbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xnevE7L.png",
+      "name": "Super guthix brew",
+      "label": "gbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xnevE7L.png",
+      "name": "Super guthix brew",
+      "label": "gbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xnevE7L.png",
+      "name": "Super guthix brew",
+      "label": "gbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/zAiXkJn.png",
+      "name": "EoF - Seren godbow",
+      "label": "eofblue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/AjoZkV0.png",
+      "name": "Strykebow",
+      "label": "strykebow",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hw7rKHz.png",
+      "name": "Weapon poison+++ (1 dose)",
+      "label": "poison1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/306PXtG.png",
+      "name": "Vulnerabilty bombs",
+      "label": "vuln",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GNzR4sU.png",
+      "name": "Expensive spices",
+      "label": "spices",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/m5SqRS1.png",
+      "name": "Dreadnip",
+      "label": "nips",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KFZJLhU.png",
+      "name": "Enhanced excalibur",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/oOITsKV.png",
+      "name": "Powerburst of vitality",
+      "label": "vitality4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pulVXx3.png",
+      "name": "Super restore",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UEC7TLp.png",
+      "name": "Black crystal (reduced healing)",
+      "label": "blackcrystal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "label": "graspingpouchblack",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "name": "Grasping rune pouch (pink)",
+      "label": "graspingpouchpink",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

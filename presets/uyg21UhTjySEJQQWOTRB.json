@@ -1,0 +1,394 @@
+{
+  "presetName": "AFK Chaos Elemental Magic",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/IZYhahB.png",
+      "wikiLink": "https://runescape.wiki/w/Dragon_Rider_helm",
+      "name": "Dragon Rider helm",
+      "breakdownNotes": "For prayer bonus",
+      "label": "driderhelm"
+    },
+    {
+      "image": "https://i.imgur.com/6EvPhe6.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mej",
+      "name": "Igneous Kal-Mej",
+      "breakdownNotes": "",
+      "label": "kalmej"
+    },
+    {
+      "image": "https://i.imgur.com/gA1MFTE.png",
+      "wikiLink": "https://runescape.wiki/w/Demon_horn_necklace",
+      "name": "Demon horn necklace",
+      "breakdownNotes": "Will sustain prayer with bonecrusher and enough prayer bonus. If bonecrusher is not on toolbelt, bring it in inventory.",
+      "label": "demonhorn"
+    },
+    {
+      "image": "https://i.imgur.com/AI12yBk.png",
+      "wikiLink": "https://runescape.wiki/w/Fractured_Staff_of_Armadyl",
+      "name": "Fractured Staff of Armadyl",
+      "breakdownNotes": "Any high tier staff will work",
+      "label": "fsoa"
+    },
+    {
+      "image": "https://i.imgur.com/mqT1dpn.png",
+      "wikiLink": "https://runescape.wiki/w/Dragon_Rider_body",
+      "name": "Dragon Rider body",
+      "breakdownNotes": "<span>For prayer bonus</span>",
+      "label": "driderbody"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/eEGwTU4.png",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_legs",
+      "name": "Virtus robe legs",
+      "breakdownNotes": "Just for scavenging, any legs will work. Replace with dragon rider legs for prayer bonus if scav is not desired.",
+      "label": "virtuslegs"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "Optional, any gloves will work",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/TkJs5ST.png",
+      "wikiLink": "https://runescape.wiki/w/Silverhawk_boots",
+      "name": "Silverhawk boots",
+      "breakdownNotes": "",
+      "label": "shboots"
+    },
+    {
+      "image": "https://i.imgur.com/Rg6kfwR.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_Fortune",
+      "name": "Ring of Fortune",
+      "breakdownNotes": "Only t2 luck is required at chaos elemental. Use any luck ring you wish, or a ring with prayer bonus.",
+      "label": "ringoffortune"
+    },
+    {
+      "image": "https://i.imgur.com/gwmw96E.png",
+      "wikiLink": "https://runescape.wiki/w/Large_rune_pouch_(red)",
+      "name": "Large rune pouch (red)",
+      "breakdownNotes": "Runes for air surge or any barrage spell, smoke is the cheapest.",
+      "label": "pouchred"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/FLYAOEf.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Jas",
+      "name": "Scripture of Jas",
+      "breakdownNotes": "Any gwd3 scripture will work. It is not turned on, just used for prayer bonus.",
+      "label": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/VmHx4CQ.png",
+      "wikiLink": "https://runescape.wiki/w/Chaos_rune",
+      "name": "Chaos rune",
+      "breakdownNotes": "Single rune so legendary pet can auto loot runes.",
+      "label": "chaosrune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UURvGNW.png",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "Sometimes prayer can drop low due to bad rng, this will restore it. ",
+      "label": "elvenshard",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/0V4quVU.png",
+      "wikiLink": "https://runescape.wiki/w/Death_rune",
+      "name": "Death rune",
+      "breakdownNotes": "<span>Single rune so legendary pet can auto loot runes.</span>",
+      "label": "deathrune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UVffd75.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench",
+      "name": "Holy wrench",
+      "breakdownNotes": "",
+      "label": "wrench",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/DmJhw50.png",
+      "wikiLink": "https://runescape.wiki/w/Blood_rune",
+      "name": "Blood rune",
+      "breakdownNotes": "<span>Single rune so legendary pet can auto loot runes.</span>",
+      "label": "bloodrune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gMZLjIv.png",
+      "wikiLink": "https://runescape.wiki/w/Artificier's_measure",
+      "name": "Artificier's measure",
+      "breakdownNotes": "Stock this with some gems so easily you can fill empty inventory space",
+      "label": "artificier",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GrfjyE2.png",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "label": "cballs",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gKUbd5X.png",
+      "wikiLink": "https://runescape.wiki/w/Portable_Obelisk",
+      "name": "Portable Obelisk",
+      "breakdownNotes": "Single use obelisk shards can also work, just bring more than one.",
+      "label": "portableobelisk",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/LOWCNkE.png",
+      "wikiLink": "https://runescape.wiki/w/Kinetic_cyclone",
+      "name": "Kinetic cyclone",
+      "breakdownNotes": "Any cannon will work, with cyclone&gt;oldak&gt;cannon.",
+      "label": "cyclone",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Only used as a cheap, multibite food item. You are unlikely to ever need food, it's mostly to fill inventory space",
+      "label": "greenjelly",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "label": "persistentrage",
+        "energy": 150
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/KWIawjY.png",
+        "name": "Legendary Pet (Scavenge)",
+        "breakdownNotes": "",
+        "label": "legendpetscav"
+      }
+    ]
+  }
+}

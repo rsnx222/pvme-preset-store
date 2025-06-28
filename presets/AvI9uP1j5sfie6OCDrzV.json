@@ -1,0 +1,306 @@
+{
+  "presetName": "",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/cDfMJE7.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_head",
+      "name": "Volcanic trapper head",
+      "breakdownNotes": "",
+      "label": "volcanictrapperhead"
+    },
+    {
+      "image": "https://i.imgur.com/jAZnS74.png",
+      "wikiLink": "https://runescape.wiki/w/Gatherer's_cape",
+      "name": "Gatherer's cape",
+      "breakdownNotes": "",
+      "label": "gatherercape"
+    },
+    {
+      "image": "https://i.imgur.com/4KgPcpm.png",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves",
+      "name": "Grace of the elves",
+      "breakdownNotes": "",
+      "label": "gote"
+    },
+    {
+      "image": "https://i.imgur.com/Qf9AVbR.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_butterfly_net",
+      "name": "Magic butterfly net",
+      "breakdownNotes": "",
+      "label": "magicbutterflynet"
+    },
+    {
+      "image": "https://i.imgur.com/rOg7aHk.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_chest",
+      "name": "Volcanic trapper chest",
+      "breakdownNotes": "",
+      "label": "volcanictrapperchest"
+    },
+    {
+      "image": "https://i.imgur.com/n42Kunc.png",
+      "wikiLink": "https://runescape.wiki/w/Sana's_fyrtorch",
+      "name": "Sana's fyrtorch",
+      "breakdownNotes": "",
+      "label": "fyretorch"
+    },
+    {
+      "image": "https://i.imgur.com/HocPtbC.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_legguards",
+      "name": "Volcanic trapper legguards",
+      "breakdownNotes": "",
+      "label": "volcanictrapperlegguards"
+    },
+    {
+      "image": "https://i.imgur.com/Yw0OGHG.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_arms",
+      "name": "Volcanic trapper arms",
+      "breakdownNotes": "",
+      "label": "volcanictrapperarms"
+    },
+    {
+      "image": "https://i.imgur.com/E9pG2sG.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_boots",
+      "name": "Volcanic trapper boots",
+      "breakdownNotes": "",
+      "label": "volcanictrapperboots"
+    },
+    {
+      "image": "https://i.imgur.com/sxtHL16.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_Whispers",
+      "name": "Ring of Whispers",
+      "breakdownNotes": "",
+      "label": "ringofwhispers"
+    },
+    {
+      "image": "https://i.imgur.com/Mk7jbjC.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch",
+      "name": "Grasping rune pouch",
+      "breakdownNotes": "",
+      "label": "graspingpouch"
+    },
+    {
+      "image": "https://i.imgur.com/seIQA49.png",
+      "wikiLink": "https://runescape.wiki/w/Legendary_tracker_aura",
+      "name": "Legendary tracker aura",
+      "breakdownNotes": "",
+      "label": "legendarytracker"
+    },
+    null
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/maZE8qW.png",
+      "wikiLink": "https://runescape.wiki/w/Fishing_rod-o-matic",
+      "name": "Fishing rod-o-matic",
+      "breakdownNotes": "precise 6",
+      "label": "rodomatic",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "label": "restore4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "label": "restore4",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Xoo3KYI.png",
+      "wikiLink": "https://runescape.wiki/w/Imcando_hatchet",
+      "name": "Imcando hatchet",
+      "breakdownNotes": "<span>precise 6</span>",
+      "label": "imcandohatchet",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "label": "restore4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "label": "restore4",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pshT4j0.png",
+      "wikiLink": "https://runescape.wiki/w/Pickaxe_of_Earth_and_Song",
+      "name": "Pickaxe of Earth and Song",
+      "breakdownNotes": "<span>precise 6</span>",
+      "label": "pickaxeofearthandsong",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "label": "restore4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "label": "restore4",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gMZLjIv.png",
+      "wikiLink": "https://runescape.wiki/w/Artificier's_measure",
+      "name": "Artificier's measure",
+      "breakdownNotes": "",
+      "label": "artificier",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/oOIEwH0.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_logs",
+      "name": "Magic logs",
+      "breakdownNotes": "",
+      "label": "magiclogs",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "label": "shadowsgrace",
+        "energy": 50
+      },
+      {
+        "image": "https://i.imgur.com/Ivcgjer.png",
+        "name": "Luck of the Dwarves",
+        "breakdownNotes": "",
+        "label": "luckofthedwarves",
+        "energy": 200
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "https://i.imgur.com/uHd98i7.png",
+        "name": "Granite Lobster",
+        "breakdownNotes": "",
+        "label": "granitelobster"
+      },
+      {
+        "image": "https://i.imgur.com/zLcXXcI.png",
+        "name": "Gargoyle",
+        "breakdownNotes": "",
+        "label": "gargoyle"
+      },
+      {
+        "image": "https://i.imgur.com/n5ZeYNT.png",
+        "name": "Beaver",
+        "breakdownNotes": "",
+        "label": "beaver"
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/cIiazJk.png",
+        "name": "Arctic Bear",
+        "breakdownNotes": "",
+        "label": "arcticbear"
+      }
+    ]
+  }
+}

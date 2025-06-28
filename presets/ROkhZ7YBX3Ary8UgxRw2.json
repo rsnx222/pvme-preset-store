@@ -1,0 +1,307 @@
+{
+  "presetName": "",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/gfBW8r7.png",
+      "wikiLink": "https://runescape.wiki/w/Hood_of_subjugation",
+      "name": "Hood of subjugation",
+      "breakdownNotes": "",
+      "label": "subjhood"
+    },
+    {
+      "image": "https://i.imgur.com/6EvPhe6.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mej",
+      "name": "Igneous Kal-Mej",
+      "breakdownNotes": "",
+      "label": "kalmej"
+    },
+    {
+      "image": "https://i.imgur.com/lwTB80E.png",
+      "wikiLink": "https://runescape.wiki/w/Demon_horn_necklace",
+      "name": "Demon horn necklace",
+      "breakdownNotes": "Can swap with Amulet of Souls or Arcane Blood Necklace if using other means of prayer upkeep",
+      "label": "demonhorn"
+    },
+    {
+      "image": "https://i.imgur.com/ysTivBO.png",
+      "wikiLink": "https://runescape.wiki/w/Noxious_staff",
+      "name": "Noxious staff",
+      "breakdownNotes": "Use your best augmented staff, preferably with Caroming 4",
+      "label": "noxstaff"
+    },
+    {
+      "image": "https://i.imgur.com/xaiyx7X.png",
+      "wikiLink": "https://runescape.wiki/w/Garb_of_subjugation",
+      "name": "Garb of subjugation",
+      "breakdownNotes": "",
+      "label": "subjgarb"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/OprqhH8.png",
+      "wikiLink": "https://runescape.wiki/w/Gown_of_subjugation",
+      "name": "Gown of subjugation",
+      "breakdownNotes": "",
+      "label": "subjgown"
+    },
+    {
+      "image": "https://i.imgur.com/dzW7KB4.png",
+      "wikiLink": "https://runescape.wiki/w/Gloves_of_subjugation",
+      "name": "Gloves of subjugation",
+      "breakdownNotes": "",
+      "label": "subjgloves"
+    },
+    {
+      "image": "https://i.imgur.com/7XWA1eE.png",
+      "wikiLink": "https://runescape.wiki/w/Boots_of_subjugation",
+      "name": "Boots of subjugation",
+      "breakdownNotes": "",
+      "label": "subjboots"
+    },
+    {
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "label": "reaverring"
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul, <span>runes for Exsanguinate</span>",
+      "label": "graspingpouchblack"
+    },
+    {
+      "image": "https://i.imgur.com/Gc4VzXI.png",
+      "wikiLink": "https://runescape.wiki/w/Mahjarrat_aura",
+      "name": "Mahjarrat aura",
+      "breakdownNotes": "Not important, can use any aura preferred",
+      "label": "mahj"
+    },
+    {
+      "image": "https://i.imgur.com/lPppoD4.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful",
+      "name": "Scripture of Ful",
+      "breakdownNotes": "Not important, can use any Scripture/Combat pocket slot preferred",
+      "label": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload_(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload_(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/5XEM9AB.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_ectoplasmator",
+      "name": "Attuned ectoplasmator",
+      "breakdownNotes": "For prayer upkeep together with Demon horn necklace",
+      "label": "ecto",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KFZJLhU.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2VUi0VP.png",
+      "wikiLink": "https://runescape.wiki/w/Artificier's_measure",
+      "name": "Artificier's measure",
+      "breakdownNotes": "For picking up Dragonstones",
+      "label": "artificier",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x0Nwd1G.png",
+      "wikiLink": "https://runescape.wiki/w/Dungeoneering_cape",
+      "name": "Dungeoneering cape",
+      "breakdownNotes": "For teleporting to the slayer tower, can also use Ring of Slaying or Mask of the Abyss",
+      "label": "dungeoneeringcape",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/CR06fbn.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_(4_dose)",
+      "name": "Weapon poison+++ (4 dose)",
+      "breakdownNotes": "",
+      "label": "poison4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hw7rKHz.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_(1_dose)",
+      "name": "Weapon poison+++ (1 dose)",
+      "breakdownNotes": "",
+      "label": "poison1",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/h7hCOfy.png",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "label": "cluebag",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire, runes for Exsanguinate",
+      "label": "graspingpouchblue",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": "",
+        "energy": 0
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": "",
+        "energy": 0
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": "",
+        "energy": 0
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

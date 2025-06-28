@@ -1,0 +1,347 @@
+{
+  "presetName": "Basic Kiln",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/q6ybwDR.png",
+      "wikiLink": "https://runescape.wiki/w/Obsidian_mage_helm",
+      "name": "Obsidian mage helm",
+      "breakdownNotes": "Use when maging, works with Animate Dead",
+      "label": "obbymage"
+    },
+    {
+      "image": "https://i.imgur.com/NhX2RVu.png",
+      "wikiLink": "https://runescape.wiki/w/Combatant's_cape",
+      "name": "Combatant's cape",
+      "breakdownNotes": "Can be substituted with any skill cape",
+      "label": "combatantscape"
+    },
+    {
+      "image": "https://i.imgur.com/lDrVrEd.png",
+      "wikiLink": "https://runescape.wiki/w/Blood_amulet_of_fury",
+      "name": "Blood amulet of fury",
+      "breakdownNotes": "Can upgrade to Amulet of Souls if owned",
+      "label": "bloodfury"
+    },
+    {
+      "image": "https://i.imgur.com/ysTivBO.png",
+      "wikiLink": "https://runescape.wiki/w/Noxious_staff",
+      "name": "Noxious staff",
+      "breakdownNotes": "Can downgrade to Limitless staves (T82)",
+      "label": "noxstaff"
+    },
+    {
+      "image": "https://i.imgur.com/hnMcjHe.png",
+      "wikiLink": "https://runescape.wiki/w/Obsidian_platebody",
+      "name": "Obsidian platebody",
+      "breakdownNotes": "Can use power armour for the respective style if not owned",
+      "label": "obbytop"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/6Eul9Aj.png",
+      "wikiLink": "https://runescape.wiki/w/Obsidian_platelegs",
+      "name": "Obsidian platelegs",
+      "breakdownNotes": "<span>Can use power armour for the respective style if not owned</span>",
+      "label": "obbylegs"
+    },
+    {
+      "image": "https://i.imgur.com/ebb8GwX.png",
+      "wikiLink": "https://runescape.wiki/w/Obsidian_gloves",
+      "name": "Obsidian gloves",
+      "breakdownNotes": "<span>Cinderbanes would be BIS</span>",
+      "label": "obbygloves"
+    },
+    {
+      "image": "https://i.imgur.com/YPJB5ZK.png",
+      "wikiLink": "https://runescape.wiki/w/Obsidian_boots",
+      "name": "Obsidian boots",
+      "breakdownNotes": "<span>Can use power armour for the respective style if not owned</span>",
+      "label": "obbyboots"
+    },
+    {
+      "image": "https://i.imgur.com/J1iLqln.png",
+      "wikiLink": "https://runescape.wiki/w/Tokkul-zo",
+      "name": "Tokkul-zo",
+      "breakdownNotes": "BIS for Kiln",
+      "label": "tokkulzo"
+    },
+    {
+      "image": "https://i.imgur.com/qrqZ9ZH.png",
+      "wikiLink": "https://runescape.wiki/w/Ascension_bolts",
+      "name": "Ascension bolts",
+      "breakdownNotes": "",
+      "label": "ascbolts"
+    },
+    {
+      "image": "https://i.imgur.com/cJL1LNJ.png",
+      "wikiLink": "https://runescape.wiki/w/Vampyrism_aura",
+      "name": "Vampyrism aura",
+      "breakdownNotes": "",
+      "label": "vampaura"
+    },
+    {
+      "image": "https://i.imgur.com/FLYAOEf.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Jas",
+      "name": "Scripture of Jas",
+      "breakdownNotes": "",
+      "label": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/TixXgDh.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_overload#(6)",
+      "name": "Holy overload (6)",
+      "breakdownNotes": "Can upgrade to elder salves",
+      "label": "holyovl"
+    },
+    {
+      "image": "https://i.imgur.com/TixXgDh.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_overload#(6)",
+      "name": "Holy overload (6)",
+      "breakdownNotes": "Can upgrade to elder salves",
+      "label": "holyovl"
+    },
+    {
+      "image": "https://i.imgur.com/u17fgjW.png",
+      "wikiLink": "https://runescape.wiki/w/Obsidian_warrior_helm",
+      "name": "Obsidian warrior helm",
+      "breakdownNotes": "Use when ranging",
+      "label": "obbymelee"
+    },
+    {
+      "image": "https://i.imgur.com/k6nbaOZ.png",
+      "wikiLink": "https://runescape.wiki/w/Obsidian_ranger_helm",
+      "name": "Obsidian ranger helm",
+      "breakdownNotes": "<span>Use when meleeing</span>",
+      "label": "obbyrange"
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/Swtl8pP.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_flask#(6)",
+      "name": "Adrenaline renewal flask (6)",
+      "breakdownNotes": "Can downgrade to the best adrenaline potion you can make",
+      "label": "renewal6"
+    },
+    {
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "label": "poison6"
+    },
+    {
+      "image": "https://i.imgur.com/iRMTmuZ.png",
+      "wikiLink": "https://runescape.wiki/w/Sunspear_(melee)",
+      "name": "Sunspear",
+      "breakdownNotes": "PF switch for both ranged and mage, not needed if Greater codices owned",
+      "label": "sunspear"
+    },
+    {
+      "image": "https://i.imgur.com/9imiEjS.png",
+      "wikiLink": "https://runescape.wiki/w/Bandos_warshield",
+      "name": "Bandos warshield",
+      "breakdownNotes": "For emergency resos, such as on Jad",
+      "label": "bandosshield"
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore"
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore"
+    },
+    {
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "label": "vuln"
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood/Astral/Body/Soul",
+      "label": "graspingpouchblack"
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death/Earth/Law/Cosmic",
+      "label": "graspingpouchpink"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore"
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore"
+    },
+    {
+      "image": "https://i.imgur.com/DYr8pFK.png",
+      "wikiLink": "https://runescape.wiki/w/Noxious_scythe",
+      "name": "Noxious scythe",
+      "breakdownNotes": "Can downgrade to Vesta's Spear (Potentially Masuta's Warspear)",
+      "label": "scythe"
+    },
+    {
+      "image": "https://i.imgur.com/YGlkhDV.png",
+      "wikiLink": "https://runescape.wiki/w/Wyvern_crossbow",
+      "name": "Wyvern crossbow",
+      "breakdownNotes": "Can downgrade to Royal Crossbow",
+      "label": "wyverncbow"
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos/Air/Water/Fire",
+      "label": "graspingpouchblue"
+    },
+    null,
+    null
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": "",
+        "label": "bloodreaver"
+      }
+    ]
+  }
+}

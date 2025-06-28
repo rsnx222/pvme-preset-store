@@ -1,0 +1,386 @@
+{
+  "presetName": "",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/fiTvvCf.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_crystal_helm",
+      "name": "Attuned crystal helm",
+      "breakdownNotes": "",
+      "label": "attunedcrystalhelm"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/uKBw6jW.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_crystal_body",
+      "name": "Attuned crystal body",
+      "breakdownNotes": "",
+      "label": "attunedcrystalbody"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/xnjdLrW.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_crystal_legs",
+      "name": "Attuned crystal legs",
+      "breakdownNotes": "",
+      "label": "attunedcrystallegs"
+    },
+    {
+      "image": "https://i.imgur.com/xgIpwVn.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_crystal_gloves",
+      "name": "Attuned crystal gloves",
+      "breakdownNotes": "",
+      "label": "attunedcrystalgloves"
+    },
+    {
+      "image": "https://i.imgur.com/SESOIYr.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_crystal_boots",
+      "name": "Attuned crystal boots",
+      "breakdownNotes": "",
+      "label": "attunedcrystalboots"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/S2uAoW3.png",
+      "wikiLink": "https://runescape.wiki/w/Mechanised_chinchompa",
+      "name": "Mechanised chinchompa",
+      "breakdownNotes": "",
+      "label": "chins",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/QmrRswm.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_helm",
+      "name": "Nature's sentinel helm",
+      "breakdownNotes": "",
+      "label": "naturessentinelhelm",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/QwQCJSn.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_chest",
+      "name": "Nature's sentinel chest",
+      "breakdownNotes": "",
+      "label": "naturessentinelchest",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/z0xAboo.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_trunks",
+      "name": "Nature's sentinel trunks",
+      "breakdownNotes": "",
+      "label": "naturessentineltrunks",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xFBM7qm.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_boots",
+      "name": "Nature's sentinel boots",
+      "breakdownNotes": "",
+      "label": "naturessentinelboots",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gDhB2Ig.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_branch",
+      "name": "Nature's sentinel branch",
+      "breakdownNotes": "",
+      "label": "naturessentinelbranch",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/q8y4rib.png",
+      "wikiLink": "https://runescape.wiki/w/Supreme_overload_salve#(6)",
+      "name": "Supreme overload salve (6)",
+      "breakdownNotes": "",
+      "label": "supremesalve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pzEjejy.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "",
+      "label": "ovl",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SsNRoVE.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PP5dYq0.png",
+      "wikiLink": "https://runescape.wiki/w/Irit_incense_sticks",
+      "name": "Irit incense sticks",
+      "breakdownNotes": "",
+      "label": "iritsticks",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FmTBRvg.png",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "",
+      "label": "lantasticks",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/WCcKGSB.png",
+      "wikiLink": "https://runescape.wiki/w/Irit_incense_sticks",
+      "name": "Irit incense sticks (100)",
+      "breakdownNotes": "",
+      "label": "iritincensesticks100",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/m40Cqfq.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_weed_incense_sticks",
+      "name": "Spirit weed incense sticks",
+      "breakdownNotes": "",
+      "label": "spiritsticks",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FAPSk6p.png",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire",
+      "name": "Erethdor's grimoire",
+      "breakdownNotes": "",
+      "label": "grim",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SxE7lDs.png",
+      "wikiLink": "https://runescape.wiki/w/Barrows_amulets",
+      "name": "Barrows amulets",
+      "breakdownNotes": "",
+      "label": "barrowsamulet",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/1KKDsVs.png",
+      "wikiLink": "https://runescape.wiki/w/Barrows_totems",
+      "name": "Barrows totems",
+      "breakdownNotes": "",
+      "label": "barrowstotems",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/cevmcA1.png",
+      "wikiLink": "https://runescape.wiki/w/Abyssal_armour_spikes_(alloy)",
+      "name": "Abyssal armour spikes (alloy)",
+      "breakdownNotes": "",
+      "label": "abyssalspikes",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/MnbQtqX.png",
+      "wikiLink": "https://runescape.wiki/w/Armour_spikes_(alloy)",
+      "name": "Armour spikes (alloy)",
+      "breakdownNotes": "",
+      "label": "spikes",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/QYFPpd0.png",
+      "wikiLink": "https://runescape.wiki/w/Ugthanki_dung",
+      "name": "Ugthanki dung",
+      "breakdownNotes": "",
+      "label": "ugthankidung",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/fEm2b5Q.png",
+      "wikiLink": "https://runescape.wiki/w/Ripper_Demon_scroll_(Death_From_Above)",
+      "name": "Ripper Demon scroll (Death From Above)",
+      "breakdownNotes": "",
+      "label": "ripperscrolls",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/5IKQkH1.png",
+      "wikiLink": "https://runescape.wiki/w/Steel_Titan_scroll_(Steel_of_Legends)",
+      "name": "Steel Titan scroll (Steel of Legends)",
+      "breakdownNotes": "",
+      "label": "titanscrolls",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/6oDVbcd.png",
+      "wikiLink": "https://runescape.wiki/w/Ascension_bolts",
+      "name": "Ascension bolts",
+      "breakdownNotes": "",
+      "label": "ascbolts",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b2y3wrv.png",
+      "wikiLink": "https://runescape.wiki/w/Black_stone_arrows",
+      "name": "Black stone arrows",
+      "breakdownNotes": "",
+      "label": "bsa",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/7qlGCyV.png",
+      "wikiLink": "https://runescape.wiki/w/Black_stone_arrows",
+      "name": "Black stone arrows",
+      "breakdownNotes": "",
+      "label": "bsa21",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/asuawfb.png",
+      "wikiLink": "https://runescape.wiki/w/Black_stone_arrows",
+      "name": "Black stone arrows",
+      "breakdownNotes": "",
+      "label": "bsa1k",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FCjk3us.png",
+      "wikiLink": "https://runescape.wiki/w/Black_stone_arrows",
+      "name": "Black stone arrows",
+      "breakdownNotes": "",
+      "label": "bsa10k",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/uBbMQoy.png",
+      "wikiLink": "https://runescape.wiki/w/Black_stone_arrows",
+      "name": "Black stone arrows",
+      "breakdownNotes": "",
+      "label": "bsa100",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "presetName": "",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/5vasEy6.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_hood_(tier_90)",
+      "name": "Deathwarden hood (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathwardenhoodt90"
+    },
+    {
+      "image": "https://i.imgur.com/wTwgzck.png",
+      "wikiLink": "https://runescape.wiki/w/Reefwalker's_cape",
+      "name": "Reefwalker's cape",
+      "breakdownNotes": "",
+      "label": "reefcape"
+    },
+    {
+      "image": "https://i.imgur.com/UB0lAK8.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet",
+      "name": "Essence of Finality amulet",
+      "breakdownNotes": "",
+      "label": "eof"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/JkyJN48.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_top_(tier_90)",
+      "name": "Deathwarden robe top (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathwardenrobetopt90"
+    },
+    {
+      "image": "https://i.imgur.com/ThpXK19.png",
+      "wikiLink": "https://runescape.wiki/w/Merciless_kiteshield",
+      "name": "Merciless kiteshield",
+      "breakdownNotes": "",
+      "label": "mageshield"
+    },
+    {
+      "image": "https://i.imgur.com/4KirFLg.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_legs_(tier_90)",
+      "name": "Deathwarden robe legs (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathwardenrobelegst90"
+    },
+    {
+      "image": "https://i.imgur.com/3WIoKQI.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_gloves_(tier_90)",
+      "name": "Deathwarden gloves (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathwardenglovest90"
+    },
+    {
+      "image": "https://i.imgur.com/V94Yora.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_boots_(tier_90)",
+      "name": "Deathwarden boots (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathwardenbootst90"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/OQ4ZaK3.png",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(ripper_demon)",
+      "name": "Binding contract (ripper demon)",
+      "breakdownNotes": "",
+      "label": "ripper",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ML1c3oq.png",
+      "wikiLink": "https://runescape.wiki/w/Ripper_Demon_scroll_(Death_From_Above)",
+      "name": "Ripper Demon scroll (Death From Above)",
+      "breakdownNotes": "",
+      "label": "ripperscrolls",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/0QDIRGb.png",
+      "wikiLink": "https://runescape.wiki/w/Shadow_nihil_pouch",
+      "name": "Shadow nihil pouch",
+      "breakdownNotes": "",
+      "label": "shadownihil",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pSNIBhe.png",
+      "wikiLink": "https://runescape.wiki/w/Blood_nihil_pouch",
+      "name": "Blood nihil pouch",
+      "breakdownNotes": "",
+      "label": "bloodnihil",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/kJ17hH6.png",
+      "wikiLink": "https://runescape.wiki/w/Smoke_nihil_pouch",
+      "name": "Smoke nihil pouch",
+      "breakdownNotes": "",
+      "label": "smokenihil",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/HDVqGWL.png",
+      "wikiLink": "https://runescape.wiki/w/Pack_yak_pouch",
+      "name": "Pack yak pouch",
+      "breakdownNotes": "",
+      "label": "packyakpouch",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/5dumsv0.png",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(kal'gerion_demon)",
+      "name": "Binding contract (kal'gerion demon)",
+      "breakdownNotes": "",
+      "label": "kalg",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hjoH9xr.png",
+      "wikiLink": "https://runescape.wiki/w/Kal%27gerion_Demon_scroll_(Crit-i-Kal)",
+      "name": "Kal'gerion Demon scroll (Crit-i-Kal)",
+      "breakdownNotes": "",
+      "label": "kalgscrolls500",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/vSUpqbs.png",
+      "wikiLink": "https://runescape.wiki/w/Super_prayer_renewal_potion#(6)",
+      "name": "Super prayer renewal potion (6)",
+      "breakdownNotes": "",
+      "label": "prayrenewal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/BQXFPFu.png",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(blood_reaver)",
+      "name": "Binding contract (blood reaver)",
+      "breakdownNotes": "",
+      "label": "reaver",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3o2DaTu.png",
+      "wikiLink": "https://runescape.wiki/w/Blood_Reaver_scroll_(Blood_Siphon)",
+      "name": "Blood Reaver scroll (Blood Siphon)",
+      "breakdownNotes": "",
+      "label": "reaverscrolls500",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FVmxMkH.png",
+      "wikiLink": "https://runescape.wiki/w/Blessed_flask",
+      "name": "Blessed flask",
+      "breakdownNotes": "",
+      "label": "blessed",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/YSj7H2I.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_prayer_flask#(6)",
+      "name": "Extreme prayer flask (6)",
+      "breakdownNotes": "",
+      "label": "extpray",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/YSj7H2I.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_prayer_flask#(6)",
+      "name": "Extreme prayer flask (6)",
+      "breakdownNotes": "",
+      "label": "extpray",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/vmHoB6p.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_master_cape",
+      "name": "Magic master cape",
+      "breakdownNotes": "",
+      "label": "mag120",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/EcaWmO8.png",
+      "wikiLink": "https://runescape.wiki/w/Archaeology_master_cape",
+      "name": "Archaeology master cape",
+      "breakdownNotes": "",
+      "label": "archcape",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/6GKoFBO.png",
+      "wikiLink": "https://runescape.wiki/w/Ogre_flask_(thermal)",
+      "name": "Ogre flask (thermal)",
+      "breakdownNotes": "",
+      "label": "ogrethermal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hw7rKHz.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(1)",
+      "name": "Weapon poison+++ (1)",
+      "breakdownNotes": "",
+      "label": "poison1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/h5QEOgi.png",
+      "wikiLink": "https://runescape.wiki/w/Divine_charge",
+      "name": "Divine charge",
+      "breakdownNotes": "",
+      "label": "divcharge",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/WCcKGSB.png",
+      "wikiLink": "https://runescape.wiki/w/Irit_incense_sticks",
+      "name": "Irit incense sticks",
+      "breakdownNotes": "",
+      "label": "iritincensesticks100",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/4n0C5gK.png",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "",
+      "label": "lantadymeincensesticks100",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ARLol7s.png",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "",
+      "label": "kwuarmsticks100",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/w6hThUy.png",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "name": "Powder of penance",
+      "breakdownNotes": "",
+      "label": "powderofpenance2",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

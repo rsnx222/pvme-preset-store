@@ -1,0 +1,326 @@
+{
+  "presetName": "AFK Elite Profane Scabarites (Melee)",
+  "presetNotes": "<img title=\"reaverpouch\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/839903693837959228.png?v=1\" /> a<span>utofire rate set to 8, use </span><img title=\"prismofrestoration\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/938475261366784070.png?v=1\" /><span> occasionally</span>",
+  "equipmentSlots": [
+    {
+      "label": "vestmenthood",
+      "image": "https://img.pvme.io/images/EVh5SwD.png",
+      "name": "Vestments of havoc hood",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_hood"
+    },
+    {
+      "label": "kalket",
+      "image": "https://img.pvme.io/images/bfzX8Up.png",
+      "name": "Igneous Kal-Ket",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Ket"
+    },
+    {
+      "label": "desertamulet4",
+      "image": "https://img.pvme.io/images/JInu2Jy.png",
+      "name": "Desert amulet 4",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Desert_amulet_4"
+    },
+    {
+      "label": "keris",
+      "image": "https://img.pvme.io/images/AQnrzP2.png",
+      "name": "Keris",
+      "breakdownNotes": "Consecrated &gt; Primed Keris (regular Keris is not worth it)",
+      "wikiLink": "https://runescape.wiki/w/Keris"
+    },
+    {
+      "label": "tmwtop",
+      "image": "https://img.pvme.io/images/kbAkth3.png",
+      "name": "Trimmed masterwork platebody",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Trimmed_masterwork_platebody"
+    },
+    {
+      "label": "lengoh",
+      "image": "https://img.pvme.io/images/LAVYvrE.png",
+      "name": "Dark Sliver of Leng",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dark_Sliver_of_Leng"
+    },
+    {
+      "label": "tmwlegs",
+      "image": "https://img.pvme.io/images/Pggz07A.png",
+      "name": "Trimmed masterwork platelegs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Trimmed_masterwork_platelegs"
+    },
+    {
+      "label": "cinder",
+      "image": "https://img.pvme.io/images/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+    },
+    {
+      "label": "vestmentboots",
+      "image": "https://img.pvme.io/images/FarIA5V.png",
+      "name": "Vestments of havoc boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_boots"
+    },
+    {
+      "label": "reaverring",
+      "image": "https://img.pvme.io/images/cnIOClx.png",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring"
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)"
+    },
+    {
+      "label": "vampaura",
+      "image": "https://img.pvme.io/images/JigaLBL.png",
+      "name": "Vampyrism aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vampyrism_aura"
+    },
+    {
+      "label": "scriptureofamascut",
+      "image": "https://img.pvme.io/images/4KBTJqYn6o.png",
+      "name": "Scripture of Amascut",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Amascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "cannon",
+      "image": "https://img.pvme.io/images/GTwVqeC.png",
+      "name": "Dwarven siege engine",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "poison4",
+      "image": "https://img.pvme.io/images/CR06fbn.png",
+      "name": "Weapon poison+++ (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(4)",
+      "selected": false
+    },
+    {
+      "label": "reaver",
+      "image": "https://img.pvme.io/images/BQXFPFu.png",
+      "name": "Binding contract (blood reaver)",
+      "breakdownNotes": "<img title=\"reaverpouch\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/839903693837959228.png?v=1\" /><span> a</span><span>utofire rate set to 8, use </span><img title=\"prismofrestoration\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/938475261366784070.png?v=1\" /><span> occasionally</span>",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(blood_reaver)",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "label": "deathwardennexus",
+      "image": "https://img.pvme.io/images/hd7YvA4.png",
+      "name": "Deathwarden Nexus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
+      "selected": false
+    },
+    {
+      "label": "iritincensesticks100",
+      "image": "https://img.pvme.io/images/WCcKGSB.png",
+      "name": "Irit incense sticks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Irit_incense_sticks",
+      "selected": false
+    },
+    {
+      "label": "cballs",
+      "image": "https://img.pvme.io/images/GrfjyE2.png",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "elvenshard",
+      "image": "https://img.pvme.io/images/UURvGNW.png",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "selected": false
+    },
+    {
+      "label": "kwuarmsticks100",
+      "image": "https://img.pvme.io/images/ARLol7s.png",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
+      "selected": false
+    },
+    {
+      "label": "powderofpenance2",
+      "image": "https://img.pvme.io/images/w6hThUy.png",
+      "name": "Powder of penance",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "slayercape",
+      "image": "https://img.pvme.io/images/B4vyqxv.png",
+      "name": "Slayer cape (t)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Slayer_cape_(t)",
+      "selected": false
+    },
+    {
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "slayerintrospection",
+        "image": "https://img.pvme.io/images/spEwR2q.png",
+        "name": "Slayer Introspection",
+        "breakdownNotes": "",
+        "energy": 200,
+        "description": "When requesting a new slayer assignment, you will have a choice between the minimum and maximum assignment amounts."
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "bloodreaver",
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

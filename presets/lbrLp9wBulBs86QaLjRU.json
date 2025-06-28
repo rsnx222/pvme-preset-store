@@ -1,0 +1,379 @@
+{
+  "presetName": "Croesus Woodcutting",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/h4cf5a8.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_helm",
+      "name": "Nature's sentinel helm",
+      "breakdownNotes": "",
+      "label": "naturessentinelhelm"
+    },
+    {
+      "image": "https://i.imgur.com/myCOFKL.png",
+      "wikiLink": "https://runescape.wiki/w/Hunter_cape",
+      "name": "Hunter cape",
+      "breakdownNotes": "Used for 2 ticking while gathering and doing core.",
+      "label": "huntercape"
+    },
+    {
+      "image": "https://i.imgur.com/4KgPcpm.png",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves",
+      "name": "Grace of the elves",
+      "breakdownNotes": "",
+      "label": "gote"
+    },
+    {
+      "image": "https://i.imgur.com/Xoo3KYI.png",
+      "wikiLink": "https://runescape.wiki/w/Imcando_hatchet",
+      "name": "Imcando hatchet",
+      "breakdownNotes": "Honed 6.",
+      "label": "imcandohatchet"
+    },
+    {
+      "image": "https://i.imgur.com/AVtsARx.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_chest",
+      "name": "Nature's sentinel chest",
+      "breakdownNotes": "",
+      "label": "naturessentinelchest"
+    },
+    {
+      "image": "https://i.imgur.com/n42Kunc.png",
+      "wikiLink": "https://runescape.wiki/w/Sana's_fyrtorch",
+      "name": "Sana's fyrtorch",
+      "breakdownNotes": "",
+      "label": "fyretorch"
+    },
+    {
+      "image": "https://i.imgur.com/AyzY63R.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_trunks",
+      "name": "Nature's sentinel trunks",
+      "breakdownNotes": "",
+      "label": "naturessentineltrunks"
+    },
+    {
+      "image": "https://i.imgur.com/aHlOVcO.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_branch",
+      "name": "Nature's sentinel branch",
+      "breakdownNotes": "",
+      "label": "naturessentinelbranch"
+    },
+    {
+      "image": "https://i.imgur.com/708o7G1.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_boots",
+      "name": "Nature's sentinel boots",
+      "breakdownNotes": "",
+      "label": "naturessentinelboots"
+    },
+    {
+      "image": "https://i.imgur.com/nXXZxpH.png",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "",
+      "label": "lotd"
+    },
+    {
+      "image": "https://i.imgur.com/Mk7jbjC.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch",
+      "name": "Grasping rune pouch",
+      "breakdownNotes": "Earth | Fire | Body | Soul",
+      "label": "graspingpouch"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/t1KMJMv.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "Optional for gathering clues.",
+      "label": "scriptureofbik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I6HFjyN.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "",
+      "label": "accel4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/XVBSWOO.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_hunter_flask#(6)",
+      "name": "Extreme hunter flask",
+      "breakdownNotes": "",
+      "label": "extremehunterflask",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/OTFMuCJ.png",
+      "wikiLink": "https://runescape.wiki/w/Master_constructor's_hat",
+      "name": "Master constructor's hat",
+      "breakdownNotes": "Used when repairing statues.",
+      "label": "masterconstructorhat",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UCx0Gj9.png",
+      "wikiLink": "https://runescape.wiki/w/Master_constructor's_boots",
+      "name": "Master constructor's boots",
+      "breakdownNotes": "<span>Used when repairing statues.</span>",
+      "label": "masterconstructorsboots",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gMZLjIv.png",
+      "wikiLink": "https://runescape.wiki/w/Artificer's_measure",
+      "name": "Artificer's measure",
+      "breakdownNotes": "<span>Used when repairing statues.</span>",
+      "label": "artificer",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/maZE8qW.png",
+      "wikiLink": "https://runescape.wiki/w/Fishing_rod-o-matic",
+      "name": "Fishing rod-o-matic",
+      "breakdownNotes": "Honed 6.<br />Can upgrade to Enhanced version for more Invention XP.",
+      "label": "rodomatic",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/jHCeJqk.png",
+      "wikiLink": "https://runescape.wiki/w/Splintering_arrow_tips",
+      "name": "Splintering arrow tips",
+      "breakdownNotes": "",
+      "label": "splinteringarrowtip1",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/0BCKI4J.png",
+      "wikiLink": "https://runescape.wiki/w/Master_constructor's_jacket",
+      "name": "Master constructor's jacket",
+      "breakdownNotes": "<span>Used when repairing statues.</span>",
+      "label": "masterconstructorjacket",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Kk7SksF.png",
+      "wikiLink": "https://runescape.wiki/w/Master_constructor's_gloves",
+      "name": "Master constructor's gloves",
+      "breakdownNotes": "<span>Used when repairing statues.</span>",
+      "label": "masterconstructorgloves",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/sKzjiFQ.png",
+      "wikiLink": "https://runescape.wiki/w/Master_constructor's_trousers",
+      "name": "Master constructor's trousers",
+      "breakdownNotes": "<span>Used when repairing statues.</span>",
+      "label": "masterconstructortrousers",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline.",
+        "label": "shadowsgrace",
+        "energy": 50
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/z8NpfWG.png",
+        "name": "Pack Mammoth",
+        "breakdownNotes": "",
+        "label": "packmammoth"
+      }
+    ]
+  }
+}

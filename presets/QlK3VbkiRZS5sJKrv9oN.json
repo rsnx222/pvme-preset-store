@@ -1,0 +1,311 @@
+{
+  "presetName": "Abyss Melee",
+  "presetNotes": "Pray Malevolence <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190159416557573.png?v=1\" /> or Turmoil <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/583429936606347280.png?v=1\" /><br />",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/9NwuMuG.png",
+      "wikiLink": "https://runescape.wiki/w/Bandos_helmet",
+      "name": "Bandos helmet",
+      "breakdownNotes": "",
+      "label": "bandoshelm"
+    },
+    {
+      "image": "https://i.imgur.com/bfzX8Up.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Ket",
+      "name": "Igneous Kal-Ket",
+      "breakdownNotes": "",
+      "label": "kalket"
+    },
+    {
+      "image": "https://i.imgur.com/8lhQpAu.png",
+      "wikiLink": "https://runescape.wiki/w/Brawler's_blood_necklace",
+      "name": "Brawler's blood necklace",
+      "breakdownNotes": "Can use any amulet with Soul Split <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/615613924506599497.png?v=1\" />",
+      "label": "meleeblood"
+    },
+    {
+      "image": "https://i.imgur.com/BGhsSXy.png",
+      "wikiLink": "https://runescape.wiki/w/Laniakea's_spear",
+      "name": "Laniakea's spear",
+      "breakdownNotes": "Aftershock 4 Precise 2<span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712074245202772009.png?v=1\" /><span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1084799750416637993.png?v=1\" /> + Equilibrium 4 Ruthless 3 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088589627505.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" />",
+      "label": "lanispear"
+    },
+    {
+      "image": "https://i.imgur.com/rZAwGOE.png",
+      "wikiLink": "https://runescape.wiki/w/Bandos_chestplate",
+      "name": "Bandos chestplate",
+      "breakdownNotes": "Biting 4 X <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087809617931.png?v=1\" /> + Relentless 5 Crackling 4 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800920748092.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087662686249.png?v=1\" />",
+      "label": "bandosbody"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/YTrvyv7.png",
+      "wikiLink": "https://runescape.wiki/w/Bandos_tassets",
+      "name": "Bandos tassets",
+      "breakdownNotes": "Impatient 4 X <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088204013640.png?v=1\" /> + Scavenging 4 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1005934140669046824.png?v=1\" />",
+      "label": "bandoslegs"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/TkJs5ST.png",
+      "wikiLink": "https://runescape.wiki/w/Silverhawk_boots",
+      "name": "Silverhawk boots",
+      "breakdownNotes": "",
+      "label": "shboots"
+    },
+    {
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
+      "name": "Reaver's ring",
+      "breakdownNotes": "<br />",
+      "label": "reaverring"
+    },
+    {
+      "image": "https://i.imgur.com/yxmdGCZ.png",
+      "wikiLink": "https://runescape.wiki/w/Tirannwn_quiver_4",
+      "name": "Tirannwn quiver 4",
+      "breakdownNotes": "Prayer Bonus.<br />",
+      "label": "quiver4"
+    },
+    {
+      "image": "https://i.imgur.com/G4FM1Cz.png",
+      "wikiLink": "https://runescape.wiki/w/Penance_aura",
+      "name": "Penance aura",
+      "breakdownNotes": "Can use powder of penance <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/928221126360969226.png?v=1\" /><br />",
+      "label": "penance"
+    },
+    {
+      "image": "https://i.imgur.com/JtRtMGN.png",
+      "wikiLink": "https://runescape.wiki/w/Scrimshaw_of_sacrifice",
+      "name": "Scrimshaw of sacrifice",
+      "breakdownNotes": "",
+      "label": "sacscrim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/LOWCNkE.png",
+      "wikiLink": "https://runescape.wiki/w/Kinetic_cyclone",
+      "name": "Kinetic cyclone",
+      "breakdownNotes": "",
+      "label": "cyclone",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "label": "poison6",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/x2G1m0Q.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "holyaggroverload",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/7HsbgWH.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_scarab_pouch",
+      "name": "Holy scarab pouch",
+      "breakdownNotes": "More AFK at the cost of KPH<br />",
+      "label": "holyscarab",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FmyhIY5.png",
+      "wikiLink": "https://runescape.wiki/w/Smoke_devil_pouch",
+      "name": "Smoke devil pouch",
+      "breakdownNotes": "Familiar combat mode: Attack Same Target.",
+      "label": "smokedevilpouch",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/6WSkKO7.png",
+      "wikiLink": "https://runescape.wiki/w/Smoke_Devil_scroll_(Dust_Cloud)",
+      "name": "Smoke Devil scroll (Dust Cloud)",
+      "breakdownNotes": "Set autofire rate to 1.<br />",
+      "label": "smokedevilscroll5000",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GrfjyE2.png",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "label": "cballs",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FVmxMkH.png",
+      "wikiLink": "https://runescape.wiki/w/Blessed_flask",
+      "name": "Blessed flask",
+      "breakdownNotes": "",
+      "label": "blessed",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UURvGNW.png",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "label": "elvenshard",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

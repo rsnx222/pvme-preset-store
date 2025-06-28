@@ -1,0 +1,370 @@
+{
+  "presetName": "Spiritual Warriors Magic bis",
+  "presetNotes": "<div>Pray Overcharge.<br /><br />If using <img title=\"inqstaff\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/694566917553520680.png?v=1\" />, Air Wave will do the same damage as Air Surge, but use less runes. </div>",
+  "equipmentSlots": [
+    {
+      "label": "ghostgoggles",
+      "image": "https://img.pvme.io/images/iyXqN3S.png",
+      "name": "Ghost hunter goggles",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_goggles"
+    },
+    {
+      "label": "ghostbackpack",
+      "image": "https://img.pvme.io/images/zNu0qYb.png",
+      "name": "Ghost hunter backpack",
+      "breakdownNotes": "If only doing this, use:<br />",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_backpack"
+    },
+    {
+      "label": "salvee",
+      "image": "https://img.pvme.io/images/qbsFxuG.png",
+      "name": "Salve amulet (e)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Salve_amulet_(e)"
+    },
+    {
+      "label": "inq",
+      "image": "https://img.pvme.io/images/My8VkUX.png",
+      "name": "Inquisitor staff",
+      "breakdownNotes": "Caroming 4 Precise 2 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/791281588792590336.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1084799750416637993.png?v=1\" /> + Equilibrium 4 Ruthless 3 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088589627505.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" /><br /><br />If only doing this, use:<br /><br />Precise 6 Caroming 1 <img title=\"p6\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088769982475.png?v=1\" /> <img title=\"caroming1\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1043953962207957162.png?v=1\" /> + Equilibrium 4 Ruthless 3 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088589627505.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Inquisitor_staff"
+    },
+    {
+      "label": "virtustop",
+      "image": "https://img.pvme.io/images/cau9oLa.png",
+      "name": "Virtus robe top",
+      "breakdownNotes": "Biting 4 Undead Slayer <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087809617931.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502804720615441.png?v=1\" /> + Scavenging 4 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1005934140669046824.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_top"
+    },
+    null,
+    {
+      "label": "ghostlegs",
+      "image": "https://img.pvme.io/images/Cn2x2Mi.png",
+      "name": "Ghost hunter legs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_legs"
+    },
+    {
+      "label": "cinder",
+      "image": "https://img.pvme.io/images/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+    },
+    {
+      "label": "superiordragonriderboots",
+      "image": "https://img.pvme.io/images/DeDRUdo.png",
+      "name": "Superior Dragon Rider boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Superior_Dragon_Rider_boots"
+    },
+    {
+      "label": "reaverring",
+      "image": "https://img.pvme.io/images/cnIOClx.png",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring"
+    },
+    {
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire<br /><br />Runes for Air Wave",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)"
+    },
+    null,
+    {
+      "label": "scriptureofjas",
+      "image": "https://img.pvme.io/images/FLYAOEf.png",
+      "name": "Scripture of Jas",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Jas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "scodex",
+      "image": "https://img.pvme.io/images/MivUk5T.png",
+      "name": "Slayer codex",
+      "breakdownNotes": "Teleport to house tablets work.<br />",
+      "wikiLink": "https://runescape.wiki/w/Slayer_codex",
+      "selected": false
+    },
+    {
+      "label": "bunyippouch",
+      "image": "https://img.pvme.io/images/ThhI7qf.png",
+      "name": "Bunyip pouch",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bunyip_pouch",
+      "selected": false
+    },
+    {
+      "label": "bunyippouch",
+      "image": "https://img.pvme.io/images/ThhI7qf.png",
+      "name": "Bunyip pouch",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bunyip_pouch",
+      "selected": false
+    },
+    {
+      "label": "potionreservoir",
+      "image": "https://img.pvme.io/images/uIF03Iz.png",
+      "name": "Potion reservoir",
+      "breakdownNotes": "Use on Holy Aggroverload.",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#active",
+      "selected": false
+    },
+    {
+      "label": "poison6",
+      "image": "https://img.pvme.io/images/KyZkJoc.png",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "holyaggroverload",
+      "image": "https://img.pvme.io/images/x2G1m0Q.png",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "holyaggroverload",
+      "image": "https://img.pvme.io/images/x2G1m0Q.png",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "bunyippouch",
+      "image": "https://img.pvme.io/images/ThhI7qf.png",
+      "name": "Bunyip pouch",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bunyip_pouch",
+      "selected": false
+    },
+    {
+      "label": "bunyippouch",
+      "image": "https://img.pvme.io/images/ThhI7qf.png",
+      "name": "Bunyip pouch",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bunyip_pouch",
+      "selected": false
+    },
+    {
+      "label": "xpcapacitor5000charging",
+      "image": "https://img.pvme.io/images/e0vL3ur.png",
+      "name": "XP Capacitor 5000 (Charging)",
+      "breakdownNotes": "You can bring up to three.<br />",
+      "wikiLink": "https://runescape.wiki/w/XP_Capacitor_5000#Charging",
+      "selected": false
+    },
+    {
+      "label": "poison6",
+      "image": "https://img.pvme.io/images/KyZkJoc.png",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "holyaggroverload",
+      "image": "https://img.pvme.io/images/x2G1m0Q.png",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "holyaggroverload",
+      "image": "https://img.pvme.io/images/x2G1m0Q.png",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "bunyippouch",
+      "image": "https://img.pvme.io/images/ThhI7qf.png",
+      "name": "Bunyip pouch",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bunyip_pouch",
+      "selected": false
+    },
+    {
+      "label": "bunyippouch",
+      "image": "https://img.pvme.io/images/ThhI7qf.png",
+      "name": "Bunyip pouch",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bunyip_pouch",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "poison6",
+      "image": "https://img.pvme.io/images/KyZkJoc.png",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "holyaggroverload",
+      "image": "https://img.pvme.io/images/x2G1m0Q.png",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "holyaggroverload",
+      "image": "https://img.pvme.io/images/x2G1m0Q.png",
+      "name": "Holy aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "kwuarmsticks100",
+      "image": "https://img.pvme.io/images/ARLol7s.png",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
+      "selected": false
+    },
+    {
+      "label": "1knote",
+      "image": "https://img.pvme.io/images/8r07LbS.png",
+      "name": "Magic notepaper",
+      "breakdownNotes": "Optional, as looting requires extra inputs.",
+      "wikiLink": "https://runescape.wiki/w/Magic_notepaper",
+      "selected": false
+    },
+    {
+      "label": "artificer",
+      "image": "https://img.pvme.io/images/gMZLjIv.png",
+      "name": "Artificer's measure",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Artificer's_measure",
+      "selected": false
+    },
+    {
+      "label": "herbbag",
+      "image": "https://img.pvme.io/images/egmZjv0.png",
+      "name": "Herb bag",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Herb_bag",
+      "selected": false
+    },
+    {
+      "label": "wrench",
+      "image": "https://img.pvme.io/images/UVffd75.png",
+      "name": "Holy wrench",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench",
+      "selected": false
+    },
+    {
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/Ivcgjer.png",
+        "name": "Luck of the Dwarves",
+        "breakdownNotes": "",
+        "label": "luckofthedwarves",
+        "energy": 200
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/hpjldw8.png",
+        "name": "Bunyip",
+        "breakdownNotes": "",
+        "label": "bunyip"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

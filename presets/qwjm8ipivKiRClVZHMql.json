@@ -1,0 +1,290 @@
+{
+  "presetName": "2023-03-24-19-5843",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/Ezvarbg.png",
+      "name": "Sirenic mask",
+      "breakdownNotes": "Downgrade as required.",
+      "label": "sirenichelm"
+    },
+    {
+      "image": "https://i.imgur.com/TNKAuKX.png",
+      "name": "Igneous Kal-Xil",
+      "breakdownNotes": "Downgrade to Kiln Cape or Skillcape if required.",
+      "label": "kalxil"
+    },
+    {
+      "image": "https://i.imgur.com/LhMlWmw.png",
+      "name": "EoF - Dark bow",
+      "breakdownNotes": "Use Blood Amulet of Fury, Amulet of Souls, or Reaper Necklace, if not owned.",
+      "label": "eofgreen"
+    },
+    {
+      "image": "https://i.imgur.com/iiBXivW.png",
+      "name": "Noxious longbow",
+      "breakdownNotes": "Downgrade to Decimation/Wyvern if required.",
+      "label": "noxbow"
+    },
+    {
+      "image": "https://i.imgur.com/Xqpr6Xs.png",
+      "name": "Sirenic hauberk",
+      "breakdownNotes": "<span>Downgrade as required - standard perks.</span>",
+      "label": "sirenictop"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/IuyylJw.png",
+      "name": "Sirenic chaps",
+      "breakdownNotes": "<span>Downgrade as required - standard perks.</span>",
+      "label": "sireniclegs"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "Use T80+ power armour gloves if not owned.",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/R5kSCvF.png",
+      "name": "Fleeting boots",
+      "breakdownNotes": "",
+      "label": "fleet"
+    },
+    {
+      "image": "https://i.imgur.com/xRj7mKb.png",
+      "name": "Stalker's ring",
+      "breakdownNotes": "with Enchantment of Shadows. If Stalker's ring is not owned, substitute (e.g. Asylum Surgeon)",
+      "label": "stalkerring"
+    },
+    {
+      "image": "https://i.imgur.com/MCRkOPS.png",
+      "name": "Pernix's Quiver",
+      "breakdownNotes": "Ful Arrows | Hydrix Bakriminel (e)",
+      "label": "pernixquiveryellow"
+    },
+    {
+      "image": "https://i.imgur.com/56x8kkE.png",
+      "name": "Reckless aura",
+      "breakdownNotes": "Substitute with Vampyrism if desired.",
+      "label": "reckless"
+    },
+    {
+      "image": "https://i.imgur.com/jTJxwFt.png",
+      "name": "Scripture of Jas",
+      "breakdownNotes": "Can upgrade to Ful or Grimoire if owned.",
+      "label": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/AjoZkV0.png",
+      "name": "Strykebow",
+      "breakdownNotes": "Shield switch - downgrade to Dark bow if not owned.",
+      "label": "strykebow",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KFZJLhU.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "For healing.",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hw7rKHz.png",
+      "name": "Weapon poison+++ (1 dose)",
+      "breakdownNotes": "Cinderbane synergy.",
+      "label": "poison1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pzEjejy.png",
+      "name": "Elder overload",
+      "breakdownNotes": "",
+      "label": "ovl",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b7OFnll.png",
+      "name": "Adrenaline renewal",
+      "breakdownNotes": "",
+      "label": "renewal4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/5PPmPXC.png",
+      "name": "Spiritual prayer",
+      "breakdownNotes": "Replace with super restore if using Kal'gerion Demon.",
+      "label": "spiritual",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/5PPmPXC.png",
+      "name": "Spiritual prayer",
+      "breakdownNotes": "Replace with super restore if using Kal'gerion Demon.",
+      "label": "spiritual",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2X4XRWf.png",
+      "name": "Mainhand ascension crossbow",
+      "breakdownNotes": "Precise 6 Aftershock 1",
+      "label": "asc",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RusBiGh.png",
+      "name": "Offhand ascension crossbow",
+      "breakdownNotes": "Caroming 4 Equilibrium 2",
+      "label": "ohasc",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/U47oHsq.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "label": "grest",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/U47oHsq.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "label": "grest",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/U47oHsq.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "label": "grest",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/U47oHsq.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "label": "grest",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/U47oHsq.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "label": "grest",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Soul",
+      "label": "graspingpouchblue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/306PXtG.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "label": "vuln",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Fire",
+      "label": "graspingpouchblack",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "label": "graspingpouchpink",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [],
+    "alternativeFamiliars": []
+  }
+}

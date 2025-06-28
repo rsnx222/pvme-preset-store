@@ -1,0 +1,395 @@
+{
+  "presetName": "Exiled Kalphite Guardians",
+  "presetNotes": "*No option for it so that's why it's empty, but for necklace slot use Dragon Rider amulet<br /><br />*Also bring Spirit gem bag",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/IZYhahB.png",
+      "wikiLink": "https://runescape.wiki/w/Dragon_Rider_helm",
+      "name": "Dragon Rider helm",
+      "breakdownNotes": "",
+      "label": "driderhelm"
+    },
+    {
+      "image": "https://i.imgur.com/TOBhmb5.png",
+      "wikiLink": "https://runescape.wiki/w/Dragon_Rider_cape",
+      "name": "Dragon Rider cape",
+      "breakdownNotes": "",
+      "label": "dridercape"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/ysTivBO.png",
+      "wikiLink": "https://runescape.wiki/w/Noxious_staff",
+      "name": "Noxious staff",
+      "breakdownNotes": "<span>Caroming 4 Equilibrium 2</span><div><span>Precise 6 Ruthless 1</span></div>",
+      "label": "noxstaff"
+    },
+    {
+      "image": "https://i.imgur.com/cau9oLa.png",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_top",
+      "name": "Virtus robe top",
+      "breakdownNotes": "<span>Biting 4</span><div><span>Relentless 5 Crackling 4</span><br /></div>",
+      "label": "virtustop"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/eEGwTU4.png",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_legs",
+      "name": "Virtus robe legs",
+      "breakdownNotes": "<div>Impatient 4 </div><div>Scavenging 4</div>",
+      "label": "virtuslegs"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/DeDRUdo.png",
+      "wikiLink": "https://runescape.wiki/w/Superior_Dragon_Rider_boots",
+      "name": "Superior Dragon Rider boots",
+      "breakdownNotes": "",
+      "label": "superiordragonriderboots"
+    },
+    {
+      "image": "https://i.imgur.com/RZg5LNG.png",
+      "wikiLink": "https://runescape.wiki/w/Asylum_surgeon's_ring",
+      "name": "Asylum surgeon's ring",
+      "breakdownNotes": "",
+      "label": "asr"
+    },
+    {
+      "image": "https://i.imgur.com/yxmdGCZ.png",
+      "wikiLink": "https://runescape.wiki/w/Tirannwn_quiver_4",
+      "name": "Tirannwn quiver 4",
+      "breakdownNotes": "",
+      "label": "quiver4"
+    },
+    {
+      "image": "https://i.imgur.com/dMPY1FJ.png",
+      "wikiLink": "https://runescape.wiki/w/Penance_aura",
+      "name": "Penance aura",
+      "breakdownNotes": "",
+      "label": "penance"
+    },
+    {
+      "image": "https://i.imgur.com/zi5v5NW.png",
+      "wikiLink": "https://runescape.wiki/w/Ancient_book",
+      "name": "Ancient book",
+      "breakdownNotes": "",
+      "label": "ancientgodbook2"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/TixXgDh.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_overload#(6)",
+      "name": "Holy overload (6)",
+      "breakdownNotes": "",
+      "label": "holyovl",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/TixXgDh.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_overload#(6)",
+      "name": "Holy overload (6)",
+      "breakdownNotes": "",
+      "label": "holyovl",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/R4tRepk.png",
+      "wikiLink": "https://runescape.wiki/w/Oldak_coil",
+      "name": "Oldak coil",
+      "breakdownNotes": "",
+      "label": "oldakcoil",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GrfjyE2.png",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "label": "cballs",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hvGFXFI.png",
+      "wikiLink": "https://runescape.wiki/w/Charming_potion_flask#(6)",
+      "name": "Charming potion flask (6)",
+      "breakdownNotes": "",
+      "label": "charmingflask",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hvGFXFI.png",
+      "wikiLink": "https://runescape.wiki/w/Charming_potion_flask#(6)",
+      "name": "Charming potion flask (6)",
+      "breakdownNotes": "",
+      "label": "charmingflask",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/IOehGlx.png",
+      "wikiLink": "https://runescape.wiki/w/Air_rune",
+      "name": "Air rune",
+      "breakdownNotes": "",
+      "label": "airrune1k",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/egmZjv0.png",
+      "wikiLink": "https://runescape.wiki/w/Herb_bag",
+      "name": "Herb bag",
+      "breakdownNotes": "",
+      "label": "herbbag",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/CR06fbn.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(4)",
+      "name": "Weapon poison+++ (4)",
+      "breakdownNotes": "",
+      "label": "poison4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hw7rKHz.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(1)",
+      "name": "Weapon poison+++ (1)",
+      "breakdownNotes": "",
+      "label": "poison1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2fdFcoh.png",
+      "wikiLink": "https://runescape.wiki/w/Merchant_district_teleport",
+      "name": "Merchant district teleport",
+      "breakdownNotes": "",
+      "label": "merchantdistrictteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hOgzyPZ.png",
+      "wikiLink": "https://runescape.wiki/w/Steel_titan_pouch",
+      "name": "Steel titan pouch",
+      "breakdownNotes": "",
+      "label": "titanpouch",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/jxIRcnj.png",
+      "wikiLink": "https://runescape.wiki/w/Steel_Titan_scroll_(Steel_of_Legends)",
+      "name": "Steel Titan scroll (Steel of Legends)",
+      "breakdownNotes": "",
+      "label": "titanscrolls",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "https://i.imgur.com/Ivcgjer.png",
+        "name": "Luck of the Dwarves",
+        "breakdownNotes": "",
+        "description": "You will always gain the effect of tier 4 luck.",
+        "label": "luckofthedwarves",
+        "energy": 200
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "presetName": "Cw t70 cap",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/IAOluOa.png",
+      "wikiLink": "https://runescape.wiki/w/Akrisae's_hood",
+      "name": "Akrisae's hood",
+      "breakdownNotes": "",
+      "label": "akrisaehood"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/UB0lAK8.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet",
+      "name": "Essence of Finality amulet",
+      "breakdownNotes": "",
+      "label": "eof"
+    },
+    {
+      "image": "https://i.imgur.com/EY9Nl4R.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_staff",
+      "name": "Guthix staff",
+      "breakdownNotes": "or Crystal staff",
+      "label": "gstaff"
+    },
+    {
+      "image": "https://i.imgur.com/4vpqobx.png",
+      "wikiLink": "https://runescape.wiki/w/Akrisae's_robe_top",
+      "name": "Akrisae's robe top",
+      "breakdownNotes": "",
+      "label": "akrisaetop"
+    },
+    {
+      "image": "https://i.imgur.com/RPZ5ksO.png",
+      "wikiLink": "https://runescape.wiki/w/Corrupted_defender",
+      "name": "Corrupted defender",
+      "breakdownNotes": "any t70 shield, no spirit shields",
+      "label": "corrupteddefender"
+    },
+    {
+      "image": "https://i.imgur.com/K55Tyl3.png",
+      "wikiLink": "https://runescape.wiki/w/Akrisae's_robe_skirt",
+      "name": "Akrisae's robe skirt",
+      "breakdownNotes": "",
+      "label": "akrisaeskirt"
+    },
+    {
+      "image": "https://i.imgur.com/GAqfkTE.png",
+      "wikiLink": "https://runescape.wiki/w/Vanguard_gloves",
+      "name": "Vanguard gloves",
+      "breakdownNotes": "or nightmares",
+      "label": "vanguardgloves"
+    },
+    {
+      "image": "https://i.imgur.com/is3LA7E.png",
+      "wikiLink": "https://runescape.wiki/w/Vanguard_boots",
+      "name": "Vanguard boots",
+      "breakdownNotes": "",
+      "label": "vanguardboots"
+    },
+    {
+      "image": "https://i.imgur.com/OwpbyOe.png",
+      "wikiLink": "https://runescape.wiki/w/Leviathan_ring",
+      "name": "Leviathan ring",
+      "breakdownNotes": "Or any DPS ring",
+      "label": "leviathanring"
+    },
+    {
+      "image": "https://i.imgur.com/b3geFp8.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver",
+      "breakdownNotes": "",
+      "label": "pernixquiver"
+    },
+    {
+      "image": "https://i.imgur.com/3NtBQQA.png",
+      "wikiLink": "https://runescape.wiki/w/Aegis_aura",
+      "name": "Aegis aura",
+      "breakdownNotes": "Or Ancestor spirits / Dark magic",
+      "label": "aegisaura"
+    },
+    {
+      "image": "https://i.imgur.com/lPppoD4.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful",
+      "name": "Scripture of Ful",
+      "breakdownNotes": "Or Saradomin book / Zamorak book",
+      "label": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/kLSCUux.png",
+      "wikiLink": "https://runescape.wiki/w/Worn_Equipment#Two-handed_items",
+      "name": "2h equipment slot",
+      "breakdownNotes": "any t70 meele wep",
+      "label": "2hslot",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KkJxTbf.png",
+      "wikiLink": "https://runescape.wiki/w/Dark_bow",
+      "name": "Dark bow",
+      "breakdownNotes": "",
+      "label": "dbow",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/0xf0xYo.png",
+      "wikiLink": "https://runescape.wiki/w/Castle_wars_brace#(3)",
+      "name": "Castle wars brace (3)",
+      "breakdownNotes": "",
+      "label": "cwbrace",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/IqAjWRF.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "Any adren pot",
+      "label": "renewal4",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "Any prayer potion / Blessed Flask BiS",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "Any prayer potion / Blessed Flask BiS",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "<span>Runes for Animated Dead, Exsanguinate, Disruption Shield</span>",
+      "label": "graspingpouchpink",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "<span>Runes for Animated Dead, Exsanguinate, Disruption Shield</span>",
+      "label": "graspingpouchblue",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained.",
+        "label": "persistentrage",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained.",
+        "label": "persistentrage",
+        "energy": 150
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

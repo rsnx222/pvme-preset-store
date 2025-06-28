@@ -1,0 +1,401 @@
+{
+  "presetName": "Necromancy Hards",
+  "presetNotes": "Pre-summon Meerkats Familiar with scrolls in them. Useful to skip wizards during coordinate clues.",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/Uxr7Xcm.png",
+      "wikiLink": "https://runescape.wiki/w/Wicked_hood",
+      "name": "Wicked hood",
+      "breakdownNotes": "Allows you to teleport to Rune Altars and requires Wicked Hood Tokens to be charged | <div>Used for Nature Altar </div>",
+      "label": "wickedhood"
+    },
+    {
+      "image": "https://i.imgur.com/9u3f0ws.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_backpack",
+      "name": "Globetrotter backpack",
+      "breakdownNotes": "<span>Has the ability to teleport directly to the clue scroll location, consuming a charge.<br /></span><br />-<img title=\"slayercape\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/975284344123953164.png?v=1\" /><span>|</span><img title=\"dgcape\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/976732922545586246.png?v=1\" />|<img title=\"masterquestcape\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1091050888828813412.png?v=1\" /><span>as Max Cape Perks stored. <br />- Agility Cape on Anachronia stand.<br /></span><span>- Quest Point Cape has access to all teleports that were previously locked behind MQC. - </span><span>The </span><span>World Gate </span><img title=\"masterquestcape\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1091050888828813412.png?v=1\" /><span> is relevant for hard clues.</span>",
+      "label": "globetrotterbackpack"
+    },
+    {
+      "image": "https://i.imgur.com/4KgPcpm.png",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves",
+      "name": "Grace of the elves",
+      "breakdownNotes": "<span>Overgrown Idols | Lava Flow Mine</span>",
+      "label": "gote"
+    },
+    {
+      "image": "https://i.imgur.com/SzFvoQB.png",
+      "wikiLink": "https://runescape.wiki/w/Omni_guard",
+      "name": "Omni guard",
+      "breakdownNotes": "Precise 6 <img title=\"p6\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088769982475.png?v=1\" /> | Aftershock 1 <img title=\"as1\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502339891331093.png?v=1\" />",
+      "label": "omniguard"
+    },
+    {
+      "image": "https://i.imgur.com/paFUjfv.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_jacket",
+      "name": "Globetrotter jacket",
+      "breakdownNotes": "<span>Has the ability to teleport directly to the clue scroll</span><span> location, consuming a charge.</span>",
+      "label": "globetrotterjacket"
+    },
+    {
+      "image": "https://i.imgur.com/VJsZ4HL.png",
+      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern",
+      "name": "Soulbound lantern",
+      "breakdownNotes": "Biting 4 <img title=\"biting4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087809617931.png?v=1\" /> | Mobile <img title=\"mob\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" />",
+      "label": "soulboundlantern"
+    },
+    {
+      "image": "https://i.imgur.com/DvyUvd2.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_shorts",
+      "name": "Globetrotter shorts",
+      "breakdownNotes": "<span>They can be activated from the inventory or while worn to automatically signal for Uri in place of performing an emote for an emote clue. Requires the items or hidey hole to be filled.</span>",
+      "label": "globetrottershorts"
+    },
+    {
+      "image": "https://i.imgur.com/TCZljWu.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_arm_guards",
+      "name": "Globetrotter arm guards",
+      "breakdownNotes": "Ability to use teleport scrolls that are stored within the arm guards.<br /><br />Stored scrolls: Bandit Camp (2) | Clocktower  (3) | Gu'Tanoth (4) | Lighthouse (5) | Fort Forinthry (6, If not using<img title=\"slayercape\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/975284344123953164.png?v=1\" />to Raptor)",
+      "label": "globetrotterarmguards"
+    },
+    {
+      "image": "https://i.imgur.com/44J9f9V.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_boots",
+      "name": "Globetrotter boots",
+      "breakdownNotes": "<span>Activate for unlimited </span><span>running for a randomly selected duration. Only useful for the set bonus.</span>",
+      "label": "globetrotterboots"
+    },
+    {
+      "image": "https://i.imgur.com/xmcbfhs.png",
+      "wikiLink": "https://runescape.wiki/w/Hazelmere's_signet",
+      "name": "Hazelmere's signet ring",
+      "breakdownNotes": "<span>Luck of the Dwarves/HSR + Dark Facet used Dwarven Outpost and Baxtorian Falls. If not owned replace with Dragon Trinkets.</span>",
+      "label": "hsr"
+    },
+    {
+      "image": "https://i.imgur.com/yxmdGCZ.png",
+      "wikiLink": "https://runescape.wiki/w/Tirannwn_quiver_4",
+      "name": "Tirannwn quiver 4",
+      "breakdownNotes": "<span>Tirannwn quiver 3+ | Used for Tyras Camp | Elf Camp</span>",
+      "label": "quiver4"
+    },
+    {
+      "image": "https://i.imgur.com/br11PCq.png",
+      "wikiLink": "https://runescape.wiki/w/Mahjarrat_aura",
+      "name": "Mahjarrat aura",
+      "breakdownNotes": "",
+      "label": "mahj"
+    },
+    {
+      "image": "https://i.imgur.com/t1KMJMv.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "<span>Disassemble any stackable/noted item for a chance of procs during a run.</span><br />",
+      "label": "scriptureofbik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/beq0RtH.png",
+      "wikiLink": "https://runescape.wiki/w/Clue_scroll",
+      "name": "Active clue",
+      "breakdownNotes": "",
+      "label": "activeclue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3Hzb1UG.png",
+      "wikiLink": "https://runescape.wiki/w/Spade",
+      "name": "Spade",
+      "breakdownNotes": "<span>Can be keybound for faster digging or closing the </span><img title=\"cluescroll\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1037463867716018206.png?v=1\" /><span> </span><span>interface by clicking the spade in the inventory.</span>",
+      "label": "spade",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/iwTl6xy.png",
+      "wikiLink": "https://runescape.wiki/w/Portable_fairy_ring#active",
+      "name": "Portable fairy ring",
+      "breakdownNotes": " ALQ | DKS | DJP | CKS | CKR | CJS | BKR | AKQ",
+      "label": "portablefairyring(used)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/sv8RnA7.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_tree_re-rooter#active",
+      "name": "Spirit tree re-rooter",
+      "breakdownNotes": "Tree Gnome Village (1) | Tree Gnome Stronghold (2) | Etceteria (7, If not using Enchanted Lyre) <span>| </span>Brimhaven (8)",
+      "label": "spirittreere-rooter(used)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ahDBOU5.png",
+      "wikiLink": "https://runescape.wiki/w/Dave's_spellbook",
+      "name": "Dave's spellbook",
+      "breakdownNotes": "Used for Watchtower | Ardougne | Camelot (If not using Overgrown Idols on <img title=\"gote\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/900765150678749204.png?v=1\" />)",
+      "label": "davesspellbook",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/jiK1ZtB.png",
+      "wikiLink": "https://runescape.wiki/w/Puzzle_box",
+      "name": "Puzzle box",
+      "breakdownNotes": "",
+      "label": "puzzlebox",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9oDoU6T.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "",
+      "label": "spiritattractionflask",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8a6M64a.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet_(green)",
+      "name": "Essence of Finality amulet (green)",
+      "breakdownNotes": "<span><img title=\"deathguard90\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1138809243143766118.png?v=1\" /> stored inside,</span><span> physical <img title=\"deathguard90\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1138809243143766118.png?v=1\" /> can be used in it's place.</span>",
+      "label": "eofgreenunorn",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gsFc7Fw.png",
+      "wikiLink": "https://runescape.wiki/w/Puzzle_box_skipping_ticket",
+      "name": "Puzzle box skipping ticket",
+      "breakdownNotes": "",
+      "label": "puzzleboxskippingticket",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/XCZuCaN.png",
+      "wikiLink": "https://runescape.wiki/w/Portable_fairy_ring#inactive",
+      "name": "Portable fairy ring (inactive)",
+      "breakdownNotes": "",
+      "label": "fairyring",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2Yo9blS.png",
+      "wikiLink": "https://runescape.wiki/w/Worker_district_teleport",
+      "name": "Worker district teleport",
+      "breakdownNotes": "Used for Hamid located in the Worker District.",
+      "label": "workerdistrictteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gKUbd5X.png",
+      "wikiLink": "https://runescape.wiki/w/Portable_Obelisk",
+      "name": "Portable Obelisk",
+      "breakdownNotes": "Wilderness Steps or <img title=\"sbsancients\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/859483781395120129.png?v=1\" /> to Ancient Spellbook",
+      "label": "portableobelisk",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/WYm7p9h.png",
+      "wikiLink": "https://runescape.wiki/w/Archaeology_teleport",
+      "name": "Archaeology teleport",
+      "breakdownNotes": "",
+      "label": "archaeologyteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3pFXvMR.png",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus",
+      "name": "Zemoregal's Nexus",
+      "breakdownNotes": "All Necromancy Runes",
+      "label": "zemouregalsnexus",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/E2dLUWN.png",
+      "wikiLink": "https://runescape.wiki/w/Sceptre_of_the_gods",
+      "name": "Sceptre of the gods",
+      "breakdownNotes": "Obtained from Pyramid Plunder which has 60 charges for convenience | <span>Used for Jalsavrah (1)</span>",
+      "label": "sceptreofthegods",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Qp0s9G2.png",
+      "wikiLink": "https://runescape.wiki/w/Passage_of_the_Abyss_(red)",
+      "name": "Passage of the Abyss (red)",
+      "breakdownNotes": "",
+      "label": "passageoftheabyss(red)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PDg2YBC.png",
+      "wikiLink": "https://runescape.wiki/w/Passage_of_the_Abyss_(green)",
+      "name": "Passage of the Abyss (green)",
+      "breakdownNotes": "",
+      "label": "passageoftheabyss(green)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qNQ9dCI.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_crystal_teleport_seed",
+      "name": "Attuned crystal teleport seed",
+      "breakdownNotes": "Used for Lletya | Iorwerth",
+      "label": "attunedcrystalteleportseed",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8nZYJBs.png",
+      "wikiLink": "https://runescape.wiki/w/Karamja_gloves_4",
+      "name": "Karamja gloves 4",
+      "breakdownNotes": "Karamja gloves 3+",
+      "label": "karamjagloves4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I6HFjyN.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "Can be used everywhere outside the Wilderness. If you only use 1 powerburst out of 2, you can bring grand seed pods instead. Personal Choice.",
+      "label": "accel4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/fWzGXLF.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(green)",
+      "name": "Grasping rune pouch (green)",
+      "breakdownNotes": "<span><img title=\"lawrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252661406760970.png?v=1\" /></span><span> </span><span>| </span><span><img title=\"bodyrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659301089280.png?v=1\" /></span><span> </span><span>| </span><span><img title=\"astralrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658961481769.png?v=1\" /></span><span> </span><span>| </span><span><img title=\"cosmicrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659615924258.png?v=1\" />  for <img title=\"sbsstandards\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/565726489526534154.png?v=1\" /> </span><span>| </span><span><img title=\"sbsancients\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/859483781395120129.png?v=1\" /> </span><span>| </span><span><img title=\"sbslunars\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/565726489467682816.png?v=1\" /> | <img title=\"spiritualhealing\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1091050892142325780.png?v=1\" /></span>",
+      "label": "graspingpouchgreen",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/cIHG8g8.png",
+      "wikiLink": "https://runescape.wiki/w/Wilderness_sword_4",
+      "name": "Wilderness sword 4",
+      "breakdownNotes": "Barge Switch",
+      "label": "wildernesssword",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/CjIUkSz.png",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_nature",
+      "name": "Amulet of nature",
+      "breakdownNotes": "<span>Bound to diseased Vine Bush Patch in Herblore Habitat</span>",
+      "label": "amuletofnature",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8Y1U7r0.png",
+      "wikiLink": "https://runescape.wiki/w/Cape_of_legends",
+      "name": "Cape of legends",
+      "breakdownNotes": "",
+      "label": "capeoflegends",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/JInu2Jy.png",
+      "wikiLink": "https://runescape.wiki/w/Desert_amulet_4",
+      "name": "Desert amulet 4",
+      "breakdownNotes": "Used for Nardah and Uzer",
+      "label": "desertamulet4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/X0KALWt.png",
+      "wikiLink": "https://runescape.wiki/w/Enchanted_lyre",
+      "name": "Enchanted lyre",
+      "breakdownNotes": "Used for Ecteteria | Relekka Market",
+      "label": "enchantedlyre",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/TKRGiJ5.png",
+      "wikiLink": "https://runescape.wiki/w/Noted_items",
+      "name": "Noted items",
+      "breakdownNotes": "<span>Anything to disassemble for Bik Procs using <img title=\"scriptureofbik\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/892342109791735848.png?v=1\" />(Cheap and Stackable)</span>",
+      "label": "noteditems",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KPREDHT.png",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "label": "cluebag",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline.",
+        "label": "shadowsgrace",
+        "energy": 50
+      },
+      {
+        "image": "https://i.imgur.com/8IMPgCF.png",
+        "name": "Abyssal Link",
+        "breakdownNotes": "",
+        "description": "Teleport spells from the spellbook no longer require runes, but award no magic XP.",
+        "label": "abyssallink",
+        "energy": 250
+      },
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained.",
+        "label": "persistentrage",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/cOwxYnD.png",
+        "name": "Meerkats",
+        "breakdownNotes": "",
+        "label": "meerkats"
+      }
+    ]
+  }
+}

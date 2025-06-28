@@ -1,0 +1,395 @@
+{
+  "presetName": "Skill Pure Master Preset 2",
+  "presetNotes": "<span>This is a recommended clue preset for master clues, aimed at skill pures. Made by Zatox.</span><br /><br /><span>Make sure to have totem active!</span>",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/cDfMJE7.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_head",
+      "name": "Volcanic trapper head",
+      "breakdownNotes": "To teleport to Charming moths",
+      "label": "volcanictrapperhead"
+    },
+    {
+      "image": "https://i.imgur.com/DWguQtc.png",
+      "wikiLink": "https://runescape.wiki/w/Cooking_cape_(t)",
+      "name": "Cooking cape",
+      "breakdownNotes": "To prevent burning",
+      "label": "cookingcape"
+    },
+    {
+      "image": "https://i.imgur.com/4KgPcpm.png",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves",
+      "name": "Grace of the elves",
+      "breakdownNotes": "Overgrown idols",
+      "label": "gote"
+    },
+    {
+      "image": "https://i.imgur.com/iVFW4i1.png",
+      "wikiLink": "https://runescape.wiki/w/Yaktwee_stick",
+      "name": "Yaktwee stick",
+      "breakdownNotes": "",
+      "label": "yaktweestick"
+    },
+    {
+      "image": "https://i.imgur.com/rOg7aHk.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_chest",
+      "name": "Volcanic trapper chest",
+      "breakdownNotes": "",
+      "label": "volcanictrapperchest"
+    },
+    {
+      "image": "https://i.imgur.com/K7gU5TK.png",
+      "wikiLink": "https://runescape.wiki/w/Off-hand_rubber_chicken",
+      "name": "Off-hand rubber chicken",
+      "breakdownNotes": "Mobile + glow worm",
+      "label": "offhandrubberchicken"
+    },
+    {
+      "image": "https://i.imgur.com/HocPtbC.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_legguards",
+      "name": "Volcanic trapper legguards",
+      "breakdownNotes": "",
+      "label": "volcanictrapperlegguards"
+    },
+    {
+      "image": "https://i.imgur.com/Yw0OGHG.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_arms",
+      "name": "Volcanic trapper arms",
+      "breakdownNotes": "",
+      "label": "volcanictrapperarms"
+    },
+    {
+      "image": "https://i.imgur.com/E9pG2sG.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_boots",
+      "name": "Volcanic trapper boots",
+      "breakdownNotes": "",
+      "label": "volcanictrapperboots"
+    },
+    {
+      "image": "https://i.imgur.com/IHgyELp.png",
+      "wikiLink": "https://runescape.wiki/w/Dark_Facet_of_Luck",
+      "name": "Dark Facet of Luck",
+      "breakdownNotes": "",
+      "label": "facetofluck"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/t1KMJMv.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "<span>To gather more clues (optional)</span>",
+      "label": "scriptureofbik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/beq0RtH.png",
+      "wikiLink": "https://runescape.wiki/w/Clue_scroll",
+      "name": "Active clue",
+      "breakdownNotes": "",
+      "label": "activeclue",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Qp0s9G2.png",
+      "wikiLink": "https://runescape.wiki/w/Passage_of_the_Abyss_(red)",
+      "name": "Passage of the Abyss (red)",
+      "breakdownNotes": "",
+      "label": "passageoftheabyss(red)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KPREDHT.png",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "label": "cluebag",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FN0XHFS.png",
+      "wikiLink": "https://runescape.wiki/w/Curly_root",
+      "name": "Curly root",
+      "breakdownNotes": "",
+      "label": "curlyroot",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Moq1ANC.png",
+      "wikiLink": "https://runescape.wiki/w/Fire_rune",
+      "name": "Fire rune",
+      "breakdownNotes": "",
+      "label": "firerune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/oN8HWIo.png",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_fish_extractor",
+      "name": "Dwarven fish extractor",
+      "breakdownNotes": "<span>Set to double catch mode</span>",
+      "label": "dwarvenfishextractor",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/oOIEwH0.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_logs",
+      "name": "Magic logs",
+      "breakdownNotes": "",
+      "label": "magiclogs",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/o1fn8Bv.png",
+      "wikiLink": "https://runescape.wiki/w/Black_dragon_leather",
+      "name": "Black dragon leather",
+      "breakdownNotes": "3x",
+      "label": "blackdragonleather",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/S0ENqzv.png",
+      "wikiLink": "https://runescape.wiki/w/Toadflax_potion_(unf)",
+      "name": "Toadflax potion (unf)",
+      "breakdownNotes": "",
+      "label": "toadflaxpotionunf",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/JzxQM2m.png",
+      "wikiLink": "https://runescape.wiki/w/Crushed_nest",
+      "name": "Crushed nest",
+      "breakdownNotes": "",
+      "label": "crushednest",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/IilVMmp.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_logs",
+      "name": "Elder logs",
+      "breakdownNotes": "",
+      "label": "elderlogs",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/o1fn8Bv.png",
+      "wikiLink": "https://runescape.wiki/w/Black_dragon_leather",
+      "name": "Black dragon leather",
+      "breakdownNotes": "3x",
+      "label": "blackdragonleather",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/fAvXNbz.png",
+      "wikiLink": "https://runescape.wiki/w/Torstol_potion_(unf)",
+      "name": "Torstol potion (unf)",
+      "breakdownNotes": "",
+      "label": "torstolpotionunf",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8ka7wAu.png",
+      "wikiLink": "https://runescape.wiki/w/Jangerberries",
+      "name": "Jangerberries",
+      "breakdownNotes": "",
+      "label": "jangerberries",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/XSZEqx9.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_masterstroke_(1)",
+      "name": "Powerburst of masterstroke (1)",
+      "breakdownNotes": "",
+      "label": "powerburstofmasterstroke(1)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/o1fn8Bv.png",
+      "wikiLink": "https://runescape.wiki/w/Black_dragon_leather",
+      "name": "Black dragon leather",
+      "breakdownNotes": "3x",
+      "label": "blackdragonleather",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/E9ffrzS.png",
+      "wikiLink": "https://runescape.wiki/w/Thread",
+      "name": "Thread",
+      "breakdownNotes": "",
+      "label": "thread",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/unMwc1f.png",
+      "wikiLink": "https://runescape.wiki/w/Infinity_ethereal_head",
+      "name": "Infinity ethereal head",
+      "breakdownNotes": "Equip set when having the Runespan step",
+      "label": "infinityetherealhead",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RStP9To.png",
+      "wikiLink": "https://runescape.wiki/w/Infinity_ethereal_body",
+      "name": "Infinity ethereal body",
+      "breakdownNotes": "",
+      "label": "infinityetherealtop",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/EfhjTkv.png",
+      "wikiLink": "https://runescape.wiki/w/Infinity_ethereal_legs",
+      "name": "Infinity ethereal legs",
+      "breakdownNotes": "",
+      "label": "infinityethereallegs",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/dEKVXrZ.png",
+      "wikiLink": "https://runescape.wiki/w/Infinity_ethereal_hands",
+      "name": "Infinity ethereal hands",
+      "breakdownNotes": "",
+      "label": "infinityetherealgloves",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/K4CP93e.png",
+      "wikiLink": "https://runescape.wiki/w/Infinity_ethereal_feet",
+      "name": "Infinity ethereal feet",
+      "breakdownNotes": "",
+      "label": "infinityetherealboots",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9u3f0ws.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_backpack",
+      "name": "Globetrotter backpack",
+      "breakdownNotes": "<span>Only use charges for masters</span>",
+      "label": "globetrotterbackpack",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/1aatevD.png",
+      "wikiLink": "https://runescape.wiki/w/Raw_shark",
+      "name": "Raw shark",
+      "breakdownNotes": "",
+      "label": "rawshark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/o0uIoLH.png",
+      "wikiLink": "https://runescape.wiki/w/Raw_wild_pie",
+      "name": "Raw wild pie",
+      "breakdownNotes": "",
+      "label": "rawwildpie",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/cx7cvZh.png",
+      "wikiLink": "https://runescape.wiki/w/Decorated_cooking_urn_(nr)",
+      "name": "Decorated cooking urn (nr)",
+      "breakdownNotes": "",
+      "label": "decoratedcookingurn(nr)",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "description": "Increases maximum health by 500.",
+        "label": "fontoflife",
+        "energy": 50
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "https://i.imgur.com/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline.",
+        "label": "shadowsgrace",
+        "energy": 50
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/cOwxYnD.png",
+        "name": "Meerkats",
+        "breakdownNotes": "",
+        "label": "meerkats"
+      }
+    ]
+  }
+}

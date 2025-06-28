@@ -1,0 +1,401 @@
+{
+  "presetName": "BOTW Vorkath",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "deathdealerhoodt80",
+      "image": "https://img.pvme.io/images/bCw4Kdq.png",
+      "name": "Deathdealer hood (tier 80)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_hood_(tier_80)"
+    },
+    {
+      "label": "defencecape",
+      "image": "https://img.pvme.io/images/QbbeF9W.png",
+      "name": "Defence cape (t)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Defence_cape_(t)"
+    },
+    {
+      "label": "salvee",
+      "image": "https://img.pvme.io/images/qbsFxuG.png",
+      "name": "Salve amulet (e)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Salve_amulet_(e)"
+    },
+    {
+      "label": "deathguardt90",
+      "image": "https://img.pvme.io/images/tosZimW.png",
+      "name": "Death guard (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Death_guard_(tier_90)"
+    },
+    {
+      "label": "deathdealerrobetopt80",
+      "image": "https://img.pvme.io/images/qQTupff.png",
+      "name": "Deathdealer robe top (tier 80)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_robe_top_(tier_80)"
+    },
+    {
+      "label": "skulllanternt90",
+      "image": "https://img.pvme.io/images/nEI3w2n.png",
+      "name": "Skull lantern (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Skull_lantern_(tier_90)"
+    },
+    {
+      "label": "deathdealerrobebottomt80",
+      "image": "https://img.pvme.io/images/PUqNMhg.png",
+      "name": "Deathdealer robe bottom (tier 80)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_robe_bottom_(tier_80)"
+    },
+    {
+      "label": "deathdealerglovest80",
+      "image": "https://img.pvme.io/images/cjWgU7S.png",
+      "name": "Deathdealer gloves (tier 80)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_gloves_(tier_80)"
+    },
+    {
+      "label": "deathdealerbootst80",
+      "image": "https://img.pvme.io/images/yYh2E9i.png",
+      "name": "Deathdealer boots (tier 80)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_boots_(tier_80)"
+    },
+    {
+      "label": "vigour",
+      "image": "https://img.pvme.io/images/3cSIbWx.png",
+      "name": "Ring of vigour",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_vigour"
+    },
+    {
+      "label": "deathwardennexus",
+      "image": "https://img.pvme.io/images/hd7YvA4.png",
+      "name": "Deathwarden Nexus",
+      "breakdownNotes": "<span>Stores necro runes and ectoplasm</span>",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus"
+    },
+    {
+      "label": "darkmagicaura",
+      "image": "https://img.pvme.io/images/yfe6JbK.png",
+      "name": "Dark magic aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dark_magic_aura"
+    },
+    {
+      "label": "scriptureofjas",
+      "image": "https://img.pvme.io/images/FLYAOEf.png",
+      "name": "Scripture of Jas",
+      "breakdownNotes": "Alternatively, scripture of wen can be useful.",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Jas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "ovl",
+      "image": "https://img.pvme.io/images/DGw6F36.png",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "<span>Use your highest level overload </span>",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
+      "selected": false
+    },
+    {
+      "label": "replen",
+      "image": "https://img.pvme.io/images/LWm3PJt.png",
+      "name": "Enhanced replenishment potion (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_replenishment_potion#(6)",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "<span>Extra health</span>",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://img.pvme.io/images/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://img.pvme.io/images/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://img.pvme.io/images/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://img.pvme.io/images/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "superantifire",
+      "image": "https://img.pvme.io/images/g4GKi54.png",
+      "name": "Super antifire (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_antifire#(4)",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://img.pvme.io/images/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://img.pvme.io/images/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://img.pvme.io/images/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "rocktail",
+      "image": "https://img.pvme.io/images/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "https://i.imgur.com/eDmt2lT.png",
+        "name": "Blessing of Het",
+        "breakdownNotes": "",
+        "description": "Food and potions heal 10% more lifepoints.",
+        "label": "blessingofhet",
+        "energy": 100
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/pIteWAi.png",
+        "name": "Pack Yak",
+        "breakdownNotes": "",
+        "label": "packyak"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "https://i.imgur.com/z8NpfWG.png",
+        "name": "Pack Mammoth",
+        "breakdownNotes": "",
+        "label": "packmammoth"
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

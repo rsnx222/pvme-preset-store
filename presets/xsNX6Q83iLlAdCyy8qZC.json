@@ -1,0 +1,397 @@
+{
+  "presetName": "Comp Elite Clue Preset",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/h4cf5a8.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_helm",
+      "name": "Nature's sentinel helm",
+      "breakdownNotes": "",
+      "label": "naturessentinelhelm"
+    },
+    {
+      "image": "https://i.imgur.com/XspSSvu.png",
+      "wikiLink": "https://runescape.wiki/w/Max_cape",
+      "name": "Max cape",
+      "breakdownNotes": "",
+      "label": "max"
+    },
+    {
+      "image": "https://i.imgur.com/4KgPcpm.png",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves",
+      "name": "Grace of the elves",
+      "breakdownNotes": "",
+      "label": "gote"
+    },
+    {
+      "image": "https://i.imgur.com/4gzM0Ab.png",
+      "wikiLink": "https://runescape.wiki/w/Worn_Equipment#Main_hand_slot",
+      "name": "Mainhand slot",
+      "breakdownNotes": "Mobile (can be comboed with the perk below)",
+      "label": "mhslot"
+    },
+    {
+      "image": "https://i.imgur.com/AVtsARx.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_chest",
+      "name": "Nature's sentinel chest",
+      "breakdownNotes": "",
+      "label": "naturessentinelchest"
+    },
+    {
+      "image": "https://i.imgur.com/ytFFaBI.png",
+      "wikiLink": "https://runescape.wiki/w/Worn_Equipment#Off-hand_slot",
+      "name": "Off-hand slot",
+      "breakdownNotes": "Glow Worm (can be comboed with the perk above)",
+      "label": "ohslot"
+    },
+    {
+      "image": "https://i.imgur.com/AyzY63R.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_trunks",
+      "name": "Nature's sentinel trunks",
+      "breakdownNotes": "",
+      "label": "naturessentineltrunks"
+    },
+    {
+      "image": "https://i.imgur.com/aHlOVcO.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_branch",
+      "name": "Nature's sentinel branch",
+      "breakdownNotes": "",
+      "label": "naturessentinelbranch"
+    },
+    {
+      "image": "https://i.imgur.com/708o7G1.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_boots",
+      "name": "Nature's sentinel boots",
+      "breakdownNotes": "",
+      "label": "naturessentinelboots"
+    },
+    {
+      "image": "https://i.imgur.com/nXXZxpH.png",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "",
+      "label": "lotd"
+    },
+    {
+      "image": "https://i.imgur.com/yxmdGCZ.png",
+      "wikiLink": "https://runescape.wiki/w/Tirannwn_quiver_4",
+      "name": "Tirannwn quiver 4",
+      "breakdownNotes": "",
+      "label": "quiver4"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/ahDBOU5.png",
+      "wikiLink": "https://runescape.wiki/w/Dave's_spellbook",
+      "name": "Dave's spellbook",
+      "breakdownNotes": "",
+      "label": "davesspellbook"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/beq0RtH.png",
+      "wikiLink": "https://runescape.wiki/w/Clue_scroll",
+      "name": "Active clue",
+      "breakdownNotes": "",
+      "label": "activeclue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/dQVBOyX.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_kinship",
+      "name": "Ring of kinship",
+      "breakdownNotes": "",
+      "label": "ringofkinship",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Qp0s9G2.png",
+      "wikiLink": "https://runescape.wiki/w/Passage_of_the_Abyss_(red)",
+      "name": "Passage of the Abyss (red)",
+      "breakdownNotes": "",
+      "label": "passageoftheabyss(red)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/iwTl6xy.png",
+      "wikiLink": "https://runescape.wiki/w/Portable_fairy_ring#active",
+      "name": "Portable fairy ring",
+      "breakdownNotes": "",
+      "label": "portablefairyring(used)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/XCZuCaN.png",
+      "wikiLink": "https://runescape.wiki/w/Portable_fairy_ring#inactive",
+      "name": "Portable fairy ring (inactive)",
+      "breakdownNotes": "",
+      "label": "fairyring",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/tyIGCLl.png",
+      "wikiLink": "https://runescape.wiki/w/Dorgesh-kaan_sphere",
+      "name": "Dorgesh-kaan sphere",
+      "breakdownNotes": "",
+      "label": "dorgesh-kaansphere",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/mqsH3xe.png",
+      "wikiLink": "https://runescape.wiki/w/Ectophial",
+      "name": "Ectophial",
+      "breakdownNotes": "",
+      "label": "ectophial",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Uxr7Xcm.png",
+      "wikiLink": "https://runescape.wiki/w/Wicked_hood",
+      "name": "Wicked hood",
+      "breakdownNotes": "",
+      "label": "wickedhood",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/WYm7p9h.png",
+      "wikiLink": "https://runescape.wiki/w/Archaeology_teleport",
+      "name": "Archaeology teleport",
+      "breakdownNotes": "",
+      "label": "archaeologyteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/EuRZLF2.png",
+      "wikiLink": "https://runescape.wiki/w/Menaphos_journal",
+      "name": "Menaphos journal",
+      "breakdownNotes": "",
+      "label": "menaphosjournal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/JInu2Jy.png",
+      "wikiLink": "https://runescape.wiki/w/Desert_amulet_4",
+      "name": "Desert amulet 4",
+      "breakdownNotes": "",
+      "label": "desertamulet4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nGYkvb0.png",
+      "wikiLink": "https://runescape.wiki/w/Dragonkin_Laboratory_teleport",
+      "name": "Dragonkin Laboratory teleport",
+      "breakdownNotes": "",
+      "label": "dragonkinlaboratoryteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/rMZUuze.png",
+      "wikiLink": "https://runescape.wiki/w/Skull_sceptre",
+      "name": "Skull sceptre",
+      "breakdownNotes": "",
+      "label": "skullsceptre",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Mk7jbjC.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch",
+      "name": "Grasping rune pouch",
+      "breakdownNotes": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252661406760970.png?v=1\" /> | <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659301089280.png?v=1\" /> | <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658961481769.png?v=1\" /> | <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659615924258.png?v=1\" />",
+      "label": "graspingpouch",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/uRrpo3Y.png",
+      "wikiLink": "https://runescape.wiki/w/Relleka_tablet",
+      "name": "Relleka tablet",
+      "breakdownNotes": "",
+      "label": "rellekatablet",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/cr2oJs0.png",
+      "wikiLink": "https://runescape.wiki/w/Enlightened_amulet_(c)",
+      "name": "Enlightened amulet (c)",
+      "breakdownNotes": "",
+      "label": "enlightenedamuletc",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/OIXbC9E.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_respawn_(c)",
+      "name": "Ring of respawn (c)",
+      "breakdownNotes": "",
+      "label": "ringofrespawnc",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bF43WHx.png",
+      "wikiLink": "https://runescape.wiki/w/Games_necklace_(c)",
+      "name": "Games necklace (c)",
+      "breakdownNotes": "",
+      "label": "gamesnecklacec",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gKUbd5X.png",
+      "wikiLink": "https://runescape.wiki/w/Portable_Obelisk",
+      "name": "Portable Obelisk",
+      "breakdownNotes": "",
+      "label": "portableobelisk",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I6HFjyN.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "",
+      "label": "accel4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/l79AylD.png",
+      "wikiLink": "https://runescape.wiki/w/Dragon_trinkets",
+      "name": "Dragon trinkets",
+      "breakdownNotes": "",
+      "label": "dragontrinkets",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/81jSXdP.png",
+      "wikiLink": "https://runescape.wiki/w/Lighthouse_Teleport",
+      "name": "Lighthouse Teleport",
+      "breakdownNotes": "",
+      "label": "lighthouseteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/jgkom9X.png",
+      "wikiLink": "https://runescape.wiki/w/Tai_Bwo_Wannai_Teleport",
+      "name": "Tai Bwo Wannai Teleport",
+      "breakdownNotes": "",
+      "label": "taibwowannaiteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/TFgj5ji.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_duelling_(c)",
+      "name": "Ring of duelling (c)",
+      "breakdownNotes": "",
+      "label": "ringofduellingc",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/rrvRa6H.png",
+      "wikiLink": "https://runescape.wiki/w/Pharaoh's_sceptre",
+      "name": "Pharaoh's sceptre",
+      "breakdownNotes": "",
+      "label": "pharaohssceptre",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I74Bq3s.png",
+      "wikiLink": "https://runescape.wiki/w/Gold_seal",
+      "name": "Gold seal",
+      "breakdownNotes": "",
+      "label": "goldseal(noted)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I6HFjyN.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "",
+      "label": "accel4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KPREDHT.png",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "label": "cluebag",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/8IMPgCF.png",
+        "name": "Abyssal Link",
+        "breakdownNotes": "",
+        "label": "abyssallink",
+        "energy": 250
+      },
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "label": "persistentrage",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "label": "shadowsgrace",
+        "energy": 50
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/cOwxYnD.png",
+        "name": "Meerkats",
+        "breakdownNotes": "",
+        "label": "meerkats"
+      }
+    ]
+  }
+}

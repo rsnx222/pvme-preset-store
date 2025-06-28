@@ -1,0 +1,326 @@
+{
+  "presetName": "test123",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/JkrhqUi.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_mask",
+      "name": "Elite tectonic mask",
+      "label": "etectohelm"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/nu7QSbh.png",
+      "wikiLink": "https://runescape.wiki/w/EoF_-_Guthix_staff",
+      "name": "EoF - Guthix staff",
+      "label": "eofpurple"
+    },
+    {
+      "image": "https://i.imgur.com/DmUfsSM.png",
+      "wikiLink": "https://runescape.wiki/w/Wand_of_the_praesul",
+      "name": "Wand of the praesul",
+      "label": "pwand"
+    },
+    {
+      "image": "https://i.imgur.com/seS3Yh2.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_top",
+      "name": "Elite tectonic robe top",
+      "label": "etectotop"
+    },
+    {
+      "image": "https://i.imgur.com/PNWPCPA.png",
+      "wikiLink": "https://runescape.wiki/w/Kalphite_rebounder",
+      "name": "Kalphite rebounder",
+      "label": "rebounder"
+    },
+    {
+      "image": "https://i.imgur.com/t6HbIdO.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_bottom",
+      "name": "Elite tectonic robe bottom",
+      "label": "etectolegs"
+    },
+    {
+      "image": "https://i.imgur.com/n7j573y.png",
+      "wikiLink": "https://runescape.wiki/w/Deathtouched_bracelet",
+      "name": "Deathtouched bracelet",
+      "label": "dtb"
+    },
+    {
+      "image": "https://i.imgur.com/KUGqEdN.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_blast_diffusion_boots",
+      "name": "Enhanced blast diffusion boots",
+      "label": "enhancedblastdiff"
+    },
+    {
+      "image": "https://i.imgur.com/Zs7j4JG.png",
+      "wikiLink": "https://runescape.wiki/w/Channeller's_ring",
+      "name": "Channeller's ring",
+      "label": "channellerring"
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "label": "graspingpouchblue"
+    },
+    {
+      "image": "https://i.imgur.com/Zevs8R8.png",
+      "wikiLink": "https://runescape.wiki/w/Maniacal_aura",
+      "name": "Maniacal aura",
+      "label": "mani"
+    },
+    {
+      "image": "https://i.imgur.com/FAPSk6p.png",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire",
+      "name": "Erethdor's grimoire",
+      "label": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/SsNRoVE.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve",
+      "name": "Elder overload salve",
+      "label": "salve"
+    },
+    {
+      "image": "https://i.imgur.com/b7OFnll.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal",
+      "name": "Adrenaline renewal",
+      "label": "renewal4"
+    },
+    {
+      "image": "https://i.imgur.com/5PPmPXC.png",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer",
+      "name": "Spiritual prayer",
+      "label": "spiritual"
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "name": "Grasping rune pouch (pink)",
+      "label": "graspingpouchpink"
+    },
+    {
+      "image": "https://i.imgur.com/xnevE7L.png",
+      "wikiLink": "https://runescape.wiki/w/Super_guthix_brew",
+      "name": "Super guthix brew",
+      "label": "gbrew"
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/cP73EYR.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration",
+      "name": "Powerburst of acceleration",
+      "label": "accel4"
+    },
+    {
+      "image": "https://i.imgur.com/xBT2XFf.png",
+      "wikiLink": "https://runescape.wiki/w/Inquisitor_staff",
+      "name": "Inquisitor staff",
+      "label": "inq"
+    },
+    {
+      "image": "https://i.imgur.com/iZw3Uee.png",
+      "wikiLink": "https://runescape.wiki/w/EoF_-_Statius_warhammer",
+      "name": "EoF - Statius warhammer",
+      "label": "eofblack"
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "label": "graspingpouchblack"
+    },
+    {
+      "image": "https://i.imgur.com/xnevE7L.png",
+      "wikiLink": "https://runescape.wiki/w/Super_guthix_brew",
+      "name": "Super guthix brew",
+      "label": "gbrew"
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/AI12yBk.png",
+      "wikiLink": "https://runescape.wiki/w/Fractured_Staff_of_Armadyl",
+      "name": "Fractured Staff of Armadyl",
+      "label": "fsoa"
+    },
+    {
+      "image": "https://i.imgur.com/WHurFLm.png",
+      "wikiLink": "https://runescape.wiki/w/Imperium_core",
+      "name": "Imperium core",
+      "label": "core"
+    },
+    {
+      "image": "https://i.imgur.com/mPyVbvU.png",
+      "wikiLink": "https://runescape.wiki/w/Seismic_singularity",
+      "name": "Seismic singularity",
+      "label": "sing"
+    },
+    {
+      "image": "https://i.imgur.com/306PXtG.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "label": "vuln"
+    },
+    {
+      "image": "https://i.imgur.com/xnevE7L.png",
+      "wikiLink": "https://runescape.wiki/w/Super_guthix_brew",
+      "name": "Super guthix brew",
+      "label": "gbrew"
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/KFZJLhU.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "label": "excal"
+    },
+    {
+      "image": "https://i.imgur.com/wFdHN9C.png",
+      "wikiLink": "https://runescape.wiki/w/Dark_Shard_of_Leng",
+      "name": "Dark Shard of Leng",
+      "label": "lengmh"
+    },
+    {
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
+      "name": "Reaver's ring",
+      "label": "reaverring"
+    },
+    {
+      "image": "https://i.imgur.com/E03cGER.png",
+      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII",
+      "name": "Combat dummy MKII",
+      "label": "dummy"
+    },
+    {
+      "image": "https://i.imgur.com/xnevE7L.png",
+      "wikiLink": "https://runescape.wiki/w/Super_guthix_brew",
+      "name": "Super guthix brew",
+      "label": "gbrew"
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "label": "jelly"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "presetName": "Minimum Ranged DW",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/lhfAbhp.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_mask",
+      "name": "Sirenic mask",
+      "breakdownNotes": "",
+      "label": "sirenichelm"
+    },
+    {
+      "image": "https://i.imgur.com/TNKAuKX.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Xil",
+      "name": "Igneous Kal-Xil",
+      "breakdownNotes": "",
+      "label": "kalxil"
+    },
+    {
+      "image": "https://i.imgur.com/cUaU7mB.png",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_souls",
+      "name": "Amulet of souls",
+      "breakdownNotes": "",
+      "label": "aos"
+    },
+    {
+      "image": "https://i.imgur.com/VZnA3ZS.png",
+      "wikiLink": "https://runescape.wiki/w/Ascension_crossbow",
+      "name": "Ascension crossbow",
+      "breakdownNotes": "",
+      "label": "asc"
+    },
+    {
+      "image": "https://i.imgur.com/lYDKMiu.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_hauberk",
+      "name": "Sirenic hauberk",
+      "breakdownNotes": "Crackling 4 + Relentless 3 | Biting 3",
+      "label": "sirenictop"
+    },
+    {
+      "image": "https://i.imgur.com/tSwe20M.png",
+      "wikiLink": "https://runescape.wiki/w/Off-hand_ascension_crossbow",
+      "name": "Off-hand ascension crossbow",
+      "breakdownNotes": "",
+      "label": "ohasc"
+    },
+    {
+      "image": "https://i.imgur.com/gBPOqaV.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_chaps",
+      "name": "Sirenic chaps",
+      "breakdownNotes": "Impatient 4 | Enhanced Devoted 4",
+      "label": "sireniclegs"
+    },
+    {
+      "image": "https://i.imgur.com/FjsLw1L.png",
+      "wikiLink": "https://runescape.wiki/w/Armadyl_gloves",
+      "name": "Armadyl gloves",
+      "breakdownNotes": "",
+      "label": "armagloves"
+    },
+    {
+      "image": "https://i.imgur.com/m9hre9E.png",
+      "wikiLink": "https://runescape.wiki/w/Armadyl_boots",
+      "name": "Armadyl boots",
+      "breakdownNotes": "",
+      "label": "armaboots"
+    },
+    {
+      "image": "https://i.imgur.com/y5vAY4M.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death",
+      "name": "Ring of death",
+      "breakdownNotes": "",
+      "label": "rod"
+    },
+    {
+      "image": "https://i.imgur.com/yxmdGCZ.png",
+      "wikiLink": "https://runescape.wiki/w/Tirannwn_quiver_4",
+      "name": "Tirannwn quiver 4",
+      "breakdownNotes": "Hydrix Bak Bolts | Onyx Bak Bolts",
+      "label": "quiver4"
+    },
+    {
+      "image": "https://i.imgur.com/yfe6JbK.png",
+      "wikiLink": "https://runescape.wiki/w/Dark_magic_aura",
+      "name": "Dark magic aura",
+      "breakdownNotes": "",
+      "label": "darkmagicaura"
+    },
+    {
+      "image": "https://i.imgur.com/hm5z04C.png",
+      "wikiLink": "https://runescape.wiki/w/Book_of_law",
+      "name": "Book of law",
+      "breakdownNotes": "",
+      "label": "armagodbook2"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/gKnqcZ0.png",
+      "wikiLink": "https://runescape.wiki/w/Overload_flask#(6)",
+      "name": "Overload flask (6)",
+      "breakdownNotes": "",
+      "label": "overload"
+    },
+    {
+      "image": "https://i.imgur.com/vSUpqbs.png",
+      "wikiLink": "https://runescape.wiki/w/Super_prayer_renewal_potion#(6)",
+      "name": "Super prayer renewal potion (6)",
+      "breakdownNotes": "",
+      "label": "prayrenewal"
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara"
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail"
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail"
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail"
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail"
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore"
+    },
+    {
+      "image": "https://i.imgur.com/LWm3PJt.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_replenishment_potion#(6)",
+      "name": "Enhanced replenishment potion (6)",
+      "breakdownNotes": "",
+      "label": "replen"
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara"
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail"
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail"
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail"
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail"
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore"
+    },
+    {
+      "image": "https://i.imgur.com/nXXZxpH.png",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "",
+      "label": "lotd"
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara"
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail"
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail"
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail"
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail"
+    },
+    {
+      "image": "https://i.imgur.com/So3SwSO.png",
+      "wikiLink": "https://runescape.wiki/w/Shield",
+      "name": "Shield",
+      "breakdownNotes": "",
+      "label": "shield"
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal"
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara"
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail"
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail"
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail"
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "https://i.imgur.com/A1BvfVb.png",
+        "name": "Hellhound",
+        "breakdownNotes": "",
+        "label": "hellhound"
+      },
+      {
+        "image": "https://i.imgur.com/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": "",
+        "label": "ripperdemon"
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": "",
+        "label": "kalgdemon"
+      }
+    ]
+  }
+}

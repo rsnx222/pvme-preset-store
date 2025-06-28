@@ -1,0 +1,231 @@
+{
+  "presetName": "Gate of Elidinis",
+  "presetNotes": "Implies use of Overload/Skilling Cauldrons. Add Elder Overload to preset if not.<div>Use God Banner boost on Mining.</div><div>Optional - 2x Elder Asciatops in RooT pens</div>",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/XCIjNXk.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_head",
+      "name": "Magic golem head",
+      "breakdownNotes": "",
+      "label": "magicgolemhead"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "HP cape in Max Cape",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/4KgPcpm.png",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves",
+      "name": "Grace of the elves",
+      "breakdownNotes": "",
+      "label": "gote"
+    },
+    {
+      "image": "https://i.imgur.com/1x24vrK.png",
+      "wikiLink": "https://runescape.wiki/w/Pickaxe_of_Life_and_Death",
+      "name": "Pickaxe of Life and Death",
+      "breakdownNotes": "Honed 6 Fortune 3",
+      "label": "pickaxeoflifeanddeath"
+    },
+    {
+      "image": "https://i.imgur.com/Ytyzy1c.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_torso",
+      "name": "Magic golem torso",
+      "breakdownNotes": "",
+      "label": "magicgolemtorso"
+    },
+    {
+      "image": "https://i.imgur.com/JffmIPJ.png",
+      "wikiLink": "https://runescape.wiki/w/Tagga's_corehammer",
+      "name": "Tagga's corehammer",
+      "breakdownNotes": "",
+      "label": "corehammer"
+    },
+    {
+      "image": "https://i.imgur.com/4jZVBTE.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_legs",
+      "name": "Magic golem legs",
+      "breakdownNotes": "",
+      "label": "magicgolemlegs"
+    },
+    {
+      "image": "https://i.imgur.com/ZaLwIE0.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_gloves",
+      "name": "Magic golem gloves",
+      "breakdownNotes": "",
+      "label": "magicgolemgloves"
+    },
+    {
+      "image": "https://i.imgur.com/0yMVyOj.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_boots",
+      "name": "Magic golem boots",
+      "breakdownNotes": "",
+      "label": "magicgolemboots"
+    },
+    {
+      "image": "https://i.imgur.com/sxtHL16.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_Whispers",
+      "name": "Ring of Whispers",
+      "breakdownNotes": "",
+      "label": "ringofwhispers"
+    },
+    {
+      "image": "https://i.imgur.com/3pFXvMR.png",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus",
+      "name": "Zemoregal's Nexus",
+      "breakdownNotes": "For casting defensives",
+      "label": "zemouregalsnexus"
+    },
+    {
+      "image": "https://i.imgur.com/KDmbuSF.png",
+      "wikiLink": "https://runescape.wiki/w/Legendary_quarrymaster_aura",
+      "name": "Legendary quarrymaster aura",
+      "breakdownNotes": "",
+      "label": "legendaryquarrymaster"
+    },
+    {
+      "image": "https://i.imgur.com/caaJeHr.png",
+      "wikiLink": "https://runescape.wiki/w/Rock-crushing_scrimshaw",
+      "name": "Rock-crushing scrimshaw",
+      "breakdownNotes": "Ideally use Superior version",
+      "label": "rockcrushingscrimshaw"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/Mk7jbjC.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch",
+      "name": "Grasping rune pouch",
+      "breakdownNotes": "Optional - runes for Salvation/Restoration Prism",
+      "label": "graspingpouch"
+    },
+    {
+      "image": "https://i.imgur.com/lAwGm1s.png",
+      "wikiLink": "https://runescape.wiki/w/Crystal_skillchompa",
+      "name": "Crystal skillchompa",
+      "breakdownNotes": "Optional",
+      "label": "crystalskillchompa"
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "for healing/ Mobile switch if not using Shadows Grace Relic",
+      "label": "excal"
+    },
+    {
+      "image": "https://i.imgur.com/itNElgJ.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(1)",
+      "name": "Powerburst of acceleration (1)",
+      "breakdownNotes": "Optional - Powerburst of opportunity might be more useful",
+      "label": "accel1"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Ivcgjer.png",
+        "name": "Luck of the Dwarves",
+        "breakdownNotes": "",
+        "description": "You will always gain the effect of tier 4 luck.",
+        "label": "luckofthedwarves",
+        "energy": 200
+      },
+      {
+        "image": "https://i.imgur.com/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline.",
+        "label": "shadowsgrace",
+        "energy": 50
+      },
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained.",
+        "label": "persistentrage",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "https://i.imgur.com/pIteWAi.png",
+        "name": "Pack Yak",
+        "breakdownNotes": "",
+        "label": "packyak"
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/z8NpfWG.png",
+        "name": "Pack Mammoth",
+        "breakdownNotes": "",
+        "label": "packmammoth"
+      }
+    ]
+  }
+}

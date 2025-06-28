@@ -1,0 +1,395 @@
+{
+  "presetName": "",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/bE6fQh6.png",
+      "wikiLink": "https://runescape.wiki/w/Master_constructor's_hat",
+      "name": "Master constructor's hat",
+      "breakdownNotes": "",
+      "label": "masterconstructorhat"
+    },
+    {
+      "image": "https://i.imgur.com/TG7eB10.png",
+      "wikiLink": "https://runescape.wiki/w/Gatherer's_cape",
+      "name": "Gatherer's cape",
+      "breakdownNotes": "",
+      "label": "gatherercape"
+    },
+    {
+      "image": "https://i.imgur.com/dwNjYgu.png",
+      "wikiLink": "https://runescape.wiki/w/Splintering_arrow_tips",
+      "name": "Splintering arrow tips",
+      "breakdownNotes": "",
+      "label": "splinteringarrowtip1"
+    },
+    {
+      "image": "https://i.imgur.com/KJgv85x.png",
+      "wikiLink": "https://runescape.wiki/w/Pickaxe_of_Earth_and_Song",
+      "name": "Pickaxe of Earth and Song",
+      "breakdownNotes": "",
+      "label": "pickaxeofearthandsong"
+    },
+    {
+      "image": "https://i.imgur.com/34frqwZ.png",
+      "wikiLink": "https://runescape.wiki/w/Master_constructor's_jacket",
+      "name": "Master constructor's jacket",
+      "breakdownNotes": "",
+      "label": "masterconstructorjacket"
+    },
+    {
+      "image": "https://i.imgur.com/ylitEiS.png",
+      "wikiLink": "https://runescape.wiki/w/Timber_fungus_soup",
+      "name": "Timber fungus soup",
+      "breakdownNotes": "",
+      "label": "timberfungussoup"
+    },
+    {
+      "image": "https://i.imgur.com/UFz0MJQ.png",
+      "wikiLink": "https://runescape.wiki/w/Master_constructor's_trousers",
+      "name": "Master constructor's trousers",
+      "breakdownNotes": "",
+      "label": "masterconstructortrousers"
+    },
+    {
+      "image": "https://i.imgur.com/3NUEXXF.png",
+      "wikiLink": "https://runescape.wiki/w/Master_constructor's_gloves",
+      "name": "Master constructor's gloves",
+      "breakdownNotes": "",
+      "label": "masterconstructorgloves"
+    },
+    {
+      "image": "https://i.imgur.com/ZE0dP2C.png",
+      "wikiLink": "https://runescape.wiki/w/Master_constructor's_boots",
+      "name": "Master constructor's boots",
+      "breakdownNotes": "",
+      "label": "masterconstructorsboots"
+    },
+    {
+      "image": "https://i.imgur.com/IgcHKRH.png",
+      "wikiLink": "https://runescape.wiki/w/Pontifex_shadow_ring",
+      "name": "Pontifex shadow ring",
+      "breakdownNotes": "",
+      "label": "pontifexshadowring"
+    },
+    {
+      "image": "https://i.imgur.com/exlOdpw.png",
+      "wikiLink": "https://runescape.wiki/w/Calcified_fungus_soup",
+      "name": "Calcified fungus soup",
+      "breakdownNotes": "",
+      "label": "calcifiedfungussoup"
+    },
+    {
+      "image": "https://i.imgur.com/E3S1YRE.png",
+      "wikiLink": "https://runescape.wiki/w/Legendary_call_of_the_sea_aura",
+      "name": "Legendary call of the sea aura",
+      "breakdownNotes": "",
+      "label": "legendarycallofthesea"
+    },
+    {
+      "image": "https://i.imgur.com/u9UP2sY.png",
+      "wikiLink": "https://runescape.wiki/w/Deathspore_arrow_tips",
+      "name": "Deathspore_arrow_tips",
+      "breakdownNotes": "",
+      "label": "deathsporearrowtips1"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/IkmyHqv.png",
+      "wikiLink": "https://runescape.wiki/w/Perfect_plus_potion",
+      "name": "Perfect plus potion",
+      "breakdownNotes": "",
+      "label": "perfectplus",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/TVFPeSk.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_butterfly_net",
+      "name": "Magic butterfly net",
+      "breakdownNotes": "",
+      "label": "magicbutterflynet",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/d2vGTfF.png",
+      "wikiLink": "https://runescape.wiki/w/Crystal_hatchet",
+      "name": "Crystal_hatchet",
+      "breakdownNotes": "",
+      "label": "crystalhatchet",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/HCjn9rk.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_hunter#(1)",
+      "name": "Extreme hunter (1)",
+      "breakdownNotes": "",
+      "label": "extremehunter1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/5kqYUsz.png",
+      "wikiLink": "https://runescape.wiki/w/Fishing_rod-o-matic",
+      "name": "Fishing rod-o-matic",
+      "breakdownNotes": "",
+      "label": "rodomatic",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/o9TmbfA.png",
+      "wikiLink": "https://runescape.wiki/w/Arctic_bear_pouch",
+      "name": "Arctic bear pouch",
+      "breakdownNotes": "",
+      "label": "arcticbear",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/u1nbeaC.png",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(gargoyle)",
+      "name": "Binding contract (gargoyle)",
+      "breakdownNotes": "",
+      "label": "gargoyle",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qa49nkC.png",
+      "wikiLink": "https://runescape.wiki/w/Beaver_pouch",
+      "name": "Beaver pouch",
+      "breakdownNotes": "",
+      "label": "beaver",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/4TcEM0B.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_head",
+      "name": "Volcanic trapper head",
+      "breakdownNotes": "",
+      "label": "volcanictrapperhead",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/XcEAqqb.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_chest",
+      "name": "Volcanic trapper chest",
+      "breakdownNotes": "",
+      "label": "volcanictrapperchest",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PywFkIg.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_arms",
+      "name": "Volcanic trapper arms",
+      "breakdownNotes": "",
+      "label": "volcanictrapperarms",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/lYWaFZx.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_legguards",
+      "name": "Volcanic trapper legguards",
+      "breakdownNotes": "",
+      "label": "volcanictrapperlegguards",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/jjEGi78.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_boots",
+      "name": "Volcanic trapper boots",
+      "breakdownNotes": "",
+      "label": "volcanictrapperboots",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ppgW2YG.png",
+      "wikiLink": "https://runescape.wiki/w/Legendary_tracker_aura",
+      "name": "Legendary tracker aura",
+      "breakdownNotes": "",
+      "label": "legendarytracker",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Wb8Mgob.png",
+      "wikiLink": "https://runescape.wiki/w/Fungal_spore_soup",
+      "name": "Fungal spore soup",
+      "breakdownNotes": "",
+      "label": "fungalsporesoup",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qCWii5d.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_head",
+      "name": "Magic golem head",
+      "breakdownNotes": "",
+      "label": "magicgolemhead",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Hu01LwK.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_torso",
+      "name": "Magic golem torso",
+      "breakdownNotes": "",
+      "label": "magicgolemtorso",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/TAsDBLq.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_gloves",
+      "name": "Magic golem gloves",
+      "breakdownNotes": "",
+      "label": "magicgolemgloves",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/VfnEgNk.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_legs",
+      "name": "Magic golem legs",
+      "breakdownNotes": "",
+      "label": "magicgolemlegs",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/o0nI98W.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_boots",
+      "name": "Magic golem boots",
+      "breakdownNotes": "",
+      "label": "magicgolemboots",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/tmJdFQd.png",
+      "wikiLink": "https://runescape.wiki/w/Legendary_quarrymaster_aura",
+      "name": "Legendary quarrymaster aura",
+      "breakdownNotes": "",
+      "label": "legendaryquarrymaster",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/OxpeKXr.png",
+      "wikiLink": "https://runescape.wiki/w/Fungal_algae_soup",
+      "name": "Fungal algae soup",
+      "breakdownNotes": "",
+      "label": "fungaalgaesoup",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/QmrRswm.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_helm",
+      "name": "Nature's sentinel helm",
+      "breakdownNotes": "",
+      "label": "naturessentinelhelm",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/QwQCJSn.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_chest",
+      "name": "Nature's sentinel chest",
+      "breakdownNotes": "",
+      "label": "naturessentinelchest",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gDhB2Ig.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_branch",
+      "name": "Nature's sentinel branch",
+      "breakdownNotes": "",
+      "label": "naturessentinelbranch",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/z0xAboo.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_trunks",
+      "name": "Nature's sentinel trunks",
+      "breakdownNotes": "",
+      "label": "naturessentineltrunks",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xFBM7qm.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_boots",
+      "name": "Nature's sentinel boots",
+      "breakdownNotes": "",
+      "label": "naturessentinelboots",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hqyxkA3.png",
+      "wikiLink": "https://runescape.wiki/w/Legendary_lumberjack_aura",
+      "name": "Legendary lumberjack",
+      "breakdownNotes": "",
+      "label": "legendarylumberjack",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/VsrLYXb.png",
+        "name": "Granite lobster",
+        "breakdownNotes": "",
+        "label": "granitelobster"
+      }
+    ]
+  }
+}

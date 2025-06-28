@@ -1,0 +1,393 @@
+{
+  "presetName": "master sec preset",
+  "presetNotes": "tag portable range med",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/cDfMJE7.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_head",
+      "name": "Volcanic trapper head",
+      "breakdownNotes": "",
+      "label": "volcanictrapperhead"
+    },
+    {
+      "image": "https://i.imgur.com/DWguQtc.png",
+      "wikiLink": "https://runescape.wiki/w/Cooking_cape_(t)",
+      "name": "Cooking cape",
+      "breakdownNotes": "",
+      "label": "cookingcape"
+    },
+    {
+      "image": "https://i.imgur.com/4KgPcpm.png",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves",
+      "name": "Grace of the elves",
+      "breakdownNotes": "",
+      "label": "gote"
+    },
+    {
+      "image": "https://i.imgur.com/mQcblj9.png",
+      "wikiLink": "https://runescape.wiki/w/Khopesh_of_tumeken_(ice)",
+      "name": "Khopesh of Tumeken (ice)",
+      "breakdownNotes": "",
+      "label": "khopeshice"
+    },
+    {
+      "image": "https://i.imgur.com/rOg7aHk.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_chest",
+      "name": "Volcanic trapper chest",
+      "breakdownNotes": "",
+      "label": "volcanictrapperchest"
+    },
+    {
+      "image": "https://i.imgur.com/WLFHVGV.png",
+      "wikiLink": "https://runescape.wiki/w/Khopesh_of_Elidinis_(ice)",
+      "name": "Khopesh of Elidinis (ice)",
+      "breakdownNotes": "",
+      "label": "ohkhopeshice"
+    },
+    {
+      "image": "https://i.imgur.com/HocPtbC.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_legguards",
+      "name": "Volcanic trapper legguards",
+      "breakdownNotes": "",
+      "label": "volcanictrapperlegguards"
+    },
+    {
+      "image": "https://i.imgur.com/Yw0OGHG.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_arms",
+      "name": "Volcanic trapper arms",
+      "breakdownNotes": "",
+      "label": "volcanictrapperarms"
+    },
+    {
+      "image": "https://i.imgur.com/E9pG2sG.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_boots",
+      "name": "Volcanic trapper boots",
+      "breakdownNotes": "",
+      "label": "volcanictrapperboots"
+    },
+    {
+      "image": "https://i.imgur.com/J1iLqln.png",
+      "wikiLink": "https://runescape.wiki/w/Tokkul-zo",
+      "name": "Tokkul-zo",
+      "breakdownNotes": "",
+      "label": "tokkulzo"
+    },
+    {
+      "image": "https://i.imgur.com/yxmdGCZ.png",
+      "wikiLink": "https://runescape.wiki/w/Tirannwn_quiver_4",
+      "name": "Tirannwn quiver 4",
+      "breakdownNotes": "",
+      "label": "quiver4"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/S0ENqzv.png",
+      "wikiLink": "https://runescape.wiki/w/Toadflax_potion_(unf)",
+      "name": "Toadflax potion (unf)",
+      "breakdownNotes": "",
+      "label": "toadflaxpotionunf",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/JzxQM2m.png",
+      "wikiLink": "https://runescape.wiki/w/Crushed_nest",
+      "name": "Crushed nest",
+      "breakdownNotes": "",
+      "label": "crushednest",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/fAvXNbz.png",
+      "wikiLink": "https://runescape.wiki/w/Torstol_potion_(unf)",
+      "name": "Torstol potion (unf)",
+      "breakdownNotes": "",
+      "label": "torstolpotionunf",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8ka7wAu.png",
+      "wikiLink": "https://runescape.wiki/w/Jangerberries",
+      "name": "Jangerberries",
+      "breakdownNotes": "",
+      "label": "jangerberries",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/oOIEwH0.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_logs",
+      "name": "Magic logs",
+      "breakdownNotes": "",
+      "label": "magiclogs",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/IilVMmp.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_logs",
+      "name": "Elder logs",
+      "breakdownNotes": "",
+      "label": "elderlogs",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Moq1ANC.png",
+      "wikiLink": "https://runescape.wiki/w/Fire_rune",
+      "name": "Fire rune",
+      "breakdownNotes": "",
+      "label": "firerune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/cx7cvZh.png",
+      "wikiLink": "https://runescape.wiki/w/Decorated_cooking_urn_(nr)",
+      "name": "Decorated cooking urn (nr)",
+      "breakdownNotes": "",
+      "label": "decoratedcookingurn(nr)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/E9ffrzS.png",
+      "wikiLink": "https://runescape.wiki/w/Thread",
+      "name": "Thread",
+      "breakdownNotes": "",
+      "label": "thread",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/o1fn8Bv.png",
+      "wikiLink": "https://runescape.wiki/w/Black_dragon_leather",
+      "name": "Black dragon leather",
+      "breakdownNotes": "",
+      "label": "blackdragonleather",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/o1fn8Bv.png",
+      "wikiLink": "https://runescape.wiki/w/Black_dragon_leather",
+      "name": "Black dragon leather",
+      "breakdownNotes": "",
+      "label": "blackdragonleather",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/o1fn8Bv.png",
+      "wikiLink": "https://runescape.wiki/w/Black_dragon_leather",
+      "name": "Black dragon leather",
+      "breakdownNotes": "",
+      "label": "blackdragonleather",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FN0XHFS.png",
+      "wikiLink": "https://runescape.wiki/w/Curly_root",
+      "name": "Curly root",
+      "breakdownNotes": "",
+      "label": "curlyroot",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/1aatevD.png",
+      "wikiLink": "https://runescape.wiki/w/Raw_shark",
+      "name": "Raw shark",
+      "breakdownNotes": "",
+      "label": "rawshark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/o0uIoLH.png",
+      "wikiLink": "https://runescape.wiki/w/Raw_wild_pie",
+      "name": "Raw wild pie",
+      "breakdownNotes": "",
+      "label": "rawwildpie",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Ho60PPT.png",
+      "wikiLink": "https://runescape.wiki/w/Big_Book_o'Piracy",
+      "name": "Big Book o'Piracy",
+      "breakdownNotes": "",
+      "label": "bigbookopiracy",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/TwrsJae.png",
+      "wikiLink": "https://runescape.wiki/w/Master_clue",
+      "name": "Master clue",
+      "breakdownNotes": "",
+      "label": "masterclue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/zIwiuqt.png",
+      "wikiLink": "https://runescape.wiki/w/Meerkats_pouch",
+      "name": "Meerkats pouch",
+      "breakdownNotes": "",
+      "label": "meerkatspouch",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Dc1RbtE.png",
+      "wikiLink": "https://runescape.wiki/w/Meerkat_scroll_(Fetch_Casket)",
+      "name": "Meerkat scroll (Fetch Casket)",
+      "breakdownNotes": "",
+      "label": "meerkatscrolls500",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/XSZEqx9.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_masterstroke_(1)",
+      "name": "Powerburst of masterstroke (1)",
+      "breakdownNotes": "",
+      "label": "powerburstofmasterstroke(1)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/sOfnUEX.png",
+      "wikiLink": "https://runescape.wiki/w/Arc_journal",
+      "name": "Arc journal",
+      "breakdownNotes": "",
+      "label": "arcjournal",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/8IMPgCF.png",
+        "name": "Abyssal Link",
+        "breakdownNotes": "",
+        "description": "Teleport spells from the spellbook no longer require runes, but award no magic XP.",
+        "label": "abyssallink",
+        "energy": 250
+      },
+      {
+        "image": "https://i.imgur.com/Ivcgjer.png",
+        "name": "Luck of the Dwarves",
+        "breakdownNotes": "",
+        "description": "You will always gain the effect of tier 4 luck.",
+        "label": "luckofthedwarves",
+        "energy": 200
+      },
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained.",
+        "label": "persistentrage",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/cOwxYnD.png",
+        "name": "Meerkats",
+        "breakdownNotes": "",
+        "label": "meerkats"
+      }
+    ]
+  }
+}

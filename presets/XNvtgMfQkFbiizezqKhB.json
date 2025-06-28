@@ -1,0 +1,397 @@
+{
+  "presetName": "",
+  "presetNotes": "Any combination of the mentioned relics can be used, however if you cannot afford to switch them regularly no relics will be fine.",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/2Mz4PUK.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_rune_full_helm_+_5",
+      "name": "Elder rune full helm + 5",
+      "breakdownNotes": "Elder rune + 1 - Used to prevent nex running towards you during the smoke and shadow phase",
+      "label": "elderrunehelm"
+    },
+    {
+      "image": "https://i.imgur.com/9S3gp8c.png",
+      "wikiLink": "https://runescape.wiki/w/Ava's_alerter",
+      "name": "Ava's alerter",
+      "breakdownNotes": "Upgrading to a <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/902209626404171786.png?v=1\" /> can help a lot, as deadshot <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/535541307666595870.png?v=1\" /> buffed by the cape is very strong at nex.",
+      "label": "alerter"
+    },
+    {
+      "image": "https://i.imgur.com/TjkQqVC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin's_murmur",
+      "name": "Saradomin's murmur",
+      "breakdownNotes": "Upgrade to <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/787526151978614824.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190159412494367.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190158359724056.png?v=1\" /> if owned, from best to worst. If using an Eof <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/787526151978614824.png?v=1\" /> add a Dark bow <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643848618553507843.png?v=1\" />",
+      "label": "murmur"
+    },
+    {
+      "image": "https://i.imgur.com/lKCXPDn.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon/Melee_weapons#Types",
+      "name": "Melee Mainhand",
+      "breakdownNotes": "For bladed dive, not needed if dive is unlocked.",
+      "label": "mhbd"
+    },
+    {
+      "image": "https://i.imgur.com/lYDKMiu.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_hauberk",
+      "name": "Sirenic hauberk",
+      "breakdownNotes": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088204013640.png?v=1\" /> and <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087507628035.png?v=1\" /> should be on armour if you have them unlocked.",
+      "label": "sirenictop"
+    },
+    {
+      "image": "https://i.imgur.com/ILVnJN0.png",
+      "wikiLink": "https://runescape.wiki/w/Ancient_defender",
+      "name": "Ancient defender",
+      "breakdownNotes": "",
+      "label": "nexdefender"
+    },
+    {
+      "image": "https://i.imgur.com/gBPOqaV.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_chaps",
+      "name": "Sirenic chaps",
+      "breakdownNotes": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088204013640.png?v=1\" /><span> and </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087507628035.png?v=1\" /><span> should be on armour if you have them unlocked.</span>",
+      "label": "sireniclegs"
+    },
+    {
+      "image": "https://i.imgur.com/1t7JUu2.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_rune_gauntlets_+_5",
+      "name": "Elder rune gauntlets + 5",
+      "breakdownNotes": "Elder rune + 0<span> - Used to prevent nex running towards you during the smoke and shadow phase</span>",
+      "label": "elderrunegauntlets"
+    },
+    {
+      "image": "https://i.imgur.com/R5kSCvF.png",
+      "wikiLink": "https://runescape.wiki/w/Fleeting_boots",
+      "name": "Fleeting boots",
+      "breakdownNotes": "",
+      "label": "fleet"
+    },
+    {
+      "image": "https://i.imgur.com/3cSIbWx.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_vigour",
+      "name": "Ring of vigour",
+      "breakdownNotes": "",
+      "label": "vigour"
+    },
+    {
+      "image": "https://i.imgur.com/uBbMQoy.png",
+      "wikiLink": "https://runescape.wiki/w/Black_stone_arrows",
+      "name": "Black stone arrows",
+      "breakdownNotes": "Without these kills will be significantly slower due to accuracy.",
+      "label": "bsa100"
+    },
+    {
+      "image": "https://i.imgur.com/oPYJmML.png",
+      "wikiLink": "https://runescape.wiki/w/Reckless_aura",
+      "name": "Reckless aura",
+      "breakdownNotes": "Essential at Nex; will greatly increase your damage and hit chance at the cost of increased damage taken.",
+      "label": "reckless"
+    },
+    {
+      "image": "https://i.imgur.com/2zNVN6w.png",
+      "wikiLink": "https://runescape.wiki/w/Illuminated_Book_of_Law",
+      "name": "Illuminated Book of Law",
+      "breakdownNotes": "Used here as it hits multiple times, which can speed up phases and minions drastically",
+      "label": "armagodbook"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/lPFE6lN.png",
+      "wikiLink": "https://runescape.wiki/w/Zaryte_bow",
+      "name": "Zaryte bow",
+      "breakdownNotes": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088769982475.png?v=1\" />  Precise 6 and <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088589627505.png?v=1\" /> Equilibrium 4 are highly recommended. This can be upgraded to Noxious Longbow <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190159425208342.png?v=1\" /> Decimation <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643848618477879328.png?v=1\" /> or Ascensions <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190158468775936.png?v=1\" /><span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190159362031631.png?v=1\" /> if owned, from best to worst.",
+      "label": "zaryte",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/u9527hu.png",
+      "wikiLink": "https://runescape.wiki/w/Deathspore_arrows",
+      "name": "Deathspore arrows",
+      "breakdownNotes": "Cheap arrow option to switch to after building stacks of <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/785031580149743617.png?v=1\" />",
+      "label": "deathsporearrows",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GNzR4sU.png",
+      "wikiLink": "https://runescape.wiki/w/Expensive_spices",
+      "name": "Expensive spices",
+      "breakdownNotes": "Provides more healing from your food.",
+      "label": "spices",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/DGw6F36.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "",
+      "label": "ovl",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/vSUpqbs.png",
+      "wikiLink": "https://runescape.wiki/w/Super_prayer_renewal_potion#(6)",
+      "name": "Super prayer renewal potion (6)",
+      "breakdownNotes": "",
+      "label": "prayrenewal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/n9C7iSA.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "Helps you survive Nex's ice prison attack during the ice phase - can even be used whilst stunned during the ice prison.",
+      "label": "vitality4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "Used throughout the kill",
+      "label": "vuln",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/lhfAbhp.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_mask",
+      "name": "Sirenic mask",
+      "breakdownNotes": "",
+      "label": "sirenichelm",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FjsLw1L.png",
+      "wikiLink": "https://runescape.wiki/w/Armadyl_gloves",
+      "name": "Armadyl gloves",
+      "breakdownNotes": "Can be upgraded to <span>Nightmare gauntlets </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190159441723392.png?v=1\" />or<span> </span>Swift Gloves <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1023132419597008906.png?v=1\" /> if owned.",
+      "label": "armagloves",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "greenjelly",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/eDmt2lT.png",
+        "name": "Blessing of Het",
+        "breakdownNotes": "",
+        "label": "blessingofhet",
+        "energy": 100
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "label": "deathward",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

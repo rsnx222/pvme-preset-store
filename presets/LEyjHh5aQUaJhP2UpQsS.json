@@ -1,0 +1,316 @@
+{
+  "presetName": "The Gate of Elidinis",
+  "presetNotes": "<div>- Asciatops Perk (POF)<br />- Bone Shield active for Barricade</div>",
+  "equipmentSlots": [
+    {
+      "label": "magicgolemhead",
+      "image": "https://i.imgur.com/XCIjNXk.png",
+      "name": "Magic golem head",
+      "breakdownNotes": "<span>+5 Critical Hit Chance (Set Bonus)</span>",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_head"
+    },
+    {
+      "label": "defencecape",
+      "image": "https://i.imgur.com/QbbeF9W.png",
+      "name": "Defence cape (t)",
+      "breakdownNotes": "Sign of Life perk",
+      "wikiLink": "https://runescape.wiki/w/Defence_cape_(t)"
+    },
+    {
+      "label": "pneck",
+      "image": "https://i.imgur.com/ZjwLwcR.png",
+      "name": "Phoenix necklace",
+      "breakdownNotes": "Extra HP",
+      "wikiLink": "https://runescape.wiki/w/Phoenix_necklace"
+    },
+    {
+      "label": "pickaxeoflifeanddeath",
+      "image": "https://i.imgur.com/1x24vrK.png",
+      "name": "Pickaxe of Life and Death",
+      "breakdownNotes": "Honed 6",
+      "wikiLink": "https://runescape.wiki/w/Pickaxe_of_Life_and_Death"
+    },
+    {
+      "label": "magicgolemtorso",
+      "image": "https://i.imgur.com/Ytyzy1c.png",
+      "name": "Magic golem torso",
+      "breakdownNotes": "<span>+5 Critical Hit Chance (Set Bonus)</span><br />",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_torso"
+    },
+    {
+      "label": "corehammer",
+      "image": "https://i.imgur.com/JffmIPJ.png",
+      "name": "Tagga's corehammer",
+      "breakdownNotes": "<div><div><span>+10% Critical Hit chance</span><br /></div></div><div>+35 Critical Hit damage</div>",
+      "wikiLink": "https://runescape.wiki/w/Tagga's_corehammer"
+    },
+    {
+      "label": "magicgolemlegs",
+      "image": "https://i.imgur.com/4jZVBTE.png",
+      "name": "Magic golem legs",
+      "breakdownNotes": "<span>+5 Critical Hit Chance (Set Bonus)</span><br />",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_legs"
+    },
+    {
+      "label": "magicgolemgloves",
+      "image": "https://i.imgur.com/ZaLwIE0.png",
+      "name": "Magic golem gloves",
+      "breakdownNotes": "<span>+5 Critical Hit Chance (Set Bonus)</span><br />",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_gloves"
+    },
+    {
+      "label": "magicgolemboots",
+      "image": "https://i.imgur.com/0yMVyOj.png",
+      "name": "Magic golem boots",
+      "breakdownNotes": "<span>+5 Critical Hit Chance (Set Bonus)</span>",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_boots"
+    },
+    {
+      "label": "ringofwhispers",
+      "image": "https://i.imgur.com/sxtHL16.png",
+      "name": "Ring of Whispers",
+      "breakdownNotes": "+3 Damage Boost to rocks",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_Whispers"
+    },
+    {
+      "label": "zemouregalsnexus",
+      "image": "https://i.imgur.com/3pFXvMR.png",
+      "name": "Zemoregal's Nexus",
+      "breakdownNotes": "Boneshield for Barricade",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus"
+    },
+    {
+      "label": "legendaryquarrymaster",
+      "image": "https://i.imgur.com/KDmbuSF.png",
+      "name": "Legendary quarrymaster aura",
+      "breakdownNotes": "+10% Critical Hit chance",
+      "wikiLink": "https://runescape.wiki/w/Legendary_quarrymaster_aura"
+    },
+    {
+      "label": "rockcrushingscrimshaw",
+      "image": "https://i.imgur.com/caaJeHr.png",
+      "name": "Rock-crushing scrimshaw",
+      "breakdownNotes": "+3% Critical Hit chance",
+      "wikiLink": "https://runescape.wiki/w/Rock-crushing_scrimshaw"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "ovl",
+      "image": "https://i.imgur.com/DGw6F36.png",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "Higher Strength Level for Mining - Increased Damage per Swing",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
+      "selected": false
+    },
+    {
+      "label": "lantasticks",
+      "image": "https://i.imgur.com/LfpiRjg.png",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "Increased Overload Timer",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "Extra HP",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "spices",
+      "image": "https://i.imgur.com/GNzR4sU.png",
+      "name": "Expensive spices",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Expensive_spices",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "sailfish",
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "selected": false
+    },
+    {
+      "label": "sailfish",
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "selected": false
+    },
+    {
+      "label": "sailfish",
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "selected": false
+    },
+    {
+      "label": "sailfish",
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "selected": false
+    },
+    {
+      "label": "sailfish",
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "selected": false
+    },
+    {
+      "label": "sailfish",
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "selected": false
+    },
+    {
+      "label": "grest",
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Ivcgjer.png",
+        "name": "Luck of the Dwarves",
+        "breakdownNotes": "",
+        "description": "You will always gain the effect of tier 4 luck.",
+        "label": "luckofthedwarves",
+        "energy": 200
+      },
+      {
+        "image": "https://i.imgur.com/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline.",
+        "label": "shadowsgrace",
+        "energy": 50
+      },
+      {
+        "image": "https://i.imgur.com/eDmt2lT.png",
+        "name": "Blessing of Het",
+        "breakdownNotes": "",
+        "description": "Food and potions heal 10% more lifepoints.",
+        "label": "blessingofhet",
+        "energy": 100
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/pIteWAi.png",
+        "name": "Pack Yak",
+        "breakdownNotes": "",
+        "label": "packyak"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

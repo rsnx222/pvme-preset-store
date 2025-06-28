@@ -1,0 +1,371 @@
+{
+  "presetName": "Zamorak minimum requirements ranged preset",
+  "presetNotes": "shield can also be nexus for bone shield. Shadow's grace relic can be replaced by <img title=\"mob\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" /> perk. ring of death is optional but useful for 100% zammy learning.",
+  "equipmentSlots": [
+    {
+      "label": "pernixhelm",
+      "image": "https://i.imgur.com/ja8fZUV.png",
+      "name": "Pernix cowl",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Pernix_cowl"
+    },
+    {
+      "label": "defencecape",
+      "image": "https://i.imgur.com/QbbeF9W.png",
+      "name": "Defence cape (t)",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Defence_cape_(t)"
+    },
+    {
+      "label": "aos",
+      "image": "https://i.imgur.com/cUaU7mB.png",
+      "name": "Amulet of souls",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_souls"
+    },
+    {
+      "label": "glaivemh",
+      "image": "https://i.imgur.com/vMb1oi9.png",
+      "name": "Shadow glaive",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shadow_glaive"
+    },
+    {
+      "label": "pernixtop",
+      "image": "https://i.imgur.com/2S7BJBW.png",
+      "name": "Pernix body",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Pernix_body"
+    },
+    {
+      "label": "glaiveoh",
+      "image": "https://i.imgur.com/OX5iUca.png",
+      "name": "Off-hand shadow glaive",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Off-hand_shadow_glaive"
+    },
+    {
+      "label": "pernixlegs",
+      "image": "https://i.imgur.com/5EkevSX.png",
+      "name": "Pernix chaps",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Pernix_chaps"
+    },
+    {
+      "label": "pernixgloves",
+      "image": "https://i.imgur.com/AYWIf2p.png",
+      "name": "Pernix gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Pernix_gloves"
+    },
+    {
+      "label": "fleet",
+      "image": "https://i.imgur.com/R5kSCvF.png",
+      "name": "Fleeting boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fleeting_boots"
+    },
+    {
+      "label": "vigour",
+      "image": "https://i.imgur.com/3cSIbWx.png",
+      "name": "Ring of vigour",
+      "breakdownNotes": "used to save adren on ultimates and special attacks<br />",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_vigour"
+    },
+    {
+      "label": "deathwardennexus",
+      "image": "https://i.imgur.com/hd7YvA4.png",
+      "name": "Deathwarden Nexus",
+      "breakdownNotes": "for ectoplasm and bone shield<br />",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus"
+    },
+    null,
+    {
+      "label": "scriptureofamascut",
+      "image": "https://i.imgur.com/UUZvMlw.png",
+      "name": "Scripture of Amascut",
+      "breakdownNotes": "any scripture. note: you don't want <img title=\"jasbook\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/869284342839513108.png?v=1\" /> <img title=\"scriptureofamascut\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1266417822188437569.png?v=1\" /> or <img title=\"wenbook\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/883134307902816297.png?v=1\" /> active in phase 7 zamorak!<br />",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Amascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "ovl",
+      "image": "https://i.imgur.com/DGw6F36.png",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "any overload works, higher the better<br />",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)"
+    },
+    {
+      "label": "replen",
+      "image": "https://i.imgur.com/LWm3PJt.png",
+      "name": "Enhanced replenishment potion (6)",
+      "breakdownNotes": "any adrenaline potion works<br />",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_replenishment_potion#(6)"
+    },
+    {
+      "label": "prayrenewal",
+      "image": "https://i.imgur.com/vSUpqbs.png",
+      "name": "Super prayer renewal potion (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_prayer_renewal_potion#(6)"
+    },
+    {
+      "label": "restore",
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)"
+    },
+    {
+      "label": "restore",
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)"
+    },
+    {
+      "label": "excal",
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "extra free healing<br />",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur"
+    },
+    {
+      "label": "shield",
+      "image": "https://i.imgur.com/So3SwSO.png",
+      "name": "Shield",
+      "breakdownNotes": "or bone shield, needed for zamorak mechanics<br />",
+      "wikiLink": "https://runescape.wiki/w/Shield"
+    },
+    {
+      "label": "vitality4",
+      "image": "https://i.imgur.com/n9C7iSA.png",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "emergency \"defensive\"<br />",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)"
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail"
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail"
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail"
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail"
+    },
+    {
+      "label": "sara",
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)"
+    },
+    {
+      "label": "sara",
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)"
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail"
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail"
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail"
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail"
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail"
+    },
+    {
+      "label": "sara",
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)"
+    },
+    {
+      "label": "sara",
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)"
+    },
+    {
+      "label": "rod",
+      "image": "https://i.imgur.com/y5vAY4M.png",
+      "name": "Ring of death",
+      "breakdownNotes": "optional, very nice to have for learning phase 7",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death"
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail"
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail"
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail"
+    },
+    {
+      "label": "rocktail",
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rocktail"
+    },
+    {
+      "label": "sara",
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)"
+    },
+    {
+      "label": "sara",
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "furyofthesmall",
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline."
+      },
+      {
+        "label": "shadowsgrace",
+        "image": "https://i.imgur.com/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "energy": 50,
+        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline."
+      },
+      {
+        "label": "fontoflife",
+        "image": "https://i.imgur.com/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "energy": 50,
+        "description": "Increases maximum health by 500."
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "label": "berserkersfury",
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "energy": 250,
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)"
+      },
+      {
+        "label": "deathward",
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%."
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "hellhound",
+        "image": "https://i.imgur.com/A1BvfVb.png",
+        "name": "Hellhound",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "label": "packyak",
+        "image": "https://i.imgur.com/pIteWAi.png",
+        "name": "Pack Yak",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "presetName": "Automaton Tracers AFK Necro",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/xNXHeIN.png",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_helm",
+      "name": "Cryptbloom helm",
+      "breakdownNotes": "",
+      "label": "cryptbloomhelm"
+    },
+    {
+      "image": "https://i.imgur.com/bIV6C4o.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mor",
+      "name": "Igneous Kal-Mor",
+      "breakdownNotes": "",
+      "label": "kalmor"
+    },
+    {
+      "image": "https://i.imgur.com/UB0lAK8.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet",
+      "name": "Essence of Finality amulet",
+      "breakdownNotes": "",
+      "label": "eof"
+    },
+    {
+      "image": "https://i.imgur.com/SzFvoQB.png",
+      "wikiLink": "https://runescape.wiki/w/Omni_guard",
+      "name": "Omni guard",
+      "breakdownNotes": "",
+      "label": "omniguard"
+    },
+    {
+      "image": "https://i.imgur.com/G07AY4A.png",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_top",
+      "name": "Cryptbloom top",
+      "breakdownNotes": "<span>Ideally </span><span>Absorbative4</span><span> </span><img title=\"Absorbative4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/890542428556230666.png?v=1\" /><span> + </span><span>Crystal Shield 4 </span><img title=\"crystalshield4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/921410343606034443.png?v=1\" /><br />",
+      "label": "cryptbloomtop"
+    },
+    {
+      "image": "https://i.imgur.com/VJsZ4HL.png",
+      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern",
+      "name": "Soulbound lantern",
+      "breakdownNotes": "",
+      "label": "soulboundlantern"
+    },
+    {
+      "image": "https://i.imgur.com/h07wgr8.png",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_legs",
+      "name": "Cryptbloom legs",
+      "breakdownNotes": "Ideally <span>Devoted 4 </span><img title=\"dev4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087713280033.png?v=1\" /> + Enhanced Devoted 4",
+      "label": "cryptbloomlegs"
+    },
+    {
+      "image": "https://i.imgur.com/8zjLczG.png",
+      "wikiLink": "https://runescape.wiki/w/Hand_wrap_of_the_First_Necromancer",
+      "name": "Hand wrap of the First Necromancer",
+      "breakdownNotes": "",
+      "label": "t95necrogloves"
+    },
+    {
+      "image": "https://i.imgur.com/1MkR1qn.png",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_boots",
+      "name": "Cryptbloom boots",
+      "breakdownNotes": "",
+      "label": "cryptbloomboots"
+    },
+    {
+      "image": "https://i.imgur.com/EGVLuFE.png",
+      "wikiLink": "https://runescape.wiki/w/Zorgoth%27s_soul_ring",
+      "name": "Zorgoth's soul ring",
+      "breakdownNotes": "",
+      "label": "zorgothssoulring"
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "<span>Runes for </span><img title=\"animatedead\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090453135382.png?v=1\" />",
+      "label": "graspingpouchpink"
+    },
+    {
+      "image": "https://i.imgur.com/dMPY1FJ.png",
+      "wikiLink": "https://runescape.wiki/w/Penance_aura",
+      "name": "Penance aura",
+      "breakdownNotes": "",
+      "label": "penance"
+    },
+    {
+      "image": "https://i.imgur.com/zd3mKfH.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "",
+      "label": "scriptureofwen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nTRsMW1.png",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "name": "Aggression flask (6)",
+      "breakdownNotes": "",
+      "label": "aggro6",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "<span>Runes for </span><img title=\"animatedead\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090453135382.png?v=1\" />",
+      "label": "graspingpouchblack",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SRVgAXl.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
+      "name": "Attuned portent of restoration X",
+      "breakdownNotes": "",
+      "label": "attunedportentofrestorationx",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SRVgAXl.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
+      "name": "Attuned portent of restoration X",
+      "breakdownNotes": "",
+      "label": "attunedportentofrestorationx",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SRVgAXl.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
+      "name": "Attuned portent of restoration X",
+      "breakdownNotes": "",
+      "label": "attunedportentofrestorationx",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SRVgAXl.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
+      "name": "Attuned portent of restoration X",
+      "breakdownNotes": "",
+      "label": "attunedportentofrestorationx",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/OQ4ZaK3.png",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(ripper_demon)",
+      "name": "Binding contract (ripper demon)",
+      "breakdownNotes": "",
+      "label": "ripper",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "<span>Runes for </span><img title=\"animatedead\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090453135382.png?v=1\" />",
+      "label": "graspingpouchblue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SRVgAXl.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
+      "name": "Attuned portent of restoration X",
+      "breakdownNotes": "",
+      "label": "attunedportentofrestorationx",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SRVgAXl.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
+      "name": "Attuned portent of restoration X",
+      "breakdownNotes": "",
+      "label": "attunedportentofrestorationx",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SRVgAXl.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
+      "name": "Attuned portent of restoration X",
+      "breakdownNotes": "",
+      "label": "attunedportentofrestorationx",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SRVgAXl.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
+      "name": "Attuned portent of restoration X",
+      "breakdownNotes": "",
+      "label": "attunedportentofrestorationx",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hd7YvA4.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
+      "name": "Deathwarden Nexus",
+      "breakdownNotes": "",
+      "label": "deathwardennexus",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/wsYgZsb.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_luck_potion",
+      "name": "Enhanced luck potion",
+      "breakdownNotes": "",
+      "label": "enhluck",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SRVgAXl.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
+      "name": "Attuned portent of restoration X",
+      "breakdownNotes": "",
+      "label": "attunedportentofrestorationx",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SRVgAXl.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
+      "name": "Attuned portent of restoration X",
+      "breakdownNotes": "",
+      "label": "attunedportentofrestorationx",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SRVgAXl.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
+      "name": "Attuned portent of restoration X",
+      "breakdownNotes": "",
+      "label": "attunedportentofrestorationx",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SRVgAXl.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
+      "name": "Attuned portent of restoration X",
+      "breakdownNotes": "",
+      "label": "attunedportentofrestorationx",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gpuvlcU.png",
+      "wikiLink": "https://runescape.wiki/w/Sixth-Age_circuit",
+      "name": "Sixth-Age circuit",
+      "breakdownNotes": "",
+      "label": "sixthagecircuit",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/XjIho2f.png",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "name": "Powder of penance",
+      "breakdownNotes": "",
+      "label": "powderofpenance",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SRVgAXl.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
+      "name": "Attuned portent of restoration X",
+      "breakdownNotes": "",
+      "label": "attunedportentofrestorationx",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SRVgAXl.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
+      "name": "Attuned portent of restoration X",
+      "breakdownNotes": "",
+      "label": "attunedportentofrestorationx",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SRVgAXl.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
+      "name": "Attuned portent of restoration X",
+      "breakdownNotes": "",
+      "label": "attunedportentofrestorationx",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SRVgAXl.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
+      "name": "Attuned portent of restoration X",
+      "breakdownNotes": "",
+      "label": "attunedportentofrestorationx",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": "",
+        "label": "bloodreaver"
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": "",
+        "label": "ripperdemon"
+      }
+    ]
+  }
+}

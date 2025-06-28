@@ -1,0 +1,400 @@
+{
+  "presetName": "Legiones 4/5 Ranged",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/lhfAbhp.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_mask",
+      "name": "Sirenic mask",
+      "breakdownNotes": "",
+      "label": "sirenichelm"
+    },
+    {
+      "image": "https://i.imgur.com/TNKAuKX.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Xil",
+      "name": "Igneous Kal-Xil",
+      "breakdownNotes": "",
+      "label": "kalxil"
+    },
+    {
+      "image": "https://i.imgur.com/8a6M64a.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet_(green)",
+      "name": "Essence of Finality amulet (green)",
+      "breakdownNotes": "",
+      "label": "eofgreenunorn"
+    },
+    {
+      "image": "https://i.imgur.com/n98Fmxx.png",
+      "wikiLink": "https://runescape.wiki/w/Eldrich_crossbow",
+      "name": "Eldritch crossbow",
+      "breakdownNotes": "",
+      "label": "ecb"
+    },
+    {
+      "image": "https://i.imgur.com/lYDKMiu.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_hauberk",
+      "name": "Sirenic hauberk",
+      "breakdownNotes": "",
+      "label": "sirenictop"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/gBPOqaV.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_chaps",
+      "name": "Sirenic chaps",
+      "breakdownNotes": "",
+      "label": "sireniclegs"
+    },
+    {
+      "image": "https://i.imgur.com/goMzH9N.png",
+      "wikiLink": "https://runescape.wiki/w/Nightmare_gauntlets",
+      "name": "Nightmare gauntlets",
+      "breakdownNotes": "",
+      "label": "nightmare"
+    },
+    {
+      "image": "https://i.imgur.com/R5kSCvF.png",
+      "wikiLink": "https://runescape.wiki/w/Fleeting_boots",
+      "name": "Fleeting boots",
+      "breakdownNotes": "",
+      "label": "fleet"
+    },
+    {
+      "image": "https://i.imgur.com/xRj7mKb.png",
+      "wikiLink": "https://runescape.wiki/w/Stalker's_ring",
+      "name": "Stalker's ring",
+      "breakdownNotes": "",
+      "label": "stalkerring"
+    },
+    {
+      "image": "https://i.imgur.com/FBCvDLh.png",
+      "wikiLink": "https://runescape.wiki/w/Dragonstone_bakriminel_bolts_(e)",
+      "name": "Dragonstone bakriminel bolts (e)",
+      "breakdownNotes": "",
+      "label": "dstone"
+    },
+    {
+      "image": "https://i.imgur.com/oPYJmML.png",
+      "wikiLink": "https://runescape.wiki/w/Reckless_aura",
+      "name": "Reckless aura",
+      "breakdownNotes": "",
+      "label": "reckless"
+    },
+    {
+      "image": "https://i.imgur.com/F6Q8fGK.png",
+      "wikiLink": "https://runescape.wiki/w/Book_of_chaos",
+      "name": "Book of chaos",
+      "breakdownNotes": "",
+      "label": "zammygodbook2"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/6IMR311.png",
+      "wikiLink": "https://runescape.wiki/w/Blightbound_crossbow",
+      "name": "Blightbound crossbow",
+      "breakdownNotes": "Replace with Quintus key when fighting him.",
+      "label": "bbc",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bDDDK9h.png",
+      "wikiLink": "https://runescape.wiki/w/Off-hand_blightbound_crossbow",
+      "name": "Off-hand blightbound crossbow",
+      "breakdownNotes": "<span>Replace with Quintus key when fighting him.</span>",
+      "label": "ohbbc",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/xbNBoDV.png",
+      "wikiLink": "https://runescape.wiki/w/Hydrix_bakriminel_bolts_(e)",
+      "name": "Hydrix bakriminel bolts (e)",
+      "breakdownNotes": "",
+      "label": "hydrix",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/IqAjWRF.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "",
+      "label": "renewal4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/mfKIlJ5.png",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_quartus",
+      "name": "Ascension keystone quartus",
+      "breakdownNotes": "",
+      "label": "quartkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/mfKIlJ5.png",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_quartus",
+      "name": "Ascension keystone quartus",
+      "breakdownNotes": "",
+      "label": "quartkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/mfKIlJ5.png",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_quartus",
+      "name": "Ascension keystone quartus",
+      "breakdownNotes": "",
+      "label": "quartkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/mfKIlJ5.png",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_quartus",
+      "name": "Ascension keystone quartus",
+      "breakdownNotes": "",
+      "label": "quartkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "label": "grest",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/mfKIlJ5.png",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_quartus",
+      "name": "Ascension keystone quartus",
+      "breakdownNotes": "",
+      "label": "quartkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/mfKIlJ5.png",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_quartus",
+      "name": "Ascension keystone quartus",
+      "breakdownNotes": "",
+      "label": "quartkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/mfKIlJ5.png",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_quartus",
+      "name": "Ascension keystone quartus",
+      "breakdownNotes": "",
+      "label": "quartkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/mfKIlJ5.png",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_quartus",
+      "name": "Ascension keystone quartus",
+      "breakdownNotes": "",
+      "label": "quartkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "name": "Guthix rest",
+      "breakdownNotes": "",
+      "label": "grest",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/mfKIlJ5.png",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_quartus",
+      "name": "Ascension keystone quartus",
+      "breakdownNotes": "",
+      "label": "quartkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/mfKIlJ5.png",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_quartus",
+      "name": "Ascension keystone quartus",
+      "breakdownNotes": "",
+      "label": "quartkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/mfKIlJ5.png",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_quartus",
+      "name": "Ascension keystone quartus",
+      "breakdownNotes": "",
+      "label": "quartkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/mfKIlJ5.png",
+      "wikiLink": "https://runescape.wiki/w/Ascension_keystone_quartus",
+      "name": "Ascension keystone quartus",
+      "breakdownNotes": "",
+      "label": "quartkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/honJ2pK.png",
+      "wikiLink": "https://runescape.wiki/w/Ascension_shard",
+      "name": "Ascension shard",
+      "breakdownNotes": "",
+      "label": "ascshard",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": "",
+        "label": "ripperdemon"
+      }
+    ]
+  }
+}

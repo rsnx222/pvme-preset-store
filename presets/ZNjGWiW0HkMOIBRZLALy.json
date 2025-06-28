@@ -1,0 +1,361 @@
+{
+  "presetName": "",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/Ezvarbg.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_mask",
+      "name": "Sirenic mask",
+      "breakdownNotes": "",
+      "label": "sirenichelm"
+    },
+    {
+      "image": "https://i.imgur.com/TNKAuKX.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Xil",
+      "name": "Igneous Kal-Xil",
+      "breakdownNotes": "",
+      "label": "kalxil"
+    },
+    {
+      "image": "https://i.imgur.com/MWLieOn.png",
+      "wikiLink": "https://runescape.wiki/w/EoF_-_Eldritch_crossbow",
+      "name": "EoF - Eldritch crossbow",
+      "breakdownNotes": "",
+      "label": "eofpink"
+    },
+    {
+      "image": "https://i.imgur.com/wXTEWHO.png",
+      "wikiLink": "https://runescape.wiki/w/Mainhand_blightbound_crossbow",
+      "name": "Mainhand blightbound crossbow",
+      "breakdownNotes": "",
+      "label": "bbc"
+    },
+    {
+      "image": "https://i.imgur.com/Xqpr6Xs.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_hauberk",
+      "name": "Sirenic hauberk",
+      "breakdownNotes": "",
+      "label": "sirenictop"
+    },
+    {
+      "image": "https://i.imgur.com/KBuV3lm.png",
+      "wikiLink": "https://runescape.wiki/w/Offhand_blightbound_crossbow",
+      "name": "Offhand blightbound crossbow",
+      "breakdownNotes": "",
+      "label": "ohbbc"
+    },
+    {
+      "image": "https://i.imgur.com/IuyylJw.png",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_chaps",
+      "name": "Sirenic chaps",
+      "breakdownNotes": "",
+      "label": "sireniclegs"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/R5kSCvF.png",
+      "wikiLink": "https://runescape.wiki/w/Fleeting_boots",
+      "name": "Fleeting boots",
+      "breakdownNotes": "",
+      "label": "fleet"
+    },
+    {
+      "image": "https://i.imgur.com/xRj7mKb.png",
+      "wikiLink": "https://runescape.wiki/w/Stalker's_ring",
+      "name": "Stalker's ring",
+      "breakdownNotes": "",
+      "label": "stalkerring"
+    },
+    {
+      "image": "https://i.imgur.com/MCRkOPS.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver (Yellow)",
+      "breakdownNotes": "BSA and onyx bolts.",
+      "label": "pernixquiveryellow"
+    },
+    {
+      "image": "https://i.imgur.com/56x8kkE.png",
+      "wikiLink": "https://runescape.wiki/w/Reckless_aura",
+      "name": "Reckless aura",
+      "breakdownNotes": "",
+      "label": "reckless"
+    },
+    {
+      "image": "https://i.imgur.com/FAPSk6p.png",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire",
+      "name": "Erethdor's grimoire",
+      "breakdownNotes": "",
+      "label": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/GkhQHSj.png",
+      "wikiLink": "https://runescape.wiki/w/Bow_of_the_Last_Guardian",
+      "name": "Bow of the Last Guardian",
+      "breakdownNotes": "",
+      "label": "bolg"
+    },
+    {
+      "image": "https://i.imgur.com/G6doXGi.png",
+      "wikiLink": "https://runescape.wiki/w/Eldrich_crossbow",
+      "name": "Eldrich crossbow",
+      "breakdownNotes": "",
+      "label": "ecb"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/b7OFnll.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal",
+      "name": "Adrenaline renewal",
+      "breakdownNotes": "",
+      "label": "renewal4"
+    },
+    {
+      "image": "https://i.imgur.com/oOITsKV.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality",
+      "name": "Powerburst of vitality",
+      "breakdownNotes": "",
+      "label": "vitality4"
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "label": "graspingpouchblack"
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "label": "graspingpouchpink"
+    },
+    {
+      "image": "https://i.imgur.com/zAiXkJn.png",
+      "wikiLink": "https://runescape.wiki/w/EoF_-_Seren_godbow",
+      "name": "EoF - Seren godbow",
+      "breakdownNotes": "",
+      "label": "eofblue"
+    },
+    {
+      "image": "https://i.imgur.com/dw164tg.png",
+      "wikiLink": "https://runescape.wiki/w/Elysian_spirit_shield",
+      "name": "Elysian spirit shield",
+      "breakdownNotes": "Turtling 4.",
+      "label": "ely"
+    },
+    {
+      "image": "https://i.imgur.com/OsVtupZ.png",
+      "wikiLink": "https://runescape.wiki/w/Melee_Mainhand",
+      "name": "Melee Mainhand",
+      "breakdownNotes": "",
+      "label": "mhbd"
+    },
+    {
+      "image": "https://i.imgur.com/KFZJLhU.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "Clear Headed 4.",
+      "label": "excal"
+    },
+    {
+      "image": "https://i.imgur.com/5PPmPXC.png",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer",
+      "name": "Spiritual prayer",
+      "breakdownNotes": "",
+      "label": "spiritual"
+    },
+    {
+      "image": "https://i.imgur.com/5PPmPXC.png",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer",
+      "name": "Spiritual prayer",
+      "breakdownNotes": "",
+      "label": "spiritual"
+    },
+    {
+      "image": "https://i.imgur.com/5PPmPXC.png",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer",
+      "name": "Spiritual prayer",
+      "breakdownNotes": "",
+      "label": "spiritual"
+    },
+    {
+      "image": "https://i.imgur.com/LhMlWmw.png",
+      "wikiLink": "https://runescape.wiki/w/EoF_-_Dark_bow",
+      "name": "EoF - Dark bow",
+      "breakdownNotes": "",
+      "label": "eofgreen"
+    },
+    {
+      "image": "https://i.imgur.com/bTWNbdr.png",
+      "wikiLink": "https://runescape.wiki/w/Bolas",
+      "name": "Bolas",
+      "breakdownNotes": "",
+      "label": "bolas"
+    },
+    {
+      "image": "https://i.imgur.com/S2uAoW3.png",
+      "wikiLink": "https://runescape.wiki/w/Mechanised_chinchompa",
+      "name": "Mechanised chinchompa",
+      "breakdownNotes": "",
+      "label": "chins"
+    },
+    {
+      "image": "https://i.imgur.com/ZI7v9Mn.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
+      "name": "Sailfish soup",
+      "breakdownNotes": "",
+      "label": "soup"
+    },
+    {
+      "image": "https://i.imgur.com/ZI7v9Mn.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
+      "name": "Sailfish soup",
+      "breakdownNotes": "",
+      "label": "soup"
+    },
+    {
+      "image": "https://i.imgur.com/SRVgAXl.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
+      "name": "Attuned portent of restoration x",
+      "breakdownNotes": "",
+      "label": "attunedportentofrestorationx"
+    },
+    {
+      "image": "https://i.imgur.com/SRVgAXl.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x",
+      "name": "Attuned portent of restoration x",
+      "breakdownNotes": "",
+      "label": "attunedportentofrestorationx"
+    },
+    {
+      "image": "https://i.imgur.com/uMJW8pU.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver (Red)",
+      "breakdownNotes": "Ful arrows and ruby bolts. ",
+      "label": "pernixquiverred"
+    },
+    {
+      "image": "https://i.imgur.com/X5AcgQh.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver (Blue)",
+      "breakdownNotes": "",
+      "label": "pernixquiverblue"
+    },
+    {
+      "image": "https://i.imgur.com/306PXtG.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "label": "vuln"
+    },
+    {
+      "image": "https://i.imgur.com/ZI7v9Mn.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
+      "name": "Sailfish soup",
+      "breakdownNotes": "",
+      "label": "soup"
+    },
+    {
+      "image": "https://i.imgur.com/ZI7v9Mn.png",
+      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
+      "name": "Sailfish soup",
+      "breakdownNotes": "",
+      "label": "soup"
+    },
+    {
+      "image": "https://i.imgur.com/ZtPaUJq.png",
+      "wikiLink": "https://runescape.wiki/w/Primal_feast",
+      "name": "Primal feast",
+      "breakdownNotes": "",
+      "label": "feast"
+    },
+    {
+      "image": "https://i.imgur.com/rqIBPF1.png",
+      "wikiLink": "https://runescape.wiki/w/Super_saradomin_brew",
+      "name": "Super saradomin brew",
+      "breakdownNotes": "",
+      "label": "sbrew"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

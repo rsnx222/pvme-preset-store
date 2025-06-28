@@ -1,0 +1,399 @@
+{
+  "presetName": "BIS Easies",
+  "presetNotes": "BIS Easies w/ Bik",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/h4cf5a8.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_helm",
+      "name": "Nature's sentinel helm",
+      "breakdownNotes": "",
+      "label": "naturessentinelhelm"
+    },
+    {
+      "image": "https://i.imgur.com/9u3f0ws.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_backpack",
+      "name": "Globetrotter backpack",
+      "breakdownNotes": "",
+      "label": "globetrotterbackpack"
+    },
+    {
+      "image": "https://i.imgur.com/4KgPcpm.png",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves",
+      "name": "Grace of the elves",
+      "breakdownNotes": "",
+      "label": "gote"
+    },
+    {
+      "image": "https://i.imgur.com/4gzM0Ab.png",
+      "wikiLink": "https://runescape.wiki/w/Worn_Equipment#Main_hand_slot",
+      "name": "Mainhand slot",
+      "breakdownNotes": "Bring any MH + OH for Bladed Dive.",
+      "label": "mhslot"
+    },
+    {
+      "image": "https://i.imgur.com/paFUjfv.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_jacket",
+      "name": "Globetrotter jacket",
+      "breakdownNotes": "",
+      "label": "globetrotterjacket"
+    },
+    {
+      "image": "https://i.imgur.com/ytFFaBI.png",
+      "wikiLink": "https://runescape.wiki/w/Worn_Equipment#Off-hand_slot",
+      "name": "Off-hand slot",
+      "breakdownNotes": "<span>Bring any MH + OH for Bladed Dive.</span>",
+      "label": "ohslot"
+    },
+    {
+      "image": "https://i.imgur.com/DvyUvd2.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_shorts",
+      "name": "Globetrotter shorts",
+      "breakdownNotes": "",
+      "label": "globetrottershorts"
+    },
+    {
+      "image": "https://i.imgur.com/TCZljWu.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_arm_guards",
+      "name": "Globetrotter arm guards",
+      "breakdownNotes": "",
+      "label": "globetrotterarmguards"
+    },
+    {
+      "image": "https://i.imgur.com/44J9f9V.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_boots",
+      "name": "Globetrotter boots",
+      "breakdownNotes": "",
+      "label": "globetrotterboots"
+    },
+    {
+      "image": "https://i.imgur.com/py4guxm.png",
+      "wikiLink": "https://runescape.wiki/w/Explorer's_ring_4",
+      "name": "Explorer's ring 4",
+      "breakdownNotes": "<span>LOTD relic inherits Dark Facet enchantment without having to wear it.</span>",
+      "label": "explorersring4"
+    },
+    {
+      "image": "https://i.imgur.com/N1tQnRc.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(yellow)",
+      "name": "Grasping rune pouch (yellow)",
+      "breakdownNotes": "",
+      "label": "graspingpouchyellow"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/t1KMJMv.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "<span>Disassemble any stackable item for a chance of procs during a run.</span>",
+      "label": "scriptureofbik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/3tsGSBD.png",
+      "wikiLink": "https://runescape.wiki/w/Easy_clue",
+      "name": "Easy clue",
+      "breakdownNotes": "",
+      "label": "easyclue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3Hzb1UG.png",
+      "wikiLink": "https://runescape.wiki/w/Spade",
+      "name": "Spade",
+      "breakdownNotes": "",
+      "label": "spade",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Qp0s9G2.png",
+      "wikiLink": "https://runescape.wiki/w/Passage_of_the_Abyss_(red)",
+      "name": "Passage of the Abyss (red)",
+      "breakdownNotes": "",
+      "label": "passageoftheabyss(red)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PDg2YBC.png",
+      "wikiLink": "https://runescape.wiki/w/Passage_of_the_Abyss_(green)",
+      "name": "Passage of the Abyss (green)",
+      "breakdownNotes": "",
+      "label": "passageoftheabyss(green)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/aHlOVcO.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_branch",
+      "name": "Nature's sentinel branch",
+      "breakdownNotes": "",
+      "label": "naturessentinelbranch",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/AVtsARx.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_chest",
+      "name": "Nature's sentinel chest",
+      "breakdownNotes": "",
+      "label": "naturessentinelchest",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/4n0C5gK.png",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "<span>Can be used during or before a run to extend potion timer from 6 to 8 minutes.</span>",
+      "label": "lantadymeincensesticks100",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8C3OhBk.png",
+      "wikiLink": "https://runescape.wiki/w/Archaeology_journal",
+      "name": "Archaeology journal",
+      "breakdownNotes": "",
+      "label": "archaeologyjournal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/MiKyECQ.png",
+      "wikiLink": "https://runescape.wiki/w/Khazard_teleport",
+      "name": "Khazard teleport",
+      "breakdownNotes": "",
+      "label": "khazardteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/iwTl6xy.png",
+      "wikiLink": "https://runescape.wiki/w/Portable_fairy_ring#active",
+      "name": "Portable fairy ring",
+      "breakdownNotes": "",
+      "label": "portablefairyring(used)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/XCZuCaN.png",
+      "wikiLink": "https://runescape.wiki/w/Portable_fairy_ring#inactive",
+      "name": "Portable fairy ring (inactive)",
+      "breakdownNotes": "",
+      "label": "fairyring",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/708o7G1.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_boots",
+      "name": "Nature's sentinel boots",
+      "breakdownNotes": "",
+      "label": "naturessentinelboots",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/AyzY63R.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_trunks",
+      "name": "Nature's sentinel trunks",
+      "breakdownNotes": "",
+      "label": "naturessentineltrunks",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/CjIUkSz.png",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_nature",
+      "name": "Amulet of nature",
+      "breakdownNotes": "<span>Bound to diseased Nightshade Patch in Draynor Manor.</span>",
+      "label": "amuletofnature",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ahDBOU5.png",
+      "wikiLink": "https://runescape.wiki/w/Dave's_spellbook",
+      "name": "Dave's spellbook",
+      "breakdownNotes": "",
+      "label": "davesspellbook",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/uRrpo3Y.png",
+      "wikiLink": "https://runescape.wiki/w/Rimmington_tablet",
+      "name": "Rimmington tablet",
+      "breakdownNotes": "",
+      "label": "rimmingtontablet",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/TbTkcjH.png",
+      "wikiLink": "https://runescape.wiki/w/Grand_seed_pod",
+      "name": "Grand seed pod",
+      "breakdownNotes": "",
+      "label": "grandseedpod",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/rMZUuze.png",
+      "wikiLink": "https://runescape.wiki/w/Skull_sceptre",
+      "name": "Skull sceptre",
+      "breakdownNotes": "",
+      "label": "skullsceptre",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9oDoU6T.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "<span>will automatically collect catalyst of alterions from Scripture of Bik when they spawn.</span>",
+      "label": "spiritattractionflask",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I6HFjyN.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "",
+      "label": "accel4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KPREDHT.png",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "label": "cluebag",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/sOfnUEX.png",
+      "wikiLink": "https://runescape.wiki/w/Arc_journal",
+      "name": "Arc journal",
+      "breakdownNotes": "",
+      "label": "arcjournal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/WYm7p9h.png",
+      "wikiLink": "https://runescape.wiki/w/Archaeology_teleport",
+      "name": "Archaeology teleport",
+      "breakdownNotes": "",
+      "label": "archaeologyteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8Y1U7r0.png",
+      "wikiLink": "https://runescape.wiki/w/Cape_of_legends",
+      "name": "Cape of legends",
+      "breakdownNotes": "",
+      "label": "capeoflegends",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/TKRGiJ5.png",
+      "wikiLink": "https://runescape.wiki/w/Noted_items",
+      "name": "Noted items",
+      "breakdownNotes": "<span>Anything to disassemble for Bik Procs. (Cheap and Stackable)</span>",
+      "label": "noteditems",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9oDoU6T.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "<span>will automatically collect catalyst of alterions from Scripture of Bik when they spawn.</span>",
+      "label": "spiritattractionflask",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I6HFjyN.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "",
+      "label": "accel4",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/8IMPgCF.png",
+        "name": "Abyssal Link",
+        "breakdownNotes": "",
+        "description": "Teleport spells from the spellbook no longer require runes, but award no magic XP.",
+        "label": "abyssallink",
+        "energy": 250
+      },
+      {
+        "image": "https://i.imgur.com/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline.",
+        "label": "shadowsgrace",
+        "energy": 50
+      },
+      {
+        "image": "https://i.imgur.com/Ivcgjer.png",
+        "name": "Luck of the Dwarves",
+        "breakdownNotes": "",
+        "description": "You will always gain the effect of tier 4 luck.",
+        "label": "luckofthedwarves",
+        "energy": 200
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

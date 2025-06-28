@@ -1,0 +1,221 @@
+{
+  "presetName": "AFK Helwyr",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/xNXHeIN.png",
+      "name": "Cryptbloom helm",
+      "label": "cryptbloomhelm"
+    },
+    {
+      "image": "https://i.imgur.com/6EvPhe6.png",
+      "name": "Igneous Kal-Mej",
+      "label": "kalmej"
+    },
+    {
+      "image": "https://i.imgur.com/7bR3H3U.png",
+      "name": "Amulet of souls (or)",
+      "label": "souls"
+    },
+    {
+      "image": "https://i.imgur.com/DmUfsSM.png",
+      "name": "Wand of the praesul",
+      "label": "pwand"
+    },
+    {
+      "image": "https://i.imgur.com/G07AY4A.png",
+      "name": "Cryptbloom top",
+      "label": "cryptbloomtop"
+    },
+    {
+      "image": "https://i.imgur.com/WHurFLm.png",
+      "name": "Imperium core",
+      "label": "core"
+    },
+    {
+      "image": "https://i.imgur.com/h07wgr8.png",
+      "name": "Cryptbloom legs",
+      "label": "cryptbloomlegs"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/1MkR1qn.png",
+      "name": "Cryptbloom boots",
+      "label": "cryptbloomboots"
+    },
+    {
+      "image": "https://i.imgur.com/Zs7j4JG.png",
+      "name": "Channeller's ring",
+      "label": "channellerring"
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "label": "graspingpouchblack"
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/lPppoD4.png",
+      "name": "Scripture of Ful",
+      "label": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/SsNRoVE.png",
+      "name": "Elder overload salve",
+      "label": "salve"
+    },
+    {
+      "image": "https://i.imgur.com/SsNRoVE.png",
+      "name": "Elder overload salve",
+      "label": "salve"
+    },
+    {
+      "image": "https://i.imgur.com/af9O4EM.png",
+      "name": "Potion reservoir",
+      "label": "potionreservoir2"
+    },
+    {
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "name": "Weapon poison+++ flask",
+      "label": "poison6"
+    },
+    {
+      "image": "https://i.imgur.com/pulVXx3.png",
+      "name": "Super restore",
+      "label": "restore"
+    },
+    {
+      "image": "https://i.imgur.com/UVffd75.png",
+      "name": "Holy wrench",
+      "label": "wrench"
+    },
+    {
+      "image": "https://i.imgur.com/iQiQKke.png",
+      "name": "Kwuarm incense sticks",
+      "label": "kwuarmsticks"
+    },
+    {
+      "image": "https://i.imgur.com/UURvGNW.png",
+      "name": "Ancient elven ritual shard",
+      "label": "elvenshard"
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "name": "Spring clearner 9001",
+      "label": "springcleaner"
+    },
+    {
+      "image": "https://i.imgur.com/KFZJLhU.png",
+      "name": "Enhanced excalibur",
+      "label": "excal"
+    },
+    {
+      "image": "https://i.imgur.com/BQXFPFu.png",
+      "name": "Binding contract (blood reaver)",
+      "label": "reaver"
+    },
+    {
+      "image": "https://i.imgur.com/sh0rUPx.png",
+      "name": "Enhanced luck potion",
+      "label": "enhluck"
+    },
+    {
+      "image": "https://i.imgur.com/w6hThUy.png",
+      "name": "Powder of penance",
+      "label": "powderofpenance2"
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "label": "jelly"
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "name": "Grasping rune pouch (pink)",
+      "label": "graspingpouchpink"
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "label": "graspingpouchblue"
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    }
+  ],
+  "relics": {
+    "primaryRelics": [],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [],
+    "alternativeFamiliars": []
+  }
+}

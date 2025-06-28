@@ -1,0 +1,399 @@
+{
+  "presetName": "Basic Twin Furies Melee",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "bandoshelm",
+      "image": "https://img.pvme.io/images/9NwuMuG.png",
+      "name": "Bandos helmet",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bandos_helmet"
+    },
+    {
+      "label": "capeoflegends",
+      "image": "https://img.pvme.io/images/8Y1U7r0.png",
+      "name": "Cape of legends",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cape_of_legends"
+    },
+    {
+      "label": "amuletoffury",
+      "image": "https://img.pvme.io/images/ixoEqMS.png",
+      "name": "Amulet of fury",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_fury"
+    },
+    {
+      "label": "lanispear",
+      "image": "https://img.pvme.io/images/BGhsSXy.png",
+      "name": "Laniakea's spear",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Laniakea's_spear"
+    },
+    {
+      "label": "bandosbody",
+      "image": "https://img.pvme.io/images/rZAwGOE.png",
+      "name": "Bandos chestplate",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bandos_chestplate"
+    },
+    null,
+    {
+      "label": "bandoslegs",
+      "image": "https://img.pvme.io/images/YTrvyv7.png",
+      "name": "Bandos tassets",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bandos_tassets"
+    },
+    {
+      "label": "bandosgloves",
+      "image": "https://img.pvme.io/images/iEpTY9H.png",
+      "name": "Bandos gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bandos_gloves"
+    },
+    {
+      "label": "laceration",
+      "image": "https://img.pvme.io/images/EiQNqj9.png",
+      "name": "Laceration boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Laceration_boots"
+    },
+    {
+      "label": "asr",
+      "image": "https://img.pvme.io/images/RZg5LNG.png",
+      "name": "Asylum surgeon's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Asylum_surgeon's_ring"
+    },
+    {
+      "label": "spikes",
+      "image": "https://img.pvme.io/images/9TncsW1.png",
+      "name": "Armour spikes (alloy)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Armour_spikes_(alloy)"
+    },
+    {
+      "label": "vampaura",
+      "image": "https://img.pvme.io/images/JigaLBL.png",
+      "name": "Vampyrism aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vampyrism_aura"
+    },
+    {
+      "label": "scriptureofjas",
+      "image": "https://img.pvme.io/images/FLYAOEf.png",
+      "name": "Scripture of Jas",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Jas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "Healing over time",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "extattack",
+      "image": "https://img.pvme.io/images/bbhu0Wx.png",
+      "name": "Extreme attack (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Extreme_Attack#(4)",
+      "selected": false
+    },
+    {
+      "label": "extstrength",
+      "image": "https://img.pvme.io/images/7fRfsO4.png",
+      "name": "Extreme strength (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Extreme_Strength#(4)",
+      "selected": false
+    },
+    {
+      "label": "extdefence",
+      "image": "https://img.pvme.io/images/DUhcOW3.png",
+      "name": "Extreme defence (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Extreme_Defence#(4)",
+      "selected": false
+    },
+    {
+      "label": "restore4",
+      "image": "https://img.pvme.io/images/9GwrVt6.png",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "selected": false
+    },
+    {
+      "label": "restore4",
+      "image": "https://img.pvme.io/images/9GwrVt6.png",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Emergency food",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "wrench",
+      "image": "https://img.pvme.io/images/UVffd75.png",
+      "name": "Holy wrench",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench",
+      "selected": false
+    },
+    {
+      "label": "spices",
+      "image": "https://img.pvme.io/images/GNzR4sU.png",
+      "name": "Expensive spices",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Expensive_spices",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Emergency food",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "persistentrage",
+        "image": "https://img.pvme.io/images/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained."
+      },
+      {
+        "label": "fontoflife",
+        "image": "https://img.pvme.io/images/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "energy": 50,
+        "description": "Increases maximum health by 500."
+      },
+      {
+        "label": "blessingofhet",
+        "image": "https://img.pvme.io/images/eDmt2lT.png",
+        "name": "Blessing of Het",
+        "breakdownNotes": "",
+        "energy": 100,
+        "description": "Food and potions heal 10% more lifepoints."
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "label": "deathward",
+        "image": "https://img.pvme.io/images/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%."
+      },
+      {
+        "label": "berserkersfury",
+        "image": "https://img.pvme.io/images/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "energy": 250,
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)"
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "bunyip",
+        "image": "https://img.pvme.io/images/hpjldw8.png",
+        "name": "Bunyip",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,379 @@
+{
+  "presetName": "King Black dragon basic ranged",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/5LejzUu.png",
+      "wikiLink": "https://runescape.wiki/w/Armadyl_helmet",
+      "name": "Armadyl helmet",
+      "breakdownNotes": "",
+      "label": "armahelm"
+    },
+    {
+      "image": "https://i.imgur.com/8Y1U7r0.png",
+      "wikiLink": "https://runescape.wiki/w/Cape_of_legends",
+      "name": "Cape of legends",
+      "breakdownNotes": "obsidian cape or legends cape are good alternatives",
+      "label": "capeoflegends"
+    },
+    {
+      "image": "https://i.imgur.com/gawFoAi.png",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_glory",
+      "name": "Amulet of glory",
+      "breakdownNotes": "stat bonus, amulet of ranging is a ranged-specific upgrade.<br />",
+      "label": "amuletofglory"
+    },
+    {
+      "image": "https://i.imgur.com/kLSCUux.png",
+      "wikiLink": "https://runescape.wiki/w/Worn_Equipment#Two-handed_items",
+      "name": "2h equipment slot",
+      "breakdownNotes": "Any Tier 70 weapon works. Crystal bow or crystal chakrams are preferred over karil's crossbow(s)<br />",
+      "label": "2hslot"
+    },
+    {
+      "image": "https://i.imgur.com/3IVzrrl.png",
+      "wikiLink": "https://runescape.wiki/w/Armadyl_chestplate",
+      "name": "Armadyl chestplate",
+      "breakdownNotes": "Armadyl armour provides a stat bonus. Feel free to use (superior) skeletal armour instead.",
+      "label": "armaplate"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/wpBDLzn.png",
+      "wikiLink": "https://runescape.wiki/w/Armadyl_chainskirt",
+      "name": "Armadyl chainskirt",
+      "breakdownNotes": "",
+      "label": "armaskirt"
+    },
+    {
+      "image": "https://i.imgur.com/FjsLw1L.png",
+      "wikiLink": "https://runescape.wiki/w/Armadyl_gloves",
+      "name": "Armadyl gloves",
+      "breakdownNotes": "besides superior spined, royal spiky vambraces can also be used.<br />",
+      "label": "armagloves"
+    },
+    {
+      "image": "https://i.imgur.com/m9hre9E.png",
+      "wikiLink": "https://runescape.wiki/w/Armadyl_boots",
+      "name": "Armadyl boots",
+      "breakdownNotes": "besides superior spined, silverhawks can be set to t60 as an alternative.<br />",
+      "label": "armaboots"
+    },
+    {
+      "image": "https://i.imgur.com/aKOEeRs.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_Fortune",
+      "name": "Ring of Fortune",
+      "breakdownNotes": "stat bonus<br />",
+      "label": "ringoffortune"
+    },
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/hm5z04C.png",
+      "wikiLink": "https://runescape.wiki/w/Book_of_law",
+      "name": "Book of law",
+      "breakdownNotes": "any god book works (or underworld grimoire) for stat bonus, this one is slightly better when activated.<br />",
+      "label": "armagodbook2"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/SIxkkCF.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_Ranging#(4)",
+      "name": "Extreme ranging (4)",
+      "breakdownNotes": "",
+      "label": "extrange",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/DUhcOW3.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_Defence#(4)",
+      "name": "Extreme defence (4)",
+      "breakdownNotes": "",
+      "label": "extdefence",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/CR06fbn.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(4)",
+      "name": "Weapon poison+++ (4)",
+      "breakdownNotes": "",
+      "label": "poison4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "name": "Super restore (4)",
+      "breakdownNotes": "for restoring prayer points<br />",
+      "label": "restore4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "name": "Super restore (4)",
+      "breakdownNotes": "for restoring prayer points<br />",
+      "label": "restore4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "name": "Super restore (4)",
+      "breakdownNotes": "for restoring prayer points<br />",
+      "label": "restore4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GNzR4sU.png",
+      "wikiLink": "https://runescape.wiki/w/Expensive_spices",
+      "name": "Expensive spices",
+      "breakdownNotes": "makes every bite heal a bit more<br />",
+      "label": "spices",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ap5QY9d.png",
+      "wikiLink": "https://runescape.wiki/w/Antipoison++",
+      "name": "Antipoison++",
+      "breakdownNotes": "",
+      "label": "antipsn++",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "panic food",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "panic food",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/g4GKi54.png",
+      "wikiLink": "https://runescape.wiki/w/Super_antifire#(4)",
+      "name": "Super antifire (4)",
+      "breakdownNotes": "",
+      "label": "superantifire",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "panic food",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "panic food",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "optional, but worth obtaining to reduce food usage",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "panic food",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "panic food",
+      "label": "shark",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "description": "Increases maximum health by 500.",
+        "label": "fontoflife",
+        "energy": 50
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/hpjldw8.png",
+        "name": "Bunyip",
+        "breakdownNotes": "",
+        "label": "bunyip"
+      }
+    ]
+  }
+}

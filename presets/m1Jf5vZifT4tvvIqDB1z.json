@@ -1,0 +1,399 @@
+{
+  "presetName": "BIS Easies",
+  "presetNotes": "Easy clues require no Meerkats Familiar.<div><br /></div><div><span>LOTD Relic </span><img title=\"lotdrelic\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/987267727980912701.png?v=1\" /><span> inherits Dark Facet enchantment without having to wear it.</span><br /></div>",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/h4cf5a8.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_helm",
+      "name": "Nature's sentinel helm",
+      "breakdownNotes": "<span>Nature Sentinel Uses: </span><div>- Elder Tree: East of the Sorcerer's Tower of the Legends Guild 7 &gt; 1</div><div>- Chocking Ivy: North Varrock Place 0 &gt; 5 &gt; 1</div>",
+      "label": "naturessentinelhelm"
+    },
+    {
+      "image": "https://i.imgur.com/9u3f0ws.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_backpack",
+      "name": "Globetrotter backpack",
+      "breakdownNotes": "",
+      "label": "globetrotterbackpack"
+    },
+    {
+      "image": "https://i.imgur.com/4KgPcpm.png",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves",
+      "name": "Grace of the elves",
+      "breakdownNotes": "",
+      "label": "gote"
+    },
+    {
+      "image": "https://i.imgur.com/4gzM0Ab.png",
+      "wikiLink": "https://runescape.wiki/w/Worn_Equipment#Main_hand_slot",
+      "name": "Mainhand slot",
+      "breakdownNotes": "<span>Any MH + OH for access to </span><img title=\"bd\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/535532854281764884.png?v=1\" /><span> can be substituted for <img title=\"dive\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1049378668197195808.png?v=1\" /><br /></span><div><img title=\"surgemobile\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/867678153798975498.png?v=1\" /> can be substituted for the Shadow's Grace relic <img title=\"shadowsgrace\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/895999229737185280.png?v=1\" /></div>",
+      "label": "mhslot"
+    },
+    {
+      "image": "https://i.imgur.com/paFUjfv.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_jacket",
+      "name": "Globetrotter jacket",
+      "breakdownNotes": "<img title=\"slayercape\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/975284344123953164.png?v=1\" />|<img title=\"dgcape\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/976732922545586246.png?v=1\" /><span>as Max Cape Perks. </span>",
+      "label": "globetrotterjacket"
+    },
+    {
+      "image": "https://i.imgur.com/ytFFaBI.png",
+      "wikiLink": "https://runescape.wiki/w/Worn_Equipment#Off-hand_slot",
+      "name": "Off-hand slot",
+      "breakdownNotes": "<span>Any MH + OH for access to </span><img title=\"bd\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/535532854281764884.png?v=1\" /><span> can be substituted for <img title=\"dive\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1049378668197195808.png?v=1\" /><br /></span><div><img title=\"surgemobile\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/867678153798975498.png?v=1\" /> can be substituted for the Shadow's Grace relic <img title=\"shadowsgrace\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/895999229737185280.png?v=1\" /><br /></div>",
+      "label": "ohslot"
+    },
+    {
+      "image": "https://i.imgur.com/DvyUvd2.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_shorts",
+      "name": "Globetrotter shorts",
+      "breakdownNotes": "",
+      "label": "globetrottershorts"
+    },
+    {
+      "image": "https://i.imgur.com/TCZljWu.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_arm_guards",
+      "name": "Globetrotter arm guards",
+      "breakdownNotes": "",
+      "label": "globetrotterarmguards"
+    },
+    {
+      "image": "https://i.imgur.com/44J9f9V.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_boots",
+      "name": "Globetrotter boots",
+      "breakdownNotes": "",
+      "label": "globetrotterboots"
+    },
+    {
+      "image": "https://i.imgur.com/py4guxm.png",
+      "wikiLink": "https://runescape.wiki/w/Explorer's_ring_4",
+      "name": "Explorer's ring 4",
+      "breakdownNotes": "<br />",
+      "label": "explorersring4"
+    },
+    {
+      "image": "https://i.imgur.com/N1tQnRc.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(yellow)",
+      "name": "Grasping rune pouch (yellow)",
+      "breakdownNotes": "<img title=\"airrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658986647589.png?v=1\" /> | <img title=\"waterrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252660165115905.png?v=1\" /> | <img title=\"lawrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252661406760970.png?v=1\" /> | <img title=\"lavarune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659938885633.png?v=1\" />  Can be substituted for the Shadow's Grace relic. <img title=\"shadowsgrace\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/895999229737185280.png?v=1\" />",
+      "label": "graspingpouchyellow"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/t1KMJMv.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "<span>Disassemble any stackable item for a chance of procs during a run.</span>",
+      "label": "scriptureofbik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/3tsGSBD.png",
+      "wikiLink": "https://runescape.wiki/w/Easy_clue",
+      "name": "Easy clue",
+      "breakdownNotes": "",
+      "label": "easyclue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3Hzb1UG.png",
+      "wikiLink": "https://runescape.wiki/w/Spade",
+      "name": "Spade",
+      "breakdownNotes": "<span>Can be keybound for faster digging or closing the </span><img title=\"cluescroll\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1037463867716018206.png?v=1\" /> <span>interface by clicking the spade in the inventory.</span>",
+      "label": "spade",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/AVtsARx.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_chest",
+      "name": "Nature's sentinel chest",
+      "breakdownNotes": "<span>Equip the full outfit when using the teleport menu.</span>",
+      "label": "naturessentinelchest",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/AyzY63R.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_trunks",
+      "name": "Nature's sentinel trunks",
+      "breakdownNotes": "<span>Equip the full outfit when using the teleport menu.</span><br />",
+      "label": "naturessentineltrunks",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/708o7G1.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_boots",
+      "name": "Nature's sentinel boots",
+      "breakdownNotes": "<span>Equip the full outfit when using the teleport menu.</span><br />",
+      "label": "naturessentinelboots",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/aHlOVcO.png",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_branch",
+      "name": "Nature's sentinel branch",
+      "breakdownNotes": "<span>Equip the full outfit when using the teleport menu.</span>",
+      "label": "naturessentinelbranch",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8C3OhBk.png",
+      "wikiLink": "https://runescape.wiki/w/Archaeology_journal",
+      "name": "Archaeology journal",
+      "breakdownNotes": "",
+      "label": "archaeologyjournal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/iwTl6xy.png",
+      "wikiLink": "https://runescape.wiki/w/Portable_fairy_ring#active",
+      "name": "Portable fairy ring",
+      "breakdownNotes": "",
+      "label": "portablefairyring(used)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/XCZuCaN.png",
+      "wikiLink": "https://runescape.wiki/w/Portable_fairy_ring#inactive",
+      "name": "Portable fairy ring (inactive)",
+      "breakdownNotes": "",
+      "label": "fairyring",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Qp0s9G2.png",
+      "wikiLink": "https://runescape.wiki/w/Passage_of_the_Abyss_(red)",
+      "name": "Passage of the Abyss (red)",
+      "breakdownNotes": "",
+      "label": "passageoftheabyss(red)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PDg2YBC.png",
+      "wikiLink": "https://runescape.wiki/w/Passage_of_the_Abyss_(green)",
+      "name": "Passage of the Abyss (green)",
+      "breakdownNotes": "",
+      "label": "passageoftheabyss(green)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9oDoU6T.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "<span>Will automatically collect catalyst of alterations from <img title=\"scriptureofbik\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/892342109791735848.png?v=1\" /> when they spawn.</span>",
+      "label": "spiritattractionflask",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/4n0C5gK.png",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "<span>Can be used during or before a run to extend potion timer from 6 to 8 minutes.</span>",
+      "label": "lantadymeincensesticks100",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ahDBOU5.png",
+      "wikiLink": "https://runescape.wiki/w/Dave's_spellbook",
+      "name": "Dave's spellbook",
+      "breakdownNotes": "",
+      "label": "davesspellbook",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/uRrpo3Y.png",
+      "wikiLink": "https://runescape.wiki/w/Rimmington_tablet",
+      "name": "Rimmington tablet",
+      "breakdownNotes": "",
+      "label": "rimmingtontablet",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/MiKyECQ.png",
+      "wikiLink": "https://runescape.wiki/w/Khazard_teleport",
+      "name": "Khazard teleport",
+      "breakdownNotes": "",
+      "label": "khazardteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/rMZUuze.png",
+      "wikiLink": "https://runescape.wiki/w/Skull_sceptre",
+      "name": "Skull sceptre",
+      "breakdownNotes": "",
+      "label": "skullsceptre",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I6HFjyN.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "",
+      "label": "accel4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9oDoU6T.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "<span>Will automatically collect catalyst of alterations from <img title=\"scriptureofbik\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/892342109791735848.png?v=1\" /> when they spawn.</span>",
+      "label": "spiritattractionflask",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/TbTkcjH.png",
+      "wikiLink": "https://runescape.wiki/w/Grand_seed_pod",
+      "name": "Grand seed pod",
+      "breakdownNotes": "",
+      "label": "grandseedpod",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KPREDHT.png",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "label": "cluebag",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/sOfnUEX.png",
+      "wikiLink": "https://runescape.wiki/w/Arc_journal",
+      "name": "Arc journal",
+      "breakdownNotes": "",
+      "label": "arcjournal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/WYm7p9h.png",
+      "wikiLink": "https://runescape.wiki/w/Archaeology_teleport",
+      "name": "Archaeology teleport",
+      "breakdownNotes": "",
+      "label": "archaeologyteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8Y1U7r0.png",
+      "wikiLink": "https://runescape.wiki/w/Cape_of_legends",
+      "name": "Cape of legends",
+      "breakdownNotes": "",
+      "label": "capeoflegends",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/CjIUkSz.png",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_nature",
+      "name": "Amulet of nature",
+      "breakdownNotes": "<span>Bound to diseased Nightshade Patch in Draynor Manor.</span>",
+      "label": "amuletofnature",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/TKRGiJ5.png",
+      "wikiLink": "https://runescape.wiki/w/Noted_items",
+      "name": "Noted items",
+      "breakdownNotes": "<span>Anything to disassemble for Bik Procs. (Cheap and Stackable)</span>",
+      "label": "noteditems",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I6HFjyN.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "",
+      "label": "accel4",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/8IMPgCF.png",
+        "name": "Abyssal Link",
+        "breakdownNotes": "",
+        "description": "Teleport spells from the spellbook no longer require runes, but award no magic XP.",
+        "label": "abyssallink",
+        "energy": 250
+      },
+      {
+        "image": "https://i.imgur.com/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline.",
+        "label": "shadowsgrace",
+        "energy": 50
+      },
+      {
+        "image": "https://i.imgur.com/Ivcgjer.png",
+        "name": "Luck of the Dwarves",
+        "breakdownNotes": "",
+        "description": "You will always gain the effect of tier 4 luck.",
+        "label": "luckofthedwarves",
+        "energy": 200
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

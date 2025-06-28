@@ -1,0 +1,321 @@
+{
+  "presetName": "Croesus Basic Fishing",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "furysharkhead",
+      "image": "https://img.pvme.io/images/JHc4QWU.png",
+      "name": "Fury shark head",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fury_shark_head"
+    },
+    {
+      "label": "gatherercape",
+      "image": "https://img.pvme.io/images/jAZnS74.png",
+      "name": "Gatherer's cape",
+      "breakdownNotes": "Fishing skillcape stored inside.",
+      "wikiLink": "https://runescape.wiki/w/Gatherer's_cape"
+    },
+    {
+      "label": "gote",
+      "image": "https://img.pvme.io/images/4KgPcpm.png",
+      "name": "Grace of the elves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves"
+    },
+    {
+      "label": "rodomatic",
+      "image": "https://img.pvme.io/images/maZE8qW.png",
+      "name": "Fishing rod-o-matic",
+      "breakdownNotes": "<span>Honed 6.</span><br /><span>Can upgrade to Enhanced version for more Invention XP.</span>",
+      "wikiLink": "https://runescape.wiki/w/Fishing_rod-o-matic"
+    },
+    {
+      "label": "furysharkbody",
+      "image": "https://img.pvme.io/images/uz0wELA.png",
+      "name": "Fury shark body",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fury_shark_body"
+    },
+    {
+      "label": "fyretorch",
+      "image": "https://img.pvme.io/images/n42Kunc.png",
+      "name": "Sana's fyrtorch",
+      "breakdownNotes": "<span>or orthen furnace core, or logs </span>",
+      "wikiLink": "https://runescape.wiki/w/Sana's_fyrtorch"
+    },
+    {
+      "label": "furysharklegs",
+      "image": "https://img.pvme.io/images/r9Gzn0X.png",
+      "name": "Fury shark legs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fury_shark_legs"
+    },
+    {
+      "label": "furysharkgloves",
+      "image": "https://img.pvme.io/images/iCfoioZ.png",
+      "name": "Fury shark hands",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fury_shark_hands"
+    },
+    {
+      "label": "furysharkboots",
+      "image": "https://img.pvme.io/images/Kk68bUS.png",
+      "name": "Fury shark feet",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fury_shark_feet"
+    },
+    {
+      "label": "pontifexshadowring",
+      "image": "https://img.pvme.io/images/VTDTXoF.png",
+      "name": "Pontifex shadow ring",
+      "breakdownNotes": "Can replace with a Luck of the Dwarves if you've unlocked the passive Pontifex Shadow Ring effects.",
+      "wikiLink": "https://runescape.wiki/w/Pontifex_shadow_ring"
+    },
+    {
+      "label": "graspingpouch",
+      "image": "https://img.pvme.io/images/Mk7jbjC.png",
+      "name": "Grasping rune pouch",
+      "breakdownNotes": "<span>Earth | Fire | Body | Soul for Crystal Mask</span>",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch"
+    },
+    {
+      "label": "legendarycallofthesea",
+      "image": "https://img.pvme.io/images/fsSx8Aa.png",
+      "name": "Legendary call of the sea aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Legendary_call_of_the_sea_aura"
+    },
+    {
+      "label": "scriptureofbik",
+      "image": "https://img.pvme.io/images/t1KMJMv.png",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "Optional for extra clue scrolls, can bring items to D/A during kill for more procs.",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "magiclogs",
+      "image": "https://img.pvme.io/images/oOIEwH0.png",
+      "name": "Magic logs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_logs",
+      "selected": false
+    },
+    {
+      "label": "magiclogs",
+      "image": "https://img.pvme.io/images/oOIEwH0.png",
+      "name": "Magic logs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_logs",
+      "selected": false
+    },
+    {
+      "label": "magiclogs",
+      "image": "https://img.pvme.io/images/oOIEwH0.png",
+      "name": "Magic logs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_logs",
+      "selected": false
+    },
+    {
+      "label": "magiclogs",
+      "image": "https://img.pvme.io/images/oOIEwH0.png",
+      "name": "Magic logs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_logs",
+      "selected": false
+    },
+    {
+      "label": "magiclogs",
+      "image": "https://img.pvme.io/images/oOIEwH0.png",
+      "name": "Magic logs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_logs",
+      "selected": false
+    },
+    {
+      "label": "magiclogs",
+      "image": "https://img.pvme.io/images/oOIEwH0.png",
+      "name": "Magic logs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_logs",
+      "selected": false
+    },
+    {
+      "label": "granitelobster",
+      "image": "https://img.pvme.io/images/J8VgIxA.png",
+      "name": "Granite lobster pouch",
+      "breakdownNotes": "<span>Used to renew your first familiar during the hour.</span>",
+      "wikiLink": "https://runescape.wiki/w/Granite_lobster_pouch",
+      "selected": false
+    },
+    {
+      "label": "perfectplus",
+      "image": "https://img.pvme.io/images/r84FkMD.png",
+      "name": "Perfect plus potion (6)",
+      "breakdownNotes": "Sip when loading preset if needed, then bank.",
+      "wikiLink": "https://runescape.wiki/w/Perfect_plus_potion#(6)",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "artificer",
+      "image": "https://img.pvme.io/images/gMZLjIv.png",
+      "name": "Artificer's measure",
+      "breakdownNotes": "Used when building statues.",
+      "wikiLink": "https://runescape.wiki/w/Artificer's_measure",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline.",
+        "label": "shadowsgrace",
+        "energy": 50
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/uHd98i7.png",
+        "name": "Granite Lobster",
+        "breakdownNotes": "",
+        "label": "granitelobster"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

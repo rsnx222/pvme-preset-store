@@ -1,0 +1,379 @@
+{
+  "presetName": "Gate of Elidinis preset",
+  "presetNotes": "gargoyle + scrolls = fast method<br />can use a lava titan instead<br />",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/XCIjNXk.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_head",
+      "name": "Magic golem head",
+      "breakdownNotes": "",
+      "label": "magicgolemhead"
+    },
+    {
+      "image": "https://i.imgur.com/DFwDP3K.png",
+      "wikiLink": "https://runescape.wiki/w/Constitution_cape",
+      "name": "Constitution cape",
+      "breakdownNotes": "restores hp passively<br />",
+      "label": "constitutioncape"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/1x24vrK.png",
+      "wikiLink": "https://runescape.wiki/w/Pickaxe_of_Life_and_Death",
+      "name": "Pickaxe of Life and Death",
+      "breakdownNotes": "honed/rapid perks do not seem to work.<br />",
+      "label": "pickaxeoflifeanddeath"
+    },
+    {
+      "image": "https://i.imgur.com/Ytyzy1c.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_torso",
+      "name": "Magic golem torso",
+      "breakdownNotes": "+5% crit chance<br />",
+      "label": "magicgolemtorso"
+    },
+    {
+      "image": "https://i.imgur.com/JffmIPJ.png",
+      "wikiLink": "https://runescape.wiki/w/Tagga's_corehammer",
+      "name": "Tagga's corehammer",
+      "breakdownNotes": "+10% crit chance &amp; +35 damage per crit<br />",
+      "label": "corehammer"
+    },
+    {
+      "image": "https://i.imgur.com/4jZVBTE.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_legs",
+      "name": "Magic golem legs",
+      "breakdownNotes": "",
+      "label": "magicgolemlegs"
+    },
+    {
+      "image": "https://i.imgur.com/ZaLwIE0.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_gloves",
+      "name": "Magic golem gloves",
+      "breakdownNotes": "",
+      "label": "magicgolemgloves"
+    },
+    {
+      "image": "https://i.imgur.com/0yMVyOj.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_boots",
+      "name": "Magic golem boots",
+      "breakdownNotes": "",
+      "label": "magicgolemboots"
+    },
+    {
+      "image": "https://i.imgur.com/sxtHL16.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_Whispers",
+      "name": "Ring of Whispers",
+      "breakdownNotes": "+3 damage per swing<br />",
+      "label": "ringofwhispers"
+    },
+    {
+      "image": "https://i.imgur.com/hd7YvA4.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
+      "name": "Deathwarden Nexus",
+      "breakdownNotes": "allows for <img title=\"cade\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/535541306353778689.png?v=1\" /> to move faster or save food, requires passive infernal puzzlebox",
+      "label": "deathwardennexus"
+    },
+    {
+      "image": "https://i.imgur.com/KDmbuSF.png",
+      "wikiLink": "https://runescape.wiki/w/Legendary_quarrymaster_aura",
+      "name": "Legendary quarrymaster aura",
+      "breakdownNotes": "+15% crit per swing",
+      "label": "legendaryquarrymaster"
+    },
+    {
+      "image": "https://i.imgur.com/caaJeHr.png",
+      "wikiLink": "https://runescape.wiki/w/Rock-crushing_scrimshaw",
+      "name": "Rock-crushing scrimshaw",
+      "breakdownNotes": "+2% crit (+3% if superior)<br />",
+      "label": "rockcrushingscrimshaw"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "mobile switch <img title=\"mob\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" /><br />",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/n9C7iSA.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "can be used to \"reduce\" Begone! hit damage <br />",
+      "label": "vitality4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "food to heal<br />",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "food to heal<br />",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "food to heal<br />",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "food to heal<br />",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bopHhxT.png",
+      "wikiLink": "https://runescape.wiki/w/Rocktail",
+      "name": "Rocktail",
+      "breakdownNotes": "food to heal<br />",
+      "label": "rocktail",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Ivcgjer.png",
+        "name": "Luck of the Dwarves",
+        "breakdownNotes": "",
+        "description": "You will always gain the effect of tier 4 luck.",
+        "label": "luckofthedwarves",
+        "energy": 200
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline.",
+        "label": "shadowsgrace",
+        "energy": 50
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/zLcXXcI.png",
+        "name": "Gargoyle",
+        "breakdownNotes": "",
+        "label": "gargoyle"
+      }
+    ]
+  }
+}

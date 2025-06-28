@@ -1,0 +1,325 @@
+{
+  "presetName": "Ripper Demons (Semi-AFK)",
+  "presetNotes": "Ancient Spellbook",
+  "equipmentSlots": [
+    {
+      "label": "cryptbloomhelm",
+      "image": "https://i.imgur.com/xNXHeIN.png",
+      "name": "Cryptbloom helm",
+      "breakdownNotes": "Animate Dead",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_helm"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "bloodfury",
+      "image": "https://i.imgur.com/lDrVrEd.png",
+      "name": "Blood amulet of fury",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blood_amulet_of_fury"
+    },
+    {
+      "label": "omniguard",
+      "image": "https://i.imgur.com/SzFvoQB.png",
+      "name": "Omni guard",
+      "breakdownNotes": "Aftershock 4",
+      "wikiLink": "https://runescape.wiki/w/Omni_guard"
+    },
+    {
+      "label": "deathwardenrobetopt90",
+      "image": "https://i.imgur.com/JkyJN48.png",
+      "name": "Deathwarden robe top (tier 90)",
+      "breakdownNotes": "Devoted 4, Impatient 4 | Invigorating 4, Mobile",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_top_(tier_90)"
+    },
+    {
+      "label": "skulllanternt90",
+      "image": "https://i.imgur.com/nEI3w2n.png",
+      "name": "Skull lantern (tier 90)",
+      "breakdownNotes": "Eruptive 4, Ruthless 3<br />(or Soulbound Lantern)",
+      "wikiLink": "https://runescape.wiki/w/Skull_lantern_(tier_90)"
+    },
+    {
+      "label": "deathwardenrobelegst90",
+      "image": "https://i.imgur.com/4KirFLg.png",
+      "name": "Deathwarden robe bottom (tier 90)",
+      "breakdownNotes": "Enhanced Devoted 4, Demon Slayer",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_legs_(tier_90)"
+    },
+    {
+      "label": "cinder",
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "Poison Damage",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+    },
+    {
+      "label": "cryptbloomboots",
+      "image": "https://i.imgur.com/1MkR1qn.png",
+      "name": "Cryptbloom boots",
+      "breakdownNotes": "Animate Dead",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_boots"
+    },
+    {
+      "label": "rod",
+      "image": "https://i.imgur.com/y5vAY4M.png",
+      "name": "Ring of death",
+      "breakdownNotes": "Extra Adrenaline + Life Save",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death"
+    },
+    {
+      "label": "graspingpouchpurple",
+      "image": "https://i.imgur.com/gCf8SPg.png",
+      "name": "Grasping rune pouch (purple)",
+      "breakdownNotes": "Animate Dead, Prism of Restoration",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(purple)"
+    },
+    {
+      "label": "inspiration",
+      "image": "https://i.imgur.com/KGFnFzQ.png",
+      "name": "Inspiration aura",
+      "breakdownNotes": "Extra Adrenaline (Important)",
+      "wikiLink": "https://runescape.wiki/w/Inspiration_aura"
+    },
+    {
+      "label": "scriptureofwen",
+      "image": "https://i.imgur.com/zd3mKfH.png",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "AOE Damage",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "ovl",
+      "image": "https://i.imgur.com/DGw6F36.png",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "Extra Damage and Accuracy",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)"
+    },
+    {
+      "label": "ovl",
+      "image": "https://i.imgur.com/DGw6F36.png",
+      "name": "Elder overload potion (6)",
+      "breakdownNotes": "Extra Damage and Accuracy",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)"
+    },
+    {
+      "label": "poison6",
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "Extra Poison Damage",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)"
+    },
+    {
+      "label": "excal",
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "Extra HP",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur"
+    },
+    null,
+    {
+      "label": "fellstalkincensesticks100",
+      "image": "https://i.imgur.com/nK9EU1V.png",
+      "name": "Fellstalk incense sticks",
+      "breakdownNotes": "Increases Elite Ripper Spawn",
+      "wikiLink": "https://runescape.wiki/w/Fellstalk_incense_sticks"
+    },
+    {
+      "label": "hellhound",
+      "image": "https://i.imgur.com/FPfRiAQ.png",
+      "name": "Binding contract (hellhound)",
+      "breakdownNotes": "Damage Reduction",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(hellhound)"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "label": "powderofpenance2",
+      "image": "https://i.imgur.com/w6hThUy.png",
+      "name": "Powder of penance",
+      "breakdownNotes": "Prayer Sustain",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance"
+    },
+    {
+      "label": "protectionpowder",
+      "image": "https://i.imgur.com/3SbxYpW.png",
+      "name": "Powder of protection",
+      "breakdownNotes": "Protect from Melee",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_protection"
+    },
+    {
+      "label": "springcleaner",
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001"
+    },
+    {
+      "label": "zemouregalsnexus",
+      "image": "https://i.imgur.com/3pFXvMR.png",
+      "name": "Zemoregal's Nexus",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus"
+    },
+    {
+      "label": "graspingpouchred",
+      "image": "https://i.imgur.com/6nJNred.png",
+      "name": "Grasping rune pouch (red)",
+      "breakdownNotes": "Animate Dead, Prism of Restoration",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(red)"
+    },
+    {
+      "label": "1knote",
+      "image": "https://i.imgur.com/8r07LbS.png",
+      "name": "Magic notepaper",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_notepaper"
+    },
+    null,
+    {
+      "label": "lantasticks",
+      "image": "https://i.imgur.com/LfpiRjg.png",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "Increased Overload Timer",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks"
+    },
+    {
+      "label": "kwuarmsticks",
+      "image": "https://i.imgur.com/Ba7yju8.png",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "Increased Poison Damage",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks"
+    },
+    {
+      "label": "cannon",
+      "image": "https://i.imgur.com/GTwVqeC.png",
+      "name": "Dwarven siege engine",
+      "breakdownNotes": "To aggro far away Ripper Demons<br />(Needs Restocking Cannon Upgrade)",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine"
+    },
+    {
+      "label": "cballs",
+      "image": "https://i.imgur.com/GrfjyE2.png",
+      "name": "Cannonballs",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs"
+    },
+    {
+      "label": "portableobelisk",
+      "image": "https://i.imgur.com/gKUbd5X.png",
+      "name": "Portable Obelisk",
+      "breakdownNotes": "Level 35 Wilderness, walk up",
+      "wikiLink": "https://runescape.wiki/w/Portable_Obelisk"
+    },
+    {
+      "label": "herbbag",
+      "image": "https://i.imgur.com/egmZjv0.png",
+      "name": "Herb bag",
+      "breakdownNotes": "Extra Inventory Space",
+      "wikiLink": "https://runescape.wiki/w/Herb_bag"
+    },
+    null,
+    {
+      "label": "vuln",
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "Use on Elite Ripper Demons",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs"
+    },
+    {
+      "label": "contracts",
+      "image": "https://i.imgur.com/KkIYNhk.png",
+      "name": "Binding contracts",
+      "breakdownNotes": "Take equivalent of how many Rippers you want to kill",
+      "wikiLink": "https://runescape.wiki/w/Binding_contracts"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/2KToagJ.png",
+        "name": "Death Note",
+        "breakdownNotes": "",
+        "description": "All guaranteed bone and ash drops are noted.",
+        "label": "deathnote",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)",
+        "label": "berserkersfury",
+        "energy": 250
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/A1BvfVb.png",
+        "name": "Hellhound",
+        "breakdownNotes": "",
+        "label": "hellhound"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

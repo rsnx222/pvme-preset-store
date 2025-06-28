@@ -1,0 +1,284 @@
+{
+  "presetName": "Minigames",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/gd1Ymwi.png",
+      "wikiLink": "https://runescape.wiki/w/Vanguard_helm",
+      "name": "Vanguard helm",
+      "breakdownNotes": "",
+      "label": "vanguardhelm"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/UB0lAK8.png",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet",
+      "name": "Essence of Finality amulet",
+      "breakdownNotes": "",
+      "label": "eof"
+    },
+    {
+      "image": "https://i.imgur.com/AjoZkV0.png",
+      "wikiLink": "https://runescape.wiki/w/Strykebow",
+      "name": "Strykebow",
+      "breakdownNotes": "",
+      "label": "strykebow"
+    },
+    {
+      "image": "https://i.imgur.com/Q8cyJsG.png",
+      "wikiLink": "https://runescape.wiki/w/Vanguard_body",
+      "name": "Vanguard body",
+      "breakdownNotes": "",
+      "label": "vanguardbody"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/CYnL1PJ.png",
+      "wikiLink": "https://runescape.wiki/w/Vanguard_legs",
+      "name": "Vanguard legs",
+      "breakdownNotes": "",
+      "label": "vanguardlegs"
+    },
+    {
+      "image": "https://i.imgur.com/goMzH9N.png",
+      "wikiLink": "https://runescape.wiki/w/Nightmare_gauntlets",
+      "name": "Nightmare gauntlets",
+      "breakdownNotes": "",
+      "label": "nightmare"
+    },
+    {
+      "image": "https://i.imgur.com/is3LA7E.png",
+      "wikiLink": "https://runescape.wiki/w/Vanguard_boots",
+      "name": "Vanguard boots",
+      "breakdownNotes": "",
+      "label": "vanguardboots"
+    },
+    {
+      "image": "https://i.imgur.com/auHIoIj.png",
+      "wikiLink": "https://runescape.wiki/w/Superior_leviathan_ring",
+      "name": "Superior leviathan ring",
+      "breakdownNotes": "",
+      "label": "superiorleviathanring"
+    },
+    {
+      "image": "https://i.imgur.com/JqXq1zD.png",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "name": "Pernix's Quiver (Black)",
+      "breakdownNotes": "Deathspore | Ful<br />",
+      "label": "pernixquiverblack"
+    },
+    {
+      "image": "https://i.imgur.com/3NtBQQA.png",
+      "wikiLink": "https://runescape.wiki/w/Aegis_aura",
+      "name": "Aegis aura",
+      "breakdownNotes": "",
+      "label": "aegisaura"
+    },
+    {
+      "image": "https://i.imgur.com/lPppoD4.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful",
+      "name": "Scripture of Ful",
+      "breakdownNotes": "",
+      "label": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/ysTivBO.png",
+      "wikiLink": "https://runescape.wiki/w/Noxious_staff",
+      "name": "Noxious staff",
+      "breakdownNotes": "",
+      "label": "noxstaff",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/iiBXivW.png",
+      "wikiLink": "https://runescape.wiki/w/Noxious_longbow",
+      "name": "Noxious longbow",
+      "breakdownNotes": "",
+      "label": "noxbow",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/DYr8pFK.png",
+      "wikiLink": "https://runescape.wiki/w/Noxious_scythe",
+      "name": "Noxious scythe",
+      "breakdownNotes": "",
+      "label": "scythe",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Air | Chaos | Nature | Soul<br />",
+      "label": "graspingpouchblack",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/YSj7H2I.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_prayer_flask#(6)",
+      "name": "Extreme prayer flask (6)",
+      "breakdownNotes": "",
+      "label": "extpray",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Swtl8pP.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_flask#(6)",
+      "name": "Adrenaline renewal flask (6)",
+      "breakdownNotes": "",
+      "label": "renewal6",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/zw4obTi.png",
+      "wikiLink": "https://runescape.wiki/w/Overload_salve#(6)",
+      "name": "Overload salve (6)",
+      "breakdownNotes": "",
+      "label": "overloadsalve",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/A1BvfVb.png",
+        "name": "Hellhound",
+        "breakdownNotes": "",
+        "label": "hellhound"
+      }
+    ]
+  }
+}

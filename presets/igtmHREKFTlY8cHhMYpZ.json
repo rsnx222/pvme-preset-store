@@ -1,0 +1,382 @@
+{
+  "presetName": "Skill Pure Master Preset",
+  "presetNotes": "This is a recommended clue preset for master clues, aimed at skill pures. Made by Zatox.<br /><br />Make sure to have totem active!",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/Uxr7Xcm.png",
+      "wikiLink": "https://runescape.wiki/w/Wicked_hood",
+      "name": "Wicked hood",
+      "breakdownNotes": "",
+      "label": "wickedhood"
+    },
+    {
+      "image": "https://i.imgur.com/9u3f0ws.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_backpack",
+      "name": "Globetrotter backpack",
+      "breakdownNotes": "Only use charges for masters",
+      "label": "globetrotterbackpack"
+    },
+    {
+      "image": "https://i.imgur.com/4KgPcpm.png",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves",
+      "name": "Grace of the elves",
+      "breakdownNotes": "Overgrown idols",
+      "label": "gote"
+    },
+    {
+      "image": "https://i.imgur.com/E2dLUWN.png",
+      "wikiLink": "https://runescape.wiki/w/Sceptre_of_the_gods",
+      "name": "Sceptre of the gods",
+      "breakdownNotes": "",
+      "label": "sceptreofthegods"
+    },
+    {
+      "image": "https://i.imgur.com/paFUjfv.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_jacket",
+      "name": "Globetrotter jacket",
+      "breakdownNotes": "Check guides on when to use charges",
+      "label": "globetrotterjacket"
+    },
+    {
+      "image": "https://i.imgur.com/K7gU5TK.png",
+      "wikiLink": "https://runescape.wiki/w/Off-hand_rubber_chicken",
+      "name": "Off-hand rubber chicken",
+      "breakdownNotes": "Mobile + glow worm",
+      "label": "offhandrubberchicken"
+    },
+    {
+      "image": "https://i.imgur.com/DvyUvd2.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_shorts",
+      "name": "Globetrotter shorts",
+      "breakdownNotes": "",
+      "label": "globetrottershorts"
+    },
+    {
+      "image": "https://i.imgur.com/TCZljWu.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_arm_guards",
+      "name": "Globetrotter arm guards",
+      "breakdownNotes": "",
+      "label": "globetrotterarmguards"
+    },
+    {
+      "image": "https://i.imgur.com/44J9f9V.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_boots",
+      "name": "Globetrotter boots",
+      "breakdownNotes": "",
+      "label": "globetrotterboots"
+    },
+    {
+      "image": "https://i.imgur.com/IHgyELp.png",
+      "wikiLink": "https://runescape.wiki/w/Dark_Facet_of_Luck",
+      "name": "Dark Facet of Luck",
+      "breakdownNotes": "",
+      "label": "facetofluck"
+    },
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/t1KMJMv.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "To gather more clues (optional)",
+      "label": "scriptureofbik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/beq0RtH.png",
+      "wikiLink": "https://runescape.wiki/w/Clue_scroll",
+      "name": "Active clue",
+      "breakdownNotes": "",
+      "label": "activeclue",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/zIwiuqt.png",
+      "wikiLink": "https://runescape.wiki/w/Meerkats_pouch",
+      "name": "Meerkats pouch",
+      "breakdownNotes": "Summon whenever a dig spawns agent/wizard",
+      "label": "meerkatspouch",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Dc1RbtE.png",
+      "wikiLink": "https://runescape.wiki/w/Meerkat_scroll_(Fetch_Casket)",
+      "name": "Meerkat scroll (Fetch Casket)",
+      "breakdownNotes": "",
+      "label": "meerkatscrolls500",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KPREDHT.png",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "label": "cluebag",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FN0XHFS.png",
+      "wikiLink": "https://runescape.wiki/w/Curly_root",
+      "name": "Curly root",
+      "breakdownNotes": "",
+      "label": "curlyroot",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/WYm7p9h.png",
+      "wikiLink": "https://runescape.wiki/w/Archaeology_teleport",
+      "name": "Archaeology teleport",
+      "breakdownNotes": "",
+      "label": "archaeologyteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/oN8HWIo.png",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_fish_extractor",
+      "name": "Dwarven fish extractor",
+      "breakdownNotes": "Set to double catch mode",
+      "label": "dwarvenfishextractor",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/oOIEwH0.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_logs",
+      "name": "Magic logs",
+      "breakdownNotes": "",
+      "label": "magiclogs",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/EuRZLF2.png",
+      "wikiLink": "https://runescape.wiki/w/Menaphos_journal",
+      "name": "Menaphos journal",
+      "breakdownNotes": "Have tablets added",
+      "label": "menaphosjournal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/S0ENqzv.png",
+      "wikiLink": "https://runescape.wiki/w/Toadflax_potion_(unf)",
+      "name": "Toadflax potion (unf)",
+      "breakdownNotes": "",
+      "label": "toadflaxpotionunf",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/JzxQM2m.png",
+      "wikiLink": "https://runescape.wiki/w/Crushed_nest",
+      "name": "Crushed nest",
+      "breakdownNotes": "",
+      "label": "crushednest",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/IilVMmp.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_logs",
+      "name": "Elder logs",
+      "breakdownNotes": "",
+      "label": "elderlogs",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/mqsH3xe.png",
+      "wikiLink": "https://runescape.wiki/w/Ectophial",
+      "name": "Ectophial",
+      "breakdownNotes": "",
+      "label": "ectophial",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/fAvXNbz.png",
+      "wikiLink": "https://runescape.wiki/w/Torstol_potion_(unf)",
+      "name": "Torstol potion (unf)",
+      "breakdownNotes": "",
+      "label": "torstolpotionunf",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8ka7wAu.png",
+      "wikiLink": "https://runescape.wiki/w/Jangerberries",
+      "name": "Jangerberries",
+      "breakdownNotes": "",
+      "label": "jangerberries",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/iwTl6xy.png",
+      "wikiLink": "https://runescape.wiki/w/Portable_fairy_ring#active",
+      "name": "Portable fairy ring",
+      "breakdownNotes": "",
+      "label": "portablefairyring(used)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/XCZuCaN.png",
+      "wikiLink": "https://runescape.wiki/w/Portable_fairy_ring#inactive",
+      "name": "Portable fairy ring (inactive)",
+      "breakdownNotes": "",
+      "label": "fairyring",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/sv8RnA7.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_tree_re-rooter#active",
+      "name": "Spirit tree re-rooter",
+      "breakdownNotes": "",
+      "label": "spirittreere-rooter(used)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/z0Yiyhk.png",
+      "wikiLink": "https://runescape.wiki/w/Disk_of_returning_(Gower_Quest)",
+      "name": "Disk of returning",
+      "breakdownNotes": "",
+      "label": "diskofreturning",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Qp0s9G2.png",
+      "wikiLink": "https://runescape.wiki/w/Passage_of_the_Abyss_(red)",
+      "name": "Passage of the Abyss (red)",
+      "breakdownNotes": "",
+      "label": "passageoftheabyss(red)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/OD2ylaK.png",
+      "wikiLink": "https://runescape.wiki/w/Passage_of_the_Abyss_(yellow)",
+      "name": "Passage of the Abyss (yellow)",
+      "breakdownNotes": "",
+      "label": "passageoftheabyss(yellow)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/eirYlnU.png",
+      "wikiLink": "https://runescape.wiki/w/The_Heart_teleport",
+      "name": "The Heart teleport",
+      "breakdownNotes": "",
+      "label": "theheartteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/SazXdzN.png",
+      "wikiLink": "https://runescape.wiki/w/Costume_skipping_ticket",
+      "name": "Costume skipping ticket",
+      "breakdownNotes": "For when first step of a new clue is emote clue",
+      "label": "costumeskippingticket",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/sOfnUEX.png",
+      "wikiLink": "https://runescape.wiki/w/Arc_journal",
+      "name": "Arc journal",
+      "breakdownNotes": "<span>Have tablets added</span>",
+      "label": "arcjournal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Ca8KMuK.png",
+      "wikiLink": "https://runescape.wiki/w/Dungeoneering_cape_(t)",
+      "name": "Dungeoneering cape (t)",
+      "breakdownNotes": "",
+      "label": "dungeoneeringcape",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PYRyglW.png",
+      "wikiLink": "https://runescape.wiki/w/Mask_of_the_Ganodermic",
+      "name": "Mask of the Ganodermic",
+      "breakdownNotes": "To tele near Ramokee Skinweaver",
+      "label": "maskoftheganodermic",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "label": "sara",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "description": "Increases maximum health by 500.",
+        "label": "fontoflife",
+        "energy": 50
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "https://i.imgur.com/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline.",
+        "label": "shadowsgrace",
+        "energy": 50
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/cOwxYnD.png",
+        "name": "Meerkats",
+        "breakdownNotes": "",
+        "label": "meerkats"
+      }
+    ]
+  }
+}

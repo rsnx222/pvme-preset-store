@@ -1,0 +1,392 @@
+{
+  "presetName": "giant mole basic magic",
+  "presetNotes": "dive <img title=\"dive\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1049378668197195808.png?v=1\" />, double <img title=\"surge\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/535533810004262912.png?v=1\" /> and shadow's grace relic (or mobile perk) would be helpful moving around the arena.<br />",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/gfBW8r7.png",
+      "wikiLink": "https://runescape.wiki/w/Hood_of_subjugation",
+      "name": "Hood of subjugation",
+      "breakdownNotes": "",
+      "label": "subjhood"
+    },
+    {
+      "image": "https://i.imgur.com/N3KChO6.png",
+      "wikiLink": "https://runescape.wiki/w/God_capes",
+      "name": "Guthix or Saradomin or Zamorak cape",
+      "breakdownNotes": "obsidian cape or legends cape are good alternatives<br />",
+      "label": "godcape"
+    },
+    {
+      "image": "https://i.imgur.com/gawFoAi.png",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_glory",
+      "name": "Amulet of glory",
+      "breakdownNotes": "stat bonus<br />",
+      "label": "amuletofglory"
+    },
+    {
+      "image": "https://i.imgur.com/EY9Nl4R.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_staff",
+      "name": "Guthix staff",
+      "breakdownNotes": "T70 crystal weaponry can also be used! Also has a useful special attack for increasing your hit chance<br />",
+      "label": "gstaff"
+    },
+    {
+      "image": "https://i.imgur.com/xaiyx7X.png",
+      "wikiLink": "https://runescape.wiki/w/Garb_of_subjugation",
+      "name": "Garb of subjugation",
+      "breakdownNotes": "Subjugation armour provides a stat bonus. Feel free to use lunar armour or (superior) skeletal armour instead.",
+      "label": "subjgarb"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/OprqhH8.png",
+      "wikiLink": "https://runescape.wiki/w/Gown_of_subjugation",
+      "name": "Gown of subjugation",
+      "breakdownNotes": "",
+      "label": "subjgown"
+    },
+    {
+      "image": "https://i.imgur.com/dzW7KB4.png",
+      "wikiLink": "https://runescape.wiki/w/Gloves_of_subjugation",
+      "name": "Gloves of subjugation",
+      "breakdownNotes": "",
+      "label": "subjgloves"
+    },
+    {
+      "image": "https://i.imgur.com/7XWA1eE.png",
+      "wikiLink": "https://runescape.wiki/w/Boots_of_subjugation",
+      "name": "Boots of subjugation",
+      "breakdownNotes": "",
+      "label": "subjboots"
+    },
+    {
+      "image": "https://i.imgur.com/aKOEeRs.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_Fortune",
+      "name": "Ring of Fortune",
+      "breakdownNotes": "stat bonus<br />",
+      "label": "ringoffortune"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/F6Q8fGK.png",
+      "wikiLink": "https://runescape.wiki/w/Book_of_chaos",
+      "name": "Book of chaos",
+      "breakdownNotes": "any god book, or underworld grimoire. purely for the stat bonus<br />",
+      "label": "zammygodbook2"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/SgGHcx0.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_Magic#(4)",
+      "name": "Extreme magic (4)",
+      "breakdownNotes": "",
+      "label": "extmagic",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/DUhcOW3.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_Defence#(4)",
+      "name": "Extreme defence (4)",
+      "breakdownNotes": "",
+      "label": "extdefence",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "name": "Super restore (4)",
+      "breakdownNotes": "for restoring prayer points<br />",
+      "label": "restore4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "name": "Super restore (4)",
+      "breakdownNotes": "for restoring prayer points<br />",
+      "label": "restore4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GwrVt6.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "name": "Super restore (4)",
+      "breakdownNotes": "for restoring prayer points<br />",
+      "label": "restore4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/CR06fbn.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(4)",
+      "name": "Weapon poison+++ (4)",
+      "breakdownNotes": "",
+      "label": "poison4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GNzR4sU.png",
+      "wikiLink": "https://runescape.wiki/w/Expensive_spices",
+      "name": "Expensive spices",
+      "breakdownNotes": "makes every bite heal a bit more<br />",
+      "label": "spices",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "panic food",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "panic food",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "panic food",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "panic food",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "eating these doesn't drain adrenaline<br />",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "panic food",
+      "label": "shark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "name": "Shark",
+      "breakdownNotes": "panic food",
+      "label": "shark",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/hpjldw8.png",
+        "name": "Bunyip",
+        "breakdownNotes": "",
+        "label": "bunyip"
+      }
+    ]
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "presetName": "Telos FSOA Preset",
+  "presetNotes": "Elder Overload and Weapon Poison+++ should be applied at bank pre-fight.<div><br /></div><div>If desired, can use Staff of Light EoF pre-fight at War's Retreat crystals for more comfortable P1 HP.</div>",
+  "equipmentSlots": [
+    {
+      "label": "etectohelm",
+      "image": "https://i.imgur.com/iPtkkKN.png",
+      "name": "Elite tectonic mask",
+      "breakdownNotes": "Downgrade if required.",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_mask"
+    },
+    {
+      "label": "kalmej",
+      "image": "https://i.imgur.com/v4dRHBk.png",
+      "name": "Igneous Kal-Mej",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mej"
+    },
+    {
+      "label": "eofblackunorn",
+      "image": "https://i.imgur.com/jRuWtdl.png",
+      "name": "Essence of Finality amulet (black)",
+      "breakdownNotes": "Statius Warhammer special attack.<br /><span>Applied P1, and optionally P4 if using slow rots.</span><br />",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet_(black)"
+    },
+    {
+      "label": "pwand",
+      "image": "https://i.imgur.com/kyKIKBC.png",
+      "name": "Wand of the praesul",
+      "breakdownNotes": "Downgrade as required.",
+      "wikiLink": "https://runescape.wiki/w/Wand_of_the_praesul"
+    },
+    {
+      "label": "etectotop",
+      "image": "https://i.imgur.com/NftWcLQ.png",
+      "name": "Elite tectonic robe top",
+      "breakdownNotes": "Downgrade if required.",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_top"
+    },
+    {
+      "label": "lantern",
+      "image": "https://i.imgur.com/v9ceVpM.png",
+      "name": "Ancient lantern",
+      "breakdownNotes": "DPS perks, e.g. EQ4, or AS4(e2/r1)",
+      "wikiLink": "https://runescape.wiki/w/Ancient_lantern"
+    },
+    {
+      "label": "etectolegs",
+      "image": "https://i.imgur.com/0TXtWf2.png",
+      "name": "Elite tectonic robe bottom",
+      "breakdownNotes": "Downgrade if required.",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_bottom"
+    },
+    {
+      "label": "cinder",
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+    },
+    {
+      "label": "diffusion",
+      "image": "https://i.imgur.com/2VPk1SN.png",
+      "name": "Blast diffusion boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blast_diffusion_boots"
+    },
+    {
+      "label": "channellerring",
+      "image": "https://i.imgur.com/Zs7j4JG.png",
+      "name": "Channeller's ring",
+      "breakdownNotes": "Ideally with Enchantment of Metaphysics. Can use Ring of Death/ASR if not owned.",
+      "wikiLink": "https://runescape.wiki/w/Channeller's_ring"
+    },
+    {
+      "label": "graspingpouchblue",
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)"
+    },
+    {
+      "label": "mani",
+      "image": "https://i.imgur.com/5fIllNu.png",
+      "name": "Maniacal aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Maniacal_aura"
+    },
+    {
+      "label": "grim",
+      "image": "https://i.imgur.com/eAO0PdY.png",
+      "name": "Erethdor's grimoire",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "fsoa",
+      "image": "https://i.imgur.com/AI12yBk.png",
+      "name": "Fractured Staff of Armadyl",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fractured_Staff_of_Armadyl"
+    },
+    {
+      "label": "tectolegs",
+      "image": "https://i.imgur.com/pY0WMur.png",
+      "name": "Tectonic robe bottom",
+      "breakdownNotes": "Clear Headed 4 and Turtling 4",
+      "wikiLink": "https://runescape.wiki/w/Tectonic_robe_bottom"
+    },
+    {
+      "label": "vitality4",
+      "image": "https://i.imgur.com/n9C7iSA.png",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)"
+    },
+    {
+      "label": "dummy",
+      "image": "https://i.imgur.com/Dgtgp4n.png",
+      "name": "Combat dummy MKII",
+      "breakdownNotes": "If pre-building before P1.",
+      "wikiLink": "https://runescape.wiki/w/Combat_dummy_MKII"
+    },
+    {
+      "label": "spiritual",
+      "image": "https://i.imgur.com/PFLToHh.png",
+      "name": "Spiritual prayer (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)"
+    },
+    {
+      "label": "spiritual",
+      "image": "https://i.imgur.com/PFLToHh.png",
+      "name": "Spiritual prayer (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)"
+    },
+    {
+      "label": "spiritual",
+      "image": "https://i.imgur.com/PFLToHh.png",
+      "name": "Spiritual prayer (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)"
+    },
+    {
+      "label": "inq",
+      "image": "https://i.imgur.com/My8VkUX.png",
+      "name": "Inquisitor staff",
+      "breakdownNotes": "With Enchantment of Affliction unlocked.",
+      "wikiLink": "https://runescape.wiki/w/Inquisitor_staff"
+    },
+    {
+      "label": "eofpurpleunorn",
+      "image": "https://i.imgur.com/5NxOiAg.png",
+      "name": "Essence of Finality amulet (purple)",
+      "breakdownNotes": "Guthix Staff special attack.",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet_(purple)"
+    },
+    {
+      "label": "vuln",
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs"
+    },
+    {
+      "label": "renewal4",
+      "image": "https://i.imgur.com/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)"
+    },
+    {
+      "label": "sara",
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "Can substitute w/ Super Brew if pushing enrage.",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)"
+    },
+    {
+      "label": "sara",
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "Can substitute w/ Super Brew if pushing enrage.",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)"
+    },
+    {
+      "label": "sara",
+      "image": "https://i.imgur.com/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "Can substitute w/ Super Brew if pushing enrage.",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)"
+    },
+    {
+      "label": "core",
+      "image": "https://i.imgur.com/rvFepeU.png",
+      "name": "Imperium core",
+      "breakdownNotes": "Downgrade as required.",
+      "wikiLink": "https://runescape.wiki/w/Imperium_core"
+    },
+    {
+      "label": "graspingpouchpink",
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)"
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)"
+    },
+    {
+      "label": "attunedportentofrestorationx",
+      "image": "https://i.imgur.com/SRVgAXl.png",
+      "name": "Attuned portent of restoration X",
+      "breakdownNotes": "Increases survivability of P1/2.",
+      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x"
+    },
+    {
+      "label": "sailfish",
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "Can substitute w/ Soup if pushing enrage.",
+      "wikiLink": "https://runescape.wiki/w/Sailfish"
+    },
+    {
+      "label": "sailfish",
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "Can substitute w/ Soup if pushing enrage.",
+      "wikiLink": "https://runescape.wiki/w/Sailfish"
+    },
+    {
+      "label": "sailfish",
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "Can substitute w/ Soup if pushing enrage.",
+      "wikiLink": "https://runescape.wiki/w/Sailfish"
+    },
+    {
+      "label": "mhbd",
+      "image": "https://i.imgur.com/lKCXPDn.png",
+      "name": "Melee Mainhand",
+      "breakdownNotes": "Required to Hammer P1",
+      "wikiLink": "https://runescape.wiki/w/Weapon/Melee_weapons#Types"
+    },
+    {
+      "label": "excal",
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "Used to stall @ Font 2 + healing before P5.",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur"
+    },
+    {
+      "label": "attunedportentofrestorationx",
+      "image": "https://i.imgur.com/SRVgAXl.png",
+      "name": "Attuned portent of restoration X",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x"
+    },
+    {
+      "label": "attunedportentofrestorationx",
+      "image": "https://i.imgur.com/SRVgAXl.png",
+      "name": "Attuned portent of restoration X",
+      "breakdownNotes": "Increases survivability of P1/2.",
+      "wikiLink": "https://runescape.wiki/w/Attuned_portent_of_restoration_x"
+    },
+    {
+      "label": "sailfish",
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "Can substitute w/ Soup if pushing enrage.",
+      "wikiLink": "https://runescape.wiki/w/Sailfish"
+    },
+    {
+      "label": "sailfish",
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "Can substitute w/ Soup if pushing enrage.",
+      "wikiLink": "https://runescape.wiki/w/Sailfish"
+    },
+    {
+      "label": "sailfish",
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "Can substitute w/ Soup if pushing enrage.",
+      "wikiLink": "https://runescape.wiki/w/Sailfish"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "label": "deathward",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": "",
+        "label": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

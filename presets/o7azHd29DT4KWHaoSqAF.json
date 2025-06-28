@@ -1,0 +1,279 @@
+{
+  "presetName": "AFK Vindicta (Melee)",
+  "presetNotes": "<br />",
+  "equipmentSlots": [
+    {
+      "label": "vestmenthood",
+      "image": "https://i.imgur.com/EVh5SwD.png",
+      "name": "Vestments of havoc hood",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_hood"
+    },
+    {
+      "label": "kalket",
+      "image": "https://i.imgur.com/bfzX8Up.png",
+      "name": "Igneous Kal-Ket",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Ket"
+    },
+    {
+      "label": "eof",
+      "image": "https://i.imgur.com/UB0lAK8.png",
+      "name": "Essence of Finality amulet",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet"
+    },
+    {
+      "label": "abyssalscourge",
+      "image": "https://i.imgur.com/Moh9yya.png",
+      "name": "Abyssal scourge",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Abyssal_scourge"
+    },
+    {
+      "label": "vestmentbody",
+      "image": "https://i.imgur.com/E5ptfu6.png",
+      "name": "Vestments of havoc robe top",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_top"
+    },
+    {
+      "label": "lengoh",
+      "image": "https://i.imgur.com/LAVYvrE.png",
+      "name": "Dark Sliver of Leng",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dark_Sliver_of_Leng"
+    },
+    {
+      "label": "vestmentlegs",
+      "image": "https://i.imgur.com/mz7GwWF.png",
+      "name": "Vestments of havoc robe bottom",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_bottom"
+    },
+    {
+      "label": "glovesofpassage",
+      "image": "https://i.imgur.com/U4Wa7vb.png",
+      "name": "Gloves of passage",
+      "breakdownNotes": "Enhanced preferred",
+      "wikiLink": "https://runescape.wiki/w/Gloves_of_passage"
+    },
+    {
+      "label": "vestmentboots",
+      "image": "https://i.imgur.com/FarIA5V.png",
+      "name": "Vestments of havoc boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_boots"
+    },
+    {
+      "label": "championring",
+      "image": "https://i.imgur.com/cc9GxHt.png",
+      "name": "Champion's ring",
+      "breakdownNotes": "<span>Enhanced preferred</span>",
+      "wikiLink": "https://runescape.wiki/w/Champion's_ring"
+    },
+    {
+      "label": "graspingpouch",
+      "image": "https://i.imgur.com/Mk7jbjC.png",
+      "name": "Grasping rune pouch",
+      "breakdownNotes": "Prayer bonus only",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch"
+    },
+    {
+      "label": "penance",
+      "image": "https://i.imgur.com/dMPY1FJ.png",
+      "name": "Penance aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Penance_aura"
+    },
+    {
+      "label": "scriptureofful",
+      "image": "https://i.imgur.com/lPppoD4.png",
+      "name": "Scripture of Ful",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "potionreservoir",
+      "image": "https://i.imgur.com/uIF03Iz.png",
+      "name": "Potion reservoir",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#active"
+    },
+    {
+      "label": "potionreservoir2",
+      "image": "https://i.imgur.com/af9O4EM.png",
+      "name": "Potion reservoir (inactive)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#inactive"
+    },
+    null,
+    null,
+    null,
+    {
+      "label": "enhluck",
+      "image": "https://i.imgur.com/wsYgZsb.png",
+      "name": "Enhanced luck potion",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_luck_potion"
+    },
+    {
+      "label": "powderofpenance2",
+      "image": "https://i.imgur.com/w6hThUy.png",
+      "name": "Powder of penance",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance"
+    },
+    {
+      "label": "salve",
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)"
+    },
+    {
+      "label": "salve",
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "label": "abyssalspikes",
+      "image": "https://i.imgur.com/0WBnZ62.png",
+      "name": "Abyssal armour spikes (alloy)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Abyssal_armour_spikes_(alloy)"
+    },
+    {
+      "label": "wrench",
+      "image": "https://i.imgur.com/UVffd75.png",
+      "name": "Holy wrench",
+      "breakdownNotes": "Optional",
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "label": "sailfish",
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "Panic food",
+      "wikiLink": "https://runescape.wiki/w/Sailfish"
+    },
+    {
+      "label": "springcleaner",
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "<span>Optional</span>",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001"
+    },
+    {
+      "label": "excal",
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "label": "sailfish",
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "Panic food",
+      "wikiLink": "https://runescape.wiki/w/Sailfish"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained.",
+        "label": "persistentrage",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/KWIawjY.png",
+        "name": "Legendary Pet (Scavenge)",
+        "breakdownNotes": "",
+        "label": "legendpetscav"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

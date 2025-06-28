@@ -1,0 +1,393 @@
+{
+  "presetName": "Zamorak 500% Ranged camp",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "esirenichelm",
+      "image": "https://i.imgur.com/G447lCn.png",
+      "name": "Elite sirenic mask",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Elite_sirenic_mask"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "eofgreen",
+      "image": "https://i.imgur.com/LhMlWmw.png",
+      "name": "EoF - Dark bow",
+      "breakdownNotes": "Eldritch Crossbow",
+      "wikiLink": "https://runescape.wiki/w/Dark_bow"
+    },
+    {
+      "label": "bolg",
+      "image": "https://i.imgur.com/GkhQHSj.png",
+      "name": "Bow of the Last Guardian",
+      "breakdownNotes": "Precise 6 - Aftershock 1 | Caroming 4 -Eruptive 2",
+      "wikiLink": "https://runescape.wiki/w/Bow_of_the_Last_Guardian"
+    },
+    {
+      "label": "esirenictop",
+      "image": "https://i.imgur.com/t4jnVcX.png",
+      "name": "Elite sirenic hauberk",
+      "breakdownNotes": "Relentless 5 - Crackling 4 | Biting 4 - Mobile",
+      "wikiLink": "https://runescape.wiki/w/Elite_sirenic_hauberk"
+    },
+    null,
+    {
+      "label": "esireniclegs",
+      "image": "https://i.imgur.com/RTW90Dv.png",
+      "name": "Elite sirenic chaps",
+      "breakdownNotes": "Devote 4 - Impatient 4 | Lucky 6 -Crystal Shield 1",
+      "wikiLink": "https://runescape.wiki/w/Elite_sirenic_chaps"
+    },
+    {
+      "label": "edracolichvambs",
+      "image": "https://i.imgur.com/zJ2WxLa.png",
+      "name": "Elite Dracolich vambraces",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_vambraces"
+    },
+    {
+      "label": "edracolichboots",
+      "image": "https://i.imgur.com/07vxUMy.png",
+      "name": "Elite Dracolich boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_boots"
+    },
+    {
+      "label": "stalkerring",
+      "image": "https://i.imgur.com/xRj7mKb.png",
+      "name": "Stalker's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Stalker's_ring"
+    },
+    {
+      "label": "pernixquiverblue",
+      "image": "https://i.imgur.com/X5AcgQh.png",
+      "name": "Pernix's Quiver (Blue)",
+      "breakdownNotes": "Wen arrows | Ful arrows",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver"
+    },
+    {
+      "label": "mahj",
+      "image": "https://i.imgur.com/br11PCq.png",
+      "name": "Mahjarrat aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Mahjarrat_aura"
+    },
+    {
+      "label": "grim",
+      "image": "https://i.imgur.com/eAO0PdY.png",
+      "name": "Erethdor's grimoire",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "excal",
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "salve",
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "renewal4",
+      "image": "https://i.imgur.com/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "selected": false
+    },
+    {
+      "label": "blessed",
+      "image": "https://i.imgur.com/FVmxMkH.png",
+      "name": "Blessed flask",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blessed_flask",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblue",
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Soul | Chaos | Air | Water",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchred",
+      "image": "https://i.imgur.com/6nJNred.png",
+      "name": "Grasping rune pouch (red)",
+      "breakdownNotes": "<span>Blood | Astral | Body | Fire</span>",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(red)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Death | Law | Cosmic | Earth",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "selected": false
+    },
+    {
+      "label": "eofblue",
+      "image": "https://i.imgur.com/zAiXkJn.png",
+      "name": "EoF - Seren godbow",
+      "breakdownNotes": "Seren godbow",
+      "wikiLink": "https://runescape.wiki/w/Seren_godbow",
+      "selected": false
+    },
+    {
+      "label": "eofblack",
+      "image": "https://i.imgur.com/iZw3Uee.png",
+      "name": "EoF - Statius warhammer",
+      "breakdownNotes": "Dark bow",
+      "wikiLink": "https://runescape.wiki/w/Statius_warhammer",
+      "selected": false
+    },
+    {
+      "label": "eofyellow",
+      "image": "https://i.imgur.com/hiC7f5F.png",
+      "name": "EoF -  Armadyl Battlestaff",
+      "breakdownNotes": "Zamorak Bow",
+      "wikiLink": "https://runescape.wiki/w/Armadyl_Battlestaff",
+      "selected": false
+    },
+    {
+      "label": "vuln",
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "selected": false
+    },
+    {
+      "label": "grest",
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "Usar Saradomin brews mientras se acostumbra al daño recibido.",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "selected": false
+    },
+    {
+      "label": "grest",
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "Usar Saradomin brews mientras se acostumbra al daño recibido.",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "selected": false
+    },
+    {
+      "label": "grest",
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "Usar Saradomin brews mientras se acostumbra al daño recibido.",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "selected": false
+    },
+    {
+      "label": "nips",
+      "image": "https://i.imgur.com/PzFKnJF.png",
+      "name": "Dreadnip",
+      "breakdownNotes": "Ayuda a que la barra gris de zamorak se phaseé y que tu siguiente habilidad no se anule.",
+      "wikiLink": "https://runescape.wiki/w/Dreadnip",
+      "selected": false
+    },
+    {
+      "label": "pernixquiverblack",
+      "image": "https://i.imgur.com/JqXq1zD.png",
+      "name": "Pernix's Quiver (Black)",
+      "breakdownNotes": "Deathspore arrows",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "selected": false
+    },
+    {
+      "label": "rod",
+      "image": "https://i.imgur.com/y5vAY4M.png",
+      "name": "Ring of death",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death",
+      "selected": false
+    },
+    {
+      "label": "zemouregalsnexus",
+      "image": "https://i.imgur.com/3pFXvMR.png",
+      "name": "Zemoregal's Nexus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "roarofawakening",
+      "image": "https://i.imgur.com/cqCp4Ar.png",
+      "name": "Roar of Awakening",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening",
+      "selected": false
+    },
+    {
+      "label": "odetodeceit",
+      "image": "https://i.imgur.com/AFimQTj.png",
+      "name": "Ode to Deceit",
+      "breakdownNotes": "Para usar soulfire spec si vida gris es muy alta",
+      "wikiLink": "https://runescape.wiki/w/Ode_to_Deceit",
+      "selected": false
+    },
+    {
+      "label": "vitality4",
+      "image": "https://i.imgur.com/n9C7iSA.png",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
+      "selected": false
+    },
+    {
+      "label": "sailfish",
+      "image": "https://i.imgur.com/qocLc4k.png",
+      "name": "Sailfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/DjyfvR1.png",
+        "name": "Heightened Senses",
+        "breakdownNotes": "",
+        "description": "Increases maximum adrenaline by 10%.",
+        "label": "heightenedsenses",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "https://i.imgur.com/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "label": "fontoflife",
+        "energy": 50
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": "",
+        "label": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

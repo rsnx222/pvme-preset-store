@@ -1,0 +1,385 @@
+{
+  "presetName": "Spiritual Warriors alt",
+  "presetNotes": "<div>Your herb bag will get filled, but it won't require extra inputs<br /><br />Can use a legendary pet to pick up armour pieces, and ghostly essense<br /></div>",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/iyXqN3S.png",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_goggles",
+      "name": "Ghost hunter goggles",
+      "breakdownNotes": "",
+      "label": "ghostgoggles"
+    },
+    {
+      "image": "https://i.imgur.com/zNu0qYb.png",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_backpack",
+      "name": "Ghost hunter backpack",
+      "breakdownNotes": "",
+      "label": "ghostbackpack"
+    },
+    {
+      "image": "https://i.imgur.com/WIvPDaE.png",
+      "wikiLink": "https://runescape.wiki/w/Arcane_blood_necklace",
+      "name": "Arcane blood necklace",
+      "breakdownNotes": "",
+      "label": "mageblood"
+    },
+    {
+      "image": "https://i.imgur.com/My8VkUX.png",
+      "wikiLink": "https://runescape.wiki/w/Inquisitor_staff",
+      "name": "Inquisitor staff",
+      "breakdownNotes": "Caroming 4 Precise 2 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/791281588792590336.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1084799750416637993.png?v=1\" /> + Equilibrium 4 Ruthless 3 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088589627505.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" />",
+      "label": "inq"
+    },
+    {
+      "image": "https://i.imgur.com/cau9oLa.png",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_top",
+      "name": "Virtus robe top",
+      "breakdownNotes": "Biting 4 Undead Slayer <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087809617931.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502804720615441.png?v=1\" /> + Scavenging 4 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1005934140669046824.png?v=1\" />",
+      "label": "virtustop"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/Cn2x2Mi.png",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_legs",
+      "name": "Ghost hunter legs",
+      "breakdownNotes": "",
+      "label": "ghostlegs"
+    },
+    {
+      "image": "https://i.imgur.com/dzW7KB4.png",
+      "wikiLink": "https://runescape.wiki/w/Gloves_of_subjugation",
+      "name": "Gloves of subjugation",
+      "breakdownNotes": "",
+      "label": "subjgloves"
+    },
+    {
+      "image": "https://i.imgur.com/7XWA1eE.png",
+      "wikiLink": "https://runescape.wiki/w/Boots_of_subjugation",
+      "name": "Boots of subjugation",
+      "breakdownNotes": "",
+      "label": "subjboots"
+    },
+    {
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "label": "reaverring"
+    },
+    {
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire<br />Runes for Air Surge <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/543465115870035999.png?v=1\" />",
+      "label": "graspingpouchblue"
+    },
+    null,
+    {
+      "image": "https://i.imgur.com/FLYAOEf.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Jas",
+      "name": "Scripture of Jas",
+      "breakdownNotes": "",
+      "label": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/RsOriXw.png",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "label": "aggroverload",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/MivUk5T.png",
+      "wikiLink": "https://runescape.wiki/w/Slayer_codex",
+      "name": "Slayer codex",
+      "breakdownNotes": "Teleport to house tablets work.<br />",
+      "label": "scodex",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/uIF03Iz.png",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#active",
+      "name": "Potion reservoir",
+      "breakdownNotes": "Use on Aggroverload.",
+      "label": "potionreservoir",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Uh2BO7T.png",
+      "wikiLink": "https://runescape.wiki/w/Whetstone",
+      "name": "Whetstone",
+      "breakdownNotes": "",
+      "label": "whetstone",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/e0vL3ur.png",
+      "wikiLink": "https://runescape.wiki/w/XP_Capacitor_5000#Charging",
+      "name": "XP Capacitor 5000 (Charging)",
+      "breakdownNotes": "You can bring up to three.<br />",
+      "label": "xpcapacitor5000charging",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/egmZjv0.png",
+      "wikiLink": "https://runescape.wiki/w/Herb_bag",
+      "name": "Herb bag",
+      "breakdownNotes": "",
+      "label": "herbbag",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "label": "springcleaner",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/Ivcgjer.png",
+        "name": "Luck of the Dwarves",
+        "breakdownNotes": "",
+        "label": "luckofthedwarves",
+        "energy": 200
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/KWIawjY.png",
+        "name": "Legendary Pet (Scavenge)",
+        "breakdownNotes": "",
+        "label": "legendpetscav"
+      }
+    ]
+  }
+}

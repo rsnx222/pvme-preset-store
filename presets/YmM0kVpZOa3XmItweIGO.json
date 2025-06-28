@@ -1,0 +1,341 @@
+{
+  "presetName": "Rasial t90",
+  "presetNotes": "Using <img title=\"hellhoundpouch\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/921410226475925514.png?v=1\" /> will result in more damage mitigation, but a lower hit chance if below 106 <img title=\"necromancy\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1148995625896120460.png?v=1\" /><br /><br />If below 106 <img title=\"necromancy\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1148995625896120460.png?v=1\" /> can use <img title=\"icenihil\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/854475442164334592.png?v=1\" /><br /><br />If <img title=\"coe\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/697808773711921195.png?v=1\" /> isn't owned, use <img title=\"invigaura\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643505652865695767.png?v=1\" />",
+  "equipmentSlots": [
+    {
+      "label": "deathdealerhoodt80",
+      "image": "https://i.imgur.com/bCw4Kdq.png",
+      "name": "Deathdealer hood (tier 80)",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_hood_(tier_80)"
+    },
+    {
+      "label": "kalmor",
+      "image": "https://i.imgur.com/bIV6C4o.png",
+      "name": "Igneous Kal-Mor",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mor"
+    },
+    {
+      "label": "salvee",
+      "image": "https://i.imgur.com/qbsFxuG.png",
+      "name": "Salve amulet (e)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Salve_amulet_(e)"
+    },
+    {
+      "label": "deathguardt90",
+      "image": "https://i.imgur.com/tosZimW.png",
+      "name": "Death guard (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Death_guard_(tier_90)"
+    },
+    {
+      "label": "deathdealerrobetopt80",
+      "image": "https://i.imgur.com/qQTupff.png",
+      "name": "Deathdealer robe top (tier 80)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_robe_top_(tier_80)"
+    },
+    {
+      "label": "skulllanternt90",
+      "image": "https://i.imgur.com/nEI3w2n.png",
+      "name": "Skull lantern (tier 90)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Skull_lantern_(tier_90)"
+    },
+    {
+      "label": "deathdealerrobebottomt80",
+      "image": "https://i.imgur.com/PUqNMhg.png",
+      "name": "Deathdealer robe bottom (tier 80)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_robe_bottom_(tier_80)"
+    },
+    {
+      "label": "deathdealerglovest80",
+      "image": "https://i.imgur.com/cjWgU7S.png",
+      "name": "Deathdealer gloves (tier 80)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_gloves_(tier_80)"
+    },
+    {
+      "label": "deathdealerbootst80",
+      "image": "https://i.imgur.com/yYh2E9i.png",
+      "name": "Deathdealer boots (tier 80)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_boots_(tier_80)"
+    },
+    {
+      "label": "occulistsring",
+      "image": "https://i.imgur.com/bCYjo7u.png",
+      "name": "Occulist's Ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Occultist%27s_ring"
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul<br />",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)"
+    },
+    {
+      "label": "equilibriumaura",
+      "image": "https://i.imgur.com/a3Up2sd.png",
+      "name": "Equilibrium aura",
+      "breakdownNotes": "If <img title=\"coe\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/697808773711921195.png?v=1\" /> isn't owned, use <img title=\"invigaura\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643505652865695767.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Equilibrium_aura"
+    },
+    {
+      "label": "scriptureofjas",
+      "image": "https://i.imgur.com/FLYAOEf.png",
+      "name": "Scripture of Jas",
+      "breakdownNotes": "May be replaced with <img title=\"scriptureofful\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/902209626412560395.png?v=1\" /><br />",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Jas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "spectral",
+      "image": "https://i.imgur.com/Z4BttRK.png",
+      "name": "Spectral spirit shield",
+      "breakdownNotes": "For <img title=\"divert\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/787904334377648130.png?v=1\" /> if <img title=\"zemonexus\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1179716261681307728.png?v=1\" /> is not owned.<br />",
+      "wikiLink": "https://runescape.wiki/w/Spectral_spirit_shield"
+    },
+    null,
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish"
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish"
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish"
+    },
+    {
+      "label": "grest",
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "Can be replaced with <img title=\"brew\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/565726489400573962.png?v=1\" /> or <img title=\"supergrest\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/690140078407680059.png?v=1\" /><br />",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest"
+    },
+    {
+      "label": "grest",
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "Can be replaced with <img title=\"brew\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/565726489400573962.png?v=1\" /> or <img title=\"supergrest\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/690140078407680059.png?v=1\" /><br />",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest"
+    },
+    null,
+    null,
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish"
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish"
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish"
+    },
+    {
+      "label": "grest",
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "Can be replaced with <img title=\"brew\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/565726489400573962.png?v=1\" /> or <img title=\"supergrest\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/690140078407680059.png?v=1\" /><br />",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest"
+    },
+    {
+      "label": "grest",
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "name": "Guthix rest",
+      "breakdownNotes": "Can be replaced with <img title=\"brew\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/565726489400573962.png?v=1\" /> or <img title=\"supergrest\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/690140078407680059.png?v=1\" /><br />",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest"
+    },
+    null,
+    null,
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish"
+    },
+    {
+      "label": "jelly",
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish"
+    },
+    {
+      "label": "vitality4",
+      "image": "https://i.imgur.com/n9C7iSA.png",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)"
+    },
+    {
+      "label": "vuln",
+      "image": "https://i.imgur.com/2vI8jNm.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs"
+    },
+    {
+      "label": "restore",
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)"
+    },
+    {
+      "label": "excal",
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur"
+    },
+    {
+      "label": "graspingpouchblue",
+      "image": "https://i.imgur.com/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)"
+    },
+    {
+      "label": "graspingpouchpink",
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic<br />",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)"
+    },
+    {
+      "label": "deathwardennexus",
+      "image": "https://i.imgur.com/hd7YvA4.png",
+      "name": "Deathwarden Nexus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus"
+    },
+    {
+      "label": "spices",
+      "image": "https://i.imgur.com/GNzR4sU.png",
+      "name": "Expensive spices",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Expensive_spices"
+    },
+    {
+      "label": "renewal4",
+      "image": "https://i.imgur.com/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)"
+    },
+    {
+      "label": "salve",
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": "",
+        "label": "bloodreaver"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "https://i.imgur.com/PXt50t7.png",
+        "name": "Ice Nihil",
+        "breakdownNotes": "",
+        "label": "icenihil"
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

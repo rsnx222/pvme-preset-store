@@ -1,0 +1,329 @@
+{
+  "presetName": "Active Magic Revenants",
+  "presetNotes": "Legacy with <img title=\"inqstaff\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/694566917553520680.png?v=1\" /> perked with <img title=\"ruthless3\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" /> is used to consistently one-shot revenants except for the dragon.",
+  "equipmentSlots": [
+    {
+      "label": "ghostgoggles",
+      "image": "https://img.pvme.io/images/iyXqN3S.png",
+      "name": "Ghost hunter goggles",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_goggles"
+    },
+    {
+      "label": "ghostbackpack",
+      "image": "https://img.pvme.io/images/zNu0qYb.png",
+      "name": "Ghost hunter backpack",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_backpack"
+    },
+    {
+      "label": "salvee",
+      "image": "https://img.pvme.io/images/qbsFxuG.png",
+      "name": "Salve amulet (e)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Salve_amulet_(e)"
+    },
+    {
+      "label": "inq",
+      "image": "https://img.pvme.io/images/My8VkUX.png",
+      "name": "Inquisitor staff",
+      "breakdownNotes": "Preferably with Enchantment of Affliction <img title=\"enchantmentofaffliction\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1006481321087991819.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Inquisitor_staff"
+    },
+    {
+      "label": "zurielstop",
+      "image": "https://img.pvme.io/images/LxP4ocV.png",
+      "name": "Superior Zuriel's robe top",
+      "breakdownNotes": "<span>Biting 4 + Crackling 4 Undead Slayer<span> </span></span><img title=\"crack4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087662686249.png?v=1\" /><span><span> </span></span><img title=\"undeadslayerperk\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689502804720615441.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Superior_zuriel's_robe_top"
+    },
+    null,
+    {
+      "label": "ghostlegs",
+      "image": "https://img.pvme.io/images/Cn2x2Mi.png",
+      "name": "Ghost hunter legs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ghost_hunter_legs"
+    },
+    {
+      "label": "cinder",
+      "image": "https://img.pvme.io/images/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+    },
+    {
+      "label": "enhancedblastdiff",
+      "image": "https://img.pvme.io/images/KUGqEdN.png",
+      "name": "Enhanced blast diffusion boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_blast_diffusion_boots"
+    },
+    {
+      "label": "channellerring",
+      "image": "https://img.pvme.io/images/Zs7j4JG.png",
+      "name": "Channeller's ring",
+      "breakdownNotes": "<span>For stats, any ring works.</span>",
+      "wikiLink": "https://runescape.wiki/w/Channeller's_ring"
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "<span>Blood | Astral | Body | Soul</span><br /><br /><span>Runes for<span> </span></span><img title=\"bloodblitz\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/535616247807868938.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)"
+    },
+    {
+      "label": "runic",
+      "image": "https://img.pvme.io/images/OnkKocW.png",
+      "name": "Supreme runic accuracy aura",
+      "breakdownNotes": "<img title=\"mani\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643505153709965322.png?v=1\" /><span> would be better.</span>",
+      "wikiLink": "https://runescape.wiki/w/Supreme_runic_accuracy_aura"
+    },
+    {
+      "label": "scriptureofful",
+      "image": "https://img.pvme.io/images/lPppoD4.png",
+      "name": "Scripture of Ful",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "<span>Can use<span> </span></span><img title=\"elderovl\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/841419289831800882.png?v=1\" /><span><span> </span>if wearing armour perked with<span> </span></span><img title=\"venomblood\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/841419289714229258.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "<span>Can use<span> </span></span><img title=\"elderovl\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/841419289831800882.png?v=1\" /><span><span> </span>if wearing armour perked with<span> </span></span><img title=\"venomblood\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/841419289714229258.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "poison6",
+      "image": "https://img.pvme.io/images/KyZkJoc.png",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "elvenshard",
+      "image": "https://img.pvme.io/images/UURvGNW.png",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "kalg",
+      "image": "https://img.pvme.io/images/5dumsv0.png",
+      "name": "Binding contract (kal'gerion demon)",
+      "breakdownNotes": "<span>6% increased critical chance, making one-shotting more consistent.</span>",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(kal'gerion_demon)",
+      "selected": false
+    },
+    {
+      "label": "kalgscrolls500",
+      "image": "https://img.pvme.io/images/hjoH9xr.png",
+      "name": "Kal'gerion Demon scroll (Crit-i-Kal)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Kal%27gerion_Demon_scroll_(Crit-i-Kal)",
+      "selected": false
+    },
+    {
+      "label": "wrench",
+      "image": "https://img.pvme.io/images/UVffd75.png",
+      "name": "Holy wrench",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench",
+      "selected": false
+    },
+    {
+      "label": "blessed",
+      "image": "https://img.pvme.io/images/FVmxMkH.png",
+      "name": "Blessed flask",
+      "breakdownNotes": "May be replaced with <img title=\"restore\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/642708657825644554.png?v=1\" /><br />",
+      "wikiLink": "https://runescape.wiki/w/Blessed_flask",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "cballs",
+      "image": "https://img.pvme.io/images/GrfjyE2.png",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "selected": false
+    },
+    {
+      "label": "slayercape",
+      "image": "https://img.pvme.io/images/B4vyqxv.png",
+      "name": "Slayer cape (t)",
+      "breakdownNotes": "<span>Teleport to<span> </span></span><span>Mandrith, to sell<span> </span></span><span>ancient<span> </span></span><span>artefacts</span><span>.</span>",
+      "wikiLink": "https://runescape.wiki/w/Slayer_cape_(t)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchgreen",
+      "image": "https://img.pvme.io/images/fWzGXLF.png",
+      "name": "Grasping rune pouch (green)",
+      "breakdownNotes": "Time | Nature | Air | Earth",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(green)",
+      "selected": false
+    },
+    {
+      "label": "wildernesssword",
+      "image": "https://img.pvme.io/images/cIHG8g8.png",
+      "name": "Wilderness sword 4",
+      "breakdownNotes": "<span>Teleport to Forinthry Dungeon.</span>",
+      "wikiLink": "https://runescape.wiki/w/Wilderness_sword_4",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "cannon",
+      "image": "https://img.pvme.io/images/GTwVqeC.png",
+      "name": "Dwarven siege engine",
+      "breakdownNotes": "<span>Extremely potent with<span> </span></span><img title=\"cinderbanes\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190158355660812.png?v=1\" /><span><span> </span>and<span> </span></span><img title=\"weppoison\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689525476158472288.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine",
+      "selected": false
+    },
+    {
+      "label": "questcape",
+      "image": "https://img.pvme.io/images/NJu5OXw.png",
+      "name": "Quest cape",
+      "breakdownNotes": "<span>Teleport to Glacor Cave for<span> </span></span><img title=\"jasboost\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1006121672790773770.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Quest_cape",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "<span>Chaos | Air | Water | Fire </span><span><br /><br />Runes for </span><img title=\"bloodblitz\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/535616247807868938.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "selected": false
+    },
+    {
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": "",
+        "label": "kalgdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "https://i.imgur.com/KWIawjY.png",
+        "name": "Legendary Pet (Scavenge)",
+        "breakdownNotes": "",
+        "label": "legendpetscav"
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

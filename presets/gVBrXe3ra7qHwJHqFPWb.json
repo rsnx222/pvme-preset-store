@@ -1,0 +1,316 @@
+{
+  "presetName": "Croesus Basic Woodcutting",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "naturessentinelhelm",
+      "image": "https://img.pvme.io/images/h4cf5a8.png",
+      "name": "Nature's sentinel helm",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_helm"
+    },
+    {
+      "label": "gatherercape",
+      "image": "https://img.pvme.io/images/jAZnS74.png",
+      "name": "Gatherer's cape",
+      "breakdownNotes": "Fishing skillcape stored inside.",
+      "wikiLink": "https://runescape.wiki/w/Gatherer's_cape"
+    },
+    {
+      "label": "gote",
+      "image": "https://img.pvme.io/images/4KgPcpm.png",
+      "name": "Grace of the elves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves"
+    },
+    {
+      "label": "imcandohatchet",
+      "image": "https://img.pvme.io/images/Xoo3KYI.png",
+      "name": "Imcando hatchet",
+      "breakdownNotes": "Honed 6.",
+      "wikiLink": "https://runescape.wiki/w/Imcando_hatchet"
+    },
+    {
+      "label": "naturessentinelchest",
+      "image": "https://img.pvme.io/images/AVtsARx.png",
+      "name": "Nature's sentinel chest",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_chest"
+    },
+    {
+      "label": "fyretorch",
+      "image": "https://img.pvme.io/images/n42Kunc.png",
+      "name": "Sana's fyrtorch",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sana's_fyrtorch"
+    },
+    {
+      "label": "naturessentineltrunks",
+      "image": "https://img.pvme.io/images/AyzY63R.png",
+      "name": "Nature's sentinel trunks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_trunks"
+    },
+    {
+      "label": "naturessentinelbranch",
+      "image": "https://img.pvme.io/images/aHlOVcO.png",
+      "name": "Nature's sentinel branch",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_branch"
+    },
+    {
+      "label": "naturessentinelboots",
+      "image": "https://img.pvme.io/images/708o7G1.png",
+      "name": "Nature's sentinel boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_boots"
+    },
+    {
+      "label": "pontifexshadowring",
+      "image": "https://img.pvme.io/images/VTDTXoF.png",
+      "name": "Pontifex shadow ring",
+      "breakdownNotes": "Can replace with a Luck of the Dwarves if you've unlocked the passive Pontifex Shadow Ring effects.",
+      "wikiLink": "https://runescape.wiki/w/Pontifex_shadow_ring"
+    },
+    {
+      "label": "graspingpouch",
+      "image": "https://img.pvme.io/images/Mk7jbjC.png",
+      "name": "Grasping rune pouch",
+      "breakdownNotes": "Earth | Fire | Body | Soul for Crystal Mask",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch"
+    },
+    {
+      "label": "legendarylumberjack",
+      "image": "https://img.pvme.io/images/TFKGtdh.png",
+      "name": "Legendary lumberjack aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Legendary_lumberjack_aura"
+    },
+    {
+      "label": "scriptureofbik",
+      "image": "https://img.pvme.io/images/t1KMJMv.png",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "Optional for extra clue scrolls, can bring items to D/A during kill for more procs.",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "label": "magiclogs",
+      "image": "https://img.pvme.io/images/oOIEwH0.png",
+      "name": "Magic logs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_logs",
+      "selected": false
+    },
+    {
+      "label": "magiclogs",
+      "image": "https://img.pvme.io/images/oOIEwH0.png",
+      "name": "Magic logs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_logs",
+      "selected": false
+    },
+    {
+      "label": "magiclogs",
+      "image": "https://img.pvme.io/images/oOIEwH0.png",
+      "name": "Magic logs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_logs",
+      "selected": false
+    },
+    {
+      "label": "magiclogs",
+      "image": "https://img.pvme.io/images/oOIEwH0.png",
+      "name": "Magic logs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_logs",
+      "selected": false
+    },
+    {
+      "label": "magiclogs",
+      "image": "https://img.pvme.io/images/oOIEwH0.png",
+      "name": "Magic logs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_logs",
+      "selected": false
+    },
+    {
+      "label": "beaver",
+      "image": "https://img.pvme.io/images/XuoH8jT.png",
+      "name": "Beaver pouch",
+      "breakdownNotes": "Used to renew your first familiar during the hour.",
+      "wikiLink": "https://runescape.wiki/w/Beaver_pouch",
+      "selected": false
+    },
+    {
+      "label": "perfectplus",
+      "image": "https://img.pvme.io/images/r84FkMD.png",
+      "name": "Perfect plus potion (6)",
+      "breakdownNotes": "Sip when loading preset if needed, then bank.",
+      "wikiLink": "https://runescape.wiki/w/Perfect_plus_potion#(6)",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "artificer",
+      "image": "https://img.pvme.io/images/gMZLjIv.png",
+      "name": "Artificer's measure",
+      "breakdownNotes": "Used when building statues.",
+      "wikiLink": "https://runescape.wiki/w/Artificer's_measure",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline.",
+        "label": "shadowsgrace",
+        "energy": 50
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/n5ZeYNT.png",
+        "name": "Beaver",
+        "breakdownNotes": "",
+        "label": "beaver"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

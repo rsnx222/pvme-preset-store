@@ -1,0 +1,371 @@
+{
+  "presetName": "Prosper smithing preset",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/pjI29tb.png",
+      "wikiLink": "https://runescape.wiki/w/Modified_blacksmith%27s_helmet",
+      "name": "Modified Blacksmith's Helmet",
+      "breakdownNotes": "A fast teleport to access the Artisan's Workshop (<b>3/day</b>) - you can bring the full blacksmith's outfit if you are not 200m smithing",
+      "label": "modifiedblacksmithhelmet"
+    },
+    {
+      "image": "https://i.imgur.com/IPwQSJO.png",
+      "wikiLink": "https://runescape.wiki/w/Firemaking_cape_(t)",
+      "name": "Firemaking cape",
+      "breakdownNotes": "Better rewards from Fire spirits",
+      "label": "firemakingcape"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/yrUFH8x.png",
+      "wikiLink": "https://runescape.wiki/w/Crystal_hammer",
+      "name": "Crystal Hammer",
+      "breakdownNotes": "<div><ol><li><p><b>Breakdown 6</b> - Upon completing the smithing process, this perk provides an opportunity to acquire invention components as if you had disassembled the item</p></li><li><p>F<b>ortune 3 / Prosper </b>- Fortune offers a slight chance to produce an additional item that will be stored in your bank, while Prosper provides passive clues throughout the smithing process</p></li><li><p>Rapid/Tinker perks are counterproductive to the AFK experience; it's advisable not to use them in this context<br /><br /><span>Extra: All perks are influenced by the item level 20, so if your hammer hasn't reached level 20 yet, consider bringing XP capacitors to expedite its leveling process. The smithing rates for Prosper are 1/960 before reaching level 20, and they improve to 1/864 after reaching this level</span><br /></p></li></ol></div>",
+      "label": "crystalhammer"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/vxHDfak.png",
+      "wikiLink": "https://runescape.wiki/w/Orthen_furnace_core",
+      "name": "Orthen furnace core",
+      "breakdownNotes": "Useful for collecting fire spirits and additional xp if you are not 200m smithing",
+      "label": "furnacecore"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/nXXZxpH.png",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "Can be substituted for Luck of the Dwarves relic",
+      "label": "lotd"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/t1KMJMv.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "",
+      "label": "scriptureofbik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/8laCSlc.png",
+      "wikiLink": "https://runescape.wiki/w/Unfinished_smithing_item",
+      "name": "Unfinished smithing item",
+      "breakdownNotes": "<div><span>Depending on whether you wish to gather fire spirits or not, you have the option to store multiple of these inside your inventory and then simply go AFK</span><br /></div>",
+      "label": "unfinishedsmithingitem",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/orbVikx.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_rune_platebody_%2B_4",
+      "name": "Elder rune platebody + 4",
+      "breakdownNotes": "",
+      "label": "elderruneplate4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/orbVikx.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_rune_platebody_%2B_4",
+      "name": "Elder rune platebody + 4",
+      "breakdownNotes": "",
+      "label": "elderruneplate4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/orbVikx.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_rune_platebody_%2B_4",
+      "name": "Elder rune platebody + 4",
+      "breakdownNotes": "",
+      "label": "elderruneplate4",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/uIF03Iz.png",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#active",
+      "name": "Potion reservoir",
+      "breakdownNotes": "",
+      "label": "potionreservoir",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/af9O4EM.png",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#inactive",
+      "name": "Potion reservoir (inactive)",
+      "breakdownNotes": "<div><span>You may choose to bring these items if you are using spirit attraction flasks, which last for 36 minutes. However, please note that the log-out timer is limited to only 10 minutes</span></div><div><div><div><div></div></div></div></div>",
+      "label": "potionreservoir2",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GvNLM7k.png",
+      "wikiLink": "https://runescape.wiki/w/Green_firelighter",
+      "name": "Green firelighter",
+      "breakdownNotes": "<span>Increases the reward rate for fire spirits and gathers them more effectively</span>",
+      "label": "greenfirelighter",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KPREDHT.png",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "<span>This will hold all the clues obtained from the Scripture of Bik and Prosper</span>",
+      "label": "cluebag",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9oDoU6T.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "<span>For a more AFK approach, consider bringing these items. Alternatively, set up an Alt1 alert for catalysts if you prefer a more active approach or want to cut down on costs</span><br />",
+      "label": "spiritattractionflask",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "https://i.imgur.com/Ivcgjer.png",
+        "name": "Luck of the Dwarves",
+        "breakdownNotes": "",
+        "description": "You will always gain the effect of tier 4 luck.",
+        "label": "luckofthedwarves",
+        "energy": 200
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

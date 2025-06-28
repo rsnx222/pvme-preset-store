@@ -1,0 +1,385 @@
+{
+  "presetName": "Croesus 2-man Fishing/Mining",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/JHc4QWU.png",
+      "wikiLink": "https://runescape.wiki/w/Fury_shark_head",
+      "name": "Fury shark head",
+      "breakdownNotes": "",
+      "label": "furysharkhead"
+    },
+    {
+      "image": "https://i.imgur.com/myCOFKL.png",
+      "wikiLink": "https://runescape.wiki/w/Hunter_cape",
+      "name": "Hunter cape",
+      "breakdownNotes": "Used for 2 ticking while gathering and doing core.",
+      "label": "huntercape"
+    },
+    {
+      "image": "https://i.imgur.com/4KgPcpm.png",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves",
+      "name": "Grace of the elves",
+      "breakdownNotes": "",
+      "label": "gote"
+    },
+    {
+      "image": "https://i.imgur.com/maZE8qW.png",
+      "wikiLink": "https://runescape.wiki/w/Fishing_rod-o-matic",
+      "name": "Fishing rod-o-matic",
+      "breakdownNotes": "<span>Honed 6.</span><br /><span>Can upgrade to Enhanced version for more Invention XP.</span>",
+      "label": "rodomatic"
+    },
+    {
+      "image": "https://i.imgur.com/uz0wELA.png",
+      "wikiLink": "https://runescape.wiki/w/Fury_shark_body",
+      "name": "Fury shark body",
+      "breakdownNotes": "",
+      "label": "furysharkbody"
+    },
+    {
+      "image": "https://i.imgur.com/n42Kunc.png",
+      "wikiLink": "https://runescape.wiki/w/Sana's_fyrtorch",
+      "name": "Sana's fyrtorch",
+      "breakdownNotes": "",
+      "label": "fyretorch"
+    },
+    {
+      "image": "https://i.imgur.com/r9Gzn0X.png",
+      "wikiLink": "https://runescape.wiki/w/Fury_shark_legs",
+      "name": "Fury shark legs",
+      "breakdownNotes": "",
+      "label": "furysharklegs"
+    },
+    {
+      "image": "https://i.imgur.com/iCfoioZ.png",
+      "wikiLink": "https://runescape.wiki/w/Fury_shark_hands",
+      "name": "Fury shark hands",
+      "breakdownNotes": "",
+      "label": "furysharkgloves"
+    },
+    {
+      "image": "https://i.imgur.com/Kk68bUS.png",
+      "wikiLink": "https://runescape.wiki/w/Fury_shark_feet",
+      "name": "Fury shark feet",
+      "breakdownNotes": "",
+      "label": "furysharkboots"
+    },
+    {
+      "image": "https://i.imgur.com/nXXZxpH.png",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "",
+      "label": "lotd"
+    },
+    {
+      "image": "https://i.imgur.com/Mk7jbjC.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch",
+      "name": "Grasping rune pouch",
+      "breakdownNotes": "Earth | Fire | Body | Soul",
+      "label": "graspingpouch"
+    },
+    {
+      "image": "https://i.imgur.com/fsSx8Aa.png",
+      "wikiLink": "https://runescape.wiki/w/Legendary_call_of_the_sea_aura",
+      "name": "Legendary call of the sea aura",
+      "breakdownNotes": "",
+      "label": "legendarycallofthesea"
+    },
+    {
+      "image": "https://i.imgur.com/t1KMJMv.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "Optional for gathering clues.",
+      "label": "scriptureofbik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/XVBSWOO.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_hunter_flask#(6)",
+      "name": "Extreme hunter flask",
+      "breakdownNotes": "",
+      "label": "extremehunterflask",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Wb8Mgob.png",
+      "wikiLink": "https://runescape.wiki/w/Fungal_spore_soup",
+      "name": "Fungal spore soup",
+      "breakdownNotes": "<span>For damaging the core.</span>",
+      "label": "fungalsporesoup",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/OxpeKXr.png",
+      "wikiLink": "https://runescape.wiki/w/Fungal_algae_soup",
+      "name": "Fungal algae soup",
+      "breakdownNotes": "<span>For damaging the core.</span>",
+      "label": "fungaalgaesoup",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gMZLjIv.png",
+      "wikiLink": "https://runescape.wiki/w/Artificer's_measure",
+      "name": "Artificer's measure",
+      "breakdownNotes": "",
+      "label": "artificer",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/OTFMuCJ.png",
+      "wikiLink": "https://runescape.wiki/w/Master_constructor's_hat",
+      "name": "Master constructor's hat",
+      "breakdownNotes": "Used when repairing statues.",
+      "label": "masterconstructorhat",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UCx0Gj9.png",
+      "wikiLink": "https://runescape.wiki/w/Master_constructor's_boots",
+      "name": "Master constructor's boots",
+      "breakdownNotes": "<span>Used when repairing statues.</span>",
+      "label": "masterconstructorsboots",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PFLToHh.png",
+      "wikiLink": "https://runescape.wiki/w/Spiritual_prayer#(6)",
+      "name": "Spiritual prayer (6)",
+      "breakdownNotes": "Can be replaced with Summoning Potion flask.",
+      "label": "spiritual",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/vBodqnM.png",
+      "wikiLink": "https://runescape.wiki/w/Summoning_renewal#(1)",
+      "name": "Summoning renewal (1)",
+      "breakdownNotes": "",
+      "label": "summrenewal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ylitEiS.png",
+      "wikiLink": "https://runescape.wiki/w/Timber_fungus_soup",
+      "name": "Timber fungus soup",
+      "breakdownNotes": "For damaging the core.",
+      "label": "timberfungussoup",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/exlOdpw.png",
+      "wikiLink": "https://runescape.wiki/w/Calcified_fungus_soup",
+      "name": "Calcified fungus soup",
+      "breakdownNotes": "<span>For damaging the core.</span>",
+      "label": "calcifiedfungussoup",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/sKzjiFQ.png",
+      "wikiLink": "https://runescape.wiki/w/Master_constructor's_trousers",
+      "name": "Master constructor's trousers",
+      "breakdownNotes": "<span>Used when repairing statues.</span>",
+      "label": "masterconstructortrousers",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/0BCKI4J.png",
+      "wikiLink": "https://runescape.wiki/w/Master_constructor's_jacket",
+      "name": "Master constructor's jacket",
+      "breakdownNotes": "<span>Used when repairing statues.</span>",
+      "label": "masterconstructorjacket",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Kk7SksF.png",
+      "wikiLink": "https://runescape.wiki/w/Master_constructor's_gloves",
+      "name": "Master constructor's gloves",
+      "breakdownNotes": "<span>Used when repairing statues.</span>",
+      "label": "masterconstructorgloves",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nB8MUEL.png",
+      "wikiLink": "https://runescape.wiki/w/Overload#(1)",
+      "name": "Overload (1)",
+      "breakdownNotes": "",
+      "label": "overload1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yuwYBjs.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_feats#(1)",
+      "name": "Powerburst of feats (1)",
+      "breakdownNotes": "",
+      "label": "feats1",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline.",
+        "label": "shadowsgrace",
+        "energy": 50
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/zLcXXcI.png",
+        "name": "Gargoyle",
+        "breakdownNotes": "",
+        "label": "gargoyle"
+      }
+    ]
+  }
+}

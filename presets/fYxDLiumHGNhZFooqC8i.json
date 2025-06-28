@@ -1,0 +1,376 @@
+{
+  "presetName": "",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/thokp5R.png",
+      "wikiLink": "https://runescape.wiki/w/Skull_sceptre",
+      "name": "Skull sceptre",
+      "breakdownNotes": "Optional",
+      "label": "skullsceptre"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/8qUWZja.png",
+      "wikiLink": "https://runescape.wiki/w/Explorer's_ring_1",
+      "name": "Explorer's ring 1",
+      "breakdownNotes": "Any tier is fine; optional",
+      "label": "explorersring1"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/3tsGSBD.png",
+      "wikiLink": "https://runescape.wiki/w/Easy_clue",
+      "name": "Easy clue",
+      "breakdownNotes": "",
+      "label": "easyclue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/XVcGJMj.png",
+      "wikiLink": "https://runescape.wiki/w/Spade",
+      "name": "Spade",
+      "breakdownNotes": "",
+      "label": "spade",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hRnhbj5.png",
+      "wikiLink": "https://runescape.wiki/w/Varrock_teleport_(item)",
+      "name": "Varrock teleport",
+      "breakdownNotes": "Optional",
+      "label": "varrocktele100",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/IdYQdnl.png",
+      "wikiLink": "https://runescape.wiki/w/Falador_teleport_(item)",
+      "name": "Falador teleport",
+      "breakdownNotes": "Optional",
+      "label": "faladorteleport(item)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9vEqmlE.png",
+      "wikiLink": "https://runescape.wiki/w/Camelot_teleport_(item)",
+      "name": "Camelot teleport",
+      "breakdownNotes": "Optional",
+      "label": "camelottele100",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PreONox.png",
+      "wikiLink": "https://runescape.wiki/w/Ardougne_teleport_(item)",
+      "name": "Ardougne teleport",
+      "breakdownNotes": "Optional",
+      "label": "ardytele100",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/YSQatfJ.png",
+      "wikiLink": "https://runescape.wiki/w/Lumbrdige_teleport_(item)",
+      "name": "Lumbrdige teleport",
+      "breakdownNotes": "Optional",
+      "label": "lumbytele100",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/TbTkcjH.png",
+      "wikiLink": "https://runescape.wiki/w/Grand_seed_pod",
+      "name": "Grand seed pod",
+      "breakdownNotes": "Optional",
+      "label": "grandseedpod",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/0NG8TPw.png",
+      "wikiLink": "https://runescape.wiki/w/Archaeology_journal",
+      "name": "Archaeology journal",
+      "breakdownNotes": "",
+      "label": "archaeologyjournal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/NI16H5f.png",
+      "wikiLink": "https://runescape.wiki/w/Fire_rune",
+      "name": "Fire runes (10k)",
+      "breakdownNotes": "Optional",
+      "label": "firerune10k",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/7x9jLfm.png",
+      "wikiLink": "https://runescape.wiki/w/Water_rune",
+      "name": "Water runes (1k)",
+      "breakdownNotes": "Optional",
+      "label": "waterrune1k",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/7crFFMq.png",
+      "wikiLink": "https://runescape.wiki/w/Air_rune",
+      "name": "Air runes (1k)",
+      "breakdownNotes": "Optional",
+      "label": "airrune1k",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/BaZYIcM.png",
+      "wikiLink": "https://runescape.wiki/w/Earth_rune",
+      "name": "Earth runes (1k)",
+      "breakdownNotes": "Optional",
+      "label": "earthrune1k",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/MLCntzy.png",
+      "wikiLink": "https://runescape.wiki/w/Law_rune",
+      "name": "Law runes (100)",
+      "breakdownNotes": "Optional",
+      "label": "lawrune100",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/28wkzOg.png",
+      "wikiLink": "https://runescape.wiki/w/Skills_necklace",
+      "name": "Skills necklace",
+      "breakdownNotes": "Optional",
+      "label": "skillsnecklace",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/HyS1DoA.png",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_glory",
+      "name": "Amulet of glory",
+      "breakdownNotes": "Optional",
+      "label": "amuletofglory",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/6P8F0Ye.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_duelling",
+      "name": "Ring of duelling",
+      "breakdownNotes": "Optional",
+      "label": "ringofduelling",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/fHvV11R.png",
+      "wikiLink": "https://runescape.wiki/w/Combat_bracelet",
+      "name": "Combat bracelet",
+      "breakdownNotes": "Optional",
+      "label": "combatbracelet",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9FP2aq7.png",
+      "wikiLink": "https://runescape.wiki/w/Traveller%27s_necklace",
+      "name": "Traveller's Necklace",
+      "breakdownNotes": "Optional",
+      "label": "travellersnecklace",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/0ogKur6.png",
+      "wikiLink": "https://runescape.wiki/w/Enlightened_amulet",
+      "name": "Enlightened amulet",
+      "breakdownNotes": "Optional",
+      "label": "enlightenedamulet",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

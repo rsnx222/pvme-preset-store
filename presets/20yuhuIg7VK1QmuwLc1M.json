@@ -1,0 +1,397 @@
+{
+  "presetName": "Sarahdominist's Elite Clue Preset",
+  "presetNotes": "[Helpful to use Alt 1 Toolkit]<br />- Normal Spellbook<br />- Scrolls in Meercat",
+  "equipmentSlots": [
+    {
+      "label": "naturessentinelhelm",
+      "image": "https://i.imgur.com/h4cf5a8.png",
+      "name": "Nature's sentinel helm",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_helm"
+    },
+    {
+      "label": "globetrotterbackpack",
+      "image": "https://i.imgur.com/9u3f0ws.png",
+      "name": "Globetrotter backpack",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_backpack"
+    },
+    {
+      "label": "gote",
+      "image": "https://i.imgur.com/4KgPcpm.png",
+      "name": "Grace of the elves",
+      "breakdownNotes": "Teleports: Lava Flow Mine &amp; Overgrown Idols<br />",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves"
+    },
+    {
+      "label": "lengmh",
+      "image": "https://i.imgur.com/wFdHN9C.png",
+      "name": "Dark Shard of Leng",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dark_Shard_of_Leng"
+    },
+    {
+      "label": "naturessentinelchest",
+      "image": "https://i.imgur.com/AVtsARx.png",
+      "name": "Nature's sentinel chest",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_chest"
+    },
+    {
+      "label": "darkicesliver",
+      "image": "https://i.imgur.com/U8DpGds.png",
+      "name": "Dark ice sliver",
+      "breakdownNotes": "Perks: Mobile &amp; Glow Worm",
+      "wikiLink": "https://runescape.wiki/w/Dark_ice_sliver"
+    },
+    {
+      "label": "naturessentineltrunks",
+      "image": "https://i.imgur.com/AyzY63R.png",
+      "name": "Nature's sentinel trunks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_trunks"
+    },
+    {
+      "label": "naturessentinelbranch",
+      "image": "https://i.imgur.com/aHlOVcO.png",
+      "name": "Nature's sentinel branch",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_branch"
+    },
+    {
+      "label": "naturessentinelboots",
+      "image": "https://i.imgur.com/708o7G1.png",
+      "name": "Nature's sentinel boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_boots"
+    },
+    {
+      "label": "lotd",
+      "image": "https://i.imgur.com/nXXZxpH.png",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves"
+    },
+    {
+      "label": "quiver4",
+      "image": "https://i.imgur.com/yxmdGCZ.png",
+      "name": "Tirannwn quiver 4",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Tirannwn_quiver_4"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "davesspellbook",
+      "image": "https://i.imgur.com/ahDBOU5.png",
+      "name": "Dave's spellbook",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dave's_spellbook"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "activeclue",
+      "image": "https://i.imgur.com/beq0RtH.png",
+      "name": "Active clue",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Clue_scroll",
+      "selected": false
+    },
+    {
+      "label": "globetrotterjacket",
+      "image": "https://i.imgur.com/paFUjfv.png",
+      "name": "Globetrotter jacket",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_jacket",
+      "selected": false
+    },
+    {
+      "label": "globetrotterboots",
+      "image": "https://i.imgur.com/44J9f9V.png",
+      "name": "Globetrotter boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_boots",
+      "selected": false
+    },
+    {
+      "label": "globetrotterarmguards",
+      "image": "https://i.imgur.com/TCZljWu.png",
+      "name": "Globetrotter arm guards",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_arm_guards",
+      "selected": false
+    },
+    {
+      "label": "attunedcrystalteleportseed",
+      "image": "https://i.imgur.com/qNQ9dCI.png",
+      "name": "Attuned crystal teleport seed",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Attuned_crystal_teleport_seed",
+      "selected": false
+    },
+    {
+      "label": "portableobelisk",
+      "image": "https://i.imgur.com/gKUbd5X.png",
+      "name": "Portable Obelisk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Portable_Obelisk",
+      "selected": false
+    },
+    {
+      "label": "dorgesh-kaansphere",
+      "image": "https://i.imgur.com/tyIGCLl.png",
+      "name": "Dorgesh-kaan sphere",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dorgesh-kaan_sphere",
+      "selected": false
+    },
+    {
+      "label": "passageoftheabyss(green)",
+      "image": "https://i.imgur.com/PDg2YBC.png",
+      "name": "Passage of the Abyss (green)",
+      "breakdownNotes": "- Games Necklace<br />- Amulet of Glory<br />- Combat Bracelet<br />- Ring of Duelling<br />- Dig Site Pendant<br />- Skills Necklace",
+      "wikiLink": "https://runescape.wiki/w/Passage_of_the_Abyss_(green)",
+      "selected": false
+    },
+    {
+      "label": "passageoftheabyss(purple)",
+      "image": "https://i.imgur.com/4FnqALw.png",
+      "name": "Passage of the Abyss (purple)",
+      "breakdownNotes": "- Traveller's Necklace<br />- Ring of Respawn<br />- Enlightened Amulet<br />- Ring of Slaying",
+      "wikiLink": "https://runescape.wiki/w/Passage_of_the_Abyss_(purple)",
+      "selected": false
+    },
+    {
+      "label": "ringofkinship",
+      "image": "https://i.imgur.com/dQVBOyX.png",
+      "name": "Ring of kinship",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_kinship",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "bigbookopiracy",
+      "image": "https://i.imgur.com/Ho60PPT.png",
+      "name": "Big Book o'Piracy",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Big_Book_o'Piracy",
+      "selected": false
+    },
+    {
+      "label": "desertamulet4",
+      "image": "https://i.imgur.com/JInu2Jy.png",
+      "name": "Desert amulet 4",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Desert_amulet_4",
+      "selected": false
+    },
+    {
+      "label": "archaeologyteleport",
+      "image": "https://i.imgur.com/WYm7p9h.png",
+      "name": "Archaeology teleport",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Archaeology_teleport",
+      "selected": false
+    },
+    {
+      "label": "slayercape",
+      "image": "https://i.imgur.com/B4vyqxv.png",
+      "name": "Slayer cape (t)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Slayer_cape_(t)",
+      "selected": false
+    },
+    {
+      "label": "dungeoneeringcape",
+      "image": "https://i.imgur.com/Ca8KMuK.png",
+      "name": "Dungeoneering cape (t)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dungeoneering_cape_(t)",
+      "selected": false
+    },
+    {
+      "label": "fairyring",
+      "image": "https://i.imgur.com/XCZuCaN.png",
+      "name": "Portable fairy ring (inactive)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Portable_fairy_ring#inactive",
+      "selected": false
+    },
+    {
+      "label": "portablefairyring(used)",
+      "image": "https://i.imgur.com/iwTl6xy.png",
+      "name": "Portable fairy ring",
+      "breakdownNotes": "ALQ, AJR, CKS, BKR, DJP, CKR, CJS, AKQ, DLQ, AKS",
+      "wikiLink": "https://runescape.wiki/w/Portable_fairy_ring#active",
+      "selected": false
+    },
+    {
+      "label": "pharaohssceptre",
+      "image": "https://i.imgur.com/rrvRa6H.png",
+      "name": "Pharaoh's sceptre",
+      "breakdownNotes": "Or Sceptre of the Gods",
+      "wikiLink": "https://runescape.wiki/w/Pharaoh's_sceptre",
+      "selected": false
+    },
+    {
+      "label": "ectophial",
+      "image": "https://i.imgur.com/mqsH3xe.png",
+      "name": "Ectophial",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ectophial",
+      "selected": false
+    },
+    {
+      "label": "menaphostablet",
+      "image": "https://i.imgur.com/uRrpo3Y.png",
+      "name": "Menaphos tablet",
+      "breakdownNotes": "Alternative - Menaphos Shifting Tomb Teleport",
+      "wikiLink": "https://runescape.wiki/w/Menaphos_tablet",
+      "selected": false
+    },
+    {
+      "label": "enchantedlyre",
+      "image": "https://i.imgur.com/X0KALWt.png",
+      "name": "Enchanted lyre",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enchanted_lyre",
+      "selected": false
+    },
+    {
+      "label": "capeoflegends",
+      "image": "https://i.imgur.com/8Y1U7r0.png",
+      "name": "Cape of legends",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cape_of_legends",
+      "selected": false
+    },
+    {
+      "label": "spirittreere-rooter",
+      "image": "https://i.imgur.com/Xrq18bn.png",
+      "name": "Spirit tree re-rooter (inactive)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spirit_tree_re-rooter#inactive",
+      "selected": false
+    },
+    {
+      "label": "spirittreere-rooter(used)",
+      "image": "https://i.imgur.com/sv8RnA7.png",
+      "name": "Spirit tree re-rooter",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spirit_tree_re-rooter#active",
+      "selected": false
+    },
+    {
+      "label": "goldseal(noted)",
+      "image": "https://i.imgur.com/I74Bq3s.png",
+      "name": "Gold seal",
+      "breakdownNotes": "Recharges Sceptre",
+      "wikiLink": "https://runescape.wiki/w/Gold_seal",
+      "selected": false
+    },
+    {
+      "label": "cluebag",
+      "image": "https://i.imgur.com/KPREDHT.png",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "selected": false
+    },
+    {
+      "label": "ouraniateleport",
+      "image": "https://i.imgur.com/a9CsKQI.png",
+      "name": "Ourania teleport",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ourania_teleport",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "abyssallink",
+        "image": "https://i.imgur.com/8IMPgCF.png",
+        "name": "Abyssal Link",
+        "breakdownNotes": "",
+        "energy": 250,
+        "description": "Teleport spells from the spellbook no longer require runes, but award no magic XP."
+      },
+      {
+        "label": "persistentrage",
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained."
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "meerkats",
+        "image": "https://i.imgur.com/cOwxYnD.png",
+        "name": "Meerkats",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

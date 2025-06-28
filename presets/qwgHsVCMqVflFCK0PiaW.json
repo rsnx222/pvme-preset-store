@@ -1,0 +1,199 @@
+{
+  "presetName": "",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "tmwhelm",
+      "image": "https://i.imgur.com/x379hPF.png",
+      "name": "Trimmed masterwork helm",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Trimmed_masterwork_helm"
+    },
+    {
+      "label": "kalket",
+      "image": "https://i.imgur.com/bfzX8Up.png",
+      "name": "Igneous Kal-Ket",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Ket"
+    },
+    {
+      "label": "eofredunorn",
+      "image": "https://i.imgur.com/yUkClNY.png",
+      "name": "Essence of Finality amulet (red)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet_(red)"
+    },
+    {
+      "label": "lengmh",
+      "image": "https://i.imgur.com/wFdHN9C.png",
+      "name": "Dark Shard of Leng",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dark_Shard_of_Leng"
+    },
+    {
+      "label": "tmwtop",
+      "image": "https://i.imgur.com/kbAkth3.png",
+      "name": "Trimmed masterwork platebody",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Trimmed_masterwork_platebody"
+    },
+    {
+      "label": "lengoh",
+      "image": "https://i.imgur.com/LAVYvrE.png",
+      "name": "Dark Sliver of Leng",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dark_Sliver_of_Leng"
+    },
+    {
+      "label": "tmwlegs",
+      "image": "https://i.imgur.com/Pggz07A.png",
+      "name": "Trimmed masterwork platelegs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Trimmed_masterwork_platelegs"
+    },
+    {
+      "label": "glovesofpassage",
+      "image": "https://i.imgur.com/U4Wa7vb.png",
+      "name": "Gloves of passage",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Gloves_of_passage"
+    },
+    {
+      "label": "tmwboots",
+      "image": "https://i.imgur.com/4g3hQJr.png",
+      "name": "Trimmed masterwork boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Trimmed_masterwork_boots"
+    },
+    {
+      "label": "championring",
+      "image": "https://i.imgur.com/cc9GxHt.png",
+      "name": "Champion's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Champion's_ring"
+    },
+    null,
+    null,
+    {
+      "label": "scriptureofwen",
+      "image": "https://i.imgur.com/zd3mKfH.png",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "spear",
+      "image": "https://i.imgur.com/uLkJkio.png",
+      "name": "Masterwork spear of annihilation",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_spear_of_annihilation"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "conservationofenergy",
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "energy": 350,
+        "description": "After using an ultimate ability, you will regain 10% adrenaline."
+      },
+      {
+        "label": "deathward",
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%."
+      },
+      {
+        "label": "furyofthesmall",
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline."
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "ripperdemon",
+        "image": "https://i.imgur.com/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

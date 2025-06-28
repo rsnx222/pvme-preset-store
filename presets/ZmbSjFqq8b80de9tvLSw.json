@@ -1,0 +1,385 @@
+{
+  "presetName": "Hard Clue Gathering - Elven Workers",
+  "presetNotes": "<span>⬥ You can turn off receiving Memory Shards at the Memorial of Guthix</span>",
+  "equipmentSlots": [
+    {
+      "label": "mastercamouflagehead",
+      "image": "https://img.pvme.io/images/lW5qEwC.png",
+      "name": "Master camouflage head",
+      "breakdownNotes": "<span>When the full set is worn it has the following effects:<br /></span><span>- 7% chance to double pickpocket<br /></span><span>- 7% chance to avoid being stunned when pickpocketing</span>",
+      "wikiLink": "https://runescape.wiki/w/Master_camouflage_head"
+    },
+    {
+      "label": "thievingcape",
+      "image": "https://img.pvme.io/images/gUYUShnCqI.png",
+      "name": "Thieving cape",
+      "breakdownNotes": "<span>The Thieving cape's perk automatically notes all Elven Worker loot from pickpocketing</span>",
+      "wikiLink": "https://runescape.wiki/w/Thieving_cape"
+    },
+    {
+      "label": "gote",
+      "image": "https://img.pvme.io/images/4KgPcpm.png",
+      "name": "Grace of the elves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "mastercamouflagebody",
+      "image": "https://img.pvme.io/images/i8Lc9aI.png",
+      "name": "Master camouflage body",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_camouflage_body"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "mastercamouflagelegs",
+      "image": "https://img.pvme.io/images/poKctmF.png",
+      "name": "Master camouflage legs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_camouflage_legs"
+    },
+    {
+      "label": "mastercamouflagehands",
+      "image": "https://img.pvme.io/images/VNC7QgK.png",
+      "name": "Master camouflage hands",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_camouflage_hands"
+    },
+    {
+      "label": "mastercamouflagefeet",
+      "image": "https://img.pvme.io/images/3GULnea.png",
+      "name": "Master camouflage feet",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_camouflage_feet"
+    },
+    {
+      "label": "lotd",
+      "image": "https://img.pvme.io/images/nXXZxpH.png",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "<span>Increases quality &amp; quantity of </span><span>Catalyst of alteration procs</span>",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "scriptureofbik",
+      "image": "https://img.pvme.io/images/t1KMJMv.png",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "<span>For additional clues through Catalyst of alteration procs</span>",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "cluebag",
+      "image": "https://img.pvme.io/images/KPREDHT.png",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "selected": false
+    },
+    {
+      "label": "attunedcrystalteleportseed",
+      "image": "https://img.pvme.io/images/qNQ9dCI.png",
+      "name": "Attuned crystal teleport seed",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Attuned_crystal_teleport_seed",
+      "selected": false
+    },
+    {
+      "label": "spiritattractionflask",
+      "image": "https://img.pvme.io/images/9oDoU6T.png",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "<span>Automatically collects automatically collects Catalyst of alteration procs from the Scripture of Bik</span>",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "coalspirit",
+      "image": "https://img.pvme.io/images/Ne2erDgNHY.png",
+      "name": "Coal stone spirit",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Coal_stone_spirit",
+      "selected": false
+    },
+    {
+      "label": "agil1dosenoted",
+      "image": "https://img.pvme.io/images/RxKcNSdYM9.png",
+      "name": "Agility potion (1) (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Agility_potion#(1)",
+      "selected": false
+    },
+    {
+      "label": "accursedashes1noted",
+      "image": "https://img.pvme.io/images/JiBstmM4RU.png",
+      "name": "Accursed ashes (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Accursed_ashes",
+      "selected": false
+    },
+    {
+      "label": "dwarvenstoutmnoted",
+      "image": "https://img.pvme.io/images/Anz8RJhAce.png",
+      "name": "Dwarven stout (m) (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_stout_(m)",
+      "selected": false
+    },
+    {
+      "label": "potionreservoir",
+      "image": "https://img.pvme.io/images/uIF03Iz.png",
+      "name": "Potion reservoir",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#active",
+      "selected": false
+    },
+    {
+      "label": "potionreservoir2",
+      "image": "https://img.pvme.io/images/af9O4EM.png",
+      "name": "Potion reservoir (inactive)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#inactive",
+      "selected": false
+    },
+    {
+      "label": "spiritattractionflask",
+      "image": "https://img.pvme.io/images/9oDoU6T.png",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "<span>Automatically collects automatically collects Catalyst of alteration procs from the Scripture of Bik</span>",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "goldspirit",
+      "image": "https://img.pvme.io/images/YkXeaHvRiP.png",
+      "name": "Gold stone spirit",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Gold_stone_spirit",
+      "selected": false
+    },
+    {
+      "label": "supdef1dosenoted",
+      "image": "https://img.pvme.io/images/tfPSv6BCnN.png",
+      "name": "Super defence (1) (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_defence#(1)",
+      "selected": false
+    },
+    {
+      "label": "supstr1dosenoted",
+      "image": "https://img.pvme.io/images/cwVpRHrvAH.png",
+      "name": "Super strength (1) (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_strength#(1)",
+      "selected": false
+    },
+    {
+      "label": "summerpie1noted",
+      "image": "https://img.pvme.io/images/6zsCkFtqaN.png",
+      "name": "Summer pie (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Summer_pie",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "adamantitespirit",
+      "image": "https://img.pvme.io/images/RacwiPqSAD.png",
+      "name": "Adamantite stone spirit",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Adamantite_stone_spirit",
+      "selected": false
+    },
+    {
+      "label": "supmag1dosenoted",
+      "image": "https://img.pvme.io/images/Id8NtO8Mlb.png",
+      "name": "Super magic potion (1) (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_magic_potion#(1)",
+      "selected": false
+    },
+    {
+      "label": "supatt1dosenoted",
+      "image": "https://img.pvme.io/images/cYEC3xdoX3.png",
+      "name": "Super attack (1) (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_attack_potion#(1)",
+      "selected": false
+    },
+    {
+      "label": "bowstring1noted",
+      "image": "https://img.pvme.io/images/Ubd1rYIggd.png",
+      "name": "Bowstring (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bowstring",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "memoryshard",
+      "image": "https://img.pvme.io/images/9Sf9ugGYPr.png",
+      "name": "Memory shard",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Memory_shard",
+      "selected": false
+    },
+    {
+      "label": "supran1dosenoted",
+      "image": "https://img.pvme.io/images/KrWNELlQQw.png",
+      "name": "Super ranging potion (1) (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_ranging_potion#(1)",
+      "selected": false
+    },
+    {
+      "label": "dragonbones1noted",
+      "image": "https://img.pvme.io/images/atFi2uJiaO.png",
+      "name": "Dragon bones (noted)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dragon_bones",
+      "selected": false
+    },
+    {
+      "label": "unpoweredorb1noted",
+      "image": "https://img.pvme.io/images/bXLKVTUk7G.png",
+      "name": "Unpowered orb",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Unpowered_orb",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

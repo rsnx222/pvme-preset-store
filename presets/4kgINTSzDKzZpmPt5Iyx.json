@@ -1,0 +1,395 @@
+{
+  "presetName": "melee master clue preset",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "wickedhood",
+      "image": "https://img.pvme.io/images/Uxr7Xcm.png",
+      "name": "Wicked hood",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Wicked_hood"
+    },
+    {
+      "label": "globetrotterbackpack",
+      "image": "https://img.pvme.io/images/9u3f0ws.png",
+      "name": "Globetrotter backpack",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_backpack"
+    },
+    {
+      "label": "gote",
+      "image": "https://img.pvme.io/images/4KgPcpm.png",
+      "name": "Grace of the elves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves"
+    },
+    {
+      "label": "masterwork2hsword",
+      "image": "https://img.pvme.io/images/N3KNAWxY2Q.png",
+      "name": "Masterwork 2h sword",
+      "breakdownNotes": "<img title=\"p6\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088769982475.png?v=1\" /> | <img title=\"eruptive4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1214416401561952296.png?v=1\" /> <img title=\"ruthless3\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" /> - Can be swapped for EZK with Shard.",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_2h_sword"
+    },
+    {
+      "label": "globetrotterjacket",
+      "image": "https://img.pvme.io/images/paFUjfv.png",
+      "name": "Globetrotter jacket",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_jacket"
+    },
+    null,
+    {
+      "label": "globetrottershorts",
+      "image": "https://img.pvme.io/images/DvyUvd2.png",
+      "name": "Globetrotter shorts",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_shorts"
+    },
+    {
+      "label": "globetrotterarmguards",
+      "image": "https://img.pvme.io/images/TCZljWu.png",
+      "name": "Globetrotter arm guards",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_arm_guards"
+    },
+    {
+      "label": "globetrotterboots",
+      "image": "https://img.pvme.io/images/44J9f9V.png",
+      "name": "Globetrotter boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_boots"
+    },
+    {
+      "label": "tokkulzo",
+      "image": "https://img.pvme.io/images/J1iLqln.png",
+      "name": "Tokkul-zo",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Tokkul-zo"
+    },
+    {
+      "label": "graspingpouchyellow",
+      "image": "https://img.pvme.io/images/N1tQnRc.png",
+      "name": "Grasping rune pouch (yellow)",
+      "breakdownNotes": "<span>Cosmic </span><img title=\"cosmicrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659615924258.png?v=1\" /><span> | Astral </span><img title=\"astralrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658961481769.png?v=1\" /><span> | Law </span><img title=\"lawrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252661406760970.png?v=1\" /><span> | Water </span><img title=\"waterrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252660165115905.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(yellow)"
+    },
+    {
+      "label": "zerk",
+      "image": "https://img.pvme.io/images/Fme45Ts.png",
+      "name": "Berserker aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Berserker_aura"
+    },
+    {
+      "label": "scriptureofbik",
+      "image": "https://img.pvme.io/images/t1KMJMv.png",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "activeclue",
+      "image": "https://img.pvme.io/images/beq0RtH.png",
+      "name": "Active clue",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Clue_scroll",
+      "selected": false
+    },
+    {
+      "label": "towerskippingticket",
+      "image": "https://img.pvme.io/images/Iyv2fmh.png",
+      "name": "Tower skipping ticket",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Tower_skipping_ticket",
+      "selected": false
+    },
+    {
+      "label": "poison1",
+      "image": "https://img.pvme.io/images/hw7rKHz.png",
+      "name": "Weapon poison+++ (1)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(1)",
+      "selected": false
+    },
+    {
+      "label": "lockboxskippingticket",
+      "image": "https://img.pvme.io/images/I4qeyjI.png",
+      "name": "Lockbox skipping ticket",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Lockbox_skipping_ticket",
+      "selected": false
+    },
+    {
+      "label": "theheartteleport",
+      "image": "https://img.pvme.io/images/eirYlnU.png",
+      "name": "The Heart teleport",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/The_Heart_teleport",
+      "selected": false
+    },
+    {
+      "label": "cluebag",
+      "image": "https://img.pvme.io/images/KPREDHT.png",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "selected": false
+    },
+    {
+      "label": "passageoftheabyss(red)",
+      "image": "https://img.pvme.io/images/Qp0s9G2.png",
+      "name": "Passage of the Abyss (red)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Passage_of_the_Abyss_(red)",
+      "selected": false
+    },
+    {
+      "label": "drakansmedal",
+      "image": "https://img.pvme.io/images/gyyfHQl.png",
+      "name": "Drakan's medallion",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Drakan's_medallion",
+      "selected": false
+    },
+    {
+      "label": "ectophial",
+      "image": "https://img.pvme.io/images/mqsH3xe.png",
+      "name": "Ectophial",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ectophial",
+      "selected": false
+    },
+    {
+      "label": "arcjournal",
+      "image": "https://img.pvme.io/images/sOfnUEX.png",
+      "name": "Arc journal",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Arc_journal",
+      "selected": false
+    },
+    {
+      "label": "menaphosjournal",
+      "image": "https://img.pvme.io/images/EuRZLF2.png",
+      "name": "Menaphos journal",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Menaphos_journal",
+      "selected": false
+    },
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "accel4",
+      "image": "https://img.pvme.io/images/I6HFjyN.png",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "selected": false
+    },
+    {
+      "label": "desertamulet2",
+      "image": "https://img.pvme.io/images/qi9TCpL.png",
+      "name": "Desert amulet 2",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Desert_amulet_2",
+      "selected": false
+    },
+    {
+      "label": "amuletofnature",
+      "image": "https://img.pvme.io/images/CjIUkSz.png",
+      "name": "Amulet of nature",
+      "breakdownNotes": "Can be replaced with Book o' Piracy",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_nature",
+      "selected": false
+    },
+    {
+      "label": "attunedcrystalteleportseed",
+      "image": "https://img.pvme.io/images/qNQ9dCI.png",
+      "name": "Attuned crystal teleport seed",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Attuned_crystal_teleport_seed",
+      "selected": false
+    },
+    {
+      "label": "zemouregalsnexus",
+      "image": "https://img.pvme.io/images/3pFXvMR.png",
+      "name": "Zemoregal's Nexus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus",
+      "selected": false
+    },
+    {
+      "label": "dwarvenfishextractor",
+      "image": "https://img.pvme.io/images/oN8HWIo.png",
+      "name": "Dwarven fish extractor",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_fish_extractor",
+      "selected": false
+    },
+    {
+      "label": "rawwildpie",
+      "image": "https://img.pvme.io/images/o0uIoLH.png",
+      "name": "Raw wild pie",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Raw_wild_pie",
+      "selected": false
+    },
+    {
+      "label": "magiclogs",
+      "image": "https://img.pvme.io/images/oOIEwH0.png",
+      "name": "Magic logs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_logs",
+      "selected": false
+    },
+    {
+      "label": "elderlogs",
+      "image": "https://img.pvme.io/images/IilVMmp.png",
+      "name": "Elder logs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_logs",
+      "selected": false
+    },
+    {
+      "label": "toadflaxpotionunf",
+      "image": "https://img.pvme.io/images/S0ENqzv.png",
+      "name": "Toadflax potion (unf)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Toadflax_potion_(unf)",
+      "selected": false
+    },
+    {
+      "label": "crushednest",
+      "image": "https://img.pvme.io/images/JzxQM2m.png",
+      "name": "Crushed nest",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Crushed_nest",
+      "selected": false
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "selected": false
+    },
+    {
+      "label": "passingbracelet",
+      "image": "https://img.pvme.io/images/aZvjBlt.png",
+      "name": "Passing bracelet",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Passing_bracelet",
+      "selected": false
+    },
+    {
+      "label": "decoratedcookingurn(nr)",
+      "image": "https://img.pvme.io/images/cx7cvZh.png",
+      "name": "Decorated cooking urn (nr)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Decorated_cooking_urn_(nr)",
+      "selected": false
+    },
+    {
+      "label": "rawshark",
+      "image": "https://img.pvme.io/images/1aatevD.png",
+      "name": "Raw shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Raw_shark",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchpurple",
+      "image": "https://img.pvme.io/images/gCf8SPg.png",
+      "name": "Grasping rune pouch (purple)",
+      "breakdownNotes": "<span>Earth </span><img title=\"earthrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659808731137.png?v=1\" /><span> | Fire </span><img title=\"firerune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659850674186.png?v=1\" /><span> | Air </span><img title=\"airrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658986647589.png?v=1\" /><span> | Soul </span><img title=\"soulrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252660333019136.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(purple)",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline.",
+        "label": "shadowsgrace",
+        "energy": 50
+      },
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained.",
+        "label": "persistentrage",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/Ivcgjer.png",
+        "name": "Luck of the Dwarves",
+        "breakdownNotes": "",
+        "description": "You will always gain the effect of tier 4 luck.",
+        "label": "luckofthedwarves",
+        "energy": 200
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/cOwxYnD.png",
+        "name": "Meerkats",
+        "breakdownNotes": "",
+        "label": "meerkats"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

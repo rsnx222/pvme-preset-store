@@ -1,0 +1,283 @@
+{
+  "presetName": "Glacor's (AFK)",
+  "presetNotes": "(Location: Wen Front Barrier)<br />- Soul Split<br />- Place cannon in the middle of the triangle (4 tiles from barrier)<div>- Player stands 2 tiles North of barrier<br />- Penance Aura OR Penance Powder<br />- Ancient Spellbook: Exanguinate</div>",
+  "equipmentSlots": [
+    {
+      "label": "tectohelm",
+      "image": "https://i.imgur.com/nA1Rs2s.png",
+      "name": "Tectonic mask",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Tectonic_mask"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "eofpinkunorn",
+      "image": "https://i.imgur.com/tzIqWlO.png",
+      "name": "Essence of Finality amulet (pink)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet_(pink)"
+    },
+    {
+      "label": "inq",
+      "image": "https://i.imgur.com/My8VkUX.png",
+      "name": "Inquisitor staff",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Inquisitor_staff"
+    },
+    {
+      "label": "tectotop",
+      "image": "https://i.imgur.com/IaM9G51.png",
+      "name": "Tectonic robe top",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Tectonic_robe_top"
+    },
+    null,
+    {
+      "label": "tectolegs",
+      "image": "https://i.imgur.com/pY0WMur.png",
+      "name": "Tectonic robe bottom",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Tectonic_robe_bottom"
+    },
+    {
+      "label": "wristwraps",
+      "image": "https://i.imgur.com/6iT5PjZ.png",
+      "name": "Kerapac's wrist wraps",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Kerapac's_wrist_wraps"
+    },
+    {
+      "label": "enhancedblastdiff",
+      "image": "https://i.imgur.com/KUGqEdN.png",
+      "name": "Enhanced blast diffusion boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_blast_diffusion_boots"
+    },
+    {
+      "label": "channellerring",
+      "image": "https://i.imgur.com/Zs7j4JG.png",
+      "name": "Channeller's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Channeller's_ring"
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)"
+    },
+    {
+      "label": "penance",
+      "image": "https://i.imgur.com/dMPY1FJ.png",
+      "name": "Penance aura",
+      "breakdownNotes": "<span>Prayer Sustain</span>",
+      "wikiLink": "https://runescape.wiki/w/Penance_aura"
+    },
+    {
+      "label": "scriptureofwen",
+      "image": "https://i.imgur.com/zd3mKfH.png",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "salve",
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "Overloads + <span>Prayer Sustain</span>",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)"
+    },
+    {
+      "label": "salve",
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "Overloads + <span>Prayer Sustain</span>",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)"
+    },
+    null,
+    null,
+    {
+      "label": "powderofpenance2",
+      "image": "https://i.imgur.com/w6hThUy.png",
+      "name": "Powder of penance",
+      "breakdownNotes": "Prayer Sustain",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance"
+    },
+    {
+      "label": "holyscarab",
+      "image": "https://i.imgur.com/7HsbgWH.png",
+      "name": "Holy scarab pouch",
+      "breakdownNotes": "<span>Prayer Sustain</span>",
+      "wikiLink": "https://runescape.wiki/w/Holy_scarab_pouch"
+    },
+    {
+      "label": "lantasticks",
+      "image": "https://i.imgur.com/LfpiRjg.png",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks"
+    },
+    {
+      "label": "elvenshard",
+      "image": "https://i.imgur.com/UURvGNW.png",
+      "name": "Ancient elven ritual shard",
+      "breakdownNotes": "<span>Prayer Sustain</span>",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard"
+    },
+    {
+      "label": "wrench",
+      "image": "https://i.imgur.com/UVffd75.png",
+      "name": "Holy wrench",
+      "breakdownNotes": "<span>Prayer Sustain</span>",
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "label": "1knote",
+      "image": "https://i.imgur.com/8r07LbS.png",
+      "name": "Magic notepaper",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_notepaper"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "label": "herbbag",
+      "image": "https://i.imgur.com/egmZjv0.png",
+      "name": "Herb bag",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Herb_bag"
+    },
+    {
+      "label": "oldakcoil",
+      "image": "https://i.imgur.com/R4tRepk.png",
+      "name": "Oldak coil",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Oldak_coil"
+    },
+    {
+      "label": "cballs",
+      "image": "https://i.imgur.com/GrfjyE2.png",
+      "name": "Cannonballs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs"
+    },
+    null,
+    null,
+    {
+      "label": "springcleaner",
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001"
+    },
+    {
+      "label": "graspingpouchred",
+      "image": "https://i.imgur.com/6nJNred.png",
+      "name": "Grasping rune pouch (red)",
+      "breakdownNotes": "Ancient Spellbook - Exanguinate",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(red)"
+    },
+    {
+      "label": "graspingpouchgreen",
+      "image": "https://i.imgur.com/fWzGXLF.png",
+      "name": "Grasping rune pouch (green)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(green)"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "description": "Increases maximum health by 500.",
+        "label": "fontoflife",
+        "energy": 50
+      },
+      {
+        "image": "https://i.imgur.com/Ivcgjer.png",
+        "name": "Luck of the Dwarves",
+        "breakdownNotes": "",
+        "description": "You will always gain the effect of tier 4 luck.",
+        "label": "luckofthedwarves",
+        "energy": 200
+      },
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)",
+        "label": "berserkersfury",
+        "energy": 250
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/x5tUpRe.png",
+        "name": "Holy Scarab",
+        "breakdownNotes": "",
+        "label": "holyscarab"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

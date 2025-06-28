@@ -1,0 +1,373 @@
+{
+  "presetName": "Basic twin furies melee",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "bandoshelm",
+      "image": "https://img.pvme.io/images/9NwuMuG.png",
+      "name": "Bandos helmet",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bandos_helmet"
+    },
+    {
+      "label": "kilnmelee",
+      "image": "https://img.pvme.io/images/r0RF9V9.png",
+      "name": "TokHaar-Kal-Ket",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/TokHaar-Kal-Ket"
+    },
+    {
+      "label": "bloodfury",
+      "image": "https://img.pvme.io/images/lDrVrEd.png",
+      "name": "Blood amulet of fury",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blood_amulet_of_fury"
+    },
+    {
+      "label": "driderlance",
+      "image": "https://img.pvme.io/images/lEdBw7C.png",
+      "name": "Dragon Rider lance",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dragon_Rider_lance"
+    },
+    {
+      "label": "bandosbody",
+      "image": "https://img.pvme.io/images/rZAwGOE.png",
+      "name": "Bandos chestplate",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bandos_chestplate"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "bandoslegs",
+      "image": "https://img.pvme.io/images/YTrvyv7.png",
+      "name": "Bandos tassets",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bandos_tassets"
+    },
+    {
+      "label": "bandosgloves",
+      "image": "https://img.pvme.io/images/iEpTY9H.png",
+      "name": "Bandos gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bandos_gloves"
+    },
+    {
+      "label": "laceration",
+      "image": "https://img.pvme.io/images/EiQNqj9.png",
+      "name": "Laceration boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Laceration_boots"
+    },
+    {
+      "label": "vigour",
+      "image": "https://img.pvme.io/images/3cSIbWx.png",
+      "name": "Ring of vigour",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_vigour"
+    },
+    {
+      "label": "spikes",
+      "image": "https://img.pvme.io/images/9TncsW1.png",
+      "name": "Armour spikes (alloy)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Armour_spikes_(alloy)"
+    },
+    {
+      "label": "vampaura",
+      "image": "https://img.pvme.io/images/JigaLBL.png",
+      "name": "Vampyrism aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vampyrism_aura"
+    },
+    {
+      "label": "scriptureofjas",
+      "image": "https://img.pvme.io/images/FLYAOEf.png",
+      "name": "Scripture of Jas",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Jas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "holyovl",
+      "image": "https://img.pvme.io/images/TixXgDh.png",
+      "name": "Holy overload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_overload#(6)",
+      "selected": false
+    },
+    {
+      "label": "holyovl",
+      "image": "https://img.pvme.io/images/TixXgDh.png",
+      "name": "Holy overload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_overload#(6)",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "Emergency food",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Emergency food",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Emergency food",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "renewal4",
+      "image": "https://img.pvme.io/images/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "Can be replaced with your best adrenaline potion",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "selected": false
+    },
+    {
+      "label": "renewal4",
+      "image": "https://img.pvme.io/images/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "Can be replaced with your best adrenaline potion",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "Emergency food",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Emergency food",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Emergency food",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false
+    },
+    {
+      "label": "renewal4",
+      "image": "https://img.pvme.io/images/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "Can be replaced with your best adrenaline potion",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "selected": false
+    },
+    {
+      "label": "renewal4",
+      "image": "https://img.pvme.io/images/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "Can be replaced with your best adrenaline potion",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "label": "enhluck",
+      "image": "https://img.pvme.io/images/wsYgZsb.png",
+      "name": "Enhanced luck potion",
+      "breakdownNotes": "Gives tier 3 luck, not needed if LotD is owned",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_luck_potion",
+      "selected": false
+    },
+    {
+      "label": "spices",
+      "image": "https://img.pvme.io/images/GNzR4sU.png",
+      "name": "Expensive spices",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Expensive_spices",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "renewal4",
+      "image": "https://img.pvme.io/images/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "Can be replaced with your best adrenaline potion",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "Healing over time",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "label": "vuln",
+      "image": "https://img.pvme.io/images/2vI8jNm.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "berserkersfury",
+        "image": "https://img.pvme.io/images/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "energy": 250,
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)"
+      },
+      {
+        "label": "fontoflife",
+        "image": "https://img.pvme.io/images/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "energy": 50,
+        "description": "Increases maximum health by 500."
+      },
+      {
+        "label": "deathward",
+        "image": "https://img.pvme.io/images/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%."
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "bunyip",
+        "image": "https://img.pvme.io/images/hpjldw8.png",
+        "name": "Bunyip",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

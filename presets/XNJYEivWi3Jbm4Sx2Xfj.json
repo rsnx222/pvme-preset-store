@@ -1,0 +1,398 @@
+{
+  "presetName": "2023-04-21-17-628",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/11pg3gM.png",
+      "wikiLink": "https://runescape.wiki/w/Jaws_of_the_Abyss",
+      "name": "Jaws of the Abyss",
+      "breakdownNotes": "",
+      "label": "jawsoftheabyss"
+    },
+    {
+      "image": "https://i.imgur.com/bfzX8Up.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Ket",
+      "name": "Igneous Kal-Ket",
+      "breakdownNotes": "",
+      "label": "kalket"
+    },
+    {
+      "image": "https://i.imgur.com/JMC7t7Y.png",
+      "wikiLink": "https://runescape.wiki/w/EoF_-_Dragon_claws",
+      "name": "EoF - Dragon claws",
+      "breakdownNotes": "",
+      "label": "eofred"
+    },
+    {
+      "image": "https://i.imgur.com/Moh9yya.png",
+      "wikiLink": "https://runescape.wiki/w/Abyssal_scourge",
+      "name": "Abyssal scourge",
+      "breakdownNotes": "",
+      "label": "abyssalscourge"
+    },
+    {
+      "image": "https://i.imgur.com/bD8MfPp.png",
+      "wikiLink": "https://runescape.wiki/w/Trimmed_masterwork_platebody",
+      "name": "Trimmed masterwork platebody",
+      "breakdownNotes": "",
+      "label": "tmwtop"
+    },
+    {
+      "image": "https://i.imgur.com/U8DpGds.png",
+      "wikiLink": "https://runescape.wiki/w/Dark_ice_sliver",
+      "name": "Dark ice sliver",
+      "breakdownNotes": "",
+      "label": "darkicesliver"
+    },
+    {
+      "image": "https://i.imgur.com/K3lxy64.png",
+      "wikiLink": "https://runescape.wiki/w/Trimmed_masterwork_platelegs",
+      "name": "Trimmed masterwork platelegs",
+      "breakdownNotes": "",
+      "label": "tmwlegs"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/Q9wmMDK.png",
+      "wikiLink": "https://runescape.wiki/w/Trimmed_masterwork_boots",
+      "name": "Trimmed masterwork boots",
+      "breakdownNotes": "",
+      "label": "tmwboots"
+    },
+    {
+      "image": "https://i.imgur.com/MtrMHZ0.png",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "",
+      "label": "lotd"
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "label": "graspingpouchblack"
+    },
+    {
+      "image": "https://i.imgur.com/dNm4A5W.png",
+      "wikiLink": "https://runescape.wiki/w/Berserker_aura",
+      "name": "Berserker aura",
+      "breakdownNotes": "",
+      "label": "zerk"
+    },
+    {
+      "image": "https://i.imgur.com/jTJxwFt.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Jas",
+      "name": "Scripture of Jas",
+      "breakdownNotes": "",
+      "label": "scriptureofjas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/SsNRoVE.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve",
+      "name": "Elder overload salve",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/306PXtG.png",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "label": "vuln",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/l8c2mCG.png",
+      "wikiLink": "https://runescape.wiki/w/Vital_spark_enhancers",
+      "name": "Vital spark enhancers",
+      "breakdownNotes": "",
+      "label": "sparkenhancers",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b9nVW5t.png",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "label": "crossingkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b9nVW5t.png",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "label": "crossingkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b9nVW5t.png",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "label": "crossingkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b9nVW5t.png",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "label": "crossingkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9wds5Ez.png",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_flask",
+      "name": "Adrenaline renewal flask",
+      "breakdownNotes": "",
+      "label": "renewal6",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/rqIBPF1.png",
+      "wikiLink": "https://runescape.wiki/w/Super_saradomin_brew",
+      "name": "Super saradomin brew",
+      "breakdownNotes": "",
+      "label": "sbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/rqIBPF1.png",
+      "wikiLink": "https://runescape.wiki/w/Super_saradomin_brew",
+      "name": "Super saradomin brew",
+      "breakdownNotes": "",
+      "label": "sbrew",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b9nVW5t.png",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "label": "crossingkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b9nVW5t.png",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "label": "crossingkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b9nVW5t.png",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "label": "crossingkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b9nVW5t.png",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "label": "crossingkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b9nVW5t.png",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "label": "crossingkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b9nVW5t.png",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "label": "crossingkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b9nVW5t.png",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "label": "crossingkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b9nVW5t.png",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "label": "crossingkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b9nVW5t.png",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "label": "crossingkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b9nVW5t.png",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "label": "crossingkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b9nVW5t.png",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "label": "crossingkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b9nVW5t.png",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "label": "crossingkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b9nVW5t.png",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "label": "crossingkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b9nVW5t.png",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "label": "crossingkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b9nVW5t.png",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "label": "crossingkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b9nVW5t.png",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "label": "crossingkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b9nVW5t.png",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "label": "crossingkey",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/b9nVW5t.png",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "label": "crossingkey",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "https://i.imgur.com/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "label": "fontoflife",
+        "energy": 50
+      },
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": "",
+        "label": "ripperdemon"
+      }
+    ]
+  }
+}

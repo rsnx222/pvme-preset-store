@@ -1,0 +1,371 @@
+{
+  "presetName": "T70 Necro ED2",
+  "presetNotes": "Made for LuckyGoblinn<div><br /></div><div>Assumes current levels + 70 necromancy</div>",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/7Xe3Ojt.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_hood_(tier_70)",
+      "name": "Deathwarden hood (tier 70)",
+      "breakdownNotes": "Start with the tank upgrades for necro gear @ T70. The T80/90 armor will be too expensive until you can boost to lvl 103 for Multiply III glyphs",
+      "label": "deathwardenhoodt70"
+    },
+    {
+      "image": "https://i.imgur.com/8Y1U7r0.png",
+      "wikiLink": "https://runescape.wiki/w/Cape_of_legends",
+      "name": "Cape of legends",
+      "breakdownNotes": "Obsidian &lt; Legends &lt; 99 cape &lt; Kiln &lt; Zuk",
+      "label": "capeoflegends"
+    },
+    {
+      "image": "https://i.imgur.com/ixoEqMS.png",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_fury",
+      "name": "Amulet of fury",
+      "breakdownNotes": "Glory &lt; Fury &lt; Souls &lt; EoF",
+      "label": "amuletoffury"
+    },
+    {
+      "image": "https://i.imgur.com/IjI79KW.png",
+      "wikiLink": "https://runescape.wiki/w/Death_guard_(tier_70)",
+      "name": "Death guard (tier 70)",
+      "breakdownNotes": "Upgrade to T80/90 when unlocked",
+      "label": "deathguardt70"
+    },
+    {
+      "image": "https://i.imgur.com/ixmgpKw.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_top_(tier_70)",
+      "name": "Deathwarden robe top (tier 70)",
+      "breakdownNotes": "",
+      "label": "deathwardenrobetopt70"
+    },
+    {
+      "image": "https://i.imgur.com/yhYsPpi.png",
+      "wikiLink": "https://runescape.wiki/w/Skull_lantern_(tier_70)",
+      "name": "Skull lantern (tier 70)",
+      "breakdownNotes": "",
+      "label": "skulllanternt70"
+    },
+    {
+      "image": "https://i.imgur.com/kvHeNlP.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_bottom_(tier_70)",
+      "name": "Deathwarden robe bottom (tier 70)",
+      "breakdownNotes": "",
+      "label": "deathwardenrobebottomt70"
+    },
+    {
+      "image": "https://i.imgur.com/zP1KZQS.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_gloves_(tier_70)",
+      "name": "Deathwarden gloves (tier 70)",
+      "breakdownNotes": "",
+      "label": "deathwardenglovest70"
+    },
+    {
+      "image": "https://i.imgur.com/HSvu5ig.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_boots_(tier_70)",
+      "name": "Deathwarden boots (tier 70)",
+      "breakdownNotes": "",
+      "label": "deathwardenbootst70"
+    },
+    {
+      "image": "https://i.imgur.com/RZg5LNG.png",
+      "wikiLink": "https://runescape.wiki/w/Asylum_surgeon's_ring",
+      "name": "Asylum surgeon's ring",
+      "breakdownNotes": "Fortune &lt; ASR &lt; ROD &lt; Reavers",
+      "label": "asr"
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Placeholder | No icon for Deathwarden Nexus<div><br /><div>Holds ectoplasm and 4 necro runes</div></div>",
+      "label": "graspingpouchblack"
+    },
+    {
+      "image": "https://i.imgur.com/cJL1LNJ.png",
+      "wikiLink": "https://runescape.wiki/w/Vampyrism_aura",
+      "name": "Vampyrism aura",
+      "breakdownNotes": "Optional, additional healing if owned",
+      "label": "vampaura"
+    },
+    {
+      "image": "https://i.imgur.com/Dc55Kq4.png",
+      "wikiLink": "https://runescape.wiki/w/Illuminated_Book_of_Balance",
+      "name": "Illuminated Book of Balance",
+      "breakdownNotes": "Any God Book &lt; Jas Book",
+      "label": "guthixgodbook"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/DUhcOW3.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_Defence#(4)",
+      "name": "Extreme defence (4)",
+      "breakdownNotes": "<br />",
+      "label": "extdefence"
+    },
+    {
+      "image": "https://i.imgur.com/SgGHcx0.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_Magic#(4)",
+      "name": "Extreme magic (4)",
+      "breakdownNotes": "<span>Placeholder | No icon for Extreme Necro pot</span>",
+      "label": "extmagic"
+    },
+    {
+      "image": "https://i.imgur.com/g4GKi54.png",
+      "wikiLink": "https://runescape.wiki/w/Super_antifire#(4)",
+      "name": "Super antifire (4)",
+      "breakdownNotes": "",
+      "label": "superantifire"
+    },
+    {
+      "image": "https://i.imgur.com/n9C7iSA.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "",
+      "label": "vitality4"
+    },
+    {
+      "image": "https://i.imgur.com/GNzR4sU.png",
+      "wikiLink": "https://runescape.wiki/w/Expensive_spices",
+      "name": "Expensive spices",
+      "breakdownNotes": "Keep in inventory, adds additional +50 HP per 1/3 blubber",
+      "label": "spices"
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "Extra free healing",
+      "label": "excal"
+    },
+    {
+      "image": "https://i.imgur.com/3nHNM45.png",
+      "wikiLink": "https://runescape.wiki/w/Lucky_charms_(Dragonkin_Laboratory)",
+      "name": "Lucky charm (Dragonkin Laboratory)",
+      "breakdownNotes": "",
+      "label": "luckyed2"
+    },
+    {
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "name": "Guthix rest",
+      "breakdownNotes": "Can combo eat with blue blubbers in the same tick for additional healing. Recommend key-binding",
+      "label": "grest"
+    },
+    {
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "name": "Guthix rest",
+      "breakdownNotes": "Can combo eat with blue blubbers in the same tick for additional healing. Recommend key-binding",
+      "label": "grest"
+    },
+    {
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "name": "Guthix rest",
+      "breakdownNotes": "Can combo eat with blue blubbers in the same tick for additional healing. Recommend key-binding",
+      "label": "grest"
+    },
+    {
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "name": "Guthix rest",
+      "breakdownNotes": "Can combo eat with blue blubbers in the same tick for additional healing. Recommend key-binding",
+      "label": "grest"
+    },
+    {
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "name": "Guthix rest",
+      "breakdownNotes": "Can combo eat with blue blubbers in the same tick for additional healing. Recommend key-binding",
+      "label": "grest"
+    },
+    {
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "name": "Guthix rest",
+      "breakdownNotes": "Can combo eat with blue blubbers in the same tick for additional healing. Recommend key-binding",
+      "label": "grest"
+    },
+    {
+      "image": "https://i.imgur.com/iXpGYQo.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "name": "Guthix rest",
+      "breakdownNotes": "Can combo eat with blue blubbers in the same tick for additional healing. Recommend key-binding",
+      "label": "grest"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/RD2LyxF.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "name": "Blue blubber jellyfish",
+      "breakdownNotes": "",
+      "label": "jelly"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/7e6Juey.png",
+        "name": "Font of Life",
+        "breakdownNotes": "",
+        "description": "Increases maximum health by 500.",
+        "label": "fontoflife",
+        "energy": 50
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "https://i.imgur.com/xXWYCHG.png",
+        "name": "Berserkers Fury",
+        "breakdownNotes": "",
+        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)",
+        "label": "berserkersfury",
+        "energy": 250
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/A1BvfVb.png",
+        "name": "Hellhound",
+        "breakdownNotes": "",
+        "label": "hellhound"
+      }
+    ]
+  }
+}

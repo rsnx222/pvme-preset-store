@@ -1,0 +1,393 @@
+{
+  "presetName": "",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/2fdFcoh.png",
+      "wikiLink": "https://runescape.wiki/w/Merchant_district_teleport",
+      "name": "Merchant district teleport",
+      "breakdownNotes": "",
+      "label": "merchantdistrictteleport"
+    },
+    {
+      "image": "https://i.imgur.com/2Yo9blS.png",
+      "wikiLink": "https://runescape.wiki/w/Worker_district_teleport",
+      "name": "Worker district teleport",
+      "breakdownNotes": "",
+      "label": "workerdistrictteleport"
+    },
+    {
+      "image": "https://i.imgur.com/l79AylD.png",
+      "wikiLink": "https://runescape.wiki/w/Dragon_trinkets",
+      "name": "Dragon trinkets",
+      "breakdownNotes": "",
+      "label": "dragontrinkets"
+    },
+    {
+      "image": "https://i.imgur.com/HdBwZ61.png",
+      "wikiLink": "https://runescape.wiki/w/Knot_skipping_ticket",
+      "name": "Knot skipping ticket",
+      "breakdownNotes": "",
+      "label": "knotskippingticket"
+    },
+    {
+      "image": "https://i.imgur.com/bv0fyzq.png",
+      "wikiLink": "https://runescape.wiki/w/Sophanem_Dungeon_teleport",
+      "name": "Sophanem Dungeon teleport",
+      "breakdownNotes": "",
+      "label": "sophanemdungeonteleport"
+    },
+    {
+      "image": "https://i.imgur.com/Iyv2fmh.png",
+      "wikiLink": "https://runescape.wiki/w/Tower_skipping_ticket",
+      "name": "Tower skipping ticket",
+      "breakdownNotes": "",
+      "label": "towerskippingticket"
+    },
+    {
+      "image": "https://i.imgur.com/I4qeyjI.png",
+      "wikiLink": "https://runescape.wiki/w/Lockbox_skipping_ticket",
+      "name": "Lockbox skipping ticket",
+      "breakdownNotes": "",
+      "label": "lockboxskippingticket"
+    },
+    {
+      "image": "https://i.imgur.com/SazXdzN.png",
+      "wikiLink": "https://runescape.wiki/w/Costume_skipping_ticket",
+      "name": "Costume skipping ticket",
+      "breakdownNotes": "",
+      "label": "costumeskippingticket"
+    },
+    {
+      "image": "https://i.imgur.com/gsFc7Fw.png",
+      "wikiLink": "https://runescape.wiki/w/Puzzle_box_skipping_ticket",
+      "name": "Puzzle box skipping ticket",
+      "breakdownNotes": "",
+      "label": "puzzleboxskippingticket"
+    },
+    {
+      "image": "https://i.imgur.com/tyIGCLl.png",
+      "wikiLink": "https://runescape.wiki/w/Dorgesh-kaan_sphere",
+      "name": "Dorgesh-kaan sphere",
+      "breakdownNotes": "",
+      "label": "dorgesh-kaansphere"
+    },
+    {
+      "image": "https://i.imgur.com/I74Bq3s.png",
+      "wikiLink": "https://runescape.wiki/w/Gold_seal",
+      "name": "Gold seal (noted)",
+      "breakdownNotes": "",
+      "label": "goldseal(noted)"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/a9CsKQI.png",
+      "wikiLink": "https://runescape.wiki/w/Ourania_teleport",
+      "name": "Ourania teleport",
+      "breakdownNotes": "",
+      "label": "ouraniateleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/MiKyECQ.png",
+      "wikiLink": "https://runescape.wiki/w/Khazard_teleport",
+      "name": "Khazard teleport",
+      "breakdownNotes": "",
+      "label": "khazardteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/32yhm41.png",
+      "wikiLink": "https://runescape.wiki/w/Shattered_Worlds_teleport_scroll",
+      "name": "Shattered Worlds teleport scroll",
+      "breakdownNotes": "",
+      "label": "shatteredworldsteleportscroll",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/TbTkcjH.png",
+      "wikiLink": "https://runescape.wiki/w/Grand_seed_pod",
+      "name": "Grand seed pod",
+      "breakdownNotes": "",
+      "label": "grandseedpod",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nGYkvb0.png",
+      "wikiLink": "https://runescape.wiki/w/Dragonkin_Laboratory_teleport",
+      "name": "Dragonkin Laboratory teleport",
+      "breakdownNotes": "",
+      "label": "dragonkinlaboratoryteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/eirYlnU.png",
+      "wikiLink": "https://runescape.wiki/w/The_Heart_teleport",
+      "name": "The Heart teleport",
+      "breakdownNotes": "",
+      "label": "theheartteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/WYm7p9h.png",
+      "wikiLink": "https://runescape.wiki/w/Archaeology_teleport",
+      "name": "Archaeology teleport",
+      "breakdownNotes": "",
+      "label": "archaeologyteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/BkETAoz.png",
+      "wikiLink": "https://runescape.wiki/w/Water_altar_teleport",
+      "name": "Water altar teleport",
+      "breakdownNotes": "",
+      "label": "wateraltarteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/qm02gPe.png",
+      "wikiLink": "https://runescape.wiki/w/Nature_altar_teleport",
+      "name": "Nature altar teleport",
+      "breakdownNotes": "",
+      "label": "naturealtarteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/bURJ0uQ.png",
+      "wikiLink": "https://runescape.wiki/w/Cosmic_altar_teleport",
+      "name": "Cosmic altar teleport",
+      "breakdownNotes": "",
+      "label": "cosmicaltarteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/uRrpo3Y.png",
+      "wikiLink": "https://runescape.wiki/w/Brimhaven_tablet",
+      "name": "Brimhaven tablet",
+      "breakdownNotes": "",
+      "label": "brimhaventablet",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/uRrpo3Y.png",
+      "wikiLink": "https://runescape.wiki/w/Relleka_tablet",
+      "name": "Relleka tablet",
+      "breakdownNotes": "",
+      "label": "rellekatablet",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/uRrpo3Y.png",
+      "wikiLink": "https://runescape.wiki/w/Menaphos_tablet",
+      "name": "Menaphos tablet",
+      "breakdownNotes": "",
+      "label": "menaphostablet",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/uRrpo3Y.png",
+      "wikiLink": "https://runescape.wiki/w/Relleka_tablet",
+      "name": "Relleka tablet",
+      "breakdownNotes": "",
+      "label": "rellekatablet",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/uRrpo3Y.png",
+      "wikiLink": "https://runescape.wiki/w/Rimmington_tablet",
+      "name": "Rimmington tablet",
+      "breakdownNotes": "",
+      "label": "rimmingtontablet",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/uRrpo3Y.png",
+      "wikiLink": "https://runescape.wiki/w/Pollnivneach_tablet",
+      "name": "Pollnivneach tablet",
+      "breakdownNotes": "",
+      "label": "pollnivneachtablet",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/uRrpo3Y.png",
+      "wikiLink": "https://runescape.wiki/w/Taverly_tablet",
+      "name": "Taverly tablet",
+      "breakdownNotes": "",
+      "label": "taverlytablet",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Xrq18bn.png",
+      "wikiLink": "https://runescape.wiki/w/Spirit_tree_re-rooter",
+      "name": "Spirit tree re-rooter",
+      "breakdownNotes": "",
+      "label": "spirittreere-rooter",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/XCZuCaN.png",
+      "wikiLink": "https://runescape.wiki/w/Portable_fairy_ring",
+      "name": "Portable fairy ring",
+      "breakdownNotes": "",
+      "label": "fairyring",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/7crFFMq.png",
+      "wikiLink": "https://runescape.wiki/w/Air_rune",
+      "name": "Air runes (1k)",
+      "breakdownNotes": "",
+      "label": "airrune1k",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/7x9jLfm.png",
+      "wikiLink": "https://runescape.wiki/w/Water_rune",
+      "name": "Water runes (1k)",
+      "breakdownNotes": "",
+      "label": "waterrune1k",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3tsGSBD.png",
+      "wikiLink": "https://runescape.wiki/w/Easy_clue",
+      "name": "Easy clue",
+      "breakdownNotes": "",
+      "label": "easyclue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Y3W9y2M.png",
+      "wikiLink": "https://runescape.wiki/w/Hard_clue",
+      "name": "Hard clue",
+      "breakdownNotes": "",
+      "label": "hardclue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/eyWoLsP.png",
+      "wikiLink": "https://runescape.wiki/w/Elite_clue",
+      "name": "Elite clue",
+      "breakdownNotes": "",
+      "label": "eliteclue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/kCt8i0F.png",
+      "wikiLink": "https://runescape.wiki/w/Medium_clue",
+      "name": "Medium clue",
+      "breakdownNotes": "",
+      "label": "mediumclue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/TwrsJae.png",
+      "wikiLink": "https://runescape.wiki/w/Master_clue",
+      "name": "Master clue",
+      "breakdownNotes": "",
+      "label": "masterclue",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/BaZYIcM.png",
+      "wikiLink": "https://runescape.wiki/w/Earth_rune",
+      "name": "Earth runes (1k)",
+      "breakdownNotes": "",
+      "label": "earthrune1k",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/MLCntzy.png",
+      "wikiLink": "https://runescape.wiki/w/Law_rune",
+      "name": "Law runes (100)",
+      "breakdownNotes": "",
+      "label": "lawrune100",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/cOwxYnD.png",
+        "name": "Meerkats",
+        "breakdownNotes": "",
+        "label": "meerkats"
+      }
+    ]
+  }
+}

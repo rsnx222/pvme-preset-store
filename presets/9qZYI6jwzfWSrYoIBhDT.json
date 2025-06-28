@@ -1,0 +1,312 @@
+{
+  "presetName": "Gate of Elidinis - basic",
+  "presetNotes": "Add food as necessary. can use obsidian golem or lava titan<br />",
+  "equipmentSlots": [
+    {
+      "label": "magicgolemhead",
+      "image": "https://i.imgur.com/XCIjNXk.png",
+      "name": "Magic golem head",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_head"
+    },
+    {
+      "label": "constitutioncape",
+      "image": "https://i.imgur.com/DFwDP3K.png",
+      "name": "Constitution cape",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Constitution_cape"
+    },
+    {
+      "label": "gote",
+      "image": "https://i.imgur.com/4KgPcpm.png",
+      "name": "Grace of the elves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "magicgolemtorso",
+      "image": "https://i.imgur.com/Ytyzy1c.png",
+      "name": "Magic golem torso",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_torso"
+    },
+    {
+      "label": "shield",
+      "image": "https://i.imgur.com/So3SwSO.png",
+      "name": "Shield",
+      "breakdownNotes": "for <img title=\"cade\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/535541306353778689.png?v=1\" /><br />",
+      "wikiLink": "https://runescape.wiki/w/Shield"
+    },
+    {
+      "label": "magicgolemlegs",
+      "image": "https://i.imgur.com/4jZVBTE.png",
+      "name": "Magic golem legs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_legs"
+    },
+    {
+      "label": "magicgolemgloves",
+      "image": "https://i.imgur.com/ZaLwIE0.png",
+      "name": "Magic golem gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_gloves"
+    },
+    {
+      "label": "magicgolemboots",
+      "image": "https://i.imgur.com/0yMVyOj.png",
+      "name": "Magic golem boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_golem_boots"
+    },
+    {
+      "label": "ringoffortune",
+      "image": "https://i.imgur.com/aKOEeRs.png",
+      "name": "Ring of Fortune",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_Fortune"
+    },
+    {
+      "label": "deathwardennexus",
+      "image": "https://i.imgur.com/hd7YvA4.png",
+      "name": "Deathwarden Nexus",
+      "breakdownNotes": "To allow for casting defensives with boneshield",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    }
+  ],
+  "inventorySlots": [
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "shark",
+      "image": "https://i.imgur.com/qSP1R78.png",
+      "name": "Shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "for <img title=\"mob\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689501908628799488.png?v=1\" /> perk, assuming no shadow's grace<br />",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline.",
+        "label": "shadowsgrace",
+        "energy": 50
+      },
+      {
+        "image": "https://i.imgur.com/Ivcgjer.png",
+        "name": "Luck of the Dwarves",
+        "breakdownNotes": "",
+        "description": "You will always gain the effect of tier 4 luck.",
+        "label": "luckofthedwarves",
+        "energy": 200
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "label": "shadowsgrace",
+        "image": "https://i.imgur.com/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "energy": 50,
+        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline."
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

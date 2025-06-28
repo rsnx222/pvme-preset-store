@@ -1,0 +1,337 @@
+{
+  "presetName": "Basic vindicta melee",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "bandoshelm",
+      "image": "https://img.pvme.io/images/9NwuMuG.png",
+      "name": "Bandos helmet",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bandos_helmet"
+    },
+    {
+      "label": "kilnmelee",
+      "image": "https://img.pvme.io/images/r0RF9V9.png",
+      "name": "TokHaar-Kal-Ket",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/TokHaar-Kal-Ket"
+    },
+    {
+      "label": "drider",
+      "image": "https://img.pvme.io/images/03MW8YA.png",
+      "name": "Dragonrider amulet",
+      "breakdownNotes": "Can be upgraded to AoS or EoF if owned",
+      "wikiLink": "https://runescape.wiki/w/Dragonrider_amulet"
+    },
+    {
+      "label": "darkiceshard",
+      "image": "https://img.pvme.io/images/TjVRnbE.png",
+      "name": "Dark ice shard",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dark_ice_shard"
+    },
+    {
+      "label": "bandosbody",
+      "image": "https://img.pvme.io/images/rZAwGOE.png",
+      "name": "Bandos chestplate",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bandos_chestplate"
+    },
+    {
+      "label": "darkicesliver",
+      "image": "https://img.pvme.io/images/U8DpGds.png",
+      "name": "Dark ice sliver",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dark_ice_sliver"
+    },
+    {
+      "label": "bandoslegs",
+      "image": "https://img.pvme.io/images/YTrvyv7.png",
+      "name": "Bandos tassets",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bandos_tassets"
+    },
+    {
+      "label": "bandosgloves",
+      "image": "https://img.pvme.io/images/iEpTY9H.png",
+      "name": "Bandos gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bandos_gloves"
+    },
+    {
+      "label": "laceration",
+      "image": "https://img.pvme.io/images/EiQNqj9.png",
+      "name": "Laceration boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Laceration_boots"
+    },
+    {
+      "label": "reaverring",
+      "image": "https://img.pvme.io/images/cnIOClx.png",
+      "name": "Reaver's ring",
+      "breakdownNotes": "Can downgrade to other rings if needed",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring"
+    },
+    {
+      "label": "spikes",
+      "image": "https://img.pvme.io/images/9TncsW1.png",
+      "name": "Armour spikes (alloy)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Armour_spikes_(alloy)"
+    },
+    {
+      "label": "zerk",
+      "image": "https://img.pvme.io/images/Fme45Ts.png",
+      "name": "Berserker aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Berserker_aura"
+    },
+    {
+      "label": "scriptureofjas",
+      "image": "https://img.pvme.io/images/FLYAOEf.png",
+      "name": "Scripture of Jas",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Jas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "holyovl",
+      "image": "https://img.pvme.io/images/TixXgDh.png",
+      "name": "Holy overload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_overload#(6)"
+    },
+    {
+      "label": "holyovl",
+      "image": "https://img.pvme.io/images/TixXgDh.png",
+      "name": "Holy overload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_overload#(6)"
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)"
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)"
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "Emergency food",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)"
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Emergency food",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish"
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Emergency food",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish"
+    },
+    {
+      "label": "renewal4",
+      "image": "https://img.pvme.io/images/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "Can be replaced with your best adrenaline potion",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)"
+    },
+    {
+      "label": "renewal4",
+      "image": "https://img.pvme.io/images/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "Can be replaced with your best adrenaline potion",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)"
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)"
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)"
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "Emergency food",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)"
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Emergency food",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish"
+    },
+    {
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Emergency food",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish"
+    },
+    {
+      "label": "renewal4",
+      "image": "https://img.pvme.io/images/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "Can be replaced with your best adrenaline potion",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)"
+    },
+    {
+      "label": "renewal4",
+      "image": "https://img.pvme.io/images/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "Can be replaced with your best adrenaline potion",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)"
+    },
+    {
+      "label": "scythe",
+      "image": "https://img.pvme.io/images/DYr8pFK.png",
+      "name": "Noxious scythe",
+      "breakdownNotes": "<span>Not needed if not comfortable with DW/2H swapping</span>",
+      "wikiLink": "https://runescape.wiki/w/Noxious_scythe"
+    },
+    {
+      "label": "enhluck",
+      "image": "https://img.pvme.io/images/wsYgZsb.png",
+      "name": "Enhanced luck potion",
+      "breakdownNotes": "Gives tier 3 luck, not needed if LotD is owned",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_luck_potion"
+    },
+    {
+      "label": "spices",
+      "image": "https://img.pvme.io/images/GNzR4sU.png",
+      "name": "Expensive spices",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Expensive_spices"
+    },
+    null,
+    null,
+    {
+      "label": "renewal4",
+      "image": "https://img.pvme.io/images/IqAjWRF.png",
+      "name": "Adrenaline renewal potion (4)",
+      "breakdownNotes": "Can be replaced with your best adrenaline potion",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)"
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "Healing over time",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur"
+    },
+    {
+      "label": "nexdefender",
+      "image": "https://img.pvme.io/images/ILVnJN0.png",
+      "name": "Ancient defender",
+      "breakdownNotes": "Used mainly for resonance",
+      "wikiLink": "https://runescape.wiki/w/Ancient_defender"
+    },
+    {
+      "label": "vuln",
+      "image": "https://img.pvme.io/images/2vI8jNm.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs"
+    },
+    null,
+    null,
+    null
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

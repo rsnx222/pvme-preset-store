@@ -1,0 +1,329 @@
+{
+  "presetName": "2023-04-04-18-3350",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/HYq8kom.png",
+      "wikiLink": "https://runescape.wiki/w/Lunar_helm",
+      "name": "Lunar helm",
+      "breakdownNotes": "",
+      "label": "lunarhelm"
+    },
+    {
+      "image": "https://i.imgur.com/fBubAFa.png",
+      "wikiLink": "https://runescape.wiki/w/Guthix_/_Saradomin_/_Zamorak_cape",
+      "name": "Guthix / Saradomin / Zamorak cape",
+      "breakdownNotes": "",
+      "label": "godcape"
+    },
+    {
+      "image": "https://i.imgur.com/MZrnol8.png",
+      "wikiLink": "https://runescape.wiki/w/Lunar_ammy",
+      "name": "Lunar ammy",
+      "breakdownNotes": "",
+      "label": "lunarammy"
+    },
+    {
+      "image": "https://i.imgur.com/oThyaup.png",
+      "wikiLink": "https://runescape.wiki/w/Vanquish",
+      "name": "Vanquish",
+      "breakdownNotes": "",
+      "label": "vanquish"
+    },
+    {
+      "image": "https://i.imgur.com/8xVdj2x.png",
+      "wikiLink": "https://runescape.wiki/w/Lunar_torso",
+      "name": "Lunar torso",
+      "breakdownNotes": "",
+      "label": "lunartorso"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/W36mgq6.png",
+      "wikiLink": "https://runescape.wiki/w/Lunar_legs",
+      "name": "Lunar legs",
+      "breakdownNotes": "",
+      "label": "lunarlegs"
+    },
+    {
+      "image": "https://i.imgur.com/sFyLuKh.png",
+      "wikiLink": "https://runescape.wiki/w/Lunar_gloves",
+      "name": "Lunar gloves",
+      "breakdownNotes": "",
+      "label": "lunargloves"
+    },
+    {
+      "image": "https://i.imgur.com/MPEFfj4.png",
+      "wikiLink": "https://runescape.wiki/w/Lunar_boots",
+      "name": "Lunar boots",
+      "breakdownNotes": "",
+      "label": "lunarboots"
+    },
+    {
+      "image": "https://i.imgur.com/2kNbRW2.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_vigour",
+      "name": "Ring of vigour",
+      "breakdownNotes": "Important - saves 10% of adrenaline cost of sunshine and guthix staff special attacks",
+      "label": "vigour"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/Zevs8R8.png",
+      "wikiLink": "https://runescape.wiki/w/Maniacal_aura",
+      "name": "Maniacal aura",
+      "breakdownNotes": "Important - increases accuracy and damage significantly",
+      "label": "mani"
+    },
+    {
+      "image": "https://i.imgur.com/MKhvXuj.png",
+      "wikiLink": "https://runescape.wiki/w/Book_of_war",
+      "name": "Book of war",
+      "breakdownNotes": "Any god book / elder god scripture works, only for stats",
+      "label": "bandosgodbook2"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/SgGHcx0.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_Magic",
+      "name": "Extreme Magic",
+      "breakdownNotes": "Important - increases accuracy and damage",
+      "label": "extmagic",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hw7rKHz.png",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_(1_dose)",
+      "name": "Weapon poison+++ (1 dose)",
+      "breakdownNotes": "Important - free damage",
+      "label": "poison1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yiqKcos.png",
+      "wikiLink": "https://runescape.wiki/w/Super_prayer_renewal",
+      "name": "Super prayer renewal",
+      "breakdownNotes": "",
+      "label": "prayrenewal",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9imiEjS.png",
+      "wikiLink": "https://runescape.wiki/w/Bandos_warshield",
+      "name": "Bandos warshield",
+      "breakdownNotes": "Any shield works, style does not matter. Only for Resonance",
+      "label": "bandosshield",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/7crFFMq.png",
+      "wikiLink": "https://runescape.wiki/w/Air_runes_(1k)",
+      "name": "Air runes (1k)",
+      "breakdownNotes": "Runes for Air Surge",
+      "label": "airrune1k",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/LHQUoc3.png",
+      "wikiLink": "https://runescape.wiki/w/Soul_runes_(1k)",
+      "name": "Soul runes (1k)",
+      "breakdownNotes": "Runes for Vulnerability",
+      "label": "soulrune1k",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/wbWrG7X.png",
+      "wikiLink": "https://runescape.wiki/w/Chaos_runes_(1k)",
+      "name": "Chaos runes (1k)",
+      "breakdownNotes": "Runes for Vulnerability",
+      "label": "chaosrune1k",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UVffd75.png",
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench",
+      "name": "Holy wrench",
+      "breakdownNotes": "",
+      "label": "wrench",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/GNzR4sU.png",
+      "wikiLink": "https://runescape.wiki/w/Expensive_spices",
+      "name": "Expensive spices",
+      "breakdownNotes": "",
+      "label": "spices",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Important - cheap food that does not drain adrenaline",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Important - cheap food that does not drain adrenaline",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Important - cheap food that does not drain adrenaline",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Important - cheap food that does not drain adrenaline",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Important - cheap food that does not drain adrenaline",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Important - cheap food that does not drain adrenaline",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Important - cheap food that does not drain adrenaline",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Important - cheap food that does not drain adrenaline",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Important - cheap food that does not drain adrenaline",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Important - cheap food that does not drain adrenaline",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Important - cheap food that does not drain adrenaline",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Important - cheap food that does not drain adrenaline",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Important - cheap food that does not drain adrenaline",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Important - cheap food that does not drain adrenaline",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Important - cheap food that does not drain adrenaline",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Important - cheap food that does not drain adrenaline",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Important - cheap food that does not drain adrenaline",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Important - cheap food that does not drain adrenaline",
+      "label": "greenjelly",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I8vuFeB.png",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "name": "Green blubber jellyfish",
+      "breakdownNotes": "Important - cheap food that does not drain adrenaline",
+      "label": "greenjelly",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [],
+    "alternativeFamiliars": []
+  }
+}

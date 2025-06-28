@@ -1,0 +1,399 @@
+{
+  "presetName": "Secondary Master Clue Preset",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/cDfMJE7.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_head",
+      "name": "Volcanic trapper head",
+      "breakdownNotes": "",
+      "label": "volcanictrapperhead"
+    },
+    {
+      "image": "https://i.imgur.com/p93OdqM.png",
+      "wikiLink": "https://runescape.wiki/w/Crafting_cape_(t)",
+      "name": "Crafting cape",
+      "breakdownNotes": "",
+      "label": "craftingcape"
+    },
+    {
+      "image": "https://i.imgur.com/4KgPcpm.png",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves",
+      "name": "Grace of the elves",
+      "breakdownNotes": "",
+      "label": "gote"
+    },
+    {
+      "image": "https://i.imgur.com/iVFW4i1.png",
+      "wikiLink": "https://runescape.wiki/w/Yaktwee_stick",
+      "name": "Yaktwee stick",
+      "breakdownNotes": "",
+      "label": "yaktweestick"
+    },
+    {
+      "image": "https://i.imgur.com/rOg7aHk.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_chest",
+      "name": "Volcanic trapper chest",
+      "breakdownNotes": "",
+      "label": "volcanictrapperchest"
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal"
+    },
+    {
+      "image": "https://i.imgur.com/HocPtbC.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_legguards",
+      "name": "Volcanic trapper legguards",
+      "breakdownNotes": "",
+      "label": "volcanictrapperlegguards"
+    },
+    {
+      "image": "https://i.imgur.com/Yw0OGHG.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_arms",
+      "name": "Volcanic trapper arms",
+      "breakdownNotes": "",
+      "label": "volcanictrapperarms"
+    },
+    {
+      "image": "https://i.imgur.com/E9pG2sG.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_boots",
+      "name": "Volcanic trapper boots",
+      "breakdownNotes": "",
+      "label": "volcanictrapperboots"
+    },
+    {
+      "image": "https://i.imgur.com/xmcbfhs.png",
+      "wikiLink": "https://runescape.wiki/w/Hazelmere's_signet",
+      "name": "Hazelmere's signet ring",
+      "breakdownNotes": "",
+      "label": "hsr"
+    },
+    {
+      "image": "https://i.imgur.com/6nJNred.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(red)",
+      "name": "Grasping rune pouch (red)",
+      "breakdownNotes": "<span>Cosmic </span><img title=\"cosmicrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659615924258.png?v=1\" /><span> | Astral </span><img title=\"astralrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658961481769.png?v=1\" /><span> | Law </span><img title=\"lawrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252661406760970.png?v=1\" /><span> | Water </span><img title=\"waterrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252660165115905.png?v=1\" />",
+      "label": "graspingpouchred"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/qNQ9dCI.png",
+      "wikiLink": "https://runescape.wiki/w/Attuned_crystal_teleport_seed",
+      "name": "Attuned crystal teleport seed",
+      "breakdownNotes": "",
+      "label": "attunedcrystalteleportseed"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/beq0RtH.png",
+      "wikiLink": "https://runescape.wiki/w/Clue_scroll",
+      "name": "Active clue",
+      "breakdownNotes": "",
+      "label": "activeclue",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/S0ENqzv.png",
+      "wikiLink": "https://runescape.wiki/w/Toadflax_potion_(unf)",
+      "name": "Toadflax potion (unf)",
+      "breakdownNotes": "",
+      "label": "toadflaxpotionunf",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/fAvXNbz.png",
+      "wikiLink": "https://runescape.wiki/w/Torstol_potion_(unf)",
+      "name": "Torstol potion (unf)",
+      "breakdownNotes": "",
+      "label": "torstolpotionunf",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/oOIEwH0.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_logs",
+      "name": "Magic logs",
+      "breakdownNotes": "",
+      "label": "magiclogs",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/cx7cvZh.png",
+      "wikiLink": "https://runescape.wiki/w/Decorated_cooking_urn_(nr)",
+      "name": "Decorated cooking urn (nr)",
+      "breakdownNotes": "",
+      "label": "decoratedcookingurn(nr)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/yrnlR2T.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "<span>Earth </span><img title=\"earthrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659808731137.png?v=1\" /><span> | Fire </span><img title=\"firerune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659850674186.png?v=1\" /><span> | Air </span><img title=\"airrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658986647589.png?v=1\" /><span> | Soul </span><img title=\"soulrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252660333019136.png?v=1\" />",
+      "label": "graspingpouchpink",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/KPREDHT.png",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "label": "cluebag",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/LfpiRjg.png",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "",
+      "label": "lantasticks",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/JzxQM2m.png",
+      "wikiLink": "https://runescape.wiki/w/Crushed_nest",
+      "name": "Crushed nest",
+      "breakdownNotes": "",
+      "label": "crushednest",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/8ka7wAu.png",
+      "wikiLink": "https://runescape.wiki/w/Jangerberries",
+      "name": "Jangerberries",
+      "breakdownNotes": "",
+      "label": "jangerberries",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/IilVMmp.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_logs",
+      "name": "Elder logs",
+      "breakdownNotes": "",
+      "label": "elderlogs",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/o0uIoLH.png",
+      "wikiLink": "https://runescape.wiki/w/Raw_wild_pie",
+      "name": "Raw wild pie",
+      "breakdownNotes": "",
+      "label": "rawwildpie",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/1aatevD.png",
+      "wikiLink": "https://runescape.wiki/w/Raw_shark",
+      "name": "Raw shark",
+      "breakdownNotes": "",
+      "label": "rawshark",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/zIwiuqt.png",
+      "wikiLink": "https://runescape.wiki/w/Meerkats_pouch",
+      "name": "Meerkats pouch",
+      "breakdownNotes": "",
+      "label": "meerkatspouch",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9GP63eS.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "label": "salve",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/WYm7p9h.png",
+      "wikiLink": "https://runescape.wiki/w/Archaeology_teleport",
+      "name": "Archaeology teleport",
+      "breakdownNotes": "",
+      "label": "archaeologyteleport",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/9u3f0ws.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_backpack",
+      "name": "Globetrotter backpack",
+      "breakdownNotes": "",
+      "label": "globetrotterbackpack",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/4FnqALw.png",
+      "wikiLink": "https://runescape.wiki/w/Passage_of_the_Abyss_(purple)",
+      "name": "Passage of the Abyss (purple)",
+      "breakdownNotes": "",
+      "label": "passageoftheabyss(purple)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/orRGsqY.png",
+      "wikiLink": "https://runescape.wiki/w/Body_rune",
+      "name": "Body rune",
+      "breakdownNotes": "",
+      "label": "bodyrune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/XSZEqx9.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_masterstroke_(1)",
+      "name": "Powerburst of masterstroke (1)",
+      "breakdownNotes": "",
+      "label": "powerburstofmasterstroke(1)",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Dc1RbtE.png",
+      "wikiLink": "https://runescape.wiki/w/Meerkat_scroll_(Fetch_Casket)",
+      "name": "Meerkat scroll (Fetch Casket)",
+      "breakdownNotes": "",
+      "label": "meerkatscrolls500",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/paFUjfv.png",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_jacket",
+      "name": "Globetrotter jacket",
+      "breakdownNotes": "",
+      "label": "globetrotterjacket",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PYRyglW.png",
+      "wikiLink": "https://runescape.wiki/w/Mask_of_the_Ganodermic",
+      "name": "Mask of the Ganodermic",
+      "breakdownNotes": "",
+      "label": "maskoftheganodermic",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/FN0XHFS.png",
+      "wikiLink": "https://runescape.wiki/w/Curly_root",
+      "name": "Curly root",
+      "breakdownNotes": "",
+      "label": "curlyroot",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/o1fn8Bv.png",
+      "wikiLink": "https://runescape.wiki/w/Black_dragon_leather",
+      "name": "Black dragon leather",
+      "breakdownNotes": "",
+      "label": "blackdragonleather",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/o1fn8Bv.png",
+      "wikiLink": "https://runescape.wiki/w/Black_dragon_leather",
+      "name": "Black dragon leather",
+      "breakdownNotes": "",
+      "label": "blackdragonleather",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/o1fn8Bv.png",
+      "wikiLink": "https://runescape.wiki/w/Black_dragon_leather",
+      "name": "Black dragon leather",
+      "breakdownNotes": "",
+      "label": "blackdragonleather",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline.",
+        "label": "shadowsgrace",
+        "energy": 50
+      },
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained.",
+        "label": "persistentrage",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/Ivcgjer.png",
+        "name": "Luck of the Dwarves",
+        "breakdownNotes": "",
+        "description": "You will always gain the effect of tier 4 luck.",
+        "label": "luckofthedwarves",
+        "energy": 200
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/cOwxYnD.png",
+        "name": "Meerkats",
+        "breakdownNotes": "",
+        "label": "meerkats"
+      }
+    ]
+  }
+}

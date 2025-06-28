@@ -1,0 +1,362 @@
+{
+  "presetName": "BIS Elites w/o Skips",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "naturessentinelhelm",
+      "image": "https://img.pvme.io/images/h4cf5a8.png",
+      "name": "Nature's sentinel helm",
+      "breakdownNotes": "<span>Quick Teleport -&gt; Arctic Pines (0,3)</span>",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_helm"
+    },
+    {
+      "label": "globetrotterbackpack",
+      "image": "https://img.pvme.io/images/9u3f0ws.png",
+      "name": "Globetrotter backpack",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_backpack"
+    },
+    {
+      "label": "gote",
+      "image": "https://img.pvme.io/images/4KgPcpm.png",
+      "name": "Grace of the elves",
+      "breakdownNotes": "Overgrown Idols | Lava Flow Mine",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves"
+    },
+    {
+      "label": "sceptreofthegods",
+      "image": "https://img.pvme.io/images/E2dLUWN.png",
+      "name": "Sceptre of the gods",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sceptre_of_the_gods"
+    },
+    {
+      "label": "naturessentinelchest",
+      "image": "https://img.pvme.io/images/AVtsARx.png",
+      "name": "Nature's sentinel chest",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_chest"
+    },
+    {
+      "label": "ohslot",
+      "image": "https://img.pvme.io/images/ytFFaBI.png",
+      "name": "Off-hand slot",
+      "breakdownNotes": "Glow Worm + Mobile",
+      "wikiLink": "https://runescape.wiki/w/Worn_Equipment#Off-hand_slot"
+    },
+    {
+      "label": "naturessentineltrunks",
+      "image": "https://img.pvme.io/images/AyzY63R.png",
+      "name": "Nature's sentinel trunks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_trunks"
+    },
+    {
+      "label": "naturessentinelbranch",
+      "image": "https://img.pvme.io/images/aHlOVcO.png",
+      "name": "Nature's sentinel branch",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_branch"
+    },
+    {
+      "label": "naturessentinelboots",
+      "image": "https://img.pvme.io/images/708o7G1.png",
+      "name": "Nature's sentinel boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Nature's_sentinel_boots"
+    },
+    {
+      "label": "hsr",
+      "image": "https://img.pvme.io/images/xmcbfhs.png",
+      "name": "Hazelmere's signet ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Hazelmere's_signet"
+    },
+    {
+      "label": "quiver4",
+      "image": "https://img.pvme.io/images/yxmdGCZ.png",
+      "name": "Tirannwn quiver 4",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Tirannwn_quiver_4"
+    },
+    null,
+    {
+      "label": "scriptureofbik",
+      "image": "https://img.pvme.io/images/t1KMJMv.png",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "activeclue",
+      "image": "https://img.pvme.io/images/beq0RtH.png",
+      "name": "Active clue",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Clue_scroll"
+    },
+    {
+      "label": "ringofkinship",
+      "image": "https://img.pvme.io/images/dQVBOyX.png",
+      "name": "Ring of kinship",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_kinship"
+    },
+    {
+      "label": "wickedhood",
+      "image": "https://img.pvme.io/images/Uxr7Xcm.png",
+      "name": "Wicked hood",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Wicked_hood"
+    },
+    {
+      "label": "desertamulet4",
+      "image": "https://img.pvme.io/images/JInu2Jy.png",
+      "name": "Desert amulet 4",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Desert_amulet_4"
+    },
+    {
+      "label": "dragontrinkets",
+      "image": "https://img.pvme.io/images/l79AylD.png",
+      "name": "Dragon trinkets",
+      "breakdownNotes": "<span>Brutal Green Dragons, Blue Dragons, Red Dragons, Black Dragons (Evil Chicken Lair)</span>",
+      "wikiLink": "https://runescape.wiki/w/Dragon_trinkets"
+    },
+    {
+      "label": "accel4",
+      "image": "https://img.pvme.io/images/I6HFjyN.png",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)"
+    },
+    {
+      "label": "accel4",
+      "image": "https://img.pvme.io/images/I6HFjyN.png",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)"
+    },
+    {
+      "label": "globetrotterjacket",
+      "image": "https://img.pvme.io/images/paFUjfv.png",
+      "name": "Globetrotter jacket",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_jacket"
+    },
+    {
+      "label": "passageoftheabyss(red)",
+      "image": "https://img.pvme.io/images/Qp0s9G2.png",
+      "name": "Passage of the Abyss (red)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Passage_of_the_Abyss_(red)"
+    },
+    {
+      "label": "passageoftheabyss(green)",
+      "image": "https://img.pvme.io/images/PDg2YBC.png",
+      "name": "Passage of the Abyss (green)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Passage_of_the_Abyss_(green)"
+    },
+    {
+      "label": "enchantedlyre",
+      "image": "https://img.pvme.io/images/X0KALWt.png",
+      "name": "Enchanted lyre",
+      "breakdownNotes": "<span>Quick teleport set to Jatizso</span>",
+      "wikiLink": "https://runescape.wiki/w/Enchanted_lyre"
+    },
+    {
+      "label": "archaeologyteleport",
+      "image": "https://img.pvme.io/images/WYm7p9h.png",
+      "name": "Archaeology teleport",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Archaeology_teleport"
+    },
+    {
+      "label": "ectophial",
+      "image": "https://img.pvme.io/images/mqsH3xe.png",
+      "name": "Ectophial",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ectophial"
+    },
+    {
+      "label": "maskoftheaquanites",
+      "image": "https://img.pvme.io/images/EhwoK5P.png",
+      "name": "Mask of the Aquanites",
+      "breakdownNotes": "Replace with Kurask -&gt; Basilisk as you run out of charges",
+      "wikiLink": "https://runescape.wiki/w/Mask_of_the_Aquanites"
+    },
+    {
+      "label": "globetrotterarmguards",
+      "image": "https://img.pvme.io/images/TCZljWu.png",
+      "name": "Globetrotter arm guards",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_arm_guards"
+    },
+    {
+      "label": "portablefairyring(used)",
+      "image": "https://img.pvme.io/images/iwTl6xy.png",
+      "name": "Portable fairy ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Portable_fairy_ring#active"
+    },
+    {
+      "label": "fairyring",
+      "image": "https://img.pvme.io/images/XCZuCaN.png",
+      "name": "Portable fairy ring (inactive)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Portable_fairy_ring#inactive"
+    },
+    {
+      "label": "dorgesh-kaansphere",
+      "image": "https://img.pvme.io/images/tyIGCLl.png",
+      "name": "Dorgesh-kaan sphere",
+      "breakdownNotes": "<span>Disassemble for Bik Procs</span>",
+      "wikiLink": "https://runescape.wiki/w/Dorgesh-kaan_sphere"
+    },
+    {
+      "label": "portableobelisk",
+      "image": "https://img.pvme.io/images/gKUbd5X.png",
+      "name": "Portable Obelisk",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Portable_Obelisk"
+    },
+    {
+      "label": "amuletofnature",
+      "image": "https://img.pvme.io/images/CjIUkSz.png",
+      "name": "Amulet of nature",
+      "breakdownNotes": "<span>Bound to diseased tree patch in Falador Park</span>",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_nature"
+    },
+    {
+      "label": "skullsceptre",
+      "image": "https://img.pvme.io/images/rMZUuze.png",
+      "name": "Skull sceptre",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Skull_sceptre"
+    },
+    {
+      "label": "davesspellbook",
+      "image": "https://img.pvme.io/images/ahDBOU5.png",
+      "name": "Dave's spellbook",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dave's_spellbook"
+    },
+    {
+      "label": "menaphosjournal",
+      "image": "https://img.pvme.io/images/EuRZLF2.png",
+      "name": "Menaphos journal",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Menaphos_journal"
+    },
+    {
+      "label": "rellekatablet",
+      "image": "https://img.pvme.io/images/uRrpo3Y.png",
+      "name": "Relleka tablet",
+      "breakdownNotes": "<span>Convert the stack to other portals as needed</span>",
+      "wikiLink": "https://runescape.wiki/w/Relleka_tablet"
+    },
+    {
+      "label": "dragonkinlaboratoryteleport",
+      "image": "https://img.pvme.io/images/nGYkvb0.png",
+      "name": "Dragonkin Laboratory teleport",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dragonkin_Laboratory_teleport"
+    },
+    {
+      "label": "spiritattractionflask",
+      "image": "https://img.pvme.io/images/9oDoU6T.png",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)"
+    },
+    {
+      "label": "graspingpouch",
+      "image": "https://img.pvme.io/images/Mk7jbjC.png",
+      "name": "Grasping rune pouch",
+      "breakdownNotes": "<img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252661406760970.png?v=1\" /><span> | </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659301089280.png?v=1\" /><span> | </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658961481769.png?v=1\" /><span> | </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659615924258.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch"
+    },
+    {
+      "label": "cluebag",
+      "image": "https://img.pvme.io/images/KPREDHT.png",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/8IMPgCF.png",
+        "name": "Abyssal Link",
+        "breakdownNotes": "",
+        "label": "abyssallink",
+        "energy": 250
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/cOwxYnD.png",
+        "name": "Meerkats",
+        "breakdownNotes": "",
+        "label": "meerkats"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

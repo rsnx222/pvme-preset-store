@@ -1,0 +1,398 @@
+{
+  "presetName": "",
+  "presetNotes": "Use legendary familiar with yak pouches if you have a legendary pet! ",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/YlR8MWC.png",
+      "wikiLink": "https://runescape.wiki/w/Crown_of_the_First_Necromancer",
+      "name": "Crown of the First Necromancer",
+      "breakdownNotes": "",
+      "label": "t95necrohelm"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/UHRGdEk.png",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_zealots",
+      "name": "Amulet of zealots",
+      "breakdownNotes": "Use with leech necromancy Strength &amp; Attack",
+      "label": "zealots"
+    },
+    {
+      "image": "https://i.imgur.com/SzFvoQB.png",
+      "wikiLink": "https://runescape.wiki/w/Omni_guard",
+      "name": "Omni guard",
+      "breakdownNotes": "Aftershock 4 + Precise 2 ",
+      "label": "omniguard"
+    },
+    {
+      "image": "https://i.imgur.com/iKWW3ZF.png",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_robe_top_(tier_90)",
+      "name": "Deathdealer robe top (tier 90)",
+      "breakdownNotes": "Relentless 5 + Crackling 4 &amp; Biting 4 + Optional",
+      "label": "deathdealerrobetopt90"
+    },
+    {
+      "image": "https://i.imgur.com/VJsZ4HL.png",
+      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern",
+      "name": "Soulbound lantern",
+      "breakdownNotes": "<span>Equilibrium 4 + Ruthless 3</span>",
+      "label": "soulboundlantern"
+    },
+    {
+      "image": "https://i.imgur.com/9B2Bf7D.png",
+      "wikiLink": "https://runescape.wiki/w/Robe_bottom_of_the_First_Necromancer",
+      "name": "Robe bottom of the First Necromancer",
+      "breakdownNotes": "Scavenging 4 &amp; Invigorating 4 + Demon Slayer",
+      "label": "t95necrolegs"
+    },
+    {
+      "image": "https://i.imgur.com/8zjLczG.png",
+      "wikiLink": "https://runescape.wiki/w/Hand_wrap_of_the_First_Necromancer",
+      "name": "Hand wrap of the First Necromancer",
+      "breakdownNotes": "",
+      "label": "t95necrogloves"
+    },
+    {
+      "image": "https://i.imgur.com/ixeiTn3.png",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_boots_(tier_90)",
+      "name": "Deathdealer boots (tier 90)",
+      "breakdownNotes": "",
+      "label": "deathdealerbootst90"
+    },
+    {
+      "image": "https://i.imgur.com/y5vAY4M.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death",
+      "name": "Ring of death",
+      "breakdownNotes": "",
+      "label": "rod"
+    },
+    {
+      "image": "https://i.imgur.com/6nJNred.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(red)",
+      "name": "Grasping rune pouch (red)",
+      "breakdownNotes": "High alch runes",
+      "label": "graspingpouchred"
+    },
+    {
+      "image": "https://i.imgur.com/G4FM1Cz.png",
+      "wikiLink": "https://runescape.wiki/w/Penance_aura",
+      "name": "Penance aura",
+      "breakdownNotes": "Prayer sustain ",
+      "label": "penance"
+    },
+    {
+      "image": "https://i.imgur.com/lPppoD4.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful",
+      "name": "Scripture of Ful",
+      "breakdownNotes": "You could also use Scripture of wen. I used both; mostly ful. ",
+      "label": "scriptureofful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/cPoMobG.png",
+      "wikiLink": "https://runescape.wiki/w/Grimy_avantoe",
+      "name": "Grimy avantoe",
+      "breakdownNotes": "",
+      "label": "grimyavantoe1noted",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/vliP2On.png",
+      "wikiLink": "https://runescape.wiki/w/Grimy_lantadyme",
+      "name": "Grimy lantadyme",
+      "breakdownNotes": "",
+      "label": "grimylantadyme1noted",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/jfijgZN.png",
+      "wikiLink": "https://runescape.wiki/w/Pure_essence",
+      "name": "Pure essence",
+      "breakdownNotes": "",
+      "label": "pureessence1noted",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/XpmkeB1.png",
+      "wikiLink": "https://runescape.wiki/w/Grimy_cadantine",
+      "name": "Grimy cadantine",
+      "breakdownNotes": "",
+      "label": "grimycadantine1noted",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ByV98Gd.png",
+      "wikiLink": "https://runescape.wiki/w/Grimy_dwarf_weed",
+      "name": "Grimy dwarf weed",
+      "breakdownNotes": "",
+      "label": "grimydwarfweed1noted",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/0KTRRES.png",
+      "wikiLink": "https://runescape.wiki/w/Grimy_toadflax",
+      "name": "Grimy toadflax",
+      "breakdownNotes": "",
+      "label": "grimytoadflax1noted",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/CEuJ1Oc.png",
+      "wikiLink": "https://runescape.wiki/w/Grimy_irit",
+      "name": "Grimy irit",
+      "breakdownNotes": "",
+      "label": "grimyirit1noted",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/QnPtp0D.png",
+      "wikiLink": "https://runescape.wiki/w/Grenwall_spikes",
+      "name": "Grenwall spikes",
+      "breakdownNotes": "",
+      "label": "grenwallspikes",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/0WBnZ62.png",
+      "wikiLink": "https://runescape.wiki/w/Abyssal_armour_spikes_(alloy)",
+      "name": "Abyssal armour spikes (alloy)",
+      "breakdownNotes": "Abyssal Flesh! Not spikes. ",
+      "label": "abyssalspikes",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/sUAvNro.png",
+      "wikiLink": "https://runescape.wiki/w/Onyx_bolts_(e)",
+      "name": "Onyx bolts (e)",
+      "breakdownNotes": "",
+      "label": "onyxboltse",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/ele52vp.png",
+      "wikiLink": "https://runescape.wiki/w/Crystal_key",
+      "name": "Crystal key",
+      "breakdownNotes": "",
+      "label": "crystalkey1noted",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/IilVMmp.png",
+      "wikiLink": "https://runescape.wiki/w/Elder_logs",
+      "name": "Elder logs",
+      "breakdownNotes": "Noted Yews logs! Not elders",
+      "label": "elderlogs",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gKUbd5X.png",
+      "wikiLink": "https://runescape.wiki/w/Portable_Obelisk",
+      "name": "Portable Obelisk",
+      "breakdownNotes": "For a quicker teleport to beast.",
+      "label": "portableobelisk",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/eI2oUEw.png",
+      "wikiLink": "https://runescape.wiki/w/Wen_arrow",
+      "name": "Wen arrow",
+      "breakdownNotes": "Rune Arrowheads! Not wen arrows",
+      "label": "wenarrow",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/0d9nkK4.png",
+      "wikiLink": "https://runescape.wiki/w/Planted_feet_perk",
+      "name": "Planted feet perk",
+      "breakdownNotes": "Teak Planks! Not Planted feet",
+      "label": "pf",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/fEa8Qx8.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_logs",
+      "name": "Magic logs",
+      "breakdownNotes": "",
+      "label": "magiclogs1noted",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/6GTypln.png",
+      "wikiLink": "https://runescape.wiki/w/Mud_rune",
+      "name": "Mud rune",
+      "breakdownNotes": "Clay! Not mud runes",
+      "label": "mudrune",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UPLUhet.png",
+      "wikiLink": "https://runescape.wiki/w/Infernal_ashes",
+      "name": "Infernal ashes",
+      "breakdownNotes": "Because of death note",
+      "label": "infernalashes1noted",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/uIF03Iz.png",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#active",
+      "name": "Potion reservoir",
+      "breakdownNotes": "Overloads ",
+      "label": "potionreservoir",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/af9O4EM.png",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#inactive",
+      "name": "Potion reservoir (inactive)",
+      "breakdownNotes": "",
+      "label": "potionreservoir2",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hZGOmkB.png",
+      "wikiLink": "https://runescape.wiki/w/Dragon_battleaxe",
+      "name": "Dragon battleaxe",
+      "breakdownNotes": "Dragon bones! Not Dragon battleaxe",
+      "label": "dba",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/oL7B8YM.png",
+      "wikiLink": "https://runescape.wiki/w/Blue_charm",
+      "name": "Blue charm",
+      "breakdownNotes": "Optional! Based on your charming imp. ",
+      "label": "bluecharm1",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hd7YvA4.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
+      "name": "Deathwarden Nexus",
+      "breakdownNotes": "Necro runes and Ectoplasm ",
+      "label": "deathwardennexus",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gMZLjIv.png",
+      "wikiLink": "https://runescape.wiki/w/Artificer's_measure",
+      "name": "Artificer's measure",
+      "breakdownNotes": "Or Gem bag! Lots of uncut gem drops!",
+      "label": "artificer",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "Savage drops",
+      "label": "springcleaner",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/2KToagJ.png",
+        "name": "Death Note",
+        "breakdownNotes": "",
+        "description": "All guaranteed bone and ash drops are noted.",
+        "label": "deathnote",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/pIteWAi.png",
+        "name": "Pack Yak",
+        "breakdownNotes": "",
+        "label": "packyak"
+      }
+    ]
+  }
+}

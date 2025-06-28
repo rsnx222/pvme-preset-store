@@ -1,0 +1,372 @@
+{
+  "presetName": "Test",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "roarofawakening",
+      "image": "https://img.pvme.io/images/nCmqhfpcHo.png",
+      "name": "Roar of Awakening",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "odetodeceit",
+      "image": "https://img.pvme.io/images/8WKmBCfI34.png",
+      "name": "Ode to Deceit",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ode_to_Deceit"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "primalabyssalarmourspikes",
+      "image": "https://img.pvme.io/images/b6W1JxVhTN.png",
+      "name": "Primal abyssal armour spikes",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Primal_abyssal_armour_spikes"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "scriptureofamascut",
+      "image": "https://img.pvme.io/images/4KBTJqYn6o.png",
+      "name": "Scripture of Amascut",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Amascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "underworldgrimoire4",
+      "image": "https://img.pvme.io/images/CUl6DIOOhs.png",
+      "name": "Underworld Grimoire 4",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Underworld_Grimoire_4",
+      "selected": false
+    },
+    {
+      "label": "roarofawakening",
+      "image": "https://img.pvme.io/images/nCmqhfpcHo.png",
+      "name": "Roar of Awakening",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening",
+      "selected": false
+    },
+    {
+      "label": "odetodeceit",
+      "image": "https://img.pvme.io/images/8WKmBCfI34.png",
+      "name": "Ode to Deceit",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ode_to_Deceit",
+      "selected": false
+    },
+    {
+      "label": "offhandrubberchicken",
+      "image": "https://img.pvme.io/images/i8xBWdhhFE.png",
+      "name": "Off-hand rubber chicken",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Off-hand_rubber_chicken",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "pickaxeoflifeanddeath",
+      "image": "https://img.pvme.io/images/OoGrEMisjo.png",
+      "name": "Pickaxe of Life and Death",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Pickaxe_of_Life_and_Death",
+      "selected": false
+    },
+    {
+      "label": "primalabyssalarmourspikes",
+      "image": "https://img.pvme.io/images/b6W1JxVhTN.png",
+      "name": "Primal abyssal armour spikes",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Primal_abyssal_armour_spikes",
+      "selected": false
+    },
+    {
+      "label": "scriptureofamascut",
+      "image": "https://img.pvme.io/images/4KBTJqYn6o.png",
+      "name": "Scripture of Amascut",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Amascut",
+      "selected": false
+    },
+    {
+      "label": "rope",
+      "image": "https://img.pvme.io/images/knC1cK0Erd.png",
+      "name": "Rope",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Rope",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "masterwork2hsword",
+      "image": "https://img.pvme.io/images/N3KNAWxY2Q.png",
+      "name": "Masterwork 2h sword",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_2h_sword",
+      "selected": false
+    },
+    {
+      "label": "ahrimsstaff",
+      "image": "https://img.pvme.io/images/IhTAN1W5S5.png",
+      "name": "Ahrim's staff",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ahrim%27s_staff",
+      "selected": false
+    },
+    {
+      "label": "crystalstaff",
+      "image": "https://img.pvme.io/images/4sPATxhSQS.png",
+      "name": "Crystal staff",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Crystal_staff",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": "",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "deathtoucheddart",
+      "image": "https://img.pvme.io/images/4YApyUaG4J.png",
+      "name": "Deathtouched dart",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathtouched_dart",
+      "selected": false
+    },
+    {
+      "label": "crystalbow",
+      "image": "https://img.pvme.io/images/XVXKA50eqJ.png",
+      "name": "Crystal bow",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Crystal_bow",
+      "selected": false
+    },
+    {
+      "label": "crystalhalberd",
+      "image": "https://img.pvme.io/images/5vljK2IdKS.png",
+      "name": "Crystal halberd",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Crystal_halberd",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

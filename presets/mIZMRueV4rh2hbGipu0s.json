@@ -1,0 +1,375 @@
+{
+  "presetName": "Ritual Preset",
+  "presetNotes": "Use Inspires Awe Relic",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/AlK7oaM.png",
+      "wikiLink": "https://runescape.wiki/w/Nimble_headwear",
+      "breakdownNotes": "Can be swapped for the Pumpkin mask or Ensouled Pumpkin mask at the cost of 2% agility xp.",
+      "name": "Nimble headwear",
+      "label": "nimbleheadwear"
+    },
+    {
+      "image": "https://i.imgur.com/IGM7P1t.png",
+      "wikiLink": "https://runescape.wiki/w/Necromancy_cape",
+      "breakdownNotes": "Any version of the Necromancy cape will work - master, trimmed, and untrimmed.",
+      "name": "Necromancy cape",
+      "label": "necrocape"
+    },
+    {
+      "image": "https://i.imgur.com/u1eOrjf.png",
+      "wikiLink": "https://runescape.wiki/w/Alteration_necklace",
+      "name": "Alteration necklace",
+      "breakdownNotes": "",
+      "label": "alterationnecklace"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/LI9uISo.png",
+      "wikiLink": "https://runescape.wiki/w/Nimble_chestpiece",
+      "breakdownNotes": "",
+      "name": "Nimble chestpiece",
+      "label": "nimblechestpiece"
+    },
+    {
+      "image": "https://i.imgur.com/fgNqKc3.png",
+      "wikiLink": "https://runescape.wiki/w/Augmented_enhanced_Excalibur",
+      "name": "Augmented enhanced Excalibur",
+      "breakdownNotes": "Wise 4 as a perk.",
+      "label": "excal"
+    },
+    {
+      "image": "https://i.imgur.com/46J5370.png",
+      "wikiLink": "https://runescape.wiki/w/Nimble_legwear",
+      "name": "Nimble legwear",
+      "breakdownNotes": "",
+      "label": "nimblelegwear"
+    },
+    {
+      "image": "https://i.imgur.com/OEYXzNI.png",
+      "wikiLink": "https://runescape.wiki/w/Nimble_gloves",
+      "name": "Nimble gloves",
+      "breakdownNotes": "",
+      "label": "nimblegloves"
+    },
+    {
+      "image": "https://i.imgur.com/TkJs5ST.png",
+      "wikiLink": "https://runescape.wiki/w/Silverhawk_boots",
+      "name": "Silverhawk boots",
+      "breakdownNotes": "Silverhawk boots act as part of the Nimble outfit if any other part of the set is worn.",
+      "label": "shboots"
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/1j3OOw0.png",
+      "wikiLink": "https://runescape.wiki/w/Tome_of_Um_2",
+      "breakdownNotes": "Swap this out for pulse cores if you have them.",
+      "name": "Tome of Um 2",
+      "label": "tomeofum2"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/Dy2NfTt.png",
+      "wikiLink": "https://runescape.wiki/w/Ectoplasm",
+      "name": "Ectoplasm",
+      "breakdownNotes": "",
+      "label": "ectoplasm",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/W2RKcWb.png",
+      "wikiLink": "https://runescape.wiki/w/Basic_ghostly_ink",
+      "name": "Basic ghostly ink",
+      "breakdownNotes": "",
+      "label": "basicghostlyink",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/74kfzy8.png",
+      "wikiLink": "https://runescape.wiki/w/Regular_ghostly_ink",
+      "name": "Regular ghostly ink",
+      "breakdownNotes": "",
+      "label": "regularghostlyink",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Q2Hc3w8.png",
+      "wikiLink": "https://runescape.wiki/w/Greater_ghostly_ink",
+      "name": "Greater ghostly ink",
+      "breakdownNotes": "",
+      "label": "greaterghostlyink",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/UUHm7tP.png",
+      "wikiLink": "https://runescape.wiki/w/Powerful_ghostly_ink",
+      "name": "Powerful ghostly ink",
+      "breakdownNotes": "",
+      "label": "powerfulghostlyink",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/3a2TiHN.png",
+      "wikiLink": "https://runescape.wiki/w/Advanced_pulse_core",
+      "name": "Advanced pulse core",
+      "breakdownNotes": "These only work when equipped from the pocket slot and are a better alternative to the Tome of Um 1/2 if you have them.",
+      "label": "advancedpulsecore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/PpYdCr1.png",
+      "wikiLink": "https://runescape.wiki/w/Torstol_incense_sticks",
+      "name": "Torstol incense sticks",
+      "breakdownNotes": "",
+      "label": "torstolincensesticks100",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/uXaKsID.png",
+      "wikiLink": "https://runescape.wiki/w/Pumpkin_mask",
+      "name": "Pumpkin mask",
+      "breakdownNotes": "The mask will only work when equipped and it is a matter of preference if you want to use the Pumpkin mask or the Nimble hood. Using the Pumpkin mask will prevent light sources on tier 1 and 2 light source spots from degrading at the cost of 2% agility xp from the Nimble hood.<div><br /><div><span>You can also use the Ensouled Pumpkin mask if you own it to prevent all light source spots from degrading.</span><br /></div></div>",
+      "label": "pumpkinmask",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/VZZiUnB.png",
+      "wikiLink": "https://runescape.wiki/w/Basic_ritual_candle",
+      "name": "Basic ritual candle",
+      "breakdownNotes": "These are the cheapest light source option but the least durable. They can be used for 6 rituals before degrading.",
+      "label": "basicritualcandle",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/4b0SjfV.png",
+      "wikiLink": "https://runescape.wiki/w/Greater_ritual_candle",
+      "name": "Greater ritual candle",
+      "breakdownNotes": "Slightly more durable than basic candles, can be used for 12 rituals before degrading.",
+      "label": "greaterritualcandle",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/0jouHYH.png",
+      "wikiLink": "https://runescape.wiki/w/Regular_ritual_candle",
+      "name": "Regular ritual candle",
+      "breakdownNotes": "The most durable of the candle options, can be used for 18 rituals before degrading.",
+      "label": "regularritualcandle",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/uCvl6Fp.png",
+      "wikiLink": "https://runescape.wiki/w/Greater_flaming_skull",
+      "name": "Greater flaming skull",
+      "breakdownNotes": "The most durable light source but also the most expensive by far, can be used for 36 rituals before degrading.",
+      "label": "greaterflamingskull",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    },
+    {
+      "image": "",
+      "name": "",
+      "breakdownNotes": "",
+      "label": "",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

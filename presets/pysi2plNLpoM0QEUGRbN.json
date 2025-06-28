@@ -1,0 +1,312 @@
+{
+  "presetName": "Croesus Basic Hunter",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/cDfMJE7.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_head",
+      "name": "Volcanic trapper head",
+      "breakdownNotes": "",
+      "label": "volcanictrapperhead"
+    },
+    {
+      "image": "https://i.imgur.com/jAZnS74.png",
+      "wikiLink": "https://runescape.wiki/w/Gatherer's_cape",
+      "name": "Gatherer's cape",
+      "breakdownNotes": "Fishing skillcape stored inside.",
+      "label": "gatherercape"
+    },
+    {
+      "image": "https://i.imgur.com/4KgPcpm.png",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves",
+      "name": "Grace of the elves",
+      "breakdownNotes": "",
+      "label": "gote"
+    },
+    {
+      "image": "https://i.imgur.com/Qf9AVbR.png",
+      "wikiLink": "https://runescape.wiki/w/Magic_butterfly_net",
+      "name": "Magic butterfly net",
+      "breakdownNotes": "",
+      "label": "magicbutterflynet"
+    },
+    {
+      "image": "https://i.imgur.com/rOg7aHk.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_chest",
+      "name": "Volcanic trapper chest",
+      "breakdownNotes": "",
+      "label": "volcanictrapperchest"
+    },
+    {
+      "image": "https://i.imgur.com/n42Kunc.png",
+      "wikiLink": "https://runescape.wiki/w/Sana's_fyrtorch",
+      "name": "Sana's fyrtorch",
+      "breakdownNotes": "",
+      "label": "fyretorch"
+    },
+    {
+      "image": "https://i.imgur.com/HocPtbC.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_legguards",
+      "name": "Volcanic trapper legguards",
+      "breakdownNotes": "",
+      "label": "volcanictrapperlegguards"
+    },
+    {
+      "image": "https://i.imgur.com/Yw0OGHG.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_arms",
+      "name": "Volcanic trapper arms",
+      "breakdownNotes": "",
+      "label": "volcanictrapperarms"
+    },
+    {
+      "image": "https://i.imgur.com/E9pG2sG.png",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_boots",
+      "name": "Volcanic trapper boots",
+      "breakdownNotes": "",
+      "label": "volcanictrapperboots"
+    },
+    {
+      "image": "https://i.imgur.com/VTDTXoF.png",
+      "wikiLink": "https://runescape.wiki/w/Pontifex_shadow_ring",
+      "name": "Pontifex shadow ring",
+      "breakdownNotes": "Can replace with a Luck of the Dwarves if you've unlocked the passive Pontifex Shadow Ring effects.",
+      "label": "pontifexshadowring"
+    },
+    {
+      "image": "https://i.imgur.com/Mk7jbjC.png",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch",
+      "name": "Grasping rune pouch",
+      "breakdownNotes": "Earth | Fire | Body | Soul",
+      "label": "graspingpouch"
+    },
+    {
+      "image": "https://i.imgur.com/seIQA49.png",
+      "wikiLink": "https://runescape.wiki/w/Legendary_tracker_aura",
+      "name": "Legendary tracker aura",
+      "breakdownNotes": "",
+      "label": "legendarytracker"
+    },
+    {
+      "image": "https://i.imgur.com/t1KMJMv.png",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "Optional for extra clue scrolls, can bring items to D/A during kill for more procs.",
+      "label": "scriptureofbik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/r84FkMD.png",
+      "wikiLink": "https://runescape.wiki/w/Perfect_plus_potion#(6)",
+      "name": "Perfect plus potion (6)",
+      "breakdownNotes": "Sip when loading preset if needed, then bank.",
+      "label": "perfectplus",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/maZE8qW.png",
+      "wikiLink": "https://runescape.wiki/w/Fishing_rod-o-matic",
+      "name": "Fishing rod-o-matic",
+      "breakdownNotes": "<span>Honed 6.</span><br /><span>Can upgrade to Enhanced version for more Invention XP.</span>",
+      "label": "rodomatic",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/1x24vrK.png",
+      "wikiLink": "https://runescape.wiki/w/Pickaxe_of_Life_and_Death",
+      "name": "Pickaxe of Life and Death",
+      "breakdownNotes": "<span>Honed 6.</span>",
+      "label": "pickaxeoflifeanddeath",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/Xoo3KYI.png",
+      "wikiLink": "https://runescape.wiki/w/Imcando_hatchet",
+      "name": "Imcando hatchet",
+      "breakdownNotes": "Honed 6.",
+      "label": "imcandohatchet",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/TTyHBIx.png",
+      "wikiLink": "https://runescape.wiki/w/Arctic_bear_pouch",
+      "name": "Arctic bear pouch",
+      "breakdownNotes": "<span>Used to renew your first familiar during the hour.</span>",
+      "label": "arcticbear",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "label": "restore",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/I6HFjyN.png",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "",
+      "label": "accel4",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/XVBSWOO.png",
+      "wikiLink": "https://runescape.wiki/w/Extreme_hunter_flask#(6)",
+      "name": "Extreme hunter flask",
+      "breakdownNotes": "",
+      "label": "extremehunterflask",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/gMZLjIv.png",
+      "wikiLink": "https://runescape.wiki/w/Artificer's_measure",
+      "name": "Artificer's measure",
+      "breakdownNotes": "Used when building statues.",
+      "label": "artificer",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline.",
+        "label": "shadowsgrace",
+        "energy": 50
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/cIiazJk.png",
+        "name": "Arctic Bear",
+        "breakdownNotes": "",
+        "label": "arcticbear"
+      }
+    ]
+  }
+}

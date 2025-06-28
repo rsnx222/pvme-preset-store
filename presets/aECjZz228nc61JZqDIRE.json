@@ -1,0 +1,280 @@
+{
+  "presetName": "Vyres BiS Melee",
+  "presetNotes": "<div>Vestments can be replaced with any melee power armour at the cost kph.</div><div><br />You can bring House Drakan outfit to fix the spawns then setup without banking.<br /><br />Make sure the tier 2 No Fear perk is active in ROoT.<br /></div>",
+  "equipmentSlots": [
+    {
+      "label": "vestmenthood",
+      "image": "https://i.imgur.com/EVh5SwD.png",
+      "name": "Vestments of havoc hood",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_hood"
+    },
+    {
+      "label": "kalket",
+      "image": "https://i.imgur.com/bfzX8Up.png",
+      "name": "Igneous Kal-Ket",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Ket"
+    },
+    {
+      "label": "zealots",
+      "image": "https://i.imgur.com/UHRGdEk.png",
+      "name": "Amulet of zealots",
+      "breakdownNotes": "Pray Leech Melee Strength and Soul Split <img title=\"soulsplit\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/615613924506599497.png?v=1\" /><br />",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_zealots"
+    },
+    {
+      "label": "sunspear",
+      "image": "https://i.imgur.com/iRMTmuZ.png",
+      "name": "Sunspear",
+      "breakdownNotes": "Aftershock 4 Precise 2<span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712074245202772009.png?v=1\" /><span> </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1084799750416637993.png?v=1\" /> + Equilibrium 4 Ruthless 3 <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088589627505.png?v=1\" /> <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Sunspear_(melee)"
+    },
+    {
+      "label": "vestmentbody",
+      "image": "https://i.imgur.com/E5ptfu6.png",
+      "name": "Vestments of havoc robe top",
+      "breakdownNotes": "Biting 4 X <img title=\"biting4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087809617931.png?v=1\" /> + Scavenging 4 <img title=\"scavenging4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1005934140669046824.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_top"
+    },
+    null,
+    {
+      "label": "morytanialegs4",
+      "image": "https://i.imgur.com/7ZuWQzO.png",
+      "name": "Morytania legs 4",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Morytania_legs_4"
+    },
+    {
+      "label": "cinder",
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+    },
+    {
+      "label": "vestmentboots",
+      "image": "https://i.imgur.com/FarIA5V.png",
+      "name": "Vestments of havoc boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_boots"
+    },
+    {
+      "label": "reaverring",
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "name": "Reaver's ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring"
+    },
+    {
+      "label": "graspingpouch",
+      "image": "https://i.imgur.com/Mk7jbjC.png",
+      "name": "Grasping rune pouch",
+      "breakdownNotes": "Fire | Nature <br /><br />Runes for <img title=\"highalch\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/937093290631786496.png?v=1\" /><br />",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch"
+    },
+    null,
+    {
+      "label": "scriptureofwen",
+      "image": "https://i.imgur.com/zd3mKfH.png",
+      "name": "Scripture of Wen",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen"
+    }
+  ],
+  "inventorySlots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "label": "packyakpouch",
+      "image": "https://i.imgur.com/HDVqGWL.png",
+      "name": "Pack yak pouch",
+      "breakdownNotes": "Use your legendary pet as a beast of burden.<br />",
+      "wikiLink": "https://runescape.wiki/w/Pack_yak_pouch"
+    },
+    {
+      "label": "poison6",
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "label": "packyakpouch",
+      "image": "https://i.imgur.com/HDVqGWL.png",
+      "name": "Pack yak pouch",
+      "breakdownNotes": "Use your legendary pet as a beast of burden.<br />",
+      "wikiLink": "https://runescape.wiki/w/Pack_yak_pouch"
+    },
+    {
+      "label": "poison6",
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)"
+    },
+    null,
+    null,
+    null,
+    {
+      "label": "potionreservoir",
+      "image": "https://i.imgur.com/uIF03Iz.png",
+      "name": "Potion reservoir",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#active"
+    },
+    {
+      "label": "restore",
+      "image": "https://i.imgur.com/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)"
+    },
+    {
+      "label": "packyakpouch",
+      "image": "https://i.imgur.com/HDVqGWL.png",
+      "name": "Pack yak pouch",
+      "breakdownNotes": "Use your legendary pet as a beast of burden.<br />",
+      "wikiLink": "https://runescape.wiki/w/Pack_yak_pouch"
+    },
+    {
+      "label": "poison6",
+      "image": "https://i.imgur.com/KyZkJoc.png",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)"
+    },
+    {
+      "label": "drakansmedal",
+      "image": "https://i.imgur.com/gyyfHQl.png",
+      "name": "Drakan's medallion",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Drakan's_medallion"
+    },
+    {
+      "label": "torstolincensesticks100",
+      "image": "https://i.imgur.com/PpYdCr1.png",
+      "name": "Torstol incense sticks",
+      "breakdownNotes": "Optional, if you care about experience.",
+      "wikiLink": "https://runescape.wiki/w/Torstol_incense_sticks"
+    },
+    {
+      "label": "lantadymeincensesticks100",
+      "image": "https://i.imgur.com/4n0C5gK.png",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks"
+    },
+    {
+      "label": "kwuarmsticks100",
+      "image": "https://i.imgur.com/ARLol7s.png",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks"
+    },
+    {
+      "label": "1knote",
+      "image": "https://i.imgur.com/8r07LbS.png",
+      "name": "Magic notepaper",
+      "breakdownNotes": "Optional, as looting requires extra inputs.",
+      "wikiLink": "https://runescape.wiki/w/Magic_notepaper"
+    },
+    {
+      "label": "excal",
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "Can be used if HP is dropping too low.<br />",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur"
+    },
+    {
+      "label": "springcleaner",
+      "image": "https://i.imgur.com/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "https://i.imgur.com/Ivcgjer.png",
+        "name": "Luck of the Dwarves",
+        "breakdownNotes": "",
+        "label": "luckofthedwarves",
+        "energy": 200
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/KWIawjY.png",
+        "name": "Legendary Pet (Scavenge)",
+        "breakdownNotes": "",
+        "label": "legendpetscav"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

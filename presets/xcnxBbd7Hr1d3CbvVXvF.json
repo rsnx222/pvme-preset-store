@@ -1,0 +1,205 @@
+{
+  "presetName": "",
+  "presetNotes": "",
+  "equipmentSlots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/OIXbC9E.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_respawn_(c)",
+      "name": "Ring of respawn (c)",
+      "breakdownNotes": "",
+      "label": "ringofrespawnc"
+    },
+    {
+      "image": "https://i.imgur.com/TFgj5ji.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_duelling_(c)",
+      "name": "Ring of duelling (c)",
+      "breakdownNotes": "",
+      "label": "ringofduellingc"
+    },
+    {
+      "image": "https://i.imgur.com/bF43WHx.png",
+      "wikiLink": "https://runescape.wiki/w/Games_necklace_(c)",
+      "name": "Games necklace (c)",
+      "breakdownNotes": "",
+      "label": "gamesnecklacec"
+    },
+    {
+      "image": "https://i.imgur.com/oQdFuSm.png",
+      "wikiLink": "https://runescape.wiki/w/Invitation_box",
+      "name": "Invitation box",
+      "breakdownNotes": "",
+      "label": "invitationbox"
+    },
+    null,
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/jSXTuBq.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_slaying_(c)",
+      "name": "Ring of slaying (c)",
+      "breakdownNotes": "",
+      "label": "ringofslayingc"
+    },
+    {
+      "image": "https://i.imgur.com/fd1hd39.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_Wealth_(C)",
+      "name": "Ring of Wealth (C)",
+      "breakdownNotes": "",
+      "label": "ringofwealthc"
+    },
+    {
+      "image": "https://i.imgur.com/KTG6jOQ.png",
+      "wikiLink": "https://runescape.wiki/w/Combat_bracelet_(c)",
+      "name": "Combat bracelet (c)",
+      "breakdownNotes": "",
+      "label": "combatbraceletc"
+    },
+    {
+      "image": "https://i.imgur.com/sxeQpNa.png",
+      "wikiLink": "https://runescape.wiki/w/Dramen_staff",
+      "name": "Dramen staff",
+      "breakdownNotes": "",
+      "label": "dramenstaff"
+    },
+    null,
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/gawFoAi.png",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_glory_(c)",
+      "name": "Amulet of glory (c)",
+      "breakdownNotes": "",
+      "label": "amuletofgloryc"
+    },
+    {
+      "image": "https://i.imgur.com/69eyA7I.png",
+      "wikiLink": "https://runescape.wiki/w/Traveller's_necklace_(c)",
+      "name": "Traveller's necklace (c)",
+      "breakdownNotes": "",
+      "label": "travellersnecklacec"
+    },
+    {
+      "image": "https://i.imgur.com/geVhmZZ.png",
+      "wikiLink": "https://runescape.wiki/w/Skills_necklace_(c)",
+      "name": "Skills necklace (c)",
+      "breakdownNotes": "",
+      "label": "skillsnecklacec"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "image": "https://i.imgur.com/aviUAyA.png",
+      "wikiLink": "https://runescape.wiki/w/Dig_Site_pendant_(c)",
+      "name": "Dig Site pendant (c)",
+      "breakdownNotes": "",
+      "label": "digsitependantc"
+    },
+    {
+      "image": "https://i.imgur.com/cr2oJs0.png",
+      "wikiLink": "https://runescape.wiki/w/Enlightened_amulet_(c)",
+      "name": "Enlightened amulet (c)",
+      "breakdownNotes": "",
+      "label": "enlightenedamuletc"
+    },
+    {
+      "image": "https://i.imgur.com/z0Yiyhk.png",
+      "wikiLink": "https://runescape.wiki/w/Disk_of_returning_(Gower_Quest)",
+      "name": "Disk of returning",
+      "breakdownNotes": "",
+      "label": "diskofreturning"
+    },
+    null,
+    null,
+    null,
+    null
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

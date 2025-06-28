@@ -1,0 +1,270 @@
+{
+  "presetName": "Ranged attack",
+  "presetNotes": "BiS perks for top: <span>Biting 4 + Crackling 4</span><div><span>BiS perks for bottom:  </span><span>Relentless 5-Impatient 4 + Venomblood-Mobile</span></div><div><span>BiS perks for offhand: </span><span>Eruptive 4-Ruthless 3</span></div>",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/MsrYGHh.png",
+      "wikiLink": "https://runescape.wiki/w/Achto_Tempest_cowl",
+      "name": "Achto Tempest cowl",
+      "breakdownNotes": "",
+      "label": "achtotempestmask"
+    },
+    {
+      "image": "https://i.imgur.com/TNKAuKX.png",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Xil",
+      "name": "Igneous Kal-Xil",
+      "breakdownNotes": "<span>Igneous Kal</span><span>-Zuk</span><span>/Igneous Kal</span><span>-Xil </span><span>&gt; TokHaar</span><span>-Kal</span><span>-Xil </span><span>&gt; Completionist</span><span>/Max cape </span><span>&gt; Ava</span><span>'s device</span>",
+      "label": "kalxil"
+    },
+    {
+      "image": "https://i.imgur.com/YQRScqK.png",
+      "wikiLink": "https://runescape.wiki/w/Farsight_blood_necklace",
+      "name": "Farsight blood necklace",
+      "breakdownNotes": "Can be just a blood amulet of fury",
+      "label": "rangeblood"
+    },
+    {
+      "image": "https://i.imgur.com/TMWKAqQ.png",
+      "wikiLink": "https://runescape.wiki/w/Mechanised_chinchompa",
+      "name": "Mechanised chinchompa",
+      "breakdownNotes": "Can be downgraded to red chinchompa's",
+      "label": "chins"
+    },
+    {
+      "image": "https://i.imgur.com/BDTWQIq.png",
+      "wikiLink": "https://runescape.wiki/w/Achto_Tempest_body",
+      "name": "Achto Tempest body",
+      "breakdownNotes": "",
+      "label": "achtotempestbody"
+    },
+    {
+      "image": "https://i.imgur.com/bDDDK9h.png",
+      "wikiLink": "https://runescape.wiki/w/Off-hand_blightbound_crossbow",
+      "name": "Off-hand blightbound crossbow",
+      "breakdownNotes": "<span>Off</span><span>-hand Blightbound crossbow </span><span>&gt; Off</span><span>-hand Ascension crossbow </span><span>&gt; Off</span><span>-hand Shadow glaive</span>",
+      "label": "ohbbc"
+    },
+    {
+      "image": "https://i.imgur.com/LpgUWZ1.png",
+      "wikiLink": "https://runescape.wiki/w/Achto_Tempest_chaps",
+      "name": "Achto Tempest chaps",
+      "breakdownNotes": "",
+      "label": "achtotempestlegs"
+    },
+    {
+      "image": "https://i.imgur.com/LutTgCH.png",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "Any range gloves as a downgrade",
+      "label": "cinder"
+    },
+    {
+      "image": "https://i.imgur.com/R5kSCvF.png",
+      "wikiLink": "https://runescape.wiki/w/Fleeting_boots",
+      "name": "Fleeting boots",
+      "breakdownNotes": "",
+      "label": "fleet"
+    },
+    {
+      "image": "https://i.imgur.com/y5vAY4M.png",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death",
+      "name": "Ring of death",
+      "breakdownNotes": "RoD is very usefull as it can proc once every wave and stops dealing damage once the wave is completed.",
+      "label": "rod"
+    },
+    {
+      "image": "https://i.imgur.com/749fyaq.png",
+      "wikiLink": "https://runescape.wiki/w/Blight_bolts",
+      "name": "Blight bolts",
+      "breakdownNotes": "Bolts that fit your offhand",
+      "label": "blightbolts"
+    },
+    {
+      "image": "https://i.imgur.com/JigaLBL.png",
+      "wikiLink": "https://runescape.wiki/w/Vampyrism_aura",
+      "name": "Vampyrism aura",
+      "breakdownNotes": "",
+      "label": "vampaura"
+    },
+    null
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/LhMlWmw.png",
+      "wikiLink": "https://runescape.wiki/w/Dark_bow",
+      "name": "EoF - Dark bow",
+      "breakdownNotes": "",
+      "label": "eofgreen",
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/nC5xTAR.png",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "label": "excal",
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "selected": false
+    },
+    {
+      "image": "https://i.imgur.com/hd7YvA4.png",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
+      "name": "Deathwarden Nexus",
+      "breakdownNotes": "Used to make use of bone shield",
+      "label": "deathwardennexus",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained.",
+        "label": "persistentrage",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ],
+    "primaryFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

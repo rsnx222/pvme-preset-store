@@ -1,0 +1,221 @@
+{
+  "presetName": "range",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "image": "https://i.imgur.com/JkrhqUi.png",
+      "name": "Elite tectonic mask",
+      "label": "etectohelm"
+    },
+    {
+      "image": "https://i.imgur.com/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "label": "kalzuk"
+    },
+    {
+      "image": "https://i.imgur.com/xPypDhQ.png",
+      "name": "Essence of finality (or)",
+      "label": "eofor"
+    },
+    {
+      "image": "https://i.imgur.com/DmUfsSM.png",
+      "name": "Wand of the praesul",
+      "label": "pwand"
+    },
+    {
+      "image": "https://i.imgur.com/seS3Yh2.png",
+      "name": "Elite tectonic robe top",
+      "label": "etectotop"
+    },
+    {
+      "image": "https://i.imgur.com/PNWPCPA.png",
+      "name": "Kalphite rebounder",
+      "label": "rebounder"
+    },
+    {
+      "image": "https://i.imgur.com/t6HbIdO.png",
+      "name": "Elite tectonic robe bottom",
+      "label": "etectolegs"
+    },
+    {
+      "image": "https://i.imgur.com/n7j573y.png",
+      "name": "Deathtouched bracelet",
+      "label": "dtb"
+    },
+    {
+      "image": "https://i.imgur.com/TkJs5ST.png",
+      "name": "Silverhawk boots",
+      "label": "shboots"
+    },
+    {
+      "image": "https://i.imgur.com/cnIOClx.png",
+      "name": "Reaver's ring",
+      "label": "reaverring"
+    },
+    {
+      "image": "https://i.imgur.com/xt67uWC.png",
+      "name": "Pernix's Quiver",
+      "label": "pernixquiverpurple"
+    },
+    {
+      "image": "https://i.imgur.com/Zevs8R8.png",
+      "name": "Maniacal aura",
+      "label": "mani"
+    },
+    {
+      "image": "https://i.imgur.com/FAPSk6p.png",
+      "name": "Erethdor's grimoire",
+      "label": "grim"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "image": "https://i.imgur.com/xBT2XFf.png",
+      "name": "Inquisitor staff",
+      "label": "inq"
+    },
+    {
+      "image": "",
+      "name": "",
+      "label": ""
+    },
+    {
+      "image": "https://i.imgur.com/GkhQHSj.png",
+      "name": "Bow of the Last Guardian",
+      "label": "bolg"
+    },
+    {
+      "image": "https://i.imgur.com/WHurFLm.png",
+      "name": "Imperium core",
+      "label": "core"
+    },
+    {
+      "image": "https://i.imgur.com/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "label": "graspingpouchblack"
+    },
+    {
+      "image": "https://i.imgur.com/gCf8SPg.png",
+      "name": "Grasping rune pouch (purple)",
+      "label": "graspingpouchpurple"
+    },
+    {
+      "image": "https://i.imgur.com/fWzGXLF.png",
+      "name": "Grasping rune pouch (green)",
+      "label": "graspingpouchgreen"
+    },
+    {
+      "image": "https://i.imgur.com/cP73EYR.png",
+      "name": "Powerburst of acceleration",
+      "label": "accel4"
+    },
+    {
+      "image": "https://i.imgur.com/hiC7f5F.png",
+      "name": "EoF -  Armadyl Battlestaff",
+      "label": "eofyellow"
+    },
+    {
+      "image": "https://i.imgur.com/MWLieOn.png",
+      "name": "EoF - Eldritch crossbow",
+      "label": "eofpink"
+    },
+    {
+      "image": "https://i.imgur.com/BGhsSXy.png",
+      "name": "Laniakea's spear",
+      "label": "lanispear"
+    },
+    {
+      "image": "https://i.imgur.com/KFZJLhU.png",
+      "name": "Enhanced excalibur",
+      "label": "excal"
+    },
+    {
+      "image": "https://i.imgur.com/xnevE7L.png",
+      "name": "Super guthix brew",
+      "label": "gbrew"
+    },
+    {
+      "image": "https://i.imgur.com/xnevE7L.png",
+      "name": "Super guthix brew",
+      "label": "gbrew"
+    },
+    {
+      "image": "https://i.imgur.com/1KQHomq.png",
+      "name": "Enhanced replenishment",
+      "label": "replen"
+    },
+    {
+      "image": "https://i.imgur.com/iZw3Uee.png",
+      "name": "EoF - Statius warhammer",
+      "label": "eofblack"
+    },
+    {
+      "image": "https://i.imgur.com/zAiXkJn.png",
+      "name": "EoF - Seren godbow",
+      "label": "eofblue"
+    },
+    {
+      "image": "https://i.imgur.com/zghHDxK.png",
+      "name": "Elite sirenic mask",
+      "label": "esirenichelm"
+    },
+    {
+      "image": "https://i.imgur.com/Awlvns0.png",
+      "name": "Elite sirenic hauberk",
+      "label": "esirenictop"
+    },
+    {
+      "image": "https://i.imgur.com/AI12yBk.png",
+      "name": "Fractured Staff of Armadyl",
+      "label": "fsoa"
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/SsNRoVE.png",
+      "name": "Elder overload salve",
+      "label": "salve"
+    },
+    {
+      "image": "https://i.imgur.com/306PXtG.png",
+      "name": "Vulnerabilty bombs",
+      "label": "vuln"
+    },
+    {
+      "image": "https://i.imgur.com/5PPmPXC.png",
+      "name": "Spiritual prayer",
+      "label": "spiritual"
+    },
+    {
+      "image": "https://i.imgur.com/E03cGER.png",
+      "name": "Combat dummy MKII",
+      "label": "dummy"
+    },
+    {
+      "image": "https://i.imgur.com/bHmDqjV.png",
+      "name": "Elite sirenic chaps",
+      "label": "esireniclegs"
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "label": "jelly"
+    },
+    {
+      "image": "https://i.imgur.com/ygwcjzt.png",
+      "name": "Blue blubber jellyfish",
+      "label": "jelly"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [],
+    "alternativeFamiliars": []
+  }
+}

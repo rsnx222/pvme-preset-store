@@ -1,0 +1,401 @@
+{
+  "presetName": "Low effort magister magic",
+  "presetNotes": "<em><span>if you need to downgrade gear</span><span>, using Animate Dead</span><span> with T70</span><span>+ tank boots</span><span>/helm is an option</span><span>.</span></em>",
+  "equipmentSlots": [
+    {
+      "label": "etectohelm",
+      "image": "https://img.pvme.io/images/iPtkkKN.png",
+      "name": "Elite tectonic mask",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_mask"
+    },
+    {
+      "label": "kalmej",
+      "image": "https://img.pvme.io/images/v4dRHBk.png",
+      "name": "Igneous Kal-Mej",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mej"
+    },
+    {
+      "label": "eof",
+      "image": "https://img.pvme.io/images/UB0lAK8.png",
+      "name": "Essence of Finality amulet",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet"
+    },
+    {
+      "label": "pwand",
+      "image": "https://img.pvme.io/images/kyKIKBC.png",
+      "name": "Wand of the praesul",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Wand_of_the_praesul"
+    },
+    {
+      "label": "etectotop",
+      "image": "https://img.pvme.io/images/NftWcLQ.png",
+      "name": "Elite tectonic robe top",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_top"
+    },
+    {
+      "label": "core",
+      "image": "https://img.pvme.io/images/rvFepeU.png",
+      "name": "Imperium core",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Imperium_core"
+    },
+    {
+      "label": "etectolegs",
+      "image": "https://img.pvme.io/images/0TXtWf2.png",
+      "name": "Elite tectonic robe bottom",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_bottom"
+    },
+    {
+      "label": "cinder",
+      "image": "https://img.pvme.io/images/LutTgCH.png",
+      "name": "Cinderbane gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves"
+    },
+    {
+      "label": "enhancedblastdiff",
+      "image": "https://img.pvme.io/images/KUGqEdN.png",
+      "name": "Enhanced blast diffusion boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_blast_diffusion_boots"
+    },
+    {
+      "label": "lotd",
+      "image": "https://img.pvme.io/images/nXXZxpH.png",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves"
+    },
+    {
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/gDZtYb4.png",
+      "name": "Grasping rune pouch (blue)",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)"
+    },
+    {
+      "label": "mani",
+      "image": "https://img.pvme.io/images/5fIllNu.png",
+      "name": "Maniacal aura",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Maniacal_aura"
+    },
+    {
+      "label": "scriptureofjas",
+      "image": "https://img.pvme.io/images/FLYAOEf.png",
+      "name": "Scripture of Jas",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Jas"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "vuln",
+      "image": "https://img.pvme.io/images/2vI8jNm.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "selected": false
+    },
+    {
+      "label": "crossingkey",
+      "image": "https://img.pvme.io/images/b9nVW5t.png",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "selected": false
+    },
+    {
+      "label": "crossingkey",
+      "image": "https://img.pvme.io/images/b9nVW5t.png",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "selected": false
+    },
+    {
+      "label": "crossingkey",
+      "image": "https://img.pvme.io/images/b9nVW5t.png",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "selected": false
+    },
+    {
+      "label": "crossingkey",
+      "image": "https://img.pvme.io/images/b9nVW5t.png",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "selected": false
+    },
+    {
+      "label": "crossingkey",
+      "image": "https://img.pvme.io/images/b9nVW5t.png",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "selected": false
+    },
+    {
+      "label": "poison6",
+      "image": "https://img.pvme.io/images/KyZkJoc.png",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sparkenhancers",
+      "image": "https://img.pvme.io/images/z9ssNId.png",
+      "name": "Vital spark drop enhancer",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vital_spark_drop_enhancer",
+      "selected": false
+    },
+    {
+      "label": "crossingkey",
+      "image": "https://img.pvme.io/images/b9nVW5t.png",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "selected": false
+    },
+    {
+      "label": "crossingkey",
+      "image": "https://img.pvme.io/images/b9nVW5t.png",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "selected": false
+    },
+    {
+      "label": "crossingkey",
+      "image": "https://img.pvme.io/images/b9nVW5t.png",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "selected": false
+    },
+    {
+      "label": "crossingkey",
+      "image": "https://img.pvme.io/images/b9nVW5t.png",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "selected": false
+    },
+    {
+      "label": "crossingkey",
+      "image": "https://img.pvme.io/images/b9nVW5t.png",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "selected": false
+    },
+    {
+      "label": "mhbd",
+      "image": "https://img.pvme.io/images/lKCXPDn.png",
+      "name": "Melee Mainhand",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon/Melee_weapons#Types",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "crossingkey",
+      "image": "https://img.pvme.io/images/b9nVW5t.png",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "selected": false
+    },
+    {
+      "label": "crossingkey",
+      "image": "https://img.pvme.io/images/b9nVW5t.png",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "selected": false
+    },
+    {
+      "label": "crossingkey",
+      "image": "https://img.pvme.io/images/b9nVW5t.png",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "selected": false
+    },
+    {
+      "label": "crossingkey",
+      "image": "https://img.pvme.io/images/b9nVW5t.png",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "selected": false
+    },
+    {
+      "label": "crossingkey",
+      "image": "https://img.pvme.io/images/b9nVW5t.png",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchpink",
+      "image": "https://img.pvme.io/images/yrnlR2T.png",
+      "name": "Grasping rune pouch (pink)",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "selected": false
+    },
+    {
+      "label": "crossingkey",
+      "image": "https://img.pvme.io/images/b9nVW5t.png",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "selected": false
+    },
+    {
+      "label": "crossingkey",
+      "image": "https://img.pvme.io/images/b9nVW5t.png",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "selected": false
+    },
+    {
+      "label": "crossingkey",
+      "image": "https://img.pvme.io/images/b9nVW5t.png",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "selected": false
+    },
+    {
+      "label": "crossingkey",
+      "image": "https://img.pvme.io/images/b9nVW5t.png",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "selected": false
+    },
+    {
+      "label": "crossingkey",
+      "image": "https://img.pvme.io/images/b9nVW5t.png",
+      "name": "Key to the Crossing",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Key_to_the_Crossing",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
+        "label": "conservationofenergy",
+        "energy": 350
+      },
+      {
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
+        "label": "furyofthesmall",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%.",
+        "label": "deathward",
+        "energy": 150
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/Gg4oxrm.png",
+        "name": "Ripper Demon",
+        "breakdownNotes": "",
+        "label": "ripperdemon"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "name": "Blood Reaver",
+        "breakdownNotes": "",
+        "label": "bloodreaver"
+      },
+      {
+        "image": "https://i.imgur.com/qbTjhXc.png",
+        "name": "Smoke Nihil",
+        "breakdownNotes": "",
+        "label": "smokenihil"
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

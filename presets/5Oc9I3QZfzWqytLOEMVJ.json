@@ -1,0 +1,394 @@
+{
+  "presetName": "Banking",
+  "presetNotes": "Primal Armor set provides an additional 450LP over deathwarden. (used for bonfire boosts) | Use spiritual healing ( lunar spellbook) after summoning to extend timer and increase combat potential of chosen familiar.",
+  "equipmentSlots": [
+    {
+      "label": "deathwardenhoodt90",
+      "image": "https://img.pvme.io/images/5vasEy6.png",
+      "name": "Deathwarden hood (tier 90)",
+      "breakdownNotes": "<span>Primal&gt;T90 Deathwarden/Cryprbloom</span>",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_hood_(tier_90)"
+    },
+    {
+      "label": "reefcape",
+      "image": "https://img.pvme.io/images/wTwgzck.png",
+      "name": "Reefwalker's cape",
+      "breakdownNotes": "Superior reefwalkers&gt;reefwalkers",
+      "wikiLink": "https://runescape.wiki/w/Reefwalker's_cape"
+    },
+    {
+      "label": "gote",
+      "image": "https://img.pvme.io/images/4KgPcpm.png",
+      "name": "Grace of the elves",
+      "breakdownNotes": "utility teleports",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves"
+    },
+    {
+      "label": "roarofawakening",
+      "image": "https://img.pvme.io/images/nCmqhfpcHo.png",
+      "name": "Roar of Awakening",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening"
+    },
+    {
+      "label": "deathwardenrobetopt90",
+      "image": "https://img.pvme.io/images/JkyJN48.png",
+      "name": "Deathwarden robe top (tier 90)",
+      "breakdownNotes": "<span>Primal&gt;T90 Deathwarden/Cryprbloom</span>",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_top_(tier_90)"
+    },
+    {
+      "label": "rangeshield",
+      "image": "https://img.pvme.io/images/upbhHnL.png",
+      "name": "Vengful kiteshield",
+      "breakdownNotes": "Optional: Primal | Malevolent | Merciless ",
+      "wikiLink": "https://runescape.wiki/w/Vengful_kiteshield"
+    },
+    {
+      "label": "deathwardenrobelegst90",
+      "image": "https://img.pvme.io/images/4KirFLg.png",
+      "name": "Deathwarden robe bottom (tier 90)",
+      "breakdownNotes": "<span>Primal&gt;T90 Deathwarden/Cryprbloom</span>",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_legs_(tier_90)"
+    },
+    {
+      "label": "deathwardenglovest90",
+      "image": "https://img.pvme.io/images/3WIoKQI.png",
+      "name": "Deathwarden gloves (tier 90)",
+      "breakdownNotes": "<span>Primal&gt;T90 Deathwarden/Cryprbloom</span>",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_gloves_(tier_90)"
+    },
+    {
+      "label": "deathwardenbootst90",
+      "image": "https://img.pvme.io/images/V94Yora.png",
+      "name": "Deathwarden boots (tier 90)",
+      "breakdownNotes": "<span>Primal&gt;T90 Deathwarden/Cryprbloom</span>",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_boots_(tier_90)"
+    },
+    {
+      "label": "hsr",
+      "image": "https://img.pvme.io/images/xmcbfhs.png",
+      "name": "Hazelmere's signet ring",
+      "breakdownNotes": "Utility | Optional: LOTD",
+      "wikiLink": "https://runescape.wiki/w/Hazelmere's_signet"
+    },
+    {
+      "label": "zemouregalsnexus",
+      "image": "https://img.pvme.io/images/3pFXvMR.png",
+      "name": "Zemoregal's Nexus",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "grimgem",
+      "image": "https://img.pvme.io/images/BQZgdnb.png",
+      "name": "Grim gem",
+      "breakdownNotes": "remote contact reaper tasks",
+      "wikiLink": "https://runescape.wiki/w/Grim_gem"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "divcharge",
+      "image": "https://img.pvme.io/images/h5QEOgi.png",
+      "name": "Divine charge",
+      "breakdownNotes": "200+",
+      "wikiLink": "https://runescape.wiki/w/Divine_charge",
+      "selected": false
+    },
+    {
+      "label": "archcape",
+      "image": "https://img.pvme.io/images/EcaWmO8.png",
+      "name": "Archaeology master cape",
+      "breakdownNotes": "relic swapping",
+      "wikiLink": "https://runescape.wiki/w/Archaeology_master_cape",
+      "selected": false
+    },
+    {
+      "label": "kwuarmsticks",
+      "image": "https://img.pvme.io/images/Ba7yju8.png",
+      "name": "Kwuarm incense sticks",
+      "breakdownNotes": "<span>overload then use all (if applicable)</span>",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
+      "selected": false
+    },
+    {
+      "label": "lantasticks",
+      "image": "https://img.pvme.io/images/LfpiRjg.png",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "<span>overload then use all (if applicable)</span>",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "selected": false
+    },
+    {
+      "label": "spiritsticks",
+      "image": "https://img.pvme.io/images/8RLFr9n.png",
+      "name": "Spirit weed incense sticks",
+      "breakdownNotes": "<span>overload then use all (if applicable)</span>",
+      "wikiLink": "https://runescape.wiki/w/Spirit_weed_incense_sticks",
+      "selected": false
+    },
+    {
+      "label": "ripper",
+      "image": "https://img.pvme.io/images/OQ4ZaK3.png",
+      "name": "Binding contract (ripper demon)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(ripper_demon)",
+      "selected": false
+    },
+    {
+      "label": "ripperscrolls",
+      "image": "https://img.pvme.io/images/ML1c3oq.png",
+      "name": "Ripper Demon scroll (Death From Above)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ripper_Demon_scroll_(Death_From_Above)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hvhOeDs.png",
+      "name": "Grasping rune pouch (black)",
+      "breakdownNotes": "Soul | Blood | Astral | Body<br />",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "selected": false
+    },
+    {
+      "label": "soulrune",
+      "image": "https://img.pvme.io/images/hXWHlfs.png",
+      "name": "Soul rune",
+      "breakdownNotes": "16,000 runes to refill pouch",
+      "wikiLink": "https://runescape.wiki/w/Soul_rune",
+      "selected": false
+    },
+    {
+      "label": "bloodrune",
+      "image": "https://img.pvme.io/images/DmJhw50.png",
+      "name": "Blood rune",
+      "breakdownNotes": "<span>16,000 runes to refill pouch</span>",
+      "wikiLink": "https://runescape.wiki/w/Blood_rune",
+      "selected": false
+    },
+    {
+      "label": "astralrune",
+      "image": "https://img.pvme.io/images/PxjiQ9K.png",
+      "name": "Astral rune",
+      "breakdownNotes": "<span>16,000 runes to refill pouch</span>",
+      "wikiLink": "https://runescape.wiki/w/Astral_rune",
+      "selected": false
+    },
+    {
+      "label": "bodyrune",
+      "image": "https://img.pvme.io/images/orRGsqY.png",
+      "name": "Body rune",
+      "breakdownNotes": "<span>16,000 runes to refill pouch</span>",
+      "wikiLink": "https://runescape.wiki/w/Body_rune",
+      "selected": false
+    },
+    {
+      "label": "reaver",
+      "image": "https://img.pvme.io/images/BQXFPFu.png",
+      "name": "Binding contract (blood reaver)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(blood_reaver)",
+      "selected": false
+    },
+    {
+      "label": "reaverscrolls500",
+      "image": "https://img.pvme.io/images/3o2DaTu.png",
+      "name": "Blood Reaver scroll (Blood Siphon)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blood_Reaver_scroll_(Blood_Siphon)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouchgreen",
+      "image": "https://img.pvme.io/images/fWzGXLF.png",
+      "name": "Grasping rune pouch (green)",
+      "breakdownNotes": "Death | Law | Cosmic | Earth",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(green)",
+      "selected": false
+    },
+    {
+      "label": "deathrune",
+      "image": "https://img.pvme.io/images/0V4quVU.png",
+      "name": "Death rune",
+      "breakdownNotes": "<span>16,000 runes to refill pouch</span>",
+      "wikiLink": "https://runescape.wiki/w/Death_rune",
+      "selected": false
+    },
+    {
+      "label": "lawrune",
+      "image": "https://img.pvme.io/images/ILev8dS.png",
+      "name": "Law rune",
+      "breakdownNotes": "<span>16,000 runes to refill pouch</span>",
+      "wikiLink": "https://runescape.wiki/w/Law_rune",
+      "selected": false
+    },
+    {
+      "label": "cosmicrune",
+      "image": "https://img.pvme.io/images/7HrRTp8.png",
+      "name": "Cosmic rune",
+      "breakdownNotes": "<span>16,000 runes to refill pouch</span>",
+      "wikiLink": "https://runescape.wiki/w/Cosmic_rune",
+      "selected": false
+    },
+    {
+      "label": "earthrune",
+      "image": "https://img.pvme.io/images/AnzJigr.png",
+      "name": "Earth rune",
+      "breakdownNotes": "<span>16,000 runes to refill pouch</span>",
+      "wikiLink": "https://runescape.wiki/w/Earth_rune",
+      "selected": false
+    },
+    {
+      "label": "kalg",
+      "image": "https://img.pvme.io/images/5dumsv0.png",
+      "name": "Binding contract (kal'gerion demon)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(kal'gerion_demon)",
+      "selected": false
+    },
+    {
+      "label": "kalgscrolls100",
+      "image": "https://img.pvme.io/images/vIatvqA.png",
+      "name": "Kal'gerion Demon scroll (Crit-i-Kal)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Kal%27gerion_Demon_scroll_(Crit-i-Kal)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouch",
+      "image": "https://img.pvme.io/images/Mk7jbjC.png",
+      "name": "Grasping rune pouch",
+      "breakdownNotes": "Chaos | Smoke | Water | Time",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch",
+      "selected": false
+    },
+    {
+      "label": "chaosrune",
+      "image": "https://img.pvme.io/images/VmHx4CQ.png",
+      "name": "Chaos rune",
+      "breakdownNotes": "<span>16,000 runes to refill pouch</span>",
+      "wikiLink": "https://runescape.wiki/w/Chaos_rune",
+      "selected": false
+    },
+    {
+      "label": "airrune",
+      "image": "https://img.pvme.io/images/9Nngfvj.png",
+      "name": "Air rune",
+      "breakdownNotes": "Replace with 16,000 Smoke Runes",
+      "wikiLink": "https://runescape.wiki/w/Air_rune",
+      "selected": false
+    },
+    {
+      "label": "waterrune",
+      "image": "https://img.pvme.io/images/WnPH1nm.png",
+      "name": "Water rune",
+      "breakdownNotes": "<span>16,000 runes to refill pouch</span>",
+      "wikiLink": "https://runescape.wiki/w/Water_rune",
+      "selected": false
+    },
+    {
+      "label": "timerune",
+      "image": "https://img.pvme.io/images/uhPTmJEBGW.png",
+      "name": "Time rune",
+      "breakdownNotes": "<span>16,000 runes to refill pouch</span>",
+      "wikiLink": "https://runescape.wiki/w/Time_rune",
+      "selected": false
+    },
+    {
+      "label": "hellhound",
+      "image": "https://img.pvme.io/images/FPfRiAQ.png",
+      "name": "Binding contract (hellhound)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(hellhound)",
+      "selected": false
+    },
+    {
+      "label": "hellhoundscrolls500",
+      "image": "https://img.pvme.io/images/rB1tPpW.png",
+      "name": "Hellhound scroll (Soul Food)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Hellhound_scroll_(Soul_Food)",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "label": "kalgdemon",
+        "image": "https://img.pvme.io/images/4oLwaZJ.png",
+        "name": "Kal'gerion Demon",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}
